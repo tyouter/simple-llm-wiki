@@ -1,0 +1,18 @@
+# Tobias Sühlmann follows Michael Mauer as Porsche's new Head of Design | Classic Driver Magazine
+Magazine
+Tobias Sühlmann follows Michael Mauer as Porsche's new Head of Design
+
+## 文章信息
+
+
+- **平台**: default
+
+## 摘要
+
+
+After shaping Porsche's design language for more than two decades, Michael Mauer is passing the baton at the Porsche Design Centre in Weissach to Tobias Sühlmann, whose career has included influential positions at Bentley and McLaren.
+
+## 内容
+
+
+Magazine | Cars Tobias Sühlmann follows Michael Mauer as Porsche's new Head of Design After shaping Porsche's design language for more than two decades, Michael Mauer is passing the baton at the Porsche Design Centre in Weissach to Tobias Sühlmann, whose career has included influential positions at Bentley and McLaren. Classic Driver 28 January 2026 From 1 February 2026, Tobias Sühlmann will take over as Head of Design at Porsche, marking a generational shift at the Stuttgart marque. He succeeds Michael Mauer, who has shaped Porsche’s design language for more than two decades. Sühlmann joins from McLaren, where he has served as Chief Design Officer since 2023. Appointed in 2004 as only the fourth Head of Design in Porsche’s history — following Ferdinand Alexander Porsche, Anatol Lapine and Harm Lagaay — Michael Mauer oversaw one of the brand’s most formative periods. Under his leadership, the 911’s iconic silhouette was carefully modernised, while Porsche’s unmistakable design DNA was successfully transferred to new model lines. One of the defining moments of this era was the launch of the Panamera in 2009. Porsche’s first four-door sports saloon was developed under Mauer’s design direction in close collaboration with Dr. Michael Leiters, then Head of Product Strategy and today Chairman of the Executive Board of Porsche AG. “A Porsche must appeal to all the senses — that was always Michael Mauer’s guiding principle,” says Leiters. “His work has decisively shaped the brand’s visual identity.” A graduate of Pforzheim University of Applied Sciences, Mauer joined Porsche after roles at Mercedes-Benz, Smart and Saab. Early projects included the redesign of the Cayenne, the development of the Panamera and the creation of the 918 Spyder, as well as the successful transition of Porsche design into the electric era. “Timeless design needs continuity and fresh impulses,” Mauer says. “Now is the right moment for new perspectives.” Those perspectives will come from Tobias Sühlmann, who also studied in Pforzheim and brings an international résumé spanning Volkswagen, Bugatti, Aston Martin, Bentley — where he was closely involved in the Batur — and McLaren. Michael Mauer will support his successor during a transitional phase. For Porsche, the handover signals continuity as much as change — a carefully managed passing of the baton at the heart of the brand. Design Masters Watch our latest videos More articles related to Porsche Magazine | Cars Investment asset or poor man's Porsche? Our buying guide for the first-gen Boxster Magazine | Cars These 12 dream-spec Porsche 992s are for sale — which would you buy? Magazine | Cars Porsches take over Tokyo Expressway at First Luftgekühlt in Japan Magazine | Sponsored Content Porsche 959 or Ferrari F40? Which iconic 80s supercar would you choose? More articles related to Design Masters Magazine | Cars What is good design? A conversation with Porsche's chief designer Michael Mauer Magazine | Sponsored Content You don't need safety goggles to stare at the Michelotti Laser Magazine | Cars Farewell to legendary automotive designer Ercole Spada Magazine | Cars Sharing secrets of the Ferrari Testarossa with design master Leonardo Fioravanti

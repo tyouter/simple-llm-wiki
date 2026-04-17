@@ -1,0 +1,7 @@
+llm:
+  apiKey: ''
+  baseUrl: https://api.deepseek.com/v1
+  max_tokens: 8192
+  model: deepseek-chat
+  provider: openai
+  temperature: 0.3
