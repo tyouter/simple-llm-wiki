@@ -38,36 +38,36 @@ TASKS:
 5. Find contradictions with existing knowledge
 
 Respond in JSON:
-{
+{{
   "title": "source title",
   "summary": "2-3 sentence summary",
   "concepts": [
-    {
+    {{
       "name": "ConceptName",
       "definition": "clear definition",
       "explanation": "detailed explanation (3-5 sentences)",
       "related_concepts": ["ConceptA", "ConceptB"],
-      "relation_types": {"ConceptA": "hierarchical-parent", "ConceptB": "complementary"},
+      "relation_types": {{ "ConceptA": "hierarchical-parent", "ConceptB": "complementary" }},
       "examples": ["example1"],
       "confidence": "high|medium|low"
-    }
+    }}
   ],
   "entities": [
-    {
+    {{
       "name": "EntityName",
       "type": "person|organization|product|tool",
       "description": "detailed description",
       "related_concepts": ["ConceptX"]
-    }
+    }}
   ],
-  "concept_graph": {
-    "hierarchical": [{"parent": "A", "child": "B"}],
-    "complementary": [{"a": "A", "b": "B"}],
-    "opposing": [{"a": "A", "b": "B"}]
-  },
+  "concept_graph": {{
+    "hierarchical": [{{"parent": "A", "child": "B"}}],
+    "complementary": [{{"a": "A", "b": "B"}}],
+    "opposing": [{{"a": "A", "b": "B"}}]
+  }},
   "contradictions": ["contradiction1"],
   "tags": ["tag1", "tag2"]
-}"""
+}}"""
 
 
 DEEP_GENERATION_PROMPT = """You are a wiki architect. Create deep interconnected wiki pages.
@@ -79,39 +79,39 @@ Existing concept pages to enhance:
 {existing_pages}
 
 Generate wiki pages with RICH BIDIRECTIONAL LINKING:
-{
-  "source_page": {
+{{
+  "source_page": {{
     "title": "...",
     "content": "markdown with [[links]] to all concepts/entities",
     "tags": ["..."],
     "related": ["Concept1", "Entity1"]
-  },
+  }},
   "concept_pages": [
-    {
+    {{
       "title": "ConceptName",
       "content": "detailed content (5+ sentences) with [[links]] to related concepts",
       "tags": ["..."],
       "related": ["RelatedConcept1", "RelatedConcept2", "EntityName"],
       "backlinks_note": "This concept is referenced by: [[SourceName]], [[OtherConcept]]"
-    }
+    }}
   ],
   "entity_pages": [
-    {
+    {{
       "title": "EntityName",
       "content": "detailed content with [[links]] to related concepts",
       "tags": ["..."],
       "related": ["ConceptA", "ConceptB"]
-    }
+    }}
   ],
   "link_enrichments": [
-    {
+    {{
       "target_page": "ExistingConceptName",
       "new_related": ["NewConcept1", "NewConcept2"],
       "append_content": "Additional insights about this concept from new source"
-    }
+    }}
   ],
-  "index_updates": [{"title": "...", "type": "...", "summary": "..."}]
-}
+  "index_updates": [{{"title": "...", "type": "...", "summary": "..."}}]
+}}
 
 RULES:
 - Every concept MUST have 3+ related concepts with [[links]]
@@ -502,3 +502,68 @@ def deep_stats(config: WikiConfig) -> dict:
     stats["Link Density Score"] = round(pages_with_3plus_related / max(stats["Concept Pages"], 1), 2)
 
     return stats
+
+
+def batch_deep_parse(config: WikiConfig, max_sources: int = 0, workers: int = 2) -> list[list[WikiPage]]:
+    """Batch deep parse all pending sources with parallel processing."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    from .utils import get_source_files, is_source_ingested, load_ingest_cache, compute_file_hash, mark_source_ingested
+
+    sources = get_source_files(config)
+
+    # Find uningested sources
+    uningested = []
+    cache = load_ingest_cache(config)
+    for src in sources:
+        key = src.relative_to(config.root).as_posix()
+        current_hash = compute_file_hash(src)
+        if cache.get(key) != current_hash:
+            uningested.append(src)
+
+    if max_sources > 0:
+        uningested = uningested[:max_sources]
+
+    if not uningested:
+        return []
+
+    all_results = []
+    errors = []
+
+    if workers > 1 and len(uningested) > 1:
+        actual_workers = min(workers, len(uningested))
+
+        def _parse_one(src: Path) -> tuple[Path, list[WikiPage] | None, str | None]:
+            try:
+                pages = deep_parse_source(config, src)
+                # Mark as ingested after successful parse
+                mark_source_ingested(config, src)
+                return src, pages, None
+            except Exception as e:
+                return src, None, str(e)
+
+        with ThreadPoolExecutor(max_workers=actual_workers) as executor:
+            futures = {executor.submit(_parse_one, src): src for src in uningested}
+            for future in as_completed(futures):
+                src, pages, error = future.result()
+                if error:
+                    errors.append((src, error))
+                elif pages:
+                    all_results.append(pages)
+
+    else:
+        # Sequential processing
+        for src in uningested:
+            try:
+                pages = deep_parse_source(config, src)
+                mark_source_ingested(config, src)
+                all_results.append(pages)
+            except Exception as e:
+                errors.append((src, str(e)))
+
+    if errors:
+        error_summary = "; ".join(f"{s.name}: {e[:50]}" for s, e in errors[:3])
+        append_to_log(config, "deep-parse-errors", f"{len(errors)} errors: {error_summary}")
+
+    append_to_log(config, "batch-deep-parse", f"{len(all_results)} sources deep parsed")
+
+    return all_results

@@ -12,6 +12,7 @@ from rich.table import Table
 from .config import WikiConfig, init_wiki, load_config
 from .lint import lint_wiki
 from .search import bm25_search
+from .schema import PageType
 from .utils import get_all_wiki_pages, get_raw_sources, get_source_files, is_source_ingested, load_ingest_cache, compute_file_hash
 
 console = Console()
@@ -552,48 +553,82 @@ def links(page_title: str, resolve: bool):
 @cli.command()
 @click.argument("action", type=click.Choice(["parse", "query", "lint", "stats"]))
 @click.option("--source", help="Source file to deep parse")
+@click.option("--all", "parse_all", is_flag=True, help="Deep parse all pending sources")
+@click.option("--max", "max_sources", default=0, help="Max sources to parse (0=all)")
+@click.option("--workers", default=2, help="Parallel workers for batch processing")
 @click.option("--question", help="Question for deep query")
 @click.option("--top-k", default=20, help="Context pages for deep query")
-def deep(action: str, source: str | None, question: str | None, top_k: int):
+def deep(action: str, source: str | None, parse_all: bool, max_sources: int, workers: int, question: str | None, top_k: int):
     """Deep operations with enhanced analysis and bidirectional linking."""
-    from .deep import deep_parse_source, deep_query_wiki, deep_lint_wiki, deep_stats
+    from .deep import deep_parse_source, deep_query_wiki, deep_lint_wiki, deep_stats, batch_deep_parse
 
     config = _load()
 
     if action == "parse":
-        if not source:
-            console.print("[yellow]Use --source to specify a file[/yellow]")
-            console.print("[dim]Example: wiki deep parse --source raw/articles/file.md[/dim]")
-            return
+        if parse_all:
+            console.print("[cyan]Batch deep parsing all pending sources...[/cyan]")
+            console.print("[dim]This may take a while - extracting 10-15 concepts per source[/dim]")
 
-        source_path = Path(source).resolve()
-        if not source_path.exists():
-            console.print(f"[red]Source not found:[/red] {source_path}")
-            sys.exit(1)
+            try:
+                console.print("[dim]Processing...[/dim]")
+                results = batch_deep_parse(config, max_sources=max_sources, workers=workers)
 
-        console.print(f"[cyan]Deep parsing with bidirectional linking:[/cyan] {source_path.name}")
+                total_pages = sum(len(pages) for pages in results)
+                console.print(f"\n[bold green]Deep parsed {len(results)} sources, {total_pages} pages created/enriched[/bold green]")
 
-        try:
-            pages = deep_parse_source(config, source_path)
-            console.print(f"\n[bold green]Created/enriched {len(pages)} pages with deep analysis[/bold green]")
+                # Summary stats
+                concepts_created = 0
+                entities_created = 0
+                links_added = 0
 
-            table = Table(title="Deep Parse Results")
-            table.add_column("Type")
-            table.add_column("Title")
-            table.add_column("Related Links")
+                for pages in results:
+                    for page in pages:
+                        if page.page_type == PageType.CONCEPT:
+                            concepts_created += 1
+                        elif page.page_type == PageType.ENTITY:
+                            entities_created += 1
+                        links_added += len(page.related)
 
-            for page in pages:
-                type_label = {"concept": "[C]", "entity": "[E]", "source": "[S]", "answer": "[A]"}.get(
-                    page.page_type.value, "[?]"
-                )
-                related_str = ", ".join(page.related[:3]) if page.related else "-"
-                table.add_row(type_label, page.title, related_str)
+                console.print(f"[dim]Concepts: {concepts_created} | Entities: {entities_created} | Links added: {links_added}[/dim]")
 
-            console.print(table)
+            except Exception as e:
+                console.print(f"[red]Error:[/red] {e}")
+                sys.exit(1)
 
-        except Exception as e:
-            console.print(f"[red]Error:[/red] {e}")
-            sys.exit(1)
+        elif source:
+            source_path = Path(source).resolve()
+            if not source_path.exists():
+                console.print(f"[red]Source not found:[/red] {source_path}")
+                sys.exit(1)
+
+            console.print(f"[cyan]Deep parsing with bidirectional linking:[/cyan] {source_path.name}")
+
+            try:
+                pages = deep_parse_source(config, source_path)
+                console.print(f"\n[bold green]Created/enriched {len(pages)} pages with deep analysis[/bold green]")
+
+                table = Table(title="Deep Parse Results")
+                table.add_column("Type")
+                table.add_column("Title")
+                table.add_column("Related Links")
+
+                for page in pages:
+                    type_label = {"concept": "[C]", "entity": "[E]", "source": "[S]", "answer": "[A]"}.get(
+                        page.page_type.value, "[?]"
+                    )
+                    related_str = ", ".join(page.related[:3]) if page.related else "-"
+                    table.add_row(type_label, page.title, related_str)
+
+                console.print(table)
+
+            except Exception as e:
+                console.print(f"[red]Error:[/red] {e}")
+                sys.exit(1)
+        else:
+            console.print("[yellow]Use --source <file> or --all for batch processing[/yellow]")
+            console.print("[dim]Examples:")
+            console.print("  wiki deep parse --source raw/articles/file.md")
+            console.print("  wiki deep parse --all --workers 4[/dim]")
 
     elif action == "query":
         if not question:
