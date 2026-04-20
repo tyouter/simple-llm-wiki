@@ -9,7 +9,7 @@ tags:
   - 自动化
   - 企业架构
   - n8n
-  -私有化部署
+  - 私有化部署
 confidence: medium
 created_at: "2026-04-20T01:00:00"
 updated_at: "2026-04-20T01:00:00"
