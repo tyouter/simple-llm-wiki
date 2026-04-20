@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
 type: "source"
 sources:
-  - "raw\articles\d07ec090_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
+  - "raw/articles/d07ec090_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
 tags:
   - "zhihu"
   - "life-philosophy"

@@ -2,7 +2,7 @@
 title: "Coding Plan"
 type: "concept"
 sources:
-  - "raw\articles\517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
 tags:
   - "ai-coding"
   - "subscription-models"

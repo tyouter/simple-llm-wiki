@@ -2,7 +2,7 @@
 title: "Context Pollution"
 type: "concept"
 sources:
-  - "raw\articles\27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
 tags:
   - "ai-context"
   - "workflow-management"

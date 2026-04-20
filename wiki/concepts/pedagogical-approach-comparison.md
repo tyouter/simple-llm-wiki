@@ -2,7 +2,7 @@
 title: "Pedagogical Approach Comparison"
 type: "concept"
 sources:
-  - "raw\articles\c2a8a18c_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
+  - "raw/articles/c2a8a18c_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
 tags:
   - "pedagogy"
   - "comparative-education"

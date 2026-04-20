@@ -2,7 +2,7 @@
 title: "Domain-Specific Language (DSL) for AI Agents"
 type: "concept"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "domain-specific-language"
   - "ai-agent"

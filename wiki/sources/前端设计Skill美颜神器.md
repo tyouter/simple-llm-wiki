@@ -2,7 +2,7 @@
 title: "前端设计Skill美颜神器"
 type: "source"
 sources:
-  - "raw\articles\2d6f379d_非著名程序员 的想法 前端设计的 Skill 堪称前端美颜神器 这款前端设计的 front end design skill 确实非常好用效果很.md"
+  - "raw/articles/2d6f379d_非著名程序员 的想法 前端设计的 Skill 堪称前端美颜神器 这款前端设计的 front end design skill 确实非常好用效果很.md"
 tags:
   - "前端开发"
   - "UI设计"

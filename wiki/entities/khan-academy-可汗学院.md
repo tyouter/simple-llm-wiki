@@ -2,7 +2,7 @@
 title: "Khan Academy (可汗学院)"
 type: "entity"
 sources:
-  - "raw\articles\c2a8a18c_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
+  - "raw/articles/c2a8a18c_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
 tags:
   - "online-learning-platform"
   - "open-educational-resource"

@@ -2,7 +2,7 @@
 title: "知乎用户 (Anonymous User)"
 type: "entity"
 sources:
-  - "raw\articles\46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
 tags:
   - "zhihu-user"
   - "skeptic"

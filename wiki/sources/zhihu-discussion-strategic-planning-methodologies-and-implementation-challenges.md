@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
 type: "source"
 sources:
-  - "raw\articles\8129dd14_如何做企业战略规划如何做企业战略规划.md"
+  - "raw/articles/8129dd14_如何做企业战略规划如何做企业战略规划.md"
 tags:
   - "strategic-planning"
   - "blm-model"

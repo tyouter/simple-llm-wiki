@@ -2,7 +2,7 @@
 title: "Social Attention as Currency"
 type: "concept"
 sources:
-  - "raw\articles\bd20437f_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
+  - "raw/articles/bd20437f_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
 tags:
   - "concept"
   - "social-dynamics"

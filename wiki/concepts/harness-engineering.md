@@ -2,7 +2,7 @@
 title: "Harness Engineering"
 type: "concept"
 sources:
-  - "raw\articles\825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
 tags:
   - "harness-engineering"
   - "ai-development"

@@ -2,7 +2,7 @@
 title: "Agent-Based Active Retrieval"
 type: "concept"
 sources:
-  - "raw\articles\58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
+  - "raw/articles/58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
 tags:
   - "information-retrieval"
   - "ai-agents"

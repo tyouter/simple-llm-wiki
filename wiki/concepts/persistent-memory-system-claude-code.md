@@ -2,7 +2,7 @@
 title: "Persistent Memory System (Claude Code)"
 type: "concept"
 sources:
-  - "raw\articles\12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
 tags:
   - "claude-code"
   - "memory"

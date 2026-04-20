@@ -2,7 +2,7 @@
 title: "Zhihu Login Page Error Message (Source)"
 type: "source"
 sources:
-  - "raw\articles\869895a6_404 - 知乎.md"
+  - "raw/articles/869895a6_404 - 知乎.md"
 tags:
   - "zhihu"
   - "ui"

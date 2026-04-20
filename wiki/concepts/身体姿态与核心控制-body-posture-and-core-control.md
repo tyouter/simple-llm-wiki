@@ -2,7 +2,7 @@
 title: "身体姿态与核心控制 (Body Posture and Core Control)"
 type: "concept"
 sources:
-  - "raw\articles\46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
 tags:
   - "posture"
   - "alignment"

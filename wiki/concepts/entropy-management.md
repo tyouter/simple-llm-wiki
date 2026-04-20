@@ -2,7 +2,7 @@
 title: "Entropy Management"
 type: "concept"
 sources:
-  - "raw\articles\b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
 tags:
   - "entropy-management"
   - "harness-engineering"

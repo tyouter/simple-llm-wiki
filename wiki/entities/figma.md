@@ -2,7 +2,7 @@
 title: "Figma"
 type: "entity"
 sources:
-  - "raw\articles\50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
 tags:
   - "design-tool"
   - "saas-platform"

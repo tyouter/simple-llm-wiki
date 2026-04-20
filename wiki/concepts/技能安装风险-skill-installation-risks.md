@@ -2,7 +2,7 @@
 title: "技能安装风险 (Skill Installation Risks)"
 type: "concept"
 sources:
-  - "raw\articles\c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
 tags:
   - "security-risk"
   - "third-party-software"

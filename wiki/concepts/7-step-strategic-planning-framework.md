@@ -2,7 +2,7 @@
 title: "7-Step Strategic Planning Framework"
 type: "concept"
 sources:
-  - "raw\articles\8129dd14_如何做企业战略规划如何做企业战略规划.md"
+  - "raw/articles/8129dd14_如何做企业战略规划如何做企业战略规划.md"
 tags:
   - "strategic-planning"
   - "framework"

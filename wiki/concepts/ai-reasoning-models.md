@@ -2,7 +2,7 @@
 title: "AI Reasoning Models"
 type: "concept"
 sources:
-  - "raw\articles\657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
+  - "raw/articles/657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
 tags:
   - "reasoning-models"
   - "ai-reasoning"

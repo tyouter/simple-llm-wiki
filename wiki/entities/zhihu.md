@@ -2,7 +2,7 @@
 title: "Zhihu"
 type: "entity"
 sources:
-  - "raw\articles\869895a6_404 - 知乎.md"
+  - "raw/articles/869895a6_404 - 知乎.md"
 tags:
   - "company"
   - "knowledge-platform"

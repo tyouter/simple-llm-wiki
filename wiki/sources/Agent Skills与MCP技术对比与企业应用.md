@@ -2,7 +2,7 @@
 title: "Agent Skills与MCP技术对比与企业应用"
 type: "source"
 sources:
-  - "raw\articles\697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
 tags:
   - "agent-skills"
   - "mcp"

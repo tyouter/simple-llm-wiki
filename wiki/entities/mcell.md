@@ -2,7 +2,7 @@
 title: "mCell"
 type: "entity"
 sources:
-  - "raw\articles\b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
 tags:
   - "zhihu-author"
   - "harness-engineering"

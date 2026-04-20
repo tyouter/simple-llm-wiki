@@ -3,7 +3,7 @@ title: "Offensive/Proactive Personality (进攻型人格)"
 type: "concept"
 sources:
   - "rawrticlesd20437f_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
-  - "raw\articles\d07ec090_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
+  - "raw/articles/d07ec090_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
 tags:
   - "concept"
   - "mindset"

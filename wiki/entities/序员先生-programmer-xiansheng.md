@@ -2,7 +2,7 @@
 title: "序员先生 (Programmer Xiansheng)"
 type: "entity"
 sources:
-  - "raw\articles\51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
 tags:
   - "technical-director"
   - "system-architect"

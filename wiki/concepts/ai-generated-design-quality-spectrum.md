@@ -2,7 +2,7 @@
 title: "AI-Generated Design Quality Spectrum"
 type: "concept"
 sources:
-  - "raw\articles\2fd8f209_Vibe coding 做的网站太难看怎么办分享我自己的解决技巧.md"
+  - "raw/articles/2fd8f209_Vibe coding 做的网站太难看怎么办分享我自己的解决技巧.md"
 tags:
   - "conceptual-framework"
   - "ai-design"

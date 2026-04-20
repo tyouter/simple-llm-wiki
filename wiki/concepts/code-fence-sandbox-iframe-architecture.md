@@ -2,7 +2,7 @@
 title: "Code Fence + Sandbox Iframe Architecture"
 type: "concept"
 sources:
-  - "raw\articles\a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
 tags:
   - "architecture"
   - "security"

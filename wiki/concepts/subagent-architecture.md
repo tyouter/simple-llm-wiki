@@ -2,7 +2,7 @@
 title: "SubAgent Architecture"
 type: "concept"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "multi-agent"
   - "system-architecture"

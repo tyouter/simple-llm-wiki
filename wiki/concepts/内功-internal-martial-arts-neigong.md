@@ -2,7 +2,7 @@
 title: "内功 (Internal Martial Arts / Neigong)"
 type: "concept"
 sources:
-  - "raw\articles\46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
 tags:
   - "martial-arts"
   - "traditional-knowledge"

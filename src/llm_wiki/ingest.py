@@ -287,7 +287,7 @@ def ingest_source(config: WikiConfig, source_path: Path, dry_run: bool = False) 
             title=source_data.get("title", analysis.get("title", source_path.stem)),
             page_type=source_type,
             content=source_data.get("content", analysis.get("summary", "")),
-            sources=[str(source_path.relative_to(config.root))],
+            sources=[source_path.relative_to(config.root).as_posix()],
             tags=source_data.get("tags", analysis.get("tags", [])),
             related=source_data.get("related", []),
         )
@@ -296,14 +296,14 @@ def ingest_source(config: WikiConfig, source_path: Path, dry_run: bool = False) 
     for concept_data in generation.get("concept_pages", []):
         existing = find_page_by_title(config.wiki_dir, concept_data.get("title", ""))
         if existing:
-            existing_page = _load_and_update_page(existing, concept_data, str(source_path.relative_to(config.root)))
+            existing_page = _load_and_update_page(existing, concept_data, source_path.relative_to(config.root).as_posix())
             pages.append(existing_page)
         else:
             page = WikiPage(
                 title=concept_data["title"],
                 page_type=PageType.CONCEPT,
                 content=concept_data.get("content", ""),
-                sources=[str(source_path.relative_to(config.root))],
+                sources=[source_path.relative_to(config.root).as_posix()],
                 tags=concept_data.get("tags", []),
                 related=concept_data.get("related", []),
             )
@@ -312,14 +312,14 @@ def ingest_source(config: WikiConfig, source_path: Path, dry_run: bool = False) 
     for entity_data in generation.get("entity_pages", []):
         existing = find_page_by_title(config.wiki_dir, entity_data.get("title", ""))
         if existing:
-            existing_page = _load_and_update_page(existing, entity_data, str(source_path.relative_to(config.root)))
+            existing_page = _load_and_update_page(existing, entity_data, source_path.relative_to(config.root).as_posix())
             pages.append(existing_page)
         else:
             page = WikiPage(
                 title=entity_data["title"],
                 page_type=PageType.ENTITY,
                 content=entity_data.get("content", ""),
-                sources=[str(source_path.relative_to(config.root))],
+                sources=[source_path.relative_to(config.root).as_posix()],
                 tags=entity_data.get("tags", []),
                 related=entity_data.get("related", []),
             )

@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
 type: "source"
 sources:
-  - "raw\articles\a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
 tags:
   - "obsidian"
   - "note-taking"

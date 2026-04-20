@@ -2,7 +2,7 @@
 title: "Zhihu Discussion on Enlightenment and Personal Transformation"
 type: "source"
 sources:
-  - "raw\articles\1d3a90a2_真的有所谓的开悟吗真的有所谓的开悟吗.md"
+  - "raw/articles/1d3a90a2_真的有所谓的开悟吗真的有所谓的开悟吗.md"
 tags:
   - "zhihu-discussion"
   - "enlightenment"

@@ -2,7 +2,7 @@
 title: "Skills vs Tools Distinction"
 type: "concept"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "agent-design"
   - "capability-modeling"

@@ -2,7 +2,7 @@
 title: "Probabilistic Data Structures"
 type: "concept"
 sources:
-  - "raw\articles\5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
 tags:
   - "probabilistic-algorithms"
   - "data-structures"

@@ -2,7 +2,7 @@
 title: "MrBeast"
 type: "entity"
 sources:
-  - "raw\articles\945c7576_当下是一个称为超级个体的时代吗当下是一个称为超级个体的时代吗.md"
+  - "raw/articles/945c7576_当下是一个称为超级个体的时代吗当下是一个称为超级个体的时代吗.md"
 tags:
   - "case-study"
   - "digital-platforms"

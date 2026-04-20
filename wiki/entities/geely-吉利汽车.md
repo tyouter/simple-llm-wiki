@@ -2,7 +2,7 @@
 title: "Geely (吉利汽车)"
 type: "entity"
 sources:
-  - "raw\articles\95825e6f_如何看待比亚迪集团最近三年的发展如何看待比亚迪集团最近三年的发展.md"
+  - "raw/articles/95825e6f_如何看待比亚迪集团最近三年的发展如何看待比亚迪集团最近三年的发展.md"
 tags:
   - "entity"
   - "company"

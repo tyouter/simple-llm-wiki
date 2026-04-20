@@ -2,7 +2,7 @@
 title: "Token消耗管理 (Token Consumption Management)"
 type: "concept"
 sources:
-  - "raw\articles\c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
 tags:
   - "api-management"
   - "cost-control"

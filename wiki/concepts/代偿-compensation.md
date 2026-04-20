@@ -2,7 +2,7 @@
 title: "代偿 (Compensation)"
 type: "concept"
 sources:
-  - "raw\articles\99effbed_中年以后什么是最好的锻炼中年以后什么是最好的锻炼.md"
+  - "raw/articles/99effbed_中年以后什么是最好的锻炼中年以后什么是最好的锻炼.md"
 tags:
   - "movement-science"
   - "injury-prevention"

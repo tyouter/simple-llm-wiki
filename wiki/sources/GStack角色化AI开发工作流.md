@@ -2,7 +2,7 @@
 title: "GStack角色化AI开发工作流"
 type: "source"
 sources:
-  - "raw\raw\articles\093f7d65_gstackClaude工程团队.md"
+  - "raw/raw/articles/093f7d65_gstackClaude工程团队.md"
 tags:
   - "ai开发"
   - "工作流自动化"

@@ -2,7 +2,7 @@
 title: "Zhihu: 从后端开发转型AI Agent工程师的路线图"
 type: "source"
 sources:
-  - "raw\articles\cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
 tags:
   - "zhihu"
   - "career-transition"

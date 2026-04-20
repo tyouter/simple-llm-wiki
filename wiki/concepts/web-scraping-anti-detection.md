@@ -2,7 +2,7 @@
 title: "Web Scraping Anti-Detection"
 type: "concept"
 sources:
-  - "raw\articles\709aff76_朱卫军 的想法 这几天用selenium操作chrome浏览器尝试采集一些电商数据但被网站检测出来后面就没法访问了我怀疑是 - 知乎.md"
+  - "raw/articles/709aff76_朱卫军 的想法 这几天用selenium操作chrome浏览器尝试采集一些电商数据但被网站检测出来后面就没法访问了我怀疑是 - 知乎.md"
 tags:
   - "concept"
   - "web-scraping"

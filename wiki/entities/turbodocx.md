@@ -2,7 +2,7 @@
 title: "TurboDocx"
 type: "entity"
 sources:
-  - "raw\raw\articles\093f7d65_gstackClaude工程团队.md"
+  - "raw/raw/articles/093f7d65_gstackClaude工程团队.md"
 tags:
   - "entity"
   - "team"

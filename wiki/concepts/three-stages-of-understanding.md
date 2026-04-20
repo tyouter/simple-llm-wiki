@@ -2,7 +2,7 @@
 title: "Three Stages of Understanding"
 type: "concept"
 sources:
-  - "raw\articles\1d3a90a2_真的有所谓的开悟吗真的有所谓的开悟吗.md"
+  - "raw/articles/1d3a90a2_真的有所谓的开悟吗真的有所谓的开悟吗.md"
 tags:
   - "cognitive-development"
   - "learning-stages"

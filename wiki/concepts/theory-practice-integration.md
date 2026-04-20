@@ -2,7 +2,7 @@
 title: "Theory-Practice Integration"
 type: "concept"
 sources:
-  - "raw\raw\articles\0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/raw/articles/0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
 tags:
   - "strategic-management"
   - "experiential-learning"

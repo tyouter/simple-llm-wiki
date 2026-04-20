@@ -2,7 +2,7 @@
 title: "Dream-First, Business-Second Entrepreneurship"
 type: "concept"
 sources:
-  - "raw\articles\99d799e2_张雪的经历对普通人有借鉴意义吗热爱赛车真能改变命运吗张雪的经历对普通人有借鉴意义吗热爱赛车真能改变命运吗.md"
+  - "raw/articles/99d799e2_张雪的经历对普通人有借鉴意义吗热爱赛车真能改变命运吗张雪的经历对普通人有借鉴意义吗热爱赛车真能改变命运吗.md"
 tags:
   - "entrepreneurship"
   - "passion-driven"

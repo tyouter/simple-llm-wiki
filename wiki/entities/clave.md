@@ -2,7 +2,7 @@
 title: "Clave"
 type: "entity"
 sources:
-  - "raw\articles\48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
 tags:
   - "desktop-application"
   - "claude-code"

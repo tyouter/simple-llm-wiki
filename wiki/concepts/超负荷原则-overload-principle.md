@@ -2,7 +2,7 @@
 title: "超负荷原则 (Overload Principle)"
 type: "concept"
 sources:
-  - "raw\articles\99effbed_中年以后什么是最好的锻炼中年以后什么是最好的锻炼.md"
+  - "raw/articles/99effbed_中年以后什么是最好的锻炼中年以后什么是最好的锻炼.md"
 tags:
   - "exercise-science"
   - "training-principle"

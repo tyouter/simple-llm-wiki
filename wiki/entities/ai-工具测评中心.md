@@ -2,7 +2,7 @@
 title: "AI 工具测评中心"
 type: "entity"
 sources:
-  - "raw\articles\cadedf15_钱嘟嘟左卫门 的想法 开源自我进化AI助手框架OpenAkita OpenAkita是一个开源的具备自我进化能力的开源AI助手框架在关闭 - 知乎.md"
+  - "raw/articles/cadedf15_钱嘟嘟左卫门 的想法 开源自我进化AI助手框架OpenAkita OpenAkita是一个开源的具备自我进化能力的开源AI助手框架在关闭 - 知乎.md"
 tags:
   - "zhihu-column"
   - "ai-evaluation"

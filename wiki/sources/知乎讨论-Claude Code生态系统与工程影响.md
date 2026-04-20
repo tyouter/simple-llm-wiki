@@ -2,7 +2,7 @@
 title: "知乎讨论：Claude Code生态系统与工程影响"
 type: "source"
 sources:
-  - "raw\articles\48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
 tags:
   - "claude-code"
   - "ai工程"

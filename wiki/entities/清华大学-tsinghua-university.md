@@ -2,7 +2,7 @@
 title: "清华大学 (Tsinghua University)"
 type: "entity"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "chinese-university"
   - "ai-research"

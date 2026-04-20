@@ -2,7 +2,7 @@
 title: "AI-Driven Product Management Transformation at Anthropic"
 type: "source"
 sources:
-  - "raw\articles\3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
+  - "raw/articles/3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
 tags:
   - "product-management"
   - "ai-workflow"

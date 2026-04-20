@@ -2,7 +2,7 @@
 title: "Plan Mode"
 type: "concept"
 sources:
-  - "raw\articles\0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
 tags:
   - "claude-code"
   - "workflow"

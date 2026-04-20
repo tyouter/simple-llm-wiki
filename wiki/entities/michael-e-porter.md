@@ -2,7 +2,7 @@
 title: "Michael E. Porter"
 type: "entity"
 sources:
-  - "raw\articles\16fe1605_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/articles/16fe1605_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
 tags:
   - "strategy-theorist"
   - "competitive-strategy"

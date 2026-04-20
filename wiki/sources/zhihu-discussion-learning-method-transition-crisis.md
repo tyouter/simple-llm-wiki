@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Learning Method Transition Crisis"
 type: "source"
 sources:
-  - "raw\articles\4658b8c0_为什么很多初中女学霸到高中就默默无闻了为什么很多初中女学霸到高中就默默无闻了.md"
+  - "raw/articles/4658b8c0_为什么很多初中女学霸到高中就默默无闻了为什么很多初中女学霸到高中就默默无闻了.md"
 tags:
   - "learning-crisis"
   - "academic-transition"

@@ -2,7 +2,7 @@
 title: "AI Content Saturation"
 type: "concept"
 sources:
-  - "raw\articles\25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
 tags:
   - "ai-generated-content"
   - "content-quality"

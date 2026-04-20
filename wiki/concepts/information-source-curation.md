@@ -2,7 +2,7 @@
 title: "Information Source Curation"
 type: "concept"
 sources:
-  - "raw\articles\441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
 tags:
   - "knowledge-management"
   - "information-literacy"

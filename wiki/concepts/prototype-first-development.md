@@ -2,7 +2,7 @@
 title: "Prototype-First Development"
 type: "concept"
 sources:
-  - "raw\articles\3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
+  - "raw/articles/3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
 tags:
   - "development-workflow"
   - "rapid-prototyping"

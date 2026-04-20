@@ -2,7 +2,7 @@
 title: "AGENT 元年 (AGENT First Year)"
 type: "concept"
 sources:
-  - "raw\articles\c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
 tags:
   - "ai-trends"
   - "technology-adoption"

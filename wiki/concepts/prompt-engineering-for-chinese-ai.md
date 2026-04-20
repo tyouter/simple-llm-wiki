@@ -2,7 +2,7 @@
 title: "Prompt Engineering for Chinese AI"
 type: "concept"
 sources:
-  - "raw\articles\657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
+  - "raw/articles/657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
 tags:
   - "prompt-engineering"
   - "chinese-ai"

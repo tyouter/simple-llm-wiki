@@ -2,7 +2,7 @@
 title: "jobs@zhihu.com"
 type: "entity"
 sources:
-  - "raw\articles\869895a6_404 - 知乎.md"
+  - "raw/articles/869895a6_404 - 知乎.md"
 tags:
   - "email-address"
   - "recruitment"

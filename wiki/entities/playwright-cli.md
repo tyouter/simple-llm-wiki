@@ -2,7 +2,7 @@
 title: "Playwright CLI"
 type: "entity"
 sources:
-  - "raw\articles\697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
 tags:
   - "browser-automation"
   - "microsoft"

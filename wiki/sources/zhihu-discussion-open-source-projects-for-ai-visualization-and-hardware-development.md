@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development"
 type: "source"
 sources:
-  - "raw\articles\a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
 tags:
   - "zhihu"
   - "open-source"

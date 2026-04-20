@@ -2,7 +2,7 @@
 title: "AI玩家日志"
 type: "entity"
 sources:
-  - "raw\articles\cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
 tags:
   - "author"
   - "zhihu"

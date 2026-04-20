@@ -2,7 +2,7 @@
 title: "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 type: "source"
 sources:
-  - "raw\articles\27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
 tags:
   - "claude-code"
   - "ai-development-tools"

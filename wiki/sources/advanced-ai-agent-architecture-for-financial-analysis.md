@@ -2,7 +2,7 @@
 title: "Advanced AI Agent Architecture for Financial Analysis"
 type: "source"
 sources:
-  - "raw\articles\40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
 tags:
   - "ai-agents"
   - "financial-analysis"

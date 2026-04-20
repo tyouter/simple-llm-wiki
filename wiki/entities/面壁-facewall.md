@@ -2,7 +2,7 @@
 title: "面壁 (FaceWall)"
 type: "entity"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "chinese-ai-company"
   - "dsl-implementation"

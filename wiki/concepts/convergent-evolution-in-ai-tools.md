@@ -2,7 +2,7 @@
 title: "Convergent Evolution (in AI Tools)"
 type: "concept"
 sources:
-  - "raw\raw\articles\093f7d65_gstackClaude工程团队.md"
+  - "raw/raw/articles/093f7d65_gstackClaude工程团队.md"
 tags:
   - "ai-trends"
   - "tool-design"

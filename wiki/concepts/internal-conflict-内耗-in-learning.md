@@ -2,7 +2,7 @@
 title: "Internal Conflict (内耗) in Learning"
 type: "concept"
 sources:
-  - "raw\articles\4658b8c0_为什么很多初中女学霸到高中就默默无闻了为什么很多初中女学霸到高中就默默无闻了.md"
+  - "raw/articles/4658b8c0_为什么很多初中女学霸到高中就默默无闻了为什么很多初中女学霸到高中就默默无闻了.md"
 tags:
   - "psychology"
   - "education"

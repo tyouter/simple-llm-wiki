@@ -2,7 +2,7 @@
 title: "DeepSeek实用应用与提示词指南"
 type: "source"
 sources:
-  - "raw\articles\657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
+  - "raw/articles/657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
 tags:
   - "deepseek"
   - "prompt-engineering"

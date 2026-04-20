@@ -2,7 +2,7 @@
 title: "AI Tool Chaining for Content Creation"
 type: "concept"
 sources:
-  - "raw\articles\657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
+  - "raw/articles/657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
 tags:
   - "ai-workflows"
   - "content-creation"

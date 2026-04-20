@@ -2,7 +2,7 @@
 title: "Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code"
 type: "source"
 sources:
-  - "raw\raw\articles\02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
+  - "raw/raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
 tags:
   - "ai-design"
   - "frontend-development"

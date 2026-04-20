@@ -2,7 +2,7 @@
 title: "好地方bug"
 type: "entity"
 sources:
-  - "raw\articles\5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
 tags:
   - "zhihu-user"
   - "mathematics"

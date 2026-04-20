@@ -2,7 +2,7 @@
 title: "Zhihu Discussion: Internal Martial Arts and Breathing Techniques"
 type: "source"
 sources:
-  - "raw\articles\46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
 tags:
   - "zhihu-discussion"
   - "martial-arts"

@@ -2,7 +2,7 @@
 title: "Multi-Agent Orchestration"
 type: "concept"
 sources:
-  - "raw\articles\53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
 tags:
   - "multi-agent"
   - "agent-architecture"

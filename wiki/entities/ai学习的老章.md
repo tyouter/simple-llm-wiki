@@ -2,7 +2,7 @@
 title: "Ai学习的老章"
 type: "entity"
 sources:
-  - "raw\articles\149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
 tags:
   - "zhihu-author"
   - "content-creator"

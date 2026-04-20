@@ -2,7 +2,7 @@
 title: "Skills (Anthropic Framework)"
 type: "concept"
 sources:
-  - "raw\articles\149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
 tags:
   - "skill-development"
   - "anthropic-claude"

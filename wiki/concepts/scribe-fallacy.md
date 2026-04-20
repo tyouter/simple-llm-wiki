@@ -2,7 +2,7 @@
 title: "Scribe Fallacy"
 type: "concept"
 sources:
-  - "raw\articles\48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
 tags:
   - "ai-engineering"
   - "future-of-work"

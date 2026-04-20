@@ -2,7 +2,7 @@
 title: "Harness Engineering and Compound Engineering for AI-Driven Development"
 type: "source"
 sources:
-  - "raw\articles\825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
 tags:
   - "ai-development"
   - "harness-engineering"

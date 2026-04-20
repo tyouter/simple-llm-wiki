@@ -2,7 +2,7 @@
 title: "Productionization of AI Agents"
 type: "concept"
 sources:
-  - "raw\articles\cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
 tags:
   - "engineering"
   - "devops"

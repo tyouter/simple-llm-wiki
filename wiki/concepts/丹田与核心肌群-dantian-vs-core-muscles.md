@@ -2,7 +2,7 @@
 title: "丹田与核心肌群 (Dantian vs. Core Muscles)"
 type: "concept"
 sources:
-  - "raw\articles\46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
 tags:
   - "core-training"
   - "dantian"

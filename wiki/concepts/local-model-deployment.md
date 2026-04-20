@@ -2,7 +2,7 @@
 title: "Local Model Deployment"
 type: "concept"
 sources:
-  - "raw\articles\8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
 tags:
   - "local-deployment"
   - "hardware"

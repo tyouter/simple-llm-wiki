@@ -2,7 +2,7 @@
 title: "字节跳动 (ByteDance)"
 type: "entity"
 sources:
-  - "raw\raw\articles\0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
 tags:
   - "chinese-tech-company"
   - "career-benchmark"

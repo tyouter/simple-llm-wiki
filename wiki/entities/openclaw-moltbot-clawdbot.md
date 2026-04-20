@@ -2,7 +2,7 @@
 title: "OpenClaw (Moltbot/ClawdBot)"
 type: "entity"
 sources:
-  - "raw\articles\51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
 tags:
   - "ai-agent-framework"
   - "openclaw"

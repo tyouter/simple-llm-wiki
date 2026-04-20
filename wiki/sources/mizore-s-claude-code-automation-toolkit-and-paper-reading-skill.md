@@ -2,7 +2,7 @@
 title: "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
 type: "source"
 sources:
-  - "raw\articles\87f23147_Mizore 的想法 用了半年Claude Code 我把我的一键配置开源了 刚开始用 Claude Code 的时候每次新项目都要重新配CL -.md"
+  - "raw/articles/87f23147_Mizore 的想法 用了半年Claude Code 我把我的一键配置开源了 刚开始用 Claude Code 的时候每次新项目都要重新配CL -.md"
 tags:
   - "claude-code"
   - "automation"

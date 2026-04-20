@@ -2,7 +2,7 @@
 title: "金融分析高级AI Agent架构"
 type: "source"
 sources:
-  - "raw\articles\40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
 tags:
   - "ai-agents"
   - "financial-analysis"

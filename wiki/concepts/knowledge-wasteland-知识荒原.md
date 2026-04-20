@@ -2,7 +2,7 @@
 title: "Knowledge Wasteland (知识荒原)"
 type: "concept"
 sources:
-  - "raw\articles\869895a6_404 - 知乎.md"
+  - "raw/articles/869895a6_404 - 知乎.md"
 tags:
   - "ui-design"
   - "metaphor"

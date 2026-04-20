@@ -2,7 +2,7 @@
 title: "饼干哥哥AGI"
 type: "entity"
 sources:
-  - "raw\articles\51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
 tags:
   - "community-organizer"
   - "business-automation"

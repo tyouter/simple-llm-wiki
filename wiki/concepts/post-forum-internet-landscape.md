@@ -2,7 +2,7 @@
 title: "Post-Forum Internet Landscape"
 type: "concept"
 sources:
-  - "raw\articles\4857790c_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/4857790c_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
 tags:
   - "internet-culture"
   - "online-communities"

@@ -2,7 +2,7 @@
 title: "IBM"
 type: "entity"
 sources:
-  - "raw\articles\8129dd14_如何做企业战略规划如何做企业战略规划.md"
+  - "raw/articles/8129dd14_如何做企业战略规划如何做企业战略规划.md"
 tags:
   - "technology-company"
   - "blm-developer"

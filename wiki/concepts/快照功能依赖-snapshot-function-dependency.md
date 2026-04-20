@@ -2,7 +2,7 @@
 title: "快照功能依赖 (Snapshot Function Dependency)"
 type: "concept"
 sources:
-  - "raw\articles\c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
 tags:
   - "virtualization-feature"
   - "configuration-management"

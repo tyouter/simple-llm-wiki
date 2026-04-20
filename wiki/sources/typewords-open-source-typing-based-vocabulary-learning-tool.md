@@ -2,7 +2,7 @@
 title: "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
 type: "source"
 sources:
-  - "raw\articles\2a9adff3_Sylearn 的想法 Github项目推荐TypeWords打字式背单词 TypeWords 是一个开源的网页端英语学习工具主打用敲键盘 -.md"
+  - "raw/articles/2a9adff3_Sylearn 的想法 Github项目推荐TypeWords打字式背单词 TypeWords 是一个开源的网页端英语学习工具主打用敲键盘 -.md"
 tags:
   - "language-learning"
   - "open-source"

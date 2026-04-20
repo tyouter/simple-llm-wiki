@@ -2,7 +2,7 @@
 title: "Scenario Analysis (场景分析)"
 type: "concept"
 sources:
-  - "raw\articles\1eca88fe_为什么做产品的人都很喜欢思考场景为什么做产品的人都很喜欢思考场景.md"
+  - "raw/articles/1eca88fe_为什么做产品的人都很喜欢思考场景为什么做产品的人都很喜欢思考场景.md"
 tags:
   - "product-management"
   - "user-experience"

@@ -2,7 +2,7 @@
 title: "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
 type: "concept"
 sources:
-  - "raw\articles\c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
 tags:
   - "security-practice"
   - "virtualization"
