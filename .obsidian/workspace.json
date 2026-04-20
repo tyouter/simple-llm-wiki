@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "f6b7301aca31af8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5906690041bbae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3174b14f09c0adcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55746f926a54a893",
+    "type": "split",
+    "children": [
+      {
+        "id": "172602d64abbd2f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "733ed29870bbd1a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3758625893700072",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba3d077edd5a7c0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c5e029527e38455",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb5e2d72a9f30a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317f49817ee71863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "544f77d6ecb82809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "3ebe9ca5cf909eea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bd1b495950af3998",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "82bdb9db9f42294b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3174b14f09c0adcf",
+  "lastOpenFiles": [
+    "raw/raw/sources.rar",
+    "LICENSE",
+    "raw/raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md",
+    "raw/raw/webpages/f754e37c_Pitch Deck Presentation - Swipee by Fachrul Rinaldi for Odama on Dribbble.md",
+    "raw/raw/webpages/cbfaf3d4_高通SA815582558295联发科MT867828智能座舱平台CPU构架AI算力音视频存储等各性能对比分析 - 汽车知识 - 迪粉之家 -.md",
+    "raw/raw/webpages/f754e37c.md",
+    "raw/raw/webpages/b0ac3ea0_汽车电子行业英语缩写中英对照_汽车中控屏英文-CSDN博客汽车电子行业英语缩写中英对照.md",
+    "raw/raw/webpages/ea14b63b_一人公司做了 9 款APP他用 TRAE 把生活痛点变成热门应用 - 飞书云文档一人公司做了 9 款APP他用 TRAE 把生活痛点变成热门应用.md",
+    "raw/raw/webpages/d2e2e6a7_Investor Pitch Deck Slides by Sanmi Ibitoye on Dribbble.md",
+    "raw/raw/webpages/b3f78562_Bento Style Presentation by Dmitry Sergushkin on Dribbble.md",
+    "raw/raw/webpages/aba1af5e_小红书 - 你的生活兴趣社区.md",
+    "raw/raw/webpages/9d64b2c6_小红书 - 你的生活兴趣社区.md",
+    "raw/raw/webpages/4da01c8c_LUMORE - Skincare and Bodycare Pitch Deck Presentation Slides by LAIN Branding f.md",
+    "raw/raw/webpages/31230e6e_Glassmoon Brand Presentation by Ana Moreno on Dribbble.md",
+    "raw/raw/webpages/81df9b89_X 上的 Andrej KarpathyLLM Knowledge BasesSomething Im finding very useful rec.md",
+    "raw/raw/webpages/80556898_Top product management books and resources for 2026.md",
+    "raw/raw/webpages/4bc31101_Pitch deck presentation slides by Sanmi Ibitoye on Dribbble.md",
+    "raw/raw/webpages/45331e1d_Access DeniedAccess Denied.md",
+    "raw/raw/webpages/45331e1d_面向软件定义汽车的SOA开发 基于NeuSAR AP和Simulink的开发流程和实践 - MATLAB Simulink面向软件定义汽车的SOA开发.md",
+    "raw/raw/webpages/3de42f1f_小红书 - 你的生活兴趣社区.md",
+    "raw/raw/webpages/3dd102ce_Credivance - AI Credit Manager Corporate Pitch Deck Presentation by LAIN Brandin.md",
+    "raw/raw/webpages/3dd102ce.md",
+    "raw/raw/webpages/39c8d10e_Tobias Sühlmann follows Michael Mauer as Porsches new Head of Design Classic.md",
+    "raw/raw/webpages/3ad26c70_Search code repositories users issues pull requests...Provide feedbackSave.md",
+    "raw/raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md",
+    "raw/raw/webpages/0ac94217_让我们专注于内容Markdown 制作幻灯片的三种方案对比 - 少数派.md",
+    "raw/raw/webpages",
+    "raw/raw/videos/ff913f49_全程高燃李敖一句话让蔡康永不敢追问硬气至极.md",
+    "raw/raw/videos",
+    "raw/raw/index.json1",
+    "raw/raw/index.json",
+    "raw/raw/articles",
+    "raw/raw",
+    "wiki/sources/zhihu-discussion-why-ai-agents-underperform-in-practice-and-intelligent-rag-solutions.md.tmp.26092.1776615919382",
+    "wiki/index.md.tmp.26092.1776615908738",
+    "wiki/sources/openclaw-advanced-multi-agent-collaboration.md.tmp.26092.1776615908370"
+  ]
+}
