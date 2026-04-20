@@ -101,7 +101,7 @@ def get_source_files(config: WikiConfig) -> list[Path]:
     files = []
     source_dir = config.raw_source_dir
     if source_dir.exists():
-        for subdir in ["articles", "videos"]:
+        for subdir in ["articles", "videos", "webpages"]:
             d = source_dir / subdir
             if d.exists():
                 files.extend(sorted(d.glob("*.md")))

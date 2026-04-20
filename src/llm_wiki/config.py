@@ -45,7 +45,7 @@ class WikiConfig:
 
     @property
     def raw_source_dir(self) -> Path:
-        return self.root / RAW_DIR_NAME / RAW_DIR_NAME
+        return self.root / RAW_DIR_NAME
 
     @property
     def hash_cache_path(self) -> Path:

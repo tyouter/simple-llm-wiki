@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wiki:*)",
+      "Bash(pip install:*)",
+      "Read",
+      "Write",
+      "Glob",
+      "Grep"
+    ]
+  }
+}
