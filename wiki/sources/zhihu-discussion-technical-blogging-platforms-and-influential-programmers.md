@@ -1,0 +1,66 @@
+---
+title: "技术大牛博客平台汇总"
+type: "source"
+sources:
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+tags:
+  - "technical-blogging"
+  - "programmer"
+  - "knowledge-sharing"
+  - "rss"
+confidence: "high"
+created_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-20T12:00:00"
+related:
+  - "Paul Graham"
+  - "Simon Willison"
+  - "技术博客质量层级"
+---
+
+# 技术大牛博客平台汇总
+
+## 核心内容
+
+这篇知乎讨论汇总了技术领域知名大牛的博客平台，回答了"技术大牛都在哪里写博客"的问题。
+
+### 国际知名技术博主
+
+文章列出了多位国际顶级技术人员的个人博客：
+
+| 人物 | 博客地址 | 领域 |
+|------|---------|------|
+| Paul Graham | paulgraham.com | 硅谷教父、创业、LISP |
+| Simon Willison | simonwillison.net | Django作者、AI测评 |
+| DHH | world.hey.com/dhh | Rails作者、37signals |
+| Armin Ronacher | lucumr.pocoo.org | Flask、Jinja2作者 |
+| Antirez | antirez.com | Redis作者 |
+| Ryan Dahl | tinyclouds.org | NodeJS/Deno作者 |
+| Mitchell Hashimoto | mitchellh.com | HashiCorp创始人 |
+| Gergely Orosz | pragmaticengineer.com | SubStack排名第一技术博主 |
+| Dan Abramov | overreacted.io | React核心开发者 |
+| Boris Cherny | - | Claude Code开发者 |
+| Mario Zechner | mariozechner.at | Pi Agent作者 |
+
+### 国内技术博主
+
+文章也列举了国内知名技术大牛：
+
+- 刘未鹏（Mind Hacks，《暗时间》作者）
+- 陈皓（CoolShell，MegaEase创始人）
+- 阮一峰（计算机科普博主）
+- 尤雨溪（Vue.js作者）
+- 云风（前网易游戏开发）
+- 廖雪峰（Python教程作者）
+
+### 关键洞察
+
+1. **Karpathy的回归RSS观点**：AI界网红Karpathy抱怨AI生成内容充斥社交媒体，开始回归RSS在博客空间淘金
+2. **HackerNews榜单**：推荐了HN最受欢迎的100个博客列表
+3. **质量层级判断**：个人独立博客 > 知乎 > 技术公众号 > 掘金 > 博客园 > CSDN
+
+## Related
+- [[Paul Graham]]
+- [[Simon Willison]]
+- [[技术博客质量层级]]
+- [[Karpathy]]
+- [[个人独立博客价值]]
