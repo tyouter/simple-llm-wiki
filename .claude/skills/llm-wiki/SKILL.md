@@ -21,7 +21,10 @@
 | `wiki init` | 初始化新wiki | `/wiki init` |
 | `wiki ingest` | 处理源文件生成wiki | `/wiki ingest --all` |
 | `wiki query` | 向知识库提问 | `/wiki query "什么是Agent?"` |
-| `wiki search` | 关键词搜索 | `/wiki search claude` |
+| `wiki search` | BM25模糊搜索 | `/wiki search claude` |
+| `wiki keywords` | 精确关键词搜索 | `/wiki keywords claude agent` |
+| `wiki tokens` | 估算文件token数 | `/wiki tokens raw/file.md` |
+| `wiki links` | 查看页面内链接 | `/wiki links "Page Title"` |
 | `wiki lint` | 健康检查 | `/wiki lint` |
 | `wiki stats` | 统计信息 | `/wiki stats` |
 | `wiki list` | 列出内容 | `/wiki list pages` |

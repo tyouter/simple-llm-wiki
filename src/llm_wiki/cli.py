@@ -218,9 +218,9 @@ def lint():
     )
 
 
-@cli.command()
+@cli.command("list")
 @click.argument("type", type=click.Choice(["raw", "pages", "orphans", "sources"]))
-def list(type: str):
+def list_content(type: str):
     """List wiki contents."""
     config = _load()
 
@@ -321,8 +321,8 @@ def search(query_str: str, top_k: int):
     for path, score in results:
         try:
             page = load_page(path)
-            type_emoji = {"concept": "💡", "entity": "🏷️", "source": "📄", "answer": "💬"}.get(
-                page.page_type.value, "📝"
+            type_emoji = {"concept": "[C]", "entity": "[E]", "source": "[S]", "answer": "[A]"}.get(
+                page.page_type.value, "[?]"
             )
             table.add_row(
                 f"{score:.2f}",
@@ -438,6 +438,115 @@ def config(language: str | None, model: str | None, api_key: str | None, base_ur
     console.print("[bold green]Configuration updated:[/bold green]")
     for change in changed:
         console.print(f"  - {change}")
+
+
+@cli.command()
+@click.argument("keyword_args", nargs=-1, required=True)
+@click.option("--top-k", default=10, help="Number of results to return")
+def keywords(keyword_args: tuple[str, ...], top_k: int):
+    """Exact keyword search (match all keywords)."""
+    from .search import keyword_search
+
+    config = _load()
+    keyword_list = list(keyword_args)
+    results = keyword_search(config.wiki_dir, keyword_list, top_k=top_k)
+
+    if not results:
+        console.print(f"[yellow]No pages found with keywords: {keyword_list}[/yellow]")
+        return
+
+    table = Table(title=f"Keyword Results: {keyword_list}")
+    table.add_column("Matches", justify="right", style="bold")
+    table.add_column("Type")
+    table.add_column("Title")
+    table.add_column("Path")
+
+    from .schema import load_page
+
+    for path, match_count in results:
+        try:
+            page = load_page(path)
+            type_emoji = {"concept": "[C]", "entity": "[E]", "source": "[S]", "answer": "[A]"}.get(
+                page.page_type.value, "[?]"
+            )
+            table.add_row(
+                str(match_count),
+                f"{type_emoji} {page.page_type.value}",
+                page.title,
+                str(path.relative_to(config.wiki_dir)),
+            )
+        except Exception:
+            table.add_row(str(match_count), "❓", path.stem, str(path.relative_to(config.wiki_dir)))
+
+    console.print(table)
+
+
+@cli.command()
+@click.argument("path")
+def tokens(path: str):
+    """Estimate token count for a file or wiki page."""
+    from .utils import count_tokens_approx
+
+    file_path = Path(path).resolve()
+    if not file_path.exists():
+        console.print(f"[red]File not found:[/red] {file_path}")
+        sys.exit(1)
+
+    content = file_path.read_text(encoding="utf-8")
+    token_count = count_tokens_approx(content)
+
+    console.print(Panel.fit(
+        f"[bold]File:[/bold] {file_path.name}\n"
+        f"[bold]Characters:[/bold] {len(content):,}\n"
+        f"[bold]Words:[/bold] {len(content.split()):,}\n"
+        f"[bold]Estimated Tokens:[/bold] {token_count:,}",
+        title="Token Estimate",
+    ))
+
+
+@cli.command()
+@click.argument("page_title")
+@click.option("--resolve", is_flag=True, help="Show resolved file paths")
+def links(page_title: str, resolve: bool):
+    """Show wikilinks in a page."""
+    from .schema import load_page, extract_wikilinks, find_page_by_title
+    from .utils import resolve_wikilinks as resolve_links_fn
+
+    config = _load()
+
+    # Find the page by title
+    page_path = find_page_by_title(config.wiki_dir, page_title)
+    if not page_path:
+        console.print(f"[yellow]Page not found:[/yellow] {page_title}")
+        console.print("[dim]Tip: Use exact page title as stored in wiki[/dim]")
+        return
+
+    page = load_page(page_path)
+    wikilinks = extract_wikilinks(page.to_markdown())
+
+    if not wikilinks:
+        console.print(f"[yellow]No wikilinks found in:[/yellow] {page_title}")
+        return
+
+    if resolve:
+        resolved = resolve_links_fn(config, page.to_markdown())
+        table = Table(title=f"Wikilinks in {page_title} (Resolved)")
+        table.add_column("Link")
+        table.add_column("Resolved Path")
+        table.add_column("Status")
+
+        for link, resolved_path in zip(wikilinks, resolved):
+            if resolved_path.exists():
+                status = "[green]OK[/green]"
+            else:
+                status = "[red]Missing[/red]"
+            table.add_row(f"[[{link}]]", str(resolved_path.relative_to(config.wiki_dir)) if resolved_path else "-", status)
+
+        console.print(table)
+    else:
+        console.print(f"[bold]Wikilinks in {page_title}:[/bold] ({len(wikilinks)} links)")
+        for link in wikilinks:
+            console.print(f"  [[{link}]]")
 
 
 if __name__ == "__main__":
