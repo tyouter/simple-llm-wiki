@@ -25,10 +25,33 @@
 | `wiki keywords` | 精确关键词搜索 | `/wiki keywords claude agent` |
 | `wiki tokens` | 估算文件token数 | `/wiki tokens raw/file.md` |
 | `wiki links` | 查看页面内链接 | `/wiki links "Page Title"` |
+| `wiki deep parse` | 深度解析+双向链接 | `/wiki deep parse --source raw/file.md` |
+| `wiki deep query` | 深度查询(更多上下文) | `/wiki deep query --question "..."` |
+| `wiki deep lint` | 检查双向链接完整性 | `/wiki deep lint` |
+| `wiki deep stats` | 深度统计(质量指标) | `/wiki deep stats` |
 | `wiki lint` | 健康检查 | `/wiki lint` |
 | `wiki stats` | 统计信息 | `/wiki stats` |
 | `wiki list` | 列出内容 | `/wiki list pages` |
 | `wiki config` | 查看/修改配置 | `/wiki config --language cn` |
+
+### Deep Mode 深度模式
+
+Deep模式提供增强的知识提取和双向链接:
+
+**Deep Parse vs Normal Ingest:**
+
+| 特性 | Normal Ingest | Deep Parse |
+|------|---------------|------------|
+| 概念提取数量 | 3-5 | 10-15 |
+| 链接方向 | 单向 | 双向 (A->B, B->A) |
+| 内容深度 | 2-3句 | 5+句详细解释 |
+| 关系类型 | 无 | hierarchical/complementary/opposing |
+| 已有页面增强 | 无 | 自动添加新链接和内容 |
+
+**使用场景:**
+- 重要文档需要深度解析
+- 构建密集知识网络
+- 增强现有概念间的连接
 
 ## 使用指南
 

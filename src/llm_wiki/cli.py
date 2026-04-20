@@ -549,5 +549,116 @@ def links(page_title: str, resolve: bool):
             console.print(f"  [[{link}]]")
 
 
+@cli.command()
+@click.argument("action", type=click.Choice(["parse", "query", "lint", "stats"]))
+@click.option("--source", help="Source file to deep parse")
+@click.option("--question", help="Question for deep query")
+@click.option("--top-k", default=20, help="Context pages for deep query")
+def deep(action: str, source: str | None, question: str | None, top_k: int):
+    """Deep operations with enhanced analysis and bidirectional linking."""
+    from .deep import deep_parse_source, deep_query_wiki, deep_lint_wiki, deep_stats
+
+    config = _load()
+
+    if action == "parse":
+        if not source:
+            console.print("[yellow]Use --source to specify a file[/yellow]")
+            console.print("[dim]Example: wiki deep parse --source raw/articles/file.md[/dim]")
+            return
+
+        source_path = Path(source).resolve()
+        if not source_path.exists():
+            console.print(f"[red]Source not found:[/red] {source_path}")
+            sys.exit(1)
+
+        console.print(f"[cyan]Deep parsing with bidirectional linking:[/cyan] {source_path.name}")
+
+        try:
+            pages = deep_parse_source(config, source_path)
+            console.print(f"\n[bold green]Created/enriched {len(pages)} pages with deep analysis[/bold green]")
+
+            table = Table(title="Deep Parse Results")
+            table.add_column("Type")
+            table.add_column("Title")
+            table.add_column("Related Links")
+
+            for page in pages:
+                type_label = {"concept": "[C]", "entity": "[E]", "source": "[S]", "answer": "[A]"}.get(
+                    page.page_type.value, "[?]"
+                )
+                related_str = ", ".join(page.related[:3]) if page.related else "-"
+                table.add_row(type_label, page.title, related_str)
+
+            console.print(table)
+
+        except Exception as e:
+            console.print(f"[red]Error:[/red] {e}")
+            sys.exit(1)
+
+    elif action == "query":
+        if not question:
+            console.print("[yellow]Use --question for deep query[/yellow]")
+            return
+
+        console.print(f"[cyan]Deep query with {top_k} context pages...[/cyan]")
+
+        try:
+            answer = deep_query_wiki(config, question, top_k=top_k)
+            console.print()
+            console.print(Panel(answer, title="Deep Answer", border_style="green"))
+
+        except Exception as e:
+            console.print(f"[red]Error:[/red] {e}")
+            sys.exit(1)
+
+    elif action == "lint":
+        console.print("[cyan]Deep linting with bidirectional link analysis...[/cyan]")
+
+        try:
+            issues = deep_lint_wiki(config)
+
+            if not issues:
+                console.print("[bold green]No deep issues found - all links bidirectional[/bold green]")
+                return
+
+            # Group by category
+            categories = {}
+            for issue in issues:
+                cat = getattr(issue, "category", "unknown")
+                if cat not in categories:
+                    categories[cat] = []
+                categories[cat].append(issue)
+
+            for cat, cat_issues in categories.items():
+                console.print(f"\n[bold]{cat}:[/bold] ({len(cat_issues)} issues)")
+                for issue in cat_issues[:5]:
+                    pages = getattr(issue, "pages", "-")
+                    desc = getattr(issue, "description", "-")
+                    console.print(f"  {pages}: {desc}")
+
+        except Exception as e:
+            console.print(f"[red]Error:[/red] {e}")
+            sys.exit(1)
+
+    elif action == "stats":
+        console.print("[cyan]Deep statistics with quality metrics...[/cyan]")
+
+        try:
+            stats_data = deep_stats(config)
+
+            table = Table(title="Deep Statistics")
+            table.add_column("Metric", style="bold")
+            table.add_column("Value")
+
+            for key, value in stats_data.items():
+                table.add_row(key, str(value))
+
+            console.print(table)
+
+        except Exception as e:
+            console.print(f"[red]Error:[/red] {e}")
+            sys.exit(1)
+
+
 if __name__ == "__main__":
     cli()
