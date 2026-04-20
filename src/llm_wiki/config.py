@@ -34,6 +34,7 @@ class LLMConfig:
 class WikiConfig:
     root: Path = field(default_factory=Path.cwd)
     llm: LLMConfig = field(default_factory=LLMConfig)
+    language: str = "as_origin"  # Options: "cn", "en", "as_origin"
 
     @property
     def wiki_dir(self) -> Path:
@@ -92,11 +93,16 @@ def load_config(root: Path | None = None) -> WikiConfig:
         max_tokens=llm_data.get("max_tokens", 4096),
     )
 
-    return WikiConfig(root=root, llm=llm)
+    language = data.get("language", "as_origin")
+    if language not in ("cn", "en", "as_origin"):
+        language = "as_origin"
+
+    return WikiConfig(root=root, llm=llm, language=language)
 
 
 def save_config(config: WikiConfig) -> None:
     data = {
+        "language": config.language,
         "llm": {
             "provider": config.llm.provider,
             "model": config.llm.model,

@@ -9,6 +9,11 @@
 - "知识库"、"wiki"、"ingest" - 隐式触发
 - "处理文档"、"生成wiki页面" - 操作触发
 
+**语言设置触发** (自然对话):
+- "用中文生成wiki" / "中文模式" → `wiki config --language cn`
+- "用英文生成wiki" / "英文模式" → `wiki config --language en`
+- "保持原文语言" / "跟随原文" → `wiki config --language as_origin`
+
 ## 功能概览
 
 | 命令 | 功能 | 示例 |
@@ -20,6 +25,7 @@
 | `wiki lint` | 健康检查 | `/wiki lint` |
 | `wiki stats` | 统计信息 | `/wiki stats` |
 | `wiki list` | 列出内容 | `/wiki list pages` |
+| `wiki config` | 查看/修改配置 | `/wiki config --language cn` |
 
 ## 使用指南
 
@@ -146,6 +152,7 @@ pip install llm-wiki
 
 `.wikirc.yaml`:
 ```yaml
+language: as_origin  # Options: cn (Chinese), en (English), as_origin (follow source)
 llm:
   apiKey: 'your-api-key'
   baseUrl: https://api.deepseek.com/v1
@@ -155,6 +162,14 @@ llm:
 ```
 
 支持provider: `openai`, `anthropic`, `deepseek`, `gemini` 等。
+
+### Language Mode
+
+| Setting | Description |
+|---------|-------------|
+| `as_origin` | Default - follow source document language |
+| `cn` | Force all wiki pages in Chinese |
+| `en` | Force all wiki pages in English |
 
 ## 示例对话
 
@@ -169,6 +184,18 @@ llm:
 
 用户: "wiki现在有多少页面?"
 → 运行 `wiki stats` 展示统计
+
+用户: "用中文生成wiki"
+→ 运行 `wiki config --language cn`
+
+用户: "切换到英文模式"
+→ 运行 `wiki config --language en`
+
+用户: "保持原文语言"
+→ 运行 `wiki config --language as_origin`
+
+用户: "看看当前配置"
+→ 运行 `wiki config --show`
 
 ## 注意事项
 

@@ -388,5 +388,57 @@ def stats():
     console.print(table)
 
 
+@cli.command()
+@click.option("--language", type=click.Choice(["cn", "en", "as_origin"]), help="Set output language mode")
+@click.option("--model", help="Set LLM model")
+@click.option("--api-key", help="Set API key")
+@click.option("--base-url", help="Set API base URL")
+@click.option("--show", is_flag=True, help="Show current configuration")
+def config(language: str | None, model: str | None, api_key: str | None, base_url: str | None, show: bool):
+    """View or modify wiki configuration."""
+    from .config import save_config
+
+    wiki_config = _load()
+
+    if show or not any([language, model, api_key, base_url]):
+        # Show current config
+        table = Table(title="Current Configuration")
+        table.add_column("Setting", style="bold")
+        table.add_column("Value")
+
+        table.add_row("Language", wiki_config.language)
+        table.add_row("LLM Provider", wiki_config.llm.provider)
+        table.add_row("LLM Model", wiki_config.llm.model)
+        table.add_row("API Base URL", wiki_config.llm.base_url)
+        table.add_row("Temperature", str(wiki_config.llm.temperature))
+        table.add_row("Max Tokens", str(wiki_config.llm.max_tokens))
+        table.add_row("Config File", str(wiki_config.config_path))
+
+        console.print(table)
+        console.print("\n[dim]Tip: Use 'wiki config --language cn' to change language mode.[/dim]")
+        return
+
+    # Update config
+    changed = []
+    if language:
+        wiki_config.language = language
+        changed.append(f"language: {language}")
+    if model:
+        wiki_config.llm.model = model
+        changed.append(f"model: {model}")
+    if api_key:
+        wiki_config.llm.api_key = api_key
+        changed.append("api_key: (updated)")
+    if base_url:
+        wiki_config.llm.base_url = base_url
+        changed.append(f"base_url: {base_url}")
+
+    save_config(wiki_config)
+
+    console.print("[bold green]Configuration updated:[/bold green]")
+    for change in changed:
+        console.print(f"  - {change}")
+
+
 if __name__ == "__main__":
     cli()

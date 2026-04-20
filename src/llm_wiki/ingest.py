@@ -48,7 +48,7 @@ Respond in JSON format:
   "tags": ["tag1", "tag2", ...]
 }}"""
 
-GENERATION_PROMPT = """You are a knowledge base writer. Based on the analysis below, generate wiki pages in JSON format.
+GENERATION_PROMPT_TEMPLATE = """You are a knowledge base writer. Based on the analysis below, generate wiki pages in JSON format.
 
 Analysis:
 {analysis}
@@ -91,7 +91,17 @@ Rules:
 - Content should be informative, not just a stub
 - Include source attribution where appropriate
 - Tags should be lowercase with hyphens
-- Write content in the same language as the source document"""
+{language_instruction}"""
+
+
+def _get_language_instruction(language: str) -> str:
+    """Get language instruction based on config setting."""
+    if language == "cn":
+        return "- Write all content in Chinese (中文)"
+    elif language == "en":
+        return "- Write all content in English"
+    else:  # as_origin
+        return "- Write content in the same language as the source document"
 
 
 def _call_llm(config: WikiConfig, prompt: str, retries: int = 3) -> str:
@@ -254,9 +264,11 @@ def ingest_source(config: WikiConfig, source_path: Path, dry_run: bool = False) 
 
     existing_pages_text = related_text if related_text else "(none)"
 
-    generation_prompt = GENERATION_PROMPT.format(
+    language_instruction = _get_language_instruction(config.language)
+    generation_prompt = GENERATION_PROMPT_TEMPLATE.format(
         analysis=json.dumps(analysis, indent=2, ensure_ascii=False),
         existing_pages=existing_pages_text[:4000],
+        language_instruction=language_instruction,
     )
 
     generation_text = _call_llm(config, generation_prompt)
