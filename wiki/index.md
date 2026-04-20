@@ -5,13 +5,150 @@ The LLM updates this file on every ingest.
 
 ## Concepts
 
-*(none yet)*
+- [[知识编译器模式]] — 知识管理范式，LLM提前编译原始文档为结构化知识表示
+- [[LLM Wiki架构]] — Karpathy提出的三层个人知识库系统架构
+- [[DeepAgents框架]] — LangChain团队的深度代理框架，具备规划、上下文管理、协作、长期记忆能力
+- [[Claude Code子代理]] — Claude Code的上下文隔离机制，用于分配专业任务
+- [[Claude Code Hooks]] — Claude Code的强制执行机制，在生命周期事件前后执行规则
+- [[Plan Mode工作流]] — Claude Code的规划模式，只输出计划不执行操作
+- [[Claude Code Skills系统]] — Claude Code的扩展机制，通过SKILL.md文件添加自定义指令
+- [[Productionization of AI Agents]] — 将AI Agent系统投入生产环境所涉及的工程化挑战，包括可观测性、成本、安全、可靠性与性能优化
+- [[OpenClaw]] — 开源AI助手框架，支持多模型接入、多Agent协作、自动化工作流配置
+- [[个人操作系统]] — 将个人知识、思考、工作和生活整合为系统化框架的概念
+- [[模型容灾机制]] — 确保AI Agent永不停机的多级自动切换方案
+- [[国产大模型]] — 中国科技公司开发的大语言模型，包括GLM、MiniMax、Qwen、Deepseek等
+- [[Obsidian CLI]] — Obsidian官方命令行工具，允许AI直接调用笔记数据
+- [[一人AI公司]] — 一个人运营的AI服务公司，通过自动化工具实现商业效应
 
 ## Entities
 
-*(none yet)*
+- [[Andrej Karpathy]] — AI研究者，前OpenAI创始成员、前特斯拉AI总监，LLM Wiki架构提出者
+- [[Anthropic]] — AI研发公司，Claude模型系列开发者，以Constitutional AI和安全研究著称
+- [[CLAUDE.md Architecture]] — Claude Code的持久记忆系统架构，项目配置文件实现上下文管理
+- [[Contradiction]] — 知识管理中的核心问题，指不同页面间相互冲突的声明或观点
+- [[Function-Oriented Design]] — 功能列表为核心的产品设计方法，常被批评脱离真实用户需求
+- [[Kaiyue]] — 张雪创立的摩托车品牌，中国摩托车制造业新锐力量
+- [[OpenClaw]] — 开源AI助手框架，AGENT元年标杆作品，支持多Agent协作
+- [[Plan-and-Execute]] — Claude Code核心工作流模式，先规划后执行的Explore→Plan→Implement→Verify
+- [[Spec Coding]] — 规范编码方法论，强调需求驱动开发而非模糊意图
+- [[Environment]] — 场景思维的浅层维度，仅指用户所处地点时间条件
+- [[User Story]] — 场景思维的深层维度，包含用户身份、动机和情感需求
+- [[Zhechuangtou]] — 与张雪创业相关的投资机构，代表制造业创投力量
 
 ## Sources
+### 中文页面
+- [[知乎讨论-30岁转行战略咨询如何从零开始系统学习战略管理]] — 知乎讨论，包含Sunny的系统性学习框架、木游子的跨学科方法、考拉的糖果的行业壁垒分析
+- [[知乎讨论-怎么成为一个AI Agent工程师]] — 知乎深度讨论，涵盖DSL设计、TIR理论基础、实践指南、职业转型建议
+- [[知乎讨论-真的有所谓的开悟吗]] — 知乎讨论，涵盖神经科学解释、开悟者特征、实践转型建议
+- [[知乎讨论-claude.md怎么写才能让Claude Code更高效]] — 知乎辩论，涵盖CLAUDE.md详细配置与极简规范驱动工作流的对立观点
+- [[知乎讨论-为什么做产品的人都很喜欢思考场景]] — 知乎专家讨论场景分析在产品设计中的核心作用
+- [[知乎讨论-学习方法的转型危机]] — 分析初中女学霸到高中默默无闻的原因，推导式学习vs记忆式学习
+- [[知乎讨论-天涯论坛关闭后除了知乎大家都在逛什么]] — 知乎讨论帖，精选天涯关闭后的替代网站
+- [[知乎讨论-中国武术真的有内功存在吗]] — 多视角知乎讨论，包含个人经历、传统解释、生理学解读
+- [[知乎讨论-一般技术大牛都在哪里写博客]] — 技术博客趋势、内容质量层级、影响力程序员博客讨论
+- [[知乎讨论-大神们是从哪获取优质信息]] — 知乎指南，倡导精选高保真信息源而非算法驱动平台
+- [[知乎讨论-OpenClaw实用应用与局限性]] — 知乎讨论OpenClaw/Moltbot的实际应用案例与限制
+- [[知乎讨论-使用Selenium采集数据被检测]] — 知乎讨论使用Bright Data的抓取浏览器绕过反机器人检测
+- [[知乎讨论-如何做企业战略规划]] — 知乎讨论战略规划方法论与实施挑战
+- [[知乎讨论-当下是超级个体的时代吗]] — 知乎讨论超级个体与Agent Shock概念
+- [[知乎讨论-比亚迪发展策略分析]] — 知乎分析对比金融市场逻辑与工业制造逻辑
+- [[知乎讨论-张雪的经历对普通人有借鉴意义吗]] — 知乎讨论张雪的逆袭创业历程与真诚、坚持、战略转型
+- [[知乎讨论-中年以后什么是最好的锻炼]] — 多视角知乎讨论中年人锻炼方法，强调基础、力量、可持续性
+- [[知乎讨论-有哪些算法惊艳到了你]] — 知乎讨论改变计算机科学认知的算法
+- [[知乎讨论-你写过什么不错的开源项目]] — 知乎讨论AI可视化与硬件开发开源项目分享
+- [[知乎讨论-为什么推崇国外原版教材]] — 知乎讨论对比国外与国内教材设计、教学法、资源可及性
+- [[知乎讨论-普通人第一次用OpenClaw应该注意什么]] — 知乎讨论OpenClaw安全指南与部署建议
+- [[知乎讨论-大家的obsidian笔记都是怎么做的]] — 知乎讨论Obsidian工作流与AI集成、Git版本控制、插件使用
+- [[知乎讨论-你人生中太晚明白的道理是什么]] — 知乎问答精选，涵盖作品创造、接受不完美、主动设计生活
+- [[知乎讨论-Claude Code生态系统与工程影响]] — 知乎讨论Claude Code生态系统、对工程的影响、实践经验
+- [[知乎讨论-人生道理与创造力]] — 知乎答案详细分析，涵盖创作个人作品、接受不完美、建立主动型人格
+- [[知乎讨论-Harness Engineering开发哲学]] — 知乎讨论AI驱动开发方法论，聚焦Harness Engineering
+- [[知乎讨论-为什么AI Agent雷声大雨点小]] — 知乎讨论AI Agent实际落地效果不及预期的原因
+- [[知乎讨论-内功与呼吸法]] — 知乎讨论内功与呼吸方法的详细解析
+- [[知乎讨论-开悟与大脑预测模型]] — 知乎讨论开悟与大脑预测模型的关系
+
+- [[Claude Code工作流技术与架构分析]] — 17项高级技巧、架构原则、核心贡献者分析
+- [[Claude Code Agent技术分析与多代理架构]] — Agentic Loop架构、工具系统设计、多代理系统分析
+- [[Claude Code隐藏功能指南]] — /btw、/simplify、/model opusplan、/branch等效率命令指南
+- [[Agent Skills与MCP技术对比与企业应用]] — Agent Skills与MCP的技术对比及企业应用分析
+- [[Anthropic Skills工程方法]] — Anthropic Skills框架的工程化能力模块开发指南
+- [[金融分析高级AI Agent架构]] — 杞鋂的技术实现，展示LangGraph、RAG、SQL代理、实时搜索的多代理系统
+- [[GStack角色化AI开发工作流]] — 八个角色化斜杠命令的技能包，强制结构化多阶段开发工作流
+- [[使用DesignPrompts生成无AI感界面]] — 使用designprompts.dev和Claude Code创建非通用AI生成UI的工作流
+- [[Vibe Coding做的网站太难看怎么办]] — 提出两方法工作流修复AI vibe coding的默认输出问题
+- [[Anthropic产品管理AI化转型]] — AI模型指数级改进颠覆传统产品管理假设的分析
+- [[Anthropic对中国控股公司的限制]] — 分析Anthropic 2024年9月对中国公司的限制及社区蒸馏Claude Opus推理
+- [[谷歌Stitch氛围设计更新]] — 谷歌Stitch AI设计平台更新与市场影响分析
+- [[DeepSeek实用应用与提示词指南]] — DeepSeek AI的实用应用与提示词工程指南
+- [[Supermemory的ASMR系统分析]] — Supermemory团队提出的超级记忆系统ASMR批判性分析
+- [[OpenAkita开源自我进化AI助手框架]] — 开源自我进化AI助手框架，支持自主学习与多LLM
+- [[Mizore的Claude Code一键配置开源]] — Mizore开源的Claude Code一键配置工具与论文阅读Skill
+- [[Harness Engineering与复合工程]] — AI驱动开发方法论分析，聚焦Harness Engineering与Compound Engineering
+- [[Harness Engineering详解]] — Harness Engineering全面解析，从Agent Loop到生产系统
+- [[前端设计Skill美颜神器]] — 社交媒体推广的前端设计工具评测与审美判断
+- [[TypeWords打字式背单词]] — 开源网页端英语词汇学习工具，通过打字练习强化记忆
+- [[2026国产大模型Coding Plan对比]] — 2026年中国AI Coding Plan对比与NVIDIA NIM集成
+
+### 视频来源
+- [[2026顶级Vibe Coding工具深度对比]] — 2023-2026上半年主流AI大模型演进对比，MiniMax/ChatGPT/Claude/Kimi Coding Plan实测
+- [[Obsidian Claudian插件案头工作革命]] — Claudian插件集成Claude Code实现端到端案头工作自动化
+- [[Obsidian MCP中控系统]] — MCP技术让Obsidian成为AI中控系统，一句话跨App操作
+- [[Advanced Slides Obsidian阅读器]] — Advanced Slides插件在Obsidian创建阅读器和演示文稿
+- [[AI完成APK完整开发]] — AI从需求到APK完成完整移动应用开发流程
+- [[海外AI博主推荐指南]] — 100个海外AI博主精选推荐6个，覆盖从入门到商业落地
+- [[Google Opal工作流工具实测]] — Google Opal工作流工具实测，AI对话自动生成UGC广告素材工作流
+- [[Meta工程师Claude Code使用技巧]] — Meta Staff Engineer分享50个Claude Code技巧，从基础到高级并行工作流
+- [[Claude Code Obsidian论文阅读自动化]] — Claude Code+Obsidian自动化论文阅读流程，每天推荐高质量论文
+- [[Obsidian CLI让AI洞察知识网络]] — Obsidian CLI让AI看懂整个知识库，自动生成Canvas知识图谱
+- [[Claude Code编排n8n工作流]] — Claude Code/OpenCode智能体自动创建n8n工作流，告别手搓
+- [[OpenClaw高级使用经验多Agent协作]] — OpenClaw多Agent协作三大模式、模型容灾机制、云端远程控制
+- [[Claude Code探索测试重构调试教程]] — 2026公认最好的Claude Code教程，覆盖代码探索测试重构调试
+- [[Obsidian从0到1完整攻略]] — Obsidian上手第一天必做7件事，同步方案到AI集成
+- [[未来新的高收入技能组合]] — AI时代创造者成为稀缺资源，后劳动时代技能组合分析
+- [[LTX Desktop：全球首款原生AI剪辑软件]] — LTX开源AI视频编辑器，支持生成备用镜头、Fill with Video填补功能
+- [[mcp2cli：CLI取代MCP的Token优化方案]] — Python项目将MCP协议Token浪费降低99%，懒发现机制
+- [[15条高频实用的Claude Code技巧]] — Claude Code实用技巧清单，从基础配置到高级并行开发
+- [[web-access插件：解决Agent抓网页痛点]] — 解决本地Agent抓网页的登录框卡死、验证码拦截痛点
+
+### 新增来源 (2026-04-20)
+- [[claude-md-高效配置-杞鋂]] — CLAUDE.md配置方法，包含项目信息、开发约定、禁止事项的标准化结构
+- [[claude-code-cursor-trae对比]] — Claude Code/Cursor/TRAE三款AI编程工具的详细对比分析
+- [[开悟讨论-知乎]] — 关于开悟是否真实存在的多视角知乎讨论
+- [[claude-md高效配置-zephyr-ai]] — Zephyr-AI推荐的CLAUDE.md模板化标准结构
+- [[无大算力LLM研究方向]] — 算力有限时的LLM研究方向，涵盖数据中心AI、评测学、RAG、Agent、微调、量化、可解释性
+- [[deepseek-gis行业应用]] — DeepSeek在GIS行业的应用前景与自主GIS系统概念
+- [[claude-code-skills推荐]] — Claude Code Skills推荐合集与编写建议
+- [[算法惊艳案例]] — HyperLogLog、Bloom Filter、Word2Vec、Nim游戏、S.G.定理等经典算法分享
+- [[claude-md高效配置-ccjk]] — CCJK工具辅助生成CLAUDE.md配置的方法介绍
+- [[agent-skill-vs-mcp对比]] — Agent Skill与MCP协议的对比分析，解释MCP为何更火爆
+- [[天涯论坛替代-知乎版]] — 天涯论坛关闭后的替代网站推荐与分析
+- [[战略管理学习框架]] — 30岁转行战略咨询的系统学习框架与推荐书籍
+- [[cli设计原则]] — 谷歌提出的CLI设计七原则，兼顾AI和人类友好
+- [[优质信息获取渠道]] — 技术类、学术类、行业类优质信息来源推荐
+- [[天涯论坛替代-AI版]] — AI视角下的天涯替代网站分析与社区形态变化
+- [[国外原版教材获取]] — 国外原版教材推崇原因分析与获取途径
+- [[书籍推荐-知乎]] — 五遍以上书籍推荐，涵盖文学、方法论、数学专业类
+- [[最难调试bug案例]] — 并发、内存、浮点精度、时区编码、硬件相关等难调试Bug案例
+- [[playwright反爬虫突破]] — Playwright CLI突破反爬虫的技术方法与CDP远程调试
+- [[bmad-method项目分析]] — 一人公司开源神器bmad-method项目分析，内置项目经理功能
+- [[opencli-skill龙虾版]] — OpenCLI Skill特色分析与设计亮点
+- [[skills本质分析]] — Skills本质定义：可复用的能力封装、封装性、可复用、触发性
+- [[codex-vs-claude偏好]] — Codex与Claude编程工具的用户偏好讨论
+- [[playwright爬虫检测解决]] — Playwright爬虫检测问题的两层分析与多种解决方案
+- [[claude-md高效配置-yahah版]] — yahah的CLAUDE.md上下文激活机制配置理念
+- [[浏览器自动化工具弊病]] — Selenium/Playwright/Puppeteer做爬虫的主要弊病分析
+- [[Marketing Skills：Claude Code营销专家技能包]] — 24个营销专用技能，增长黑客方法论AI化
+- [[Creative Tim UI：前端开发神器]] — 100+预构建React组件库，基于shadcn/ui打造
+- [[AI全流程电影《神兵列传之苏侯阴兵》]] — 北郭Ai工作室24分钟院线级AI电影，全流程AI制作
+- [[n8n YouTube热点自动情报系统]] — 自动爬取YouTube热点生成AI分析报告推送飞书
+- [[武林外传懒乞丐的现实公益故事]] — 二十年前小角色成为真大侠，5年凌晨熬粥服务早起工人
+- [[上海航拍绝版影像《繁华如梦》]] — 4K航拍上海11分49秒，无人机管制前拍摄的绝版角度
+- [[AI学习效率流程：三工具组合拳]] — NotebookLM+Gemini+Obsidian组合节省1460小时
+- [[AI办公提效工具集]] — 分解动画、海报分层、产品动画、故事感PPT生成等AI工具集
+- [[Visual Coding：从Vibe Coding进化]] — Kimi K2将Web Coding进化为Visual Coding，像素级复刻网站
+- [[百度硅谷实验室十年往事]] — 2014-2017年百度硅谷AI实验室聚拢吴恩达、Amodei等天才的历史
+
+### 英文页面
 - [[Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code]] — Source document detailing a workflow using designprompts.dev and Claude Code to create non-generic AI-generated UIs.
 - [[AI-Free Interface Design]] — The practice of generating web interfaces with AI that avoid stereotypical, recognizable AI aesthetics.
 - [[Vibe Coding]] — A coding approach using high-level aesthetic prompts to guide AI code generation.
@@ -38,8 +175,245 @@ The LLM updates this file on every ingest.
 - [[ReAct Pattern (Reasoning + Acting)]] — Fundamental agent execution loop alternating between reasoning and action phases
 - [[SubAgent Architecture]] — Design pattern using specialized sub-agents for complex tasks with context isolation and parallel execution
 - [[Skills vs Tools Distinction]] — Framework differentiating agent capabilities (tools) from expertise in using them effectively (skills)
-
-*(none yet)*
+- [[Theory-to-Practice Bridge in Strategy]] — Challenging process of applying theoretical frameworks to real-world business problems
+- [[Zhihu Discussion: Optimizing Claude Code with CLAUDE.md and Efficient Development Workflows]] — A Zhihu debate on configuring Claude Code, featuring contradictory philosophies on CLAUDE.md detail vs. minimalist spec-driven workflows.
+- [[Persistent Memory System (Claude Code)]] — Claude Code's system (CLAUDE.md, Rules, Auto Memory) for retaining context across sessions.
+- [[Spec Coding vs. Vibe Coding]] — A key methodological distinction between disciplined specification-driven development and ambiguous high-level prompting.
+- [[Permission Modes (Claude Code)]] — Configurable security levels in Claude Code that control AI autonomy for reading, editing, and executing commands.
+- [[Humanize Workflow]] — An iterative multi-agent workflow where one AI implements code and another independently reviews it against a spec.
+- [[Zhihu Discussion on Enlightenment and Personal Transformation]] — A multi-perspective Zhihu thread redefining enlightenment as a cognitive shift, explained via neuroscience, behavioral traits, and practical action.
+- [[Enlightenment (开悟)]] — A cognitive state defined by the ability to update one's mental models, characterized by interpretive flexibility and emotional stability.
+- [[Brain Prediction Model]] — Neuroscientific theory that the brain's primary function is prediction, with enlightenment involving a shift to costly model updating over easy reinterpretation.
+- [[Three Stages of Understanding]] — A cognitive development framework: accepting defaults, experiencing dissonance, and achieving flexible, multi-model understanding.
+- [[Personal Transformation through Incremental Action]] — A practical methodology for change emphasizing focused, consistent skill development and execution over passive learning.
+- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]] — Discussion about technical blogging trends, content quality hierarchy, and influential programmer-bloggers.
+- [[Technical Blog Quality Hierarchy]] — Ranking system for technical content sources valuing independent blogs highest.
+- [[AI Content Saturation]] — Phenomenon of social media flooding with AI-generated content, reducing quality signal.
+- [[Programmer-to-Blogger Transition]] — Career path where successful programmers become influential technical bloggers.
+- [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]] — Zhihu expert discussion on the fundamental role of scenario analysis in product design, featuring multiple PM perspectives.
+- [[Scenario Analysis (场景分析)]] — Product design method focusing on the complete user story (goals, motivations, challenges) within a specific context.
+- [[User Story vs. Environment]] — Key distinction in scenario analysis between superficial context and the deeper narrative of user needs.
+- [[Mental Model (心智模型)]] — User's internal understanding of how a system works; revealed through deep scenario analysis.
+- [[User-Centered Design (UCD)]] — Design philosophy where scenario analysis, personas, and use cases are core tools.
+- [[Function-Oriented vs. Problem-Solving Design]] — Dichotomy between building features vs. solving user problems, addressed by scenario analysis.
+- [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]] — Open-source web application for English vocabulary learning through typing exercises with spaced repetition and error tracking
+- [[Typing-Based Language Learning]] — Language acquisition method using keyboard input to reinforce memorization through motor memory integration
+- [[Spaced Repetition via Error Tracking]] — Learning system that adjusts review schedules based on detailed error patterns rather than binary success/failure
+- [[Open-Source Educational Tools]] — Freely available, customizable software for learning, often developed and maintained by communities
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]] — Practical guide to lesser-known Claude Code commands for workflow efficiency, context management, and resource optimization.
+- [[Context Pollution]] — AI workflow problem where unrelated questions corrupt execution context, solved by Claude Code's /btw command.
+- [[Parallel Agent Review]] — Technique using multiple AI agents for simultaneous code review from different perspectives, implemented in Claude Code's /simplify.
+- [[Model-Switching Optimization]] — Strategy using powerful models for planning and lighter models for execution to conserve resources, enabled by Claude Code's /model opusplan.
+- [[Workflow Branching]] — Practice of creating parallel development paths from shared starting points, facilitated by Claude Code's /branch command.
+- [[Social Media Review of Front-End Design Tool]] — A social media promotion and critique of a front-end design tool, highlighting subjective aesthetic judgment.
+- [[Front-End Design Skill/Tool]] — An aesthetic-focused front-end tool/methodology, exemplifying the blurry line between tools and skills.
+- [[Aesthetic Judgment in Tech]] — The subjective evaluation of visual design in software, lacking objective consensus.
+- [[Improving Vibe Coding Aesthetics with Design Prompts]] — Source article proposing a two-method workflow (system prompt + curated prompt) to fix the "ugly" default outputs of AI vibe coding.
+- [[Vibe Coding Enhancement Workflow]] — A two-step method to improve AI-generated design: apply a foundational system prompt, then layer a specific style from a curated repository.
+- [[Design Style System Prompt]] — A comprehensive prompt that sets core design principles (typography, color, etc.) to override an AI's default aesthetic biases.
+- [[Curated Design Prompt Repositories]] — Websites that aggregate pre-engineered design prompts, allowing users to copy proven styles for AI tools without design expertise.
+- [[AI-Generated Design Quality Spectrum]] — Framework scoring AI design output from generic (50/100) to professional (80/100), justifying the need for prompt enhancement.
+- [[Advanced AI Agent Architecture for Financial Analysis]] — 杞鋂's technical implementation demonstrating sophisticated multi-agent systems for financial analysis using LangGraph, RAG, SQL agents, and real-time search.
+- [[Enhanced RAG with Human-like Reasoning]] — Advanced RAG systems with query optimization, reranking, metadata enrichment, and structured data integration for analytical thinking.
+- [[Multi-Tool Orchestration with State Machines]] — Using state machines (via LangGraph) to dynamically select and sequence specialized tools based on problem type and results.
+- [[Self-Verification and Quality Auditing in AI Systems]] — Mechanisms where AI agents evaluate their own outputs for relevance and confidence, triggering re-planning when needed.
+- [[Structured Data + Unstructured Document Fusion]] — Combining vector databases for documents with relational databases for structured data to enable comprehensive analysis.
+- [[AI Agent Cognitive Architecture]] — Multi-component systems with specialized roles coordinated by a reasoning engine to simulate human analytical thinking.
+- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]] — A Zhihu guide advocating for curated, high-fidelity information sources over algorithm-driven platforms for self-directed learning.
+- [[Information Source Curation]] — The practice of systematically identifying and organizing authoritative information sources for learning and research.
+- [[Self-Directed Learning Infrastructure]] — The personal ecosystem of resources, skills, and mindset needed for autonomous knowledge acquisition.
+- [[Information Fidelity & Verification]] — The principle of prioritizing verified, primary-source information over low-fidelity or distorted content.
+- [[Zhihu Discussion: Learning Method Transition Crisis]] — Analysis of why successful junior high students struggle in high school, focusing on memorization vs. derivation learning strategies.
+- [[Derivation-First Learning]] — Pedagogical philosophy prioritizing understanding and deriving knowledge from first principles over rote memorization.
+- [[Enumeration Path Dependency]] — Over-reliance on memorization and pattern-matching that fails when problem complexity increases.
+- [[Knowledge Compression]] — Process of internalizing derived procedures into automatic skills, akin to 'hardware acceleration' for the mind.
+- [[Internal Conflict (内耗) in Learning]] — Psychological drain from anxiety and self-doubt that consumes cognitive resources needed for learning.
+- [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]] — A Zhihu thread curating niche websites after Tianya Forum's closure, illustrating the shift to a fragmented, interest-based internet.
+- [[Post-Forum Internet Landscape]] — The shift from centralized forums to a fragmented ecosystem of specialized websites and communities.
+- [[Curated Digital Exploration]] — Discovering the web through human-curated lists and recommendations rather than algorithms.
+- [[Niche Knowledge & Creative Hubs]] — Specialized online spaces dedicated to specific domains, serving as high-quality alternatives to general social media.
+- [[Zhihu Discussion: Internal Martial Arts and Breathing Techniques]] — Multi-perspective Zhihu discussion on existence of internal martial arts, featuring personal accounts, traditional explanations, and skeptical physiological interpretations
+- [[内功 (Internal Martial Arts / Neigong)]] — Chinese martial arts concept of internal energy cultivation, debated as traditional practice vs. physiological phenomenon
+- [[呼吸法 (Breathing Method)]] — Detailed breathing techniques emphasizing tongue placement, smooth transitions, and differentiated approaches for motion/rest
+- [[身体姿态与核心控制 (Body Posture and Core Control)]] — Body alignment system based on 'two horizontals, one vertical' structure for health and movement efficiency
+- [[晨练体系 (Morning Exercise System)]] — Four-step morning routine: shaking, stretching, stance training, and joint rotation emphasizing slowness and body listening
+- [[丹田与核心肌群 (Dantian vs. Core Muscles)]] — Debate between traditional energy center concept and modern core muscle physiological interpretation
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]] — A detailed review and guide on Anthropic's engineering-focused Skills framework for AI agents.
+- [[Progressive Disclosure Mechanism]] — A design pattern in Anthropic Skills for layering information to manage agent context efficiently.
+- [[Skill Engineering Lifecycle]] — The systematic, iterative process for developing and refining Skills in Anthropic's framework.
+- [[Description Trigger Optimization]] — The process of tuning a Skill's description to ensure reliable invocation by the AI agent.
+- [[Skills (Anthropic Framework)]] — Anthropic's standardized format for creating reusable, engineered capability modules for AI agents.
+- [[AI-Driven Product Management Transformation at Anthropic]] — Analysis of how exponential AI model improvements disrupt traditional product management assumptions
+- [[AI-Exponential Product Management]] — New paradigm where rapidly improving AI models require rapid experimentation over long-term planning
+- [[Edge Exploration Projects (Side Quests)]] — Short-term autonomous experiments to test AI model capabilities and discover new features
+- [[Prototype-First Development]] — Workflow prioritizing working prototypes over extensive documentation for rapid validation
+- [[Model-Capability-Driven Product Evolution]] — Practice of regularly updating features to leverage new AI model capabilities
+- [[Simplest Working Solution Principle]] — Anthropic's principle favoring simple implementations over complex workarounds for model limitations
+- [[Google Stitch AI Design Platform Update and Market Impact]] — Article analyzing Google Stitch's repositioning as a vibe design platform and its impact on Figma's stock
+- [[Vibe Design]] — Extension of vibe coding to design domain using natural language to generate interfaces
+- [[AI-Native Design Workflow]] — Design workflow centered on AI generation and iteration, compressing idea-to-prototype cycle
+- [[AI-Induced Industry Disruption]] — Phenomenon where AI product updates rapidly erode established SaaS company value
+- [[Prompt-Dependent Output Quality]] — AI design tool output quality dependency on user prompt crafting skill
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]] — Analysis of Chinese AI coding subscription plans in 2026 and NVIDIA NIM's disruptive free model access
+- [[Token Burning Prevention]] — Primary benefit of coding plans - preventing unexpected costs from AI agents running in loops
+- [[Free Model Integration via NIM]] — Strategy of using NVIDIA's free NIM platform to access premium Chinese AI models
+- [[Model Context Protocol (MCP)]] — Protocol for AI model integration with local tools, supported by modern coding plans
+- [[Zhihu Discussion: OpenClaw/Moltbot Practical Applications and Limitations]] — Expert discussion on practical OpenClaw implementations revealing technical constraints and business automation patterns
+- [[AI Agent Complexity Management]] — Strategies for controlling AI agents in complex systems with large solution spaces and token limitations
+- [[Business SOP Automation]] — Converting business Standard Operating Procedures into executable AI agent skills through structured decomposition
+- [[RPA-AI Hybrid Architecture]] — Industrial approach combining Robotic Process Automation with AI agents for stability and efficiency
+- [[Skill Engineering for AI Agents]] — Methodology for creating reliable AI agent capabilities through structured definition and testing
+- [[Token Management in Complex Systems]] — Architectural strategies for handling large data volumes exceeding LLM context limits
+- [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]] — A critical analysis of Supermemory.ai's benchmark-topping ASMR system, revealing it as a 'social experiment' highlighting the gap between academic scores and production engineering.
+- [[Agent-Based Active Retrieval]] — A retrieval paradigm using reasoning-capable AI agents to actively interrogate knowledge, proposed as superior to passive vector search for complex tasks.
+- [[Benchmark vs. Engineering Reality Gap]] — The critical disconnect between achieving high academic benchmark scores and meeting practical production requirements like latency, cost, and reliability.
+- [[Multi-Agent Specialization & Orchestration]] — An architectural approach decomposing complex tasks among specialized AI agents working in parallel, coordinated by an orchestrator.
+- [[Pass@k & Majority Voting for Benchmarking]] — Evaluation techniques that can inflate benchmark scores by using multiple attempts/votes, often at odds with production feasibility.
+- [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]] — A detailed Zhihu discussion where experienced engineers share algorithms that fundamentally changed their understanding of CS, covering probabilistic data structures, vector embeddings, and optimization tricks.
+- [[Probabilistic Data Structures]] — Algorithms that use probability theory to achieve massive memory savings by accepting controlled error rates, exemplified by HyperLogLog and Bloom Filters.
+- [[Algorithmic Mindset Shift]] — The conceptual transformation from brute-force approaches to sophisticated strategies leveraging probability, geometry, or hardware-aware optimizations.
+- [[Vector Embedding]] — Representing discrete items as continuous vectors where semantic relationships correspond to geometric relationships, popularized by Word2Vec.
+- [[Engineering Compromise]] — The deliberate acceptance of trade-offs between perfect correctness and practical efficiency in software system design.
+- [[Bit-Level Hacking]] — Optimization techniques that exploit low-level binary data representation for extreme performance gains, exemplified by the fast inverse square root algorithm.
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]] — Zhihu analysis of DeepSeek's capabilities with prompt engineering frameworks and industry applications
+- [[Prompt Engineering for Chinese AI]] — Structured techniques for optimizing interactions with Chinese language models focusing on cultural context
+- [[AI Reasoning Models]] — Language models optimized for logical inference and complex problem-solving capabilities
+- [[Chinese Language AI Specialization]] — AI models optimized for Chinese linguistic characteristics and cultural nuances
+- [[AI Tool Chaining for Content Creation]] — Combining multiple AI tools in workflows to leverage different strengths for content creation
+- [[Quantitative Analysis via AI]] — Application of AI models with financial backgrounds to investment analysis and market prediction
+- [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]] — Zhihu discussion about web scraping challenges and commercial anti-detection solutions, featuring debate about promotional content.
+- [[Web Scraping Anti-Detection]] — Techniques and tools to avoid detection by anti-bot systems while programmatically collecting web data.
+- [[Managed Scraping Browser]] — Cloud-based browser service that automates anti-detection measures for web scraping.
+- [[Browser Fingerprinting]] — Website technique to identify browsers based on unique configuration characteristics, used for anti-bot detection.
+- [[Zhihu Login Page Error Message (Source)]] — A fragment of a Zhihu 404 error page using the 'knowledge wasteland' metaphor, featuring recruitment and platform benefits.
+- [[Knowledge Wasteland (知识荒原)]] — A metaphorical term for a digital space devoid of content, used in UI/error design on knowledge platforms.
+- [[Zhihu Discussion: Claude Code's Ecosystem, Impact on Engineering, and Practical Experiences]] — A multi-perspective Zhihu thread on Claude Code's capabilities, ecosystem growth, and its transformative impact on engineering identity and workflow.
+- [[Engineer Identity Transformation]] — The shift in a software engineer's role from hands-on coding to orchestrating AI agents, defining requirements, and validating outputs.
+- [[Scribe Fallacy]] — Analogy arguing that AI coding tools commoditize execution (like the printing press did for scribes) but don't eliminate the core value of engineering judgment.
+- [[AI Programming Ecosystem]] — The network of third-party tools, skills, and workflows built around an AI coding assistant like Claude Code, increasing its utility and stickiness.
+- [[Decomposition as Core Skill]] — In AI-assisted development, the primary skill becomes breaking down complex problems into tasks executable by parallel AI agents.
+- [[Commoditization of Execution]] — The process where AI makes software implementation cheap, shifting competitive advantage to upstream activities like ideation and judgment.
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]] — Comprehensive guide to 17 advanced Claude Code techniques and architectural analysis
+- [[Plan Mode]] — Claude Code feature for read-only codebase exploration before implementation
+- [[Context Window Management]] — Techniques for treating AI context as scarce resource in Claude Code
+- [[Single-Loop Architecture]] — Claude Code's design principle prioritizing one main loop for debuggability
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]] — Technical analysis of Claude Code's agent architecture and multi-agent systems
+- [[Agentic Loop]] — Core architecture pattern for autonomous AI agents: input → thinking → tool selection → execution → observation
+- [[Multi-Agent Orchestration]] — Architecture where lead agent coordinates specialized sub-agents for parallel execution
+- [[Tool as World Model]] — Concept that tools and their descriptions define an agent's understanding of reality
+- [[Distributed Context Management]] — Strategy using multiple context windows with summarization to overcome token limits
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]] — Analysis comparing Anthropic's Skills framework with MCP, highlighting token efficiency and enterprise applications
+- [[Agent Skills Framework]] — Anthropic's structured approach to packaging agent capabilities with progressive disclosure architecture
+- [[Token Efficiency Optimization]] — 4x token reduction advantage of Skills framework demonstrated in browser automation
+- [[Enterprise Skill Engineering]] — Practice converting business SOPs and knowledge into standardized Skills for consistent AI execution
+- [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]] — Zhihu discussion about strategic planning frameworks including 7-step method and BLM model with Chinese enterprise case studies
+- [[7-Step Strategic Planning Framework]] — Practical strategic planning methodology with seven sequential steps for enterprise strategy development
+- [[BLM (Business Leadership Model)]] — Comprehensive strategic planning methodology used by IBM and Huawei connecting strategy formulation with execution
+- [[Strategic Gap Analysis]] — Process of identifying differences between current state and strategic objectives including performance and opportunity gaps
+- [[Three-Level Sales Target System]] — Target-setting approach with bottom-line, balanced, and challenge targets for sales performance management
+- [[Organizational System Gap]] — Concept that enterprise competition is based on system differences which create organizational capability advantages
+- [[Mizore's Claude Code Automation Toolkit and Paper Reading Skill]] — Zhihu post detailing open-source Claude Code automation with paper reading skill
+- [[Claude Code Automation/Configuration Management]] — Practice of automating Claude Code setup, configuration, and maintenance
+- [[AI-Assisted Paper Reading]] — Workflow where AI converts arXiv links to structured Markdown summaries
+- [[Context & Resource Awareness in AI Coding]] — Monitoring real-time metrics in coding interface for optimal AI tool usage
+- [[Cross-Model Code Review]] — Using multiple AI models for comprehensive code critique (Claude × Codex)
+- [[Error Memory for AI Improvement]] — System logging user corrections to help AI learn from past mistakes
+- [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]] — Analysis of AI Agents enabling 'super individuals' and a predicted 'Agent Shock' in global service trade.
+- [[Super Individual (超级个体)]] — An individual whose output is scaled to company-level by AI Agents (1 person + N Agents = 1 company).
+- [[Service Trade Globalization]] — The next globalization phase, where AI Agents make previously local services tradable globally.
+- [[Productization of Expertise]] — The process of transforming personal skills into a standardized, scalable product; key to becoming a super individual.
+- [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]] — A Zhihu analysis contrasting financial market logic with industrial manufacturing logic, using BYD as a case study.
+- [[Industrial Moats/护城河]] — Competitive advantages built through technological innovation and vertical integration, as opposed to financial engineering.
+- [[Vertical Integration/闭环]] — Strategy of controlling the entire supply chain, central to BYD's approach and industrial logic.
+- [[Financialization of Industry]] — The dominance of financial motives over engineering quality, exemplified by Boeing's decline.
+- [[Elevator Effect/电梯效应]] — Phenomenon where individual stock performance is heavily influenced by broader market trends.
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]] — Zhihu discussion analyzing Zhang Xue's underdog entrepreneurial journey and the concepts of authenticity, perseverance, and strategic pivots in career success.
+- [[Authenticity as Capital]] — Concept that genuine sincerity and integrity can function as powerful social/professional capital, enabling trust-building and support attraction.
+- [[Perseverance Performance]] — Strategic demonstration of extreme dedication to convert skepticism into support and establish credibility.
+- [[Strategic Pivot from Racing to Manufacturing]] — Career insight to shift from being a performer to creating tools for performance, leveraging different strengths.
+- [[Industrial Cluster Advantage]] — Competitive advantage from locating manufacturing within geographic industry clusters for supply chain and knowledge benefits.
+- [[Dream-First, Business-Second Entrepreneurship]] — Entrepreneurial philosophy where business structure serves a primary passion or dream rather than profit maximization.
+- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] — Multi-perspective Zhihu discussion on exercise approaches for middle-aged adults emphasizing foundations, strength, and sustainability.
+- [[超负荷原则 (Overload Principle)]] — Exercise science principle that physical improvement requires stress beyond current capacity.
+- [[肌少症 (Sarcopenia)]] — Age-related muscle loss identified as primary cause of physical decline in middle age.
+- [[代偿 (Compensation)]] — Movement dysfunction where weaknesses cause abnormal muscle/joint patterns leading to injury.
+- [[间歇变速法 (Interval Training)]] — Cardio method alternating normal and high-intensity periods for greater stimulus.
+- [[正道内功 (Foundational Internal Skills)]] — Metaphor for basic movement patterns (breathing, balance, hip hinge) as exercise foundation.
+- [[Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development]] — Zhihu discussion where Chinese developers share open-source projects including CodePilot (AI charts), cdbus_gui (serial debugging), and Three.js3D (3D editor).
+- [[Generative UI]] — AI systems that generate interactive user interfaces and visualizations within chat interfaces.
+- [[Streaming Rendering]] — Visualization technique where graphical elements are drawn incrementally in real-time during generation.
+- [[Code Fence + Sandbox Iframe Architecture]] — Alternative Generative UI implementation using markdown code fences and sandboxed iframes for execution.
+- [[Local Data Sovereignty in Automation]] — Practice of deploying automation tools locally to maintain data control, avoiding cloud dependencies.
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]] — Analysis of Anthropic's September 2024 restrictions on Chinese companies and community distillation of Claude Opus reasoning into Qwen3.5-27B
+- [[Geopolitical AI Restrictions]] — Policy-based limitations on AI tool access based on national origin or corporate ownership structures
+- [[Local Model Deployment]] — Running AI models on consumer hardware rather than cloud APIs, enabling access despite commercial restrictions
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]] — Analysis of AI-driven development methodologies focusing on harness engineering and compound engineering
+- [[Agent Harness]] — Infrastructure framework for AI agents providing tool calling, state management, and execution environment
+- [[Agent-First Development]] — Engineering approach treating AI agents as primary developers with humans in oversight roles
+- [[Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)]] — Comprehensive Zhihu discussion providing practical implementation details and industry perspectives on harness engineering
+- [[Agent = Loop(Model + Harness)]] — Updated agent formula emphasizing the critical role of engineering environment alongside model capabilities
+- [[Entropy Management]] — The ongoing process of maintaining agent environments by removing outdated rules and keeping systems model-friendly
+- [[Cybernetics Connection]] — Argument that harness engineering represents the third appearance of cybernetics principles in engineering history
+- [[Zhihu Discussion: Personal Development and Life Philosophy Insights]] — A curated Zhihu Q&A on life lessons, featuring philosophies on creative work, accepting complexity, and proactive life design.
+- [[Personal Work/Product (作品)]] — The idea that creating a tangible, unique work is the core of modern identity and the key to social and economic capital.
+- [[Acceptance of Imperfection and Complexity]] — A philosophy that life's problems are often complex realities to be managed, not puzzles with perfect solutions.
+- [[Offensive/Proactive Personality (进攻型人格)]] — A mindset of taking initiative and designing one's life, contrasted with a passive, reactive stance.
+- [[Self-Design through Environmental Engineering]] — The practice of designing one's environment to cultivate desired habits and outcomes automatically.
+- [[Social Attention as Currency]] — The theory that attention is a fundamental form of capital in the digital age, acquired through public creative work.
+- [[Zhihu Discussion: Comparative Analysis of Foreign vs. Domestic Textbooks]] — A Zhihu thread comparing textbook design, pedagogy, and resource accessibility between foreign (mainly American) and domestic (Chinese) materials.
+- [[Self-Study Friendly Textbook Design]] — A textbook design philosophy focused on enabling independent mastery through scaffolding, clear explanation, and self-assessment.
+- [[Pedagogical Approach Comparison]] — A framework comparing educational philosophies (e.g., American 'scaffolded' vs. Soviet 'rigorous') embedded in textbook design.
+- [[Open Educational Resources (OER)]] — Free, openly licensed teaching and learning materials that support accessible education and self-directed learning.
+- [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]] — Comprehensive Zhihu discussion providing security guidelines and deployment advice for OpenClaw AI agent framework
+- [[AGENT 元年 (AGENT First Year)]] — Conceptual framing of 2026 as beginning of widespread AI agent implementation, with OpenClaw as leading example
+- [[虚拟机隔离部署 (Virtual Machine Isolation Deployment)]] — Critical security practice of deploying AI agents in virtualized environments for isolation and risk mitigation
+- [[Token消耗管理 (Token Consumption Management)]] — Strategies for monitoring and controlling API token usage to avoid unexpected costs in AI agent deployments
+- [[快照功能依赖 (Snapshot Function Dependency)]] — Operational reliance on virtualization snapshots for safe experimentation with AI agent configurations
+- [[技能安装风险 (Skill Installation Risks)]] — Security risks from installing third-party skills in AI agent frameworks, including malware and system compromise
+- [[OpenAkita: Open-Source Self-Evolving AI Assistant Framework]] — Open-source AI assistant framework with self-evolution, autonomous learning, and multi-LLM support.
+- [[Autonomous Task Planning & Execution]] — AI systems that decompose complex tasks into multi-step plans and track execution in real-time.
+- [[Dynamic Multi-LLM Support with Failover]] — Architecture using multiple LLM providers with intelligent routing and automatic failover.
+- [[Preset AI Personalities]] — Carefully designed character roles with complete behavioral patterns for different AI use cases.
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]] — Zhihu discussion on Obsidian workflows with AI integration, Git version control, and plugin usage
+- [[AI-Enhanced Note-Taking]] — Using AI agents to generate, format, and structure notes within tools like Obsidian
+- [[Git-Based Knowledge Management]] — Using Git version control to manage Obsidian vaults with privacy and synchronization considerations
+- [[Note Organization Philosophy]] — Contrasting approaches to organizing notes: hierarchy vs. tags vs. graph-based linking
+- [[Markdown as Human-AI Interface]] — Markdown as common language between humans and AI for collaborative knowledge work
+- [[Zhihu: 从后端开发转型AI Agent工程师的路线图]] — 知乎深度讨论，汇总了从后端开发转型AI Agent工程师的详细路线图、分层技能模型、学习资源及面试策略。
+- [[Karpathy的LLM知识库架构分析]] — Karpathy提出的三层LLM知识库架构，包含知识编译器模式与RAG对比分析
+- [[AI Agent框架对比分析]] — 主流AI Agent开发框架（LangChain、Claude Agent SDK、Vercel AI SDK等）对比分析
+- [[Claude Code深度使用指南]] — Claude Code高级配置、子代理、Hooks、Plan Mode等深度使用技巧
+- [[Claude Code Skills官方文档]] — Claude Code Skills扩展机制的官方文档摘要
+- [[一人公司产品开发实践]] — 独立开发者使用TRAE开发9款APP的产品哲学与实践
+- [[Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity]] — Detailed analysis of three Zhihu answers on creating personal work, accepting imperfection, and building a proactive personality.
+- [[开源大模型3000模型梳理]] — 飞天闪客视频，通过层层筛选将HuggingFace上3000+开源大模型收敛到核心架构
+- [[ENTP专属情报分析法]] — ENTP人格类型专属的场景分析法，源自情报界结构化分析技术
+- [[Obsidian与Gemini CLI工作流]] — ADHD患者的第二大脑系统，结合Obsidian与Gemini CLI实现知识管理工程化
+- [[创业墓地网站]] — 全球倒闭初创公司数据库，收录1500+案例帮助创业者避坑
+- [[纳瓦尔AI与未来工作Podcast]] — 纳瓦尔2026年Podcast，提出"心智的摩托车"比喻，讨论AI与未来工作关系
+- [[Trae Skills教程]] — 字节跳动Trae AI编程工具教程，Solo模式与Builder模式使用指南
+- [[国产大模型Coding Plan横评]] — GLM-5、MiniMax-M2.5、Qwen3.5-plus在复杂项目开发中的实测对比
+- [[特斯拉48V架构革命]] — 特斯拉Cybertruck全域48V架构分析，探讨汽车硬件架构革命
+- [[声乐技巧打开喉咙]] — 正确打开喉咙的声乐技巧，澄清常见误区
+- [[AI Agent构建指南]] — 30分钟掌握AI Agent构建90%核心知识，四大组件与最佳实践
+- [[2026新能源车企生存分析]] — 2026年新能源车企市场竞争格局与生存分析
+- [[一人AI公司四层架构]] — 一人AI公司完整基础设施架构，从服务器到自动化流水线
+- [[n8n自动化多平台同步工作流]] — n8n自动化工作流，实现新闻获取到多平台发布的全自动化
+- [[Obsidian完美同步方案]] — iPhone s插件实现Obsidian多端实时同步，支持全平台、版本历史
+- [[千岛湖大环线自驾游路线]] — 江浙沪最美自驾线全程150公里，10站路线详解
+- [[Gemini CLI搭配设计Skill实战]] — 使用Gemini CLI搭配设计Skill快速构建企业级网站界面
+- [[从零入门深度学习AI路线图]] — 2025最新路线图，强调高效学习而非系统化误区，包含Python/数学/深度学习方向选择
+- [[2026款保时捷911生产过程]] — 德国祖文豪森工厂完整生产流程，发动机组装、车身车间、喷涂、内饰、总装
+- [[N8N爬虫工作流教程]] — N8N开源AI工作流平台爬虫搭建教程，实现网站内容自动爬取写入表格
+- [[SubBatch B站字幕批量处理插件]] — 浏览器插件批量获取B站视频字幕，支持导入NotebookLM等AI知识库
+- [[仰望U9X道路试驾体验]] — 3000匹马力国产新能源超跑街道驾驶体验
+- [[权法错位的社会解读]] — 法律与权力、道理、人情关系错位的社会深度分析
+- [[Supermemory AI记忆系统]] — AI时代记忆API，抛弃向量数据库完全内存运行的内存引擎
+- [[AI决策五步法]] — AI决策流程Skill开源，信息层、结构层、推理层、评估层、呈现层五步决策
+- [[微软开源本地运行小模型]] — 微软7D参数开源小模型，百分百本地运行，直接接管鼠标键盘
+- [[OpenSpace自我进化智能体]] — 香港大学开源项目，让Claude Code等Agent实现自我进化，自动提取技能
+- [[Vibe Coding AI资讯站点]] — 两个AI资讯网站，从20+英文源筛选新闻、从arXiv筛选论文，不加味精
+- [[Vibe Design设计师变革]] — 谷歌Studio重大更新推出Web Design概念，一句话即可设计网页
 
 ## Answers
 
@@ -64,3 +438,260 @@ The LLM updates this file on every ingest.
 - [[腾讯 (Tencent)]] — Chinese tech company contributing foundational research on Tool-Integrated Reasoning
 - [[清华大学 (Tsinghua University)]] — Chinese university collaborating on mathematical foundations of tool-integrated reasoning
 - [[字节跳动 (ByteDance)]] — Chinese tech company representing industry standards for AI Agent engineering roles
+- [[Michael E. Porter]] — Renowned strategy professor and author of the foundational Porter Trilogy
+- [[白玉京]] — Zhihu user advocating for comprehensive, detailed CLAUDE.md configuration for Claude Code.
+- [[yahah]] — Zhihu user and PhD candidate advocating for minimalist CLAUDE.md and spec-driven external workflows.
+- [[笙囧同学]] — Zhihu user who found through trial and error that shorter, clearer CLAUDE.md files are more effective.
+- [[杜千]] — Zhihu user who provided a neuroscientific explanation of enlightenment using the Brain Prediction Model.
+- [[驷马奔腾]] — Zhihu user who described enlightened individuals as low-key, disciplined, mission-driven people of integrity.
+- [[青峰哥]] — Zhihu user who offered practical, incremental advice for personal and financial transformation through focused work.
+- [[Andrej Karpathy]] — AI researcher who sparked discussion about technical content quality and RSS revival.
+- [[Paul Graham]] — Y Combinator co-founder and influential essayist on startups and technology.
+- [[陈皓 (Cool Shell)]] — Chinese programmer and influential technical blogger focused on distributed systems.
+- [[David 周子轩]] — Zhihu PM who emphasized the user story vs. environment distinction in scenario analysis.
+- [[刘飞]] — Zhihu 'excellent respondent' who provided a systematic framework for scenario analysis.
+- [[郑坚义]] — Zhihu 'excellent respondent' who framed scenario analysis within the UCD methodology.
+- [[Marty Cagan]] — Author of 'Inspired'; referenced for emphasizing deep user understanding over features.
+- [[Jeff Bezos]] — Amazon founder referenced for the principle of focusing on enduring customer needs.
+- [[Sylearn]] — Zhihu user and PhD physics student who recommended the TypeWords vocabulary learning tool
+- [[Thariq]] — Claude Code product lead who announced the /btw command on social media.
+- [[Boris]] — Claude Code core team member and daily user of the /simplify command for parallel agent review.
+- [[非著名程序员]] — Chinese tech blogger who promoted a front-end design tool as a 'beauty filter'.
+- [[龙腾]] — Commenter who criticized the aesthetic value of a promoted front-end design tool.
+- [[杨杰出海笔记 (Yang Jie Overseas Notes)]] — Author of the source article, a psychology graduate writing about practical AI and design techniques.
+- [[uiprompt.site]] — A large curated design prompt repository with over 70 prompts, though quality may vary.
+- [[uiprompt.dev]] — A curated design prompt repository of ~20 prompts, notable for including mobile design references.
+- [[claudekit.github.io/frontend-design-pro-demo]] — A demo site providing advanced frontend design prompts for Claude, focused on interactive effects.
+- [[Tavily]] — Search tool integrated into AI systems for real-time information retrieval (stock prices, news, competitor dynamics).
+- [[王沪宁]] — Chinese political theorist cited for his work on information quality in a Zhihu learning guide.
+- [[吴恩达]] — AI researcher and Coursera co-founder mentioned in the context of structured online learning philosophy.
+- [[James Gleick]] — Author quoted on the economics of attention in the information age within a Zhihu resource guide.
+- [[宙巡]] — Zhihu contributor and educator who authored the primary analysis on learning method transition.
+- [[希言自然]] — Zhihu contributor who emphasized psychological factors (内耗) in the academic transition crisis.
+- [[Tianya Forum (天涯论坛)]] — Iconic Chinese online forum whose closure symbolized the end of an era for monolithic internet communities.
+- [[Zhihu (知乎)]] — Major Chinese Q&A platform that hosts knowledge-sharing discussions like the one on post-Tianya websites.
+- [[Shuge.org (书格)]] — Free online library for ancient Chinese books, cited as an example of a niche, high-quality knowledge hub.
+- [[China National Library (中国国家图书馆)]] — China's largest library, whose digital resources are highlighted as authoritative online knowledge hubs.
+- [[ZCOOL (站酷)]] — Major Chinese platform and community for designers and visual artists, a prime example of a niche creative hub.
+- [[易安遐观]] — Zhihu user sharing personal account of learning breathing/body control methods from his grandfather
+- [[文雨先生]] — Zhihu answerer affirming traditional martial arts concepts and explaining techniques like 'coordinating the dantian'
+- [[知乎用户 (Anonymous User)]] — Skeptical Zhihu contributor arguing internal energy sensations result from core muscle exercise
+- [[Ai学习的老章]] — Zhihu/WeChat content creator who authored a key guide on Anthropic's Skills framework.
+- [[skill-creator]] — Anthropic's official CLI tool for scaffolding, testing, and iterating on Skills for Claude.
+- [[Cat Wu]] — Product Manager at Anthropic who documented AI-driven product management transformation
+- [[Bihan Jiang]] — Product Director at Decagon who reports AI increases product team capabilities
+- [[Kai Xin Tai]] — Senior Product Manager at Datadog who notes shift from certainty to discovery in product management
+- [[METR]] — Research organization measuring AI model capabilities and exponential improvement
+- [[Ethan Mollick]] — Wharton professor who provided assessment of Google Stitch's vibe design approach
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]] — NVIDIA's model inference platform offering free API access to Chinese AI models
+- [[Alibaba Cloud Bailian]] — Alibaba's AI platform offering comprehensive coding plans with multiple model access
+- [[Cherry Studio]] — Client application configurable to use NVIDIA NIM API for multi-model access
+- [[OpenClaw (Moltbot/ClawdBot)]] — AI agent framework for complex task execution discussed in practical implementation contexts
+- [[序员先生 (Programmer Xiansheng)]] — Technical director who built complex economic monitoring system with OpenClaw, sharing architectural insights
+- [[饼干哥哥AGI]] — OpenClaw hackathon organizer documenting business automation applications and implementation patterns
+- [[ASMR (Agentic Search and Memory Retrieval)]] — A pure agent-based memory architecture that abandoned vector DBs, achieving ~99% on LongMemEval but highlighting the benchmark/reality gap.
+- [[LongMemEval/LongMemEval_s]] — A rigorous benchmark for AI long-term memory involving 115k tokens, timeline jumps, and conflicting information.
+- [[BugBuster喵]] — Zhihu user and experienced engineer who authored the primary answer sharing six algorithms that changed their perspective on computer science.
+- [[好地方bug]] — Zhihu user with mathematics background who contributed a detailed explanation of impartial combinatorial games and the Sprague-Grundy theorem.
+- [[TurtleLiu]] — Zhihu user who contributed a brief, poetic answer about the KMP algorithm's elegance in avoiding redundant comparisons.
+- [[DeepSeek-R1]] — Reasoning-focused variant of DeepSeek with enhanced logical inference capabilities
+- [[幻方量化 (Huanfang Quantitative)]] — Quantitative investment firm that developed DeepSeek, one of China's Big Four Quant Funds
+- [[GPT]] — OpenAI's model used as comparison point, highlighting limitations in Chinese understanding
+- [[豆包 (Doubao)]] — ByteDance's AI model noted for cautious responses compared to DeepSeek
+- [[朱卫军]] — Zhihu user who shared experience with web scraping anti-detection challenges and Bright Data's solution.
+- [[Bright Data (亮数据)]] — Data collection platform offering proxy services and managed scraping browser with anti-detection features.
+- [[Stack Overflow]] — Programming Q&A platform where technical solutions like Bright Data's services are often recommended.
+- [[jobs@zhihu.com]] — The official recruitment email address for Zhihu, visible on platform pages.
+- [[awesome-claude-code]] — A GitHub repo curating the Claude Code ecosystem, with over 31k stars, signaling its platform status.
+- [[Clave]] — A desktop app built with Claude Code to manage multiple parallel AI coding sessions via a kanban board.
+- [[OpenCode]] — An AI coding tool mentioned as a competitor to Claude Code.
+- [[雁南飞]] — SOE engineer authoring advanced Claude Code workflow techniques
+- [[Vivek Aithal]] — Researcher who conducted architectural analysis of Claude Code
+- [[Flood Sung]] — AI researcher and developer of MetaBot multi-agent platform on Claude Code
+- [[Playwright CLI]] — Microsoft's browser automation tool using Skills architecture for token-efficient AI interaction
+- [[Cursor]] — AI programming IDE that integrates Skills framework for enhanced development assistance
+- [[HAHAPPYPPY]] — Zhihu user with MBA background who contributed the 7-step strategic planning framework
+- [[和夫咨询]] — Consulting firm specializing in organizational effectiveness improvement for Chinese SMEs
+- [[吴海洋]] — Zhihu user with engineering background who explained the BLM methodology
+- [[华为 (Huawei)]] — Chinese technology company that successfully adopted the BLM strategic planning model
+- [[Southern University of Science and Technology (SUSTech)]] — Chinese research university where Mizore studies Control Science and Engineering
+- [[Token侦探]] — Zhihu user and AI researcher who authored the primary analysis on super individuals and Agent Shock.
+- [[丹爷OS]] — Zhihu user and former product manager who frames the super individual as a 'one-person company' built on productized expertise.
+- [[MrBeast]] — Cited as a pre-digital example of the 'winner-takes-all' dynamic that may define the Agent Shock era.
+- [[David Autor]] — MIT economist whose research on the 'China Shock' is used as an analogy for the predicted 'Agent Shock.'
+- [[BYD (比亚迪)]] — Chinese EV and battery manufacturer, presented as a paradigm of industrial logic and vertical integration.
+- [[Wang Chuanfu (王传福)]] — Founder and CEO of BYD, portrayed as an engineer-leader prioritizing long-term technology investment.
+- [[Geely (吉利汽车)]] — Chinese automaker used as a contrasting case to BYD, highlighting the elevator effect in stock performance.
+- [[Li Shufu (李书福)]] — Founder of Geely, cited as an example of an industrialist whose company suffered market valuation losses.
+- [[Zhang Jixing]] — Champion motorcycle racer who mentored Zhang Xue and advised his pivot from racing to manufacturing.
+- [[Yi Jun]] — Hunan TV reporter whose documentary on Zhang Xue launched his public recognition after initial skepticism.
+- [[Zhang Xue Motorcycle]] — Motorcycle manufacturing company founded by Zhang Xue, winner of 2026 WSBK world championship.
+- [[谷磨]] — Zhihu answerer advocating foundational movement mastery before specific training.
+- [[如萤随星]] — Zhihu answerer providing systematic, principle-based exercise framework for middle age.
+- [[蕾妈在成长]] — Zhihu answerer listing 15 practical, accessible exercises for middle-aged adults.
+- [[歸藏]] — Developer who created CodePilot, implementing alternative Generative UI architecture for chart generation.
+- [[Duke Fong]] — Developer of cdbus_gui serial debugging tool, maintaining it for over 5 years with continuous improvements.
+- [[Claude Opus 4.6]] — High-end reasoning model from Anthropic used as source for knowledge distillation into open-source models
+- [[Every]] — Organization that developed the Compound Engineering methodology
+- [[汉松]] — Ant Group technical expert who implemented harness engineering practices and authored the analysis
+- [[mCell]] — Primary author of Zhihu discussion on harness engineering, provides practical implementation experience
+- [[riba2534]] — ByteDance backend engineer who contributed industry perspective on harness engineering adoption
+- [[秋风萧瑟 (Qiufeng Xiaose)]] — Zhihu author who advocates for the 'Personal Work' as the core of identity and success.
+- [[Pianeer]] — Zhihu author emphasizing acceptance of life's imperfection and complexity.
+- [[搏击俱乐部 (Fight Club)]] — Zhihu author promoting an 'offensive personality' and self-design through environmental engineering.
+- [[幕阳吹雪]] — Zhihu answerer who defended the 1980s Chinese 'Self-Study Series' as an exemplary model of self-study friendly textbook design.
+- [[海伦娜·坦格利安]] — Zhihu answerer who provided a satirical tripartite model comparing American, Soviet, and contemporary Chinese textbook approaches.
+- [[HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson]] — Major American educational publishers cited as producers of high-quality, self-study friendly textbooks.
+- [[Khan Academy (可汗学院)]] — Free online learning platform praised in the discussion as a key open educational resource, especially for humanities.
+- [[糖炒栗子]] — Retired cybersecurity engineer providing 15-point safety checklist for OpenClaw beginners on Zhihu
+- [[知乎用户 (anonymous answerer)]] — Experienced OpenClaw user providing detailed technical deployment advice including virtualization and model selection
+- [[诗与星空]] — Zhihu answerer noting OpenClaw version 3.2+ defaults to read-only mode requiring configuration changes
+- [[钱嘟嘟左卫门]] — Internet handyman who shares open-source AI projects, author of the OpenAkita introduction.
+- [[AI 工具测评中心]] — AI Tool Evaluation Center, Zhihu column where OpenAkita analysis was published.
+- [[Steph Ango (kepano)]] — CEO of Obsidian and developer of the obsidian-skills AI toolkit
+- [[Dataview]] — Obsidian plugin for querying and displaying note data with JavaScript-like syntax
+- [[Ludamn]] — 知乎答主，提供以Anthropic文档和开源项目为核心的AI Agent学习资源指南。
+- [[Finalchemist]] — 知乎答主，提供面向初学者的结构化AI Agent学习指南，推荐Microsoft入门课程和主流框架。
+- [[AI玩家日志]] — 知乎答主，分享基于个人从Java后端转型经历的AI Agent深度学习指南，强调系统设计与原理理解。
+
+## 新增Concepts（2026-04-20）
+
+- [[技术博客质量层级]] — 技术博客内容质量从个人独立博客到商业化平台的递减层级
+- [[Harness Engineering]] — Agent运行时的工程环境总和，让Agent能被稳定驾驭的环境系统
+- [[CLI设计原则（AI与人类友好）]] — 数据与呈现分离的CLI设计哲学，让同一命令同时服务AI和人类
+- [[Coding Plan订阅模式]] — 固定月费替代按Token计费的AI编程订阅套餐
+- [[概率算法思维]] — 从确定性记录转向概率统计的算法设计思维
+- [[超负荷原则]] — 运动效果核心原则，压力超出适应能力才会产生变化
+- [[大脑预测模型更新]] — 大脑预测模型的更新机制，真正的成长是"定期重装系统"
+
+## 新增Entities（2026-04-20）
+
+- [[Paul Graham]] — 硅谷教父级人物、YC创始人，博客paulgraham.com
+- [[Antirez (Salvatore Sanfilippo)]] — Redis作者，意大利传奇程序员
+- [[Simon Willison]] — Django框架作者，AI模型测评专家
+
+## 新增Sources（2026-04-20）
+
+- [[技术大牛博客平台汇总]] — 知乎讨论汇总技术领域知名大牛的博客平台
+- [[优质信息获取渠道汇总]] — 从入门到深入的多层次信息源分类
+- [[中年人锻炼指南]] — 中年人最适合的锻炼方法和原则
+- [[惊艳算法合集]] — 让开发者感到惊艳的经典算法汇总
+- [[AI Agent雷声大雨点小分析]] — 智能RAG架构解决Agent实际效果问题
+- [[Harness Engineering深度解析]] — Agent运行时工程环境的五层架构
+- [[谷歌CLI设计原则]] — 同时服务AI和人类的CLI七大设计原则
+- [[国产AI Coding Plan全面对比]] — 2026年国内六大云厂商AI编程订阅套餐对比
+- [[中国武术内功与呼吸法解析]] — 从实践角度解析内功本质是呼吸与身体控制
+- [[开悟与大脑预测模型]] — 从神经科学角度解析开悟本质
+
+## 新增Sources-视频页面（2026-04-20）
+
+- [[视频-Obsidian+OpenClaw重构AI知识管理体系]] — 前字节大模型工程师分享Obsidian+OpenClaw联动重构知识管理
+- [[视频-Claude Code+Obsidian构建247个人操作系统]] — 用Claude Code+Obsidian构建24/7运行的"个人操作系统"
+- [[视频-工信部官宣算力国网时代已来]] — 工信部官宣"算力国网"时代，算力互联互通成为国家战略
+- [[视频-OpenClaw大师课程轻松部署AI代理]] — OpenClaw大师课程，教授高效、安全、自主的AI代理部署
+- [[视频-清史基因铁证女真满族爱新觉罗谱系差异]] — 基于学术研究数据的女真、满族、爱新觉罗家族谱系差异分析
+- [[视频-袁希对话张坚顺与逆销售冠军人生法则]] — 惠普全球销售冠军张坚揭示销售本质与人生法则
+- [[视频-闪客揭秘Clawdbot背后干了什么]] — 飞天闪客科普Clawdbot运作机制与成本消耗原因
+- [[视频-闪客拆穿SkillMCPRAGAgentOpenClaw底层逻辑]] — 67万观看爆款科普，拆穿AI概念本质
+- [[视频-如何让人随时保持好心情]] — 李银河分享保持好心情的方法和人生智慧
+- [[视频-Google AI Agent白皮书拆解]] — Google联合Kaggle发布AI Agents白皮书系统性定义Agent
+- [[视频-Seedance2.0攻克人类最难视频AI颠覆设计行业]] — Seedance 2.0突破AI视频生成，颠覆设计行业
+- [[视频-猎装车100年演变1890s到2026]] — 150万观看爆款科普，猎装车100年演变历史
+- [[视频-神级提示词挖掘隐藏天赋]] — 17.9万观看，用AI提示词发现个人天赋
+- [[视频-Obsidian Fast Note Sync解决iOS同步噩梦]] — Obsidian新插件通过私有化部署解决iOS同步问题
+- [[视频-Obsidian移动端同步最完美方案]] — Obsidian移动端同步方案对比与推荐
+- [[视频-赵汀阳人工智能时代的文科可能前途]] — 复旦哲院讲座，探讨AI时代文科的价值定位与发展可能性
+- [[视频-被严重低估的Gemini生产力]] — Gemini Gems与NotebookLM协同工作流，超越对话的生产力用法
+- [[视频-Agent-Reach AI Agent全网感知能力]] — 开源CLI工具，为AI Agent提供17个主流平台信息获取能力
+- [[视频-用Skills把AI变成前端设计师]] — TRAE Skills功能演示，将AI转变为专业前端设计师
+- [[视频-AI学习效率流程三工具组合]] — NotebookLM+Gemini+Obsidian学习流程，号称节省1460小时
+- [[视频-AI办公提效工具集]] — 多个AI办公工具介绍，覆盖动画、海报、PPT生成等场景
+- [[视频-Visual Coding从Vibe Coding进化]] — Kimi K2.5 Coding带来的视觉编程能力，所见即所得的前端生成
+- [[视频-百度硅谷实验室十年往事]] — 2014-2017百度硅谷实验室历史，吴恩达、Dario Amodei等顶尖AI人才聚集
+- [[视频-Clawdbot刷屏与FOMO情绪]] — Clawdbot引发的社区刷屏现象与AI时代FOMO情绪应对策略
+- [[视频-Claude Code幻灯片生成技能]] — revealjs-skill演示，自然语言直接生成可动画可导出PDF的演示文稿
+- [[视频-和光同尘哲学智慧]] — 探讨和光同尘哲学概念，自我与环境平衡的处世智慧
+- [[视频-手相与全息理论]] — 手相解读方法结合全息理论解释，传统命理视角
+- [[视频-创业墓地网站]] — 1500+倒闭初创公司案例库，帮助创业者避坑
+- [[视频-MiroFish群体智能引擎]] — 开源群体智能引擎，用于预测万物的多Agent模拟系统
+- [[视频-GitNexus代码知识图谱]] — 代码库转可视化知识图谱工具，帮助AI编程助手理解项目结构
+
+## 新增Sources-视频页面（2026-04-20第二批）
+
+- [[OpenClaw完整部署教程]] — Work-Fisher发布的OpenClaw完整部署教程，涵盖飞书连接、免费LLM接入
+- [[OpenCode详细攻略]] — 技术爬爬虾发布的OpenCode教程，开源版Claude Code免费模型与神级插件
+- [[每周汽车观察室0126-0201]] — MY汽车行业研究发布的汽车行业动态分析，涵盖特斯拉、人形机器人、出海关税
+- [[陈天桥心中的AGI是什么]] — 大圆镜科普发布的陈天桥访谈，提出文科模型与理科模型区分，因果发现范式
+- [[Claude Code职场替身应用]] — 珍妮丁丁AI说分享非技术人员如何将Claude Code作为职场替身使用
+- [[MinerU PDF解析开源项目]] — 神秘的鱼仔介绍基于大模型的PDF解析框架，GitHub 56.8K star
+- [[Freelancer自由接单平台]] — 流光领域推荐的全球性自由接单网站，覆盖8600万用户2700种工作类别
+- [[Claude for PowerPoint]] — jygenre发布Claude在PowerPoint中的应用方法
+- [[显微镜下微观世界网站]] — 图图科技研究所推荐的显微镜下微观世界展示网站
+- [[Obsidian Bases个人图书馆]] — einverne发布的教程，使用Obsidian Bases打造个人图书管理系统
+- [[GSD AI编程工作流指南]] — AI随风随风发布的GET SHIT DONE工作流，GitHub 3万stars
+- [[OpenViking记忆插件]] — 龙哥搞算法介绍字节火山开源的分层记忆插件，token成本降低92%
+- [[CanIRun本地大模型评估工具]] — 鲲鹏Talk介绍的CanIRun.ai网站，评估本地硬件运行大模型能力
+- [[Prompt Engineering Guide提示词库]] — 极客川推荐的开源提示工程指南，全球超过300万人学习
+- [[微软投资取代GitHub的新项目]] — LLM-X-生生不息版介绍GitHub前CEO创建的新开发平台，从coding layer转向reasoning layer
+
+## 新增Sources-视频页面（2026-04-20第三批）
+
+- [[保时捷911的62年设计密码]] — 小西设计所分析保时捷911从1963年到2026年的设计进化哲学，"进化而非革命"
+- [[GoSkill开源项目介绍]] — AI酋长Andy介绍GoSkill开源项目，解决大模型复杂任务执行痛点，目标驱动执行
+- [[web-access插件解决Agent网页抓取痛点]] — GitHub很棒介绍web-access插件，用本地浏览器登录状态解决Agent抓网页的痛点
+- [[Skills数量过多的管理策略]] — jesse分享Skills过多时的管理策略，使用BM25搜索驱动Skills设计架构
+- [[提示词优化器开源项目介绍]] — 阿甘探AI介绍GitHub Trending上榜的提示词优化器，傻瓜式生成专业提示词
+- [[港大开源AI自我进化系统]] — 阿甘探AI介绍香港大学开源的AI自我进化系统，越用越聪明还省钱
+- [[AutoResearch Claude Code Skill实战]] — 鲲鹏Talk介绍AutoResearch Skill，将Karpathy的自动迭代思想泛化到可量化指标任务
+- [[审美提升的低成本方法论]] — 黄导财经透视分享视觉、文学、音乐三大审美的低成本提升方法
+- [[个人十佳电影推荐]] — 黑泽千夜分享个人十佳电影推荐，涵盖东京物语、搜索者等经典作品
+- [[project-analyzer逆向工程Skill介绍]] — AI产品经理养成记分享逆向工程Skill，对开源项目生成PRD文档和提示词分析
+- [[Claude Code开发者踩坑经验分享]] — jesse分享Claude Code开发工程师发布的构建经验和设计理念
+- [[Claude Code系统教程：探索-测试-重构-调试]] — Anthropic官方打造的Claude Code系统教程
+- [[卡尼2026达沃斯演讲：后美国霸权时代的公开承认]] — 马克·卡尼在达沃斯WEF演讲，宣告基于规则的国际秩序实质性破产
+- [[Obsidian在AI时代的优势]] — Nick Milo分析Obsidian在AI时代胜出的原因，"文件重于应用"理念
+- [[赵汀阳论跨学科：复原知识而非大杂烩]] — 社科院赵汀阳在复旦哲院讲座，阐述跨学科的本质是知识复原而非大杂烩
+
+## 新增Sources页面（2026-04-20第四批-webpages）
+
+- [[Markdown制作幻灯片的三种方案对比]] — 少数派文章对比Obsidian幻灯片、Marp、Slidev三种Markdown转PPT方案
+- [[汽车电子行业英语缩写中英对照]] — CSDN博客整理汽车电子行业术语表，涵盖ECU、ADAS、AUTOSAR等核心缩写
+- [[2026产品管理书籍与资源推荐]] — Mind the Product发布的2026年PM资源指南，涵盖AI产品书籍、播客、Newsletter
+- [[保时捷设计总监人事变动]] — Classic Driver报道Michael Mauer交接设计总监职位给Tobias Sühlmann
+- [[智能座舱平台芯片对比分析]] — 对比高通SA8155/8255/8295与联发科MT8678/MT8628智能座舱平台性能
+
+## 新增Sources页面（2026-04-20第五批-videos）
+
+- [[OpenPencil-AI原生开源设计编辑器]] — 锋芒AI发布的开源设计编辑器，完全兼容Figma文件格式，内置75个AI工具，仅7MB支持多人协作
+- [[n8n 2.0破坏性更新与迁移指南]] — 陶渊xiao明详解n8n 2.0升级，包含架构重构、安全策略升级、破坏性更新及迁移方案
+- [[舱驾一体-汽车智能化十年破局之路]] — 所长Wy分析智能座舱与自动驾驶辅助系统整合的工程挑战与破局方案
+- [[GUI Agent-嵌入网页的AI操作员]] — AIGC前端老陈介绍阿里开源项目，基于DOM操作实现自然语言控制网页界面
+- [[人生管理大系统-个人效率工具集成方案]] — 老实人被AI骗分享基于Obsidian构建的个人效率管理系统
+- [[Scrapling-自适应爬虫框架]] — 沉默聊科技介绍GitHub 2.3万星的自适应爬虫框架，解决网站改版、反爬虫等痛点
+- [[bilibili-cli-B站命令行客户端]] — GitHub很棒推荐的B站终端客户端，支持动态浏览、热榜查看、一键三连
+- [[Stop Writing Bad CLAUDE.md Files-Claude Code配置最佳实践]] — camelCase详解CLAUDE.md文件编写技巧，基于LLM研究的8个关键建议
+- [[AI编程工具系统提示词开源项目]] — 神秘的鱼仔介绍GitHub 122K Star项目，揭示Cursor、Trae等30多个AI编程工具的系统提示词
+- [[Everything-Claude-Code-54K Star AI开发生态系统剖析]] — 探索未至之境深度剖析Claude Code生态系统架构，涵盖规则体系、技能系统、Agent协作
+- [[开源Agent Skills社区资源整理]] — 神秘的鱼仔分享Skills MP工具，整理10万个开源Agent Skills的查找和使用方法
+- [[OpenClaw多Agents配置实战]] — VA7-AI创业版分享15亿Token实战经验，从部署层、身份层、路由层、状态层四维度讨论配置架构
+- [[Anthropic黑客马拉松获胜者的Claude Code配置]] — AI随风随风分享获胜者配置方案，重点讲解持续学习系统的自动模式提取机制
+- [[比亚迪新西兰市场策略-电动汽车价格破局]] — 科技野武士分析比亚迪在新西兰推出三款新车实现电动汽车与燃油车价格持平的策略
+- [[ChatGPT Plus/Claude Code半价订阅方案]] — 小陈同学c_z分享利用土耳其区App Store实现半价订阅官方AI服务的方案
+
+## 新增Sources页面（2026-04-20第六批-videos）
+
+- [[Obsidian Dragger插件像Notion一样丝滑拖拽文本块]] — flyand987开发的Obsidian插件，实现类似Notion的文本块拖拽功能，支持桌面端和移动端
+- [[Obsidian-Deepseek插件轻Skill功能介绍]] — 诺特扬介绍的Obsidian-Deepseek插件新功能，支持自定义Skill命令和变量系统
+- [[有山先生从高考0分到B站顶流的人生故事]] — 今天没有故事第68期，纪录片讲述B站UP主有山先生的人生经历与创作之路
+- [[Human 3.0人生操作系统用Gemini做个人天赋挖掘]] — 俗人六哥分享Dan Koe创建的人生规划提示词，整合心理学哲学商业多领域知识
+- [[Mirror Fish多智能体AI预测引擎开源项目]] — 20岁大四学生10天开发的AI预测引擎，陈天桥当场投资3000万，GitHub 14.1K star
+- [[Claude Code完整概念指南27个核心概念详解]] — Simon Scrapes发布27分钟教程，涵盖Claude Code从基础到高级的完整概念体系
+- [[情报神器1000+平台社交信息挖掘工具]] — 沈code介绍开源OSINT工具，支持1000+社交平台信息抓取、OCR、NLP、可视化分析
+- [[颠覆式AI使用方法让AI主动追问效率MAX]] — 杨彧鑫AI分享四种提示词策略：目标拆解法、苏格拉底式提问、第一性原理、复盘前置思维
+- [[高阶ENTP的四大特质解析]] — 玉面慈悲分析高阶ENTP的四大特质：追求真相而非胜负、跨界优势、情绪与逻辑共存、勇气与定力兼备
+- [[Product Manager Skills让Claude秒变产品经理的Skill]] — 极客川介绍GitHub开源的Claude Code Skill，包含46个产品管理框架
+- [[Claude Code Superpowers插件详解]] — Alex Followell详解43K Star的Superpowers插件，涵盖TDD、子代理、代码审查、Git工作树隔离
+- [[国产中大型豪华轿车定义困局从享界S9分析]] — 大英雄蜗牛军师分析国产豪华轿车面临的尺寸空间悖论与市场定位错位问题
+- [[DeerFlow 2.0字节跳动开源超级Agent引擎]] — AI指挥官Felix介绍字节跳动开源的超级智能体引擎，两天斩获3.7万星标
+- [[停止在终端中使用Claude Code管理目标而非会话]] — GoldenSpiderAI分享Claude Code效率提升方案，建议从管理终端转向管理目标
+- [[自动化工具更新Coze Skill与长期规划功能]] — 不高兴就喝水分享自动化工具更新，集成Coze Skill和长期规划功能，30万人使用
