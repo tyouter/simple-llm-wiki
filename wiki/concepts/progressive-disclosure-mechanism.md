@@ -15,6 +15,10 @@ related:
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
   - "Skill Engineering Lifecycle"
   - "skill-creator"
+  - "Agent Skills Framework"
+  - "Context Window Management"
+  - "Skill Activation"
+  - "Skill Triggering"
 ---
 
 # Progressive Disclosure Mechanism
@@ -50,3 +54,38 @@ design-pattern, context-management, skill-architecture, anthropic-claude
 - [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
 - [[Skill Engineering Lifecycle]]
 - [[skill-creator]]
+
+---
+
+## Extended Definition
+
+The **Progressive Disclosure Mechanism** is a layered context management strategy fundamental to the [[Agent Skills Framework]]. It addresses the constraint of [[Context Window Management]] by loading Skill information incrementally based on the agent's immediate need, rather than all at once. The mechanism typically operates across three tiers: 1) the **Catalog** (containing only skill names and descriptions) loaded at session start for discovery; 2) **Full Instructions** (the `SKILL.md` body) loaded during [[Skill Activation]] when a skill is triggered; and 3) **Resources** (scripts, detailed references) loaded on-demand during execution. This design conserves the agent's limited token budget, allowing it to be aware of dozens of skills without being overwhelmed. Only the skills relevant to the current task, as determined by [[Skill Triggering]], incur their full cognitive load, making the framework scalable and efficient.
+
+## Related
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Skill Engineering Lifecycle]]
+- [[skill-creator]]
+- [[Agent Skills Framework]]
+- [[Context Window Management]]
+- [[Skill Activation]]
+- [[Skill Triggering]]
+
+---
+
+## Additional Insights
+
+
+
+## Enhanced Insights from Analysis
+This mechanism is the architectural linchpin that makes the [[Agent Skills Framework]] scalable. It directly solves the problem of [[Context Window Management]] by ensuring the agent's limited token budget is not wasted on loading irrelevant skill details. The transition from the catalog stage to the [[Skill Activation|activation stage]] is where the mechanism's efficiency is realized, allowing the agent to maintain a broad awareness of capabilities while focusing cognitive resources only on what is immediately necessary.
+
+Source: [[raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md]]
+
+## Related
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Skill Engineering Lifecycle]]
+- [[skill-creator]]
+- [[Agent Skills Framework]]
+- [[Context Window Management]]
+- [[Skill Activation]]
+- [[Skill Triggering]]

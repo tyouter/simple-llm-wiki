@@ -3,6 +3,7 @@ title: "Aesthetic Judgment in Tech"
 type: "concept"
 sources:
   - "raw/articles/2d6f379d_非著名程序员 的想法 前端设计的 Skill 堪称前端美颜神器 这款前端设计的 front end design skill 确实非常好用效果很.md"
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
 tags:
   - "aesthetics"
   - "ui-design"
@@ -16,6 +17,9 @@ related:
   - "Front-End Design Skill/Tool"
   - "非著名程序员"
   - "龙腾"
+  - "AI-Free Interface Aesthetics"
+  - "AI-Generated Design Quality Spectrum"
+  - "Vibe Coding"
 ---
 
 # Aesthetic Judgment in Tech
@@ -57,3 +61,22 @@ aesthetics, ui-design, subjectivity, evaluation, design-critique
 - [[Front-End Design Skill/Tool]]
 - [[非著名程序员]]
 - [[龙腾]]
+
+---
+
+## Additional Insights
+
+
+
+## Critical Role in AI Workflow from Source
+The source highlights this judgment as the irreplaceable human component. The author identifies the undesirable "AI感," sources high-quality prompts from a curated repository ([[designprompts.dev]]), and evaluates outputs. This taste is the guiding constraint and quality filter in the automated process, directly influencing the [[AI-Generated Design Quality Spectrum]] and enabling the achievement of [[AI-Free Interface Aesthetics]]. In [[Vibe Coding]] and [[AI-Native Design Workflow]], the human role shifts from manual craft to exercising this curatorial and directional judgment.
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[Front-End Design Skill/Tool]]
+- [[非著名程序员]]
+- [[龙腾]]
+- [[AI-Free Interface Aesthetics]]
+- [[AI-Generated Design Quality Spectrum]]
+- [[Vibe Coding]]

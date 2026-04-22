@@ -3,6 +3,7 @@ title: "Cursor"
 type: "entity"
 sources:
   - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/videos/b12b45ef_一个能自我进化的智能体港大实验室又带着开源项目来了.md"
 tags:
   - "ide"
   - "ai-development"
@@ -16,6 +17,11 @@ related:
   - "Token Efficiency Optimization"
   - "Enterprise Skill Engineering"
   - "Anthropic"
+  - "OpenSpace"
+  - "本地部署与集成"
+  - "智能体自我进化"
+  - "任务驱动的技能生成"
+  - "经验积累与效率提升"
 ---
 
 # Cursor
@@ -145,3 +151,20 @@ ide, ai-development, skills-integration, programming-tools
 - [[Token Efficiency Optimization]]
 - [[Enterprise Skill Engineering]]
 - [[Anthropic]]
+
+---
+
+**Cursor**是一款流行的AI驱动的代码编辑器或集成开发环境（IDE），它深度集成了大型语言模型来辅助编程。在**[[OpenSpace]]**项目的语境中，Cursor被作为一个典型的、可被增强的本地AI智能体（Agent）示例。通过**[[本地部署与集成]]**，OpenSpace框架可以嵌入到Cursor中，为其赋予**[[智能体自我进化]]**的能力。
+
+这意味着，程序员在使用Cursor进行日常开发时，其内置的AI助手能够在完成诸如构建数据看板等**[[任务驱动的技能生成]]**过程中，自动进化出新的编码技能，并实现**[[经验积累与效率提升]]**。Cursor作为一款被广泛使用的工具，成为OpenSpace验证其框架实用性和有效性的重要平台。
+
+## Related
+- [[Agent Skills Framework]]
+- [[Token Efficiency Optimization]]
+- [[Enterprise Skill Engineering]]
+- [[Anthropic]]
+- [[OpenSpace]]
+- [[本地部署与集成]]
+- [[智能体自我进化]]
+- [[任务驱动的技能生成]]
+- [[经验积累与效率提升]]

@@ -3,6 +3,7 @@ title: "Coding Plan"
 type: "concept"
 sources:
   - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
 tags:
   - "ai-coding"
   - "subscription-models"
@@ -18,6 +19,10 @@ related:
   - "Model Context Protocol (MCP)"
   - "Alibaba Cloud Bailian"
   - "NVIDIA NIM (NVIDIA Inference Microservices)"
+  - "复杂逻辑链路处理"
+  - "开发选型参考"
+  - "Autonomous Task Planning & Execution"
+  - "AI Tool Specialization for Design"
 ---
 
 # Coding Plan
@@ -71,3 +76,18 @@ ai-coding, subscription-models, pricing, developer-tools, cost-management
 - [[Model Context Protocol (MCP)]]
 - [[Alibaba Cloud Bailian]]
 - [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+
+---
+
+**Coding Plan** 是《[[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]》中提及的一个具体工具或功能（可能指某个AI编程助手、代码规划工具，或是模型在代码生成任务上的“计划”能力）。它代表了AI在编程和开发这一具体垂直场景中的应用，其效能高度依赖于底层模型的[[复杂逻辑链路处理]]能力。一个优秀的Coding Plan工具需要理解项目结构、依赖关系，并能将模糊需求分解为可执行的代码模块和步骤，这本质上是一种[[Autonomous Task Planning & Execution|自主任务规划]]在编程领域的体现。对该工具使用体验的分享，为开发者针对编程任务进行[[开发选型参考]]提供了直观的案例，也是[[AI Tool Specialization for Design|AI设计工具专业化]]的一个实例。
+
+## Related
+- [[Token Burning Prevention]]
+- [[Free Model Integration via NIM]]
+- [[Model Context Protocol (MCP)]]
+- [[Alibaba Cloud Bailian]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+- [[复杂逻辑链路处理]]
+- [[开发选型参考]]
+- [[Autonomous Task Planning & Execution]]
+- [[AI Tool Specialization for Design]]

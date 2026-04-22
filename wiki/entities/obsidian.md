@@ -3,6 +3,7 @@ title: "Obsidian"
 type: "entity"
 sources:
   - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/videos/b9661a04_Obsidain 补完计划像 Notion 一样丝滑拖拽文本块Dragger.md"
 tags:
   - "obsidian"
   - "note-taking"
@@ -21,6 +22,10 @@ related:
   - "Note Organization Philosophy"
   - "Git-Based Knowledge Management"
   - "Markdown as Human-AI Interface"
+  - "Obsidian Plugin Ecosystem"
+  - "Notion"
+  - "Obsidian Dragger"
+  - "Community-Driven Feature Development"
 ---
 
 # Obsidian
@@ -91,3 +96,24 @@ obsidian, note-taking, knowledge-management, markdown, pkm, software
 - [[Note Organization Philosophy]]
 - [[Git-Based Knowledge Management]]
 - [[Markdown as Human-AI Interface]]
+
+---
+
+**Obsidian** is a knowledge management and note-taking application built on local markdown files, renowned for its extensibility through community plugins. Unlike cloud-based alternatives like [[Notion]], Obsidian emphasizes user ownership, privacy, and network thinking through its signature graph view of interconnected notes.
+
+The application's minimalist core design intentionally leaves room for extension via its vibrant [[Obsidian Plugin Ecosystem]]. This ecosystem includes hundreds of community-developed plugins that add functionality ranging from advanced queries (Dataview) to automation (Templater) to UX enhancements like [[Obsidian Dragger]]. This extensibility allows Obsidian to compete with more opinionated, monolithic applications while maintaining its philosophical commitment to plain text and local storage.
+
+Obsidian's architecture supports [[AI-Enhanced Note-Taking]] through plugins that integrate AI capabilities, and its file-based approach enables sophisticated [[AI Tool Chaining/Combination]] with external tools. The application has cultivated a strong culture of [[Community-Driven Feature Development]], where users frequently become developers to address their workflow needs, as seen in the creation of plugins like Obsidian Dragger by [[Ariestar]].
+
+## Related
+- [[obsidian-skills]]
+- [[Steph Ango (kepano)]]
+- [[Dataview]]
+- [[AI-Enhanced Note-Taking]]
+- [[Note Organization Philosophy]]
+- [[Git-Based Knowledge Management]]
+- [[Markdown as Human-AI Interface]]
+- [[Obsidian Plugin Ecosystem]]
+- [[Notion]]
+- [[Obsidian Dragger]]
+- [[Community-Driven Feature Development]]

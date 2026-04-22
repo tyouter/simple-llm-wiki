@@ -329,3 +329,19 @@ found unknown escape character
 - Concept页面：7个
 - Entity页面：3个
 - Index更新：已追加新条目
+## [2026-04-21] deep-parse | 如何成为 AI Agent 工程师？—— 知乎问答分析 - 1 pages created/enriched
+
+## [2026-04-21] deep-parse | 产品经理 产品设计 为什么做产品的人都很喜欢思考「场景」？ - 1 pages created/enriched
+
+## [2026-04-21] deep-parse | 开悟 开悟觉醒 真的有所谓的开悟吗？ - 1 pages created/enriched
+
+## [2026-04-21] deep-parse | Obsidian Dragger Plugin: Enhancing Text Block Management in Obsidian - 14 pages created/enriched
+
+## [2026-04-21] deep-parse-errors | 301 errors: 02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md: 'Concept Category' is not a valid PageType; 0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md: Deep generation failed - could not parse JSON; 093f7d65_gstackClaude工程团队.md: Deep generation failed - could not parse JSON
+
+## [2026-04-21] batch-deep-parse | 4 sources deep parsed
+
+## [2026-04-21] deep-parse | 知乎问答：如何成为AI Agent工程师及Agent落地核心技术分析 - 1 pages created/enriched
+
+## [2026-04-21] deep-parse | 30岁转行战略咨询：如何从零开始系统学习战略管理？ - 1 pages created/enriched
+

@@ -17,6 +17,10 @@ related:
   - "Skills (Anthropic Framework)"
   - "Skill Engineering Lifecycle"
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
+  - "Iterative Skill Development"
+  - "Description Trigger Optimization"
+  - "Baseline A/B Testing"
+  - "Agent Skills Framework"
 ---
 
 # skill-creator
@@ -56,3 +60,17 @@ tool, anthropic-official, github, cli, evaluation-framework
 - [[Skills (Anthropic Framework)]]
 - [[Skill Engineering Lifecycle]]
 - [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+
+---
+
+The **skill-creator** is the official [[Anthropic]] template and toolset hosted on GitHub for engineering [[Skills (Anthropic Framework)|Skills]]. It provides a structured, product-oriented workflow that enforces [[Iterative Skill Development]] practices. Its features include scaffolding for new skills, automated [[Baseline A/B Testing]], facilities for writing [[Skill Evaluation & Assertions|assertions]], a visual Eval Viewer for comparing outputs, and systematic workflows for [[Description Trigger Optimization]]. This tool is the practical implementation engine that translates the principles of the [[Agent Skills Framework]] into a repeatable engineering discipline, moving skill creation from an art to a measurable science.
+
+## Related
+- [[Anthropic]]
+- [[Skills (Anthropic Framework)]]
+- [[Skill Engineering Lifecycle]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Iterative Skill Development]]
+- [[Description Trigger Optimization]]
+- [[Baseline A/B Testing]]
+- [[Agent Skills Framework]]

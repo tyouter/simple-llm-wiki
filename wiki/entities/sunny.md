@@ -2,9 +2,9 @@
 title: "Sunny"
 type: "entity"
 sources:
-  - "raw
-aw/articles/0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw aw/articles/0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
   - "raw/articles/16fe1605_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/articles/0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
 tags:
   - "zhihu-user"
   - "strategic-consulting"
@@ -29,6 +29,11 @@ related:
   - "Philip Kotler"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
   - "Michael E. Porter"
+  - "最低必读书单"
+  - "体感（战略）"
+  - "战略管理知识体系构建"
+  - "迈克尔·波特"
+  - "卡普兰和诺顿"
 ---
 
 # Sunny
@@ -135,3 +140,26 @@ zhihu-user, strategic-management, learning-framework, consulting, experience
 - [[Philip Kotler]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
 - [[Michael E. Porter]]
+
+---
+
+**Sunny**是前述知乎问答下的另一位答主，自称拥有近20年的战略领域实践经验。他以提供一份极具操作性的[[最低必读书单]]而成为关键信息贡献者。
+
+他的回答侧重于“学什么”的具体内容，而非“如何学”的抽象方法。他整理的书单结构严谨，覆盖了宏观环境分析、核心战略理论（如迈克尔·波特、卡普兰和诺顿的著作）以及各职能战略，为初学者描绘了一幅完整的战略知识地图。他明确提出，通读这些书籍是获得初步[[体感（战略）]]的基础。Sunny的贡献在于将庞大的战略知识领域浓缩为一条可执行的阅读路径，是[[战略管理知识体系构建]]思想的具体化体现。
+
+## Related
+- [[Strategic Management Learning Framework]]
+- [[Theory-Practice Integration]]
+- [[Career Transition Barriers in Consulting]]
+- [[木游子]]
+- [[考拉的糖果]]
+- [[Michael Porter]]
+- [[Robert S. Kaplan & David P. Norton]]
+- [[Philip Kotler]]
+- [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
+- [[Michael E. Porter]]
+- [[最低必读书单]]
+- [[体感（战略）]]
+- [[战略管理知识体系构建]]
+- [[迈克尔·波特]]
+- [[卡普兰和诺顿]]

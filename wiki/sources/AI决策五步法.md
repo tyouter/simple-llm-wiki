@@ -1,17 +1,22 @@
 ---
 title: "AI决策五步法"
-type: source
+type: "source"
 sources:
   - "raw/videos/ab312a84_AI真正改变的不是效率而是决策质量.md"
 tags:
-  - ai决策
-  - decision-making
-  - skill
-  - github
-  - 工作流
-confidence: medium
+  - "ai决策"
+  - "decision-making"
+  - "skill"
+  - "github"
+  - "工作流"
+confidence: "medium"
 created_at: "2026-04-20T12:00:00"
 updated_at: "2026-04-20T12:00:00"
+related:
+  - "判断与决策价值论"
+  - "工具链专业化组合"
+  - "决策系统迭代"
+  - "决策推演 vs. 决策表达"
 ---
 
 # AI决策五步法
@@ -100,3 +105,19 @@ updated_at: "2026-04-20T12:00:00"
 
 - [[Claude Code Skills系统]]
 - [[AI Agent]]
+
+---
+
+## Additional Insights
+
+## 来自新分析的深入洞察
+
+本框架已从最初的五步流程描述，发展为一个包含完整哲学基础、方法论和实践工具的体系。其核心哲学是[[判断与决策价值论]]，认为AI时代人类的核心竞争力在于决策能力。其实践核心是[[工具链专业化组合]]，强调根据不同AI工具的特长（如[[Claude]]的严谨与[[ChatGPT / GPT]]的开放）进行组合。其高级应用模式是[[决策系统迭代]]，将一次性决策框架产品化为可复用的组织资产。所有这些都建立在区分[[决策推演 vs. 决策表达]]这一关键认知之上。作者已将其工程化为一个可复用的Skill并开源，这本身就是[[Agent Skills Framework (Applied)|智能体技能框架]]的一次具体实践。
+
+Source: [[raw/videos/ab312a84_AI真正改变的不是效率而是决策质量.md]]
+
+## Related
+- [[判断与决策价值论]]
+- [[工具链专业化组合]]
+- [[决策系统迭代]]
+- [[决策推演 vs. 决策表达]]

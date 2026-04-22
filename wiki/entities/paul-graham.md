@@ -16,6 +16,11 @@ related:
   - "Programmer-to-Blogger Transition"
   - "Technical Blog Quality Hierarchy"
   - "Zhihu Discussion: Technical Blogging Platforms and Influential Programmers"
+  - "独立个人博客价值"
+  - "工程师思维写作范式"
+  - "从创作者到投资/布道者的博客演进"
+  - "高质量内容作为学习路径起点"
+  - "中外技术博客文化差异"
 ---
 
 # Paul Graham
@@ -74,3 +79,19 @@ entrepreneur, essayist, startup-culture, y-combinator, technical-writing
 - [[Programmer-to-Blogger Transition]]
 - [[Technical Blog Quality Hierarchy]]
 - [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+
+---
+
+**Paul Graham** 是硅谷的教父级人物，著名创业孵化器Y Combinator的联合创始人，也是一位成功的投资人、程序员和作家。他以散文集《黑客与画家》闻名于世，而他的个人网站及其上的博客，则是全球技术圈公认的思想宝库。他的博客完美诠释了[[独立个人博客价值|独立个人博客]]的巅峰价值，内容跨越数十年，主题从Lisp编程语言、创业哲学（如著名的《Maker‘s Schedule, Manager’s Schedule》）、投资心得到广泛的生活感悟，影响了一代又一代的创业者与开发者。
+
+他的写作是[[工程师思维写作范式|工程师思维写作]]的典范，擅长将复杂抽象的概念用清晰、逻辑严密且充满洞察力的方式拆解。他的职业生涯轨迹也清晰地展示了[[从创作者到投资/布道者的博客演进|博客主题随角色演进而深化]]的过程。对于许多技术从业者而言，阅读Paul Graham的博客被视为[[高质量内容作为学习路径起点|构建高质量认知起点]]的重要一环。他的存在，本身就是欧美[[中外技术博客文化差异|技术博客文化]]中“领袖必写博客”传统的标志性代表。
+
+## Related
+- [[Programmer-to-Blogger Transition]]
+- [[Technical Blog Quality Hierarchy]]
+- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[独立个人博客价值]]
+- [[工程师思维写作范式]]
+- [[从创作者到投资/布道者的博客演进]]
+- [[高质量内容作为学习路径起点]]
+- [[中外技术博客文化差异]]

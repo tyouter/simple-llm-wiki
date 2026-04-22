@@ -234,7 +234,7 @@ def ingest_source(config: WikiConfig, source_path: Path, dry_run: bool = False) 
     metadata = parse_source_metadata(raw_content)
     clean_content = extract_clean_content(raw_content)
 
-    source_content, was_truncated = truncate_to_tokens(clean_content)
+    source_content, was_truncated = truncate_to_tokens(clean_content, max_tokens=100000)
 
     wiki_index = ""
     if config.index_path.exists():

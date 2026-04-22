@@ -19,6 +19,9 @@ The LLM updates this file on every ingest.
 - [[国产大模型]] — 中国科技公司开发的大语言模型，包括GLM、MiniMax、Qwen、Deepseek等
 - [[Obsidian CLI]] — Obsidian官方命令行工具，允许AI直接调用笔记数据
 - [[一人AI公司]] — 一个人运营的AI服务公司，通过自动化工具实现商业效应
+- [[Obsidian Plugin Ecosystem]] — Community-driven environment of third-party extensions for Obsidian that enable customization and address workflow gaps through plugins like Obsidian Dragger.
+- [[Text Block as a Unit of Manipulation]] — Paradigm treating discrete content elements as atomic, movable objects rather than linear text, enabling drag-and-drop interfaces like those in Notion and Obsidian Dragger.
+- [[Community-Driven Feature Development]] — Development model where users identify unmet needs and build solutions themselves, exemplified by Ariestar creating the Obsidian Dragger plugin.
 
 ## Entities
 

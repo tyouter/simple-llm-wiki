@@ -3,6 +3,7 @@ title: "AI-Free Interface Aesthetics"
 type: "concept"
 sources:
   - "raw/raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
 tags:
   - "ai-design"
   - "ui-ux"
@@ -17,6 +18,10 @@ related:
   - "Prompt Combination & Adaptation"
   - "Vibe Coding"
   - "AI Tool Chaining/Specialization for Design"
+  - "Prompt Engineering for Aesthetic Control"
+  - "AI-Generated Design Quality Spectrum"
+  - "Design Prompt Curation & Repository"
+  - "Prompt Combination & Meta-Prompting"
 ---
 
 # AI-Free Interface Aesthetics
@@ -48,3 +53,45 @@ The aim is to use AI as a powerful assistant for ideation and implementation whi
 - [[Prompt Combination & Adaptation]]
 - [[Vibe Coding]]
 - [[AI Tool Chaining/Specialization for Design]]
+
+---
+
+## Additional Insights
+
+
+
+## Method from Source
+The source provides a concrete method to achieve this: using curated XML prompts from [[designprompts.dev]] to guide [[Claude Code]], effectively applying [[Prompt Engineering for Aesthetic Control]] to shift outputs to the high-quality end of the [[AI-Generated Design Quality Spectrum]]. The human role involves selecting prompts that embody desired aesthetics, thus embedding [[Aesthetic Judgment in Tech]] into the generation pipeline.
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[designprompts.dev]]
+- [[Claude Code]]
+- [[Prompt Combination & Adaptation]]
+- [[Vibe Coding]]
+- [[AI Tool Chaining/Specialization for Design]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[AI-Generated Design Quality Spectrum]]
+
+---
+
+## Additional Insights
+
+
+
+## 实践方法：从本文案例看
+本文提供了一个具体实践路径：通过使用 [[Design Prompt Curation & Repository]]（如designprompts.dev）中的高质量提示词，或进行 [[Prompt Combination & Meta-Prompting]]，来精细引导AI（如Claude Code）的生成过程。这揭示了追求“AI-Free”结果的内在张力：它并非完全脱离AI，而是通过更深度、更专业的“AI-Involved”提示工程和工具链，来对抗AI默认输出的同质化倾向，从而将输出推向 [[AI-Generated Design Quality Spectrum]] 的高质量一端。
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[designprompts.dev]]
+- [[Claude Code]]
+- [[Prompt Combination & Adaptation]]
+- [[Vibe Coding]]
+- [[AI Tool Chaining/Specialization for Design]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[AI-Generated Design Quality Spectrum]]
+- [[Design Prompt Curation & Repository]]
+- [[Prompt Combination & Meta-Prompting]]

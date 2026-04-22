@@ -16,6 +16,9 @@ related:
   - "gstack-role-based-ai-development-workflow-for-claude-code"
   - "CLAUDE.md"
   - "yahah"
+  - "Plan"
+  - "Humanize工作流"
+  - "持久记忆体系"
 ---
 
 # Spec Coding vs. Vibe Coding
@@ -69,3 +72,18 @@ The [[Humanize Workflow]] mentioned in the discussion is an example of a structu
 - [[gstack-role-based-ai-development-workflow-for-claude-code]]
 - [[CLAUDE.md]]
 - [[yahah]]
+
+---
+
+## Extended Definition
+
+两种对立的 AI 辅助编程风格，由知乎用户 [[yahah]] 在其回答中引入。**Spec Coding** 强调基于明确、详细的规格说明（Spec）进行开发，要求先有清晰的设计，然后 AI 根据 Spec 生成实现方案（[[Plan]]），最后再写代码。它强调可预测性、可验证性和架构的清晰度，是 [[Humanize工作流]] 的核心思想。**Vibe Coding** 被描述为“自然语言到编程语言的投影工具”，更依赖模糊的、感觉式的自然语言指令，更即兴，但可能导致结果不稳定、难以维护。[[yahah]] 强烈主张坚持 Spec Coding，避免 Vibe Coding，并认为这与有效使用 [[CLAUDE.md]] 和 [[持久记忆体系]] 的理念一脉相承。
+
+## Related
+- [[Humanize Workflow]]
+- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[CLAUDE.md]]
+- [[yahah]]
+- [[Plan]]
+- [[Humanize工作流]]
+- [[持久记忆体系]]

@@ -3,6 +3,7 @@ title: "AI-Generated Design Quality Spectrum"
 type: "concept"
 sources:
   - "raw/articles/2fd8f209_Vibe coding 做的网站太难看怎么办分享我自己的解决技巧.md"
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
 tags:
   - "conceptual-framework"
   - "ai-design"
@@ -17,6 +18,10 @@ related:
   - "Design Style System Prompt"
   - "Curated Design Prompt Repositories"
   - "AI-Free Interface Aesthetics"
+  - "Prompt Engineering for Aesthetic Control"
+  - "Aesthetic Judgment in Tech"
+  - "Design Prompt Curation & Repository"
+  - "Tailwind CSS"
 ---
 
 # AI-Generated Design Quality Spectrum
@@ -53,3 +58,43 @@ The existence of this spectrum suggests that design expertise remains valuable. 
 - [[Design Style System Prompt]]
 - [[Curated Design Prompt Repositories]]
 - [[AI-Free Interface Aesthetics]]
+
+---
+
+## Additional Insights
+
+
+
+## Navigating the Spectrum from Source
+The source document provides a method to actively navigate this spectrum. It identifies the low-end as outputs with "Claude味" and default Tailwind aesthetics from unguided generation. It positions curated prompts from [[designprompts.dev]] as a lever to access the high-end—producing "无 AI 感高品质界面." This process relies on human [[Aesthetic Judgment in Tech]] to select the right prompts ([[Prompt Engineering for Aesthetic Control]]), with the explicit goal of reaching the [[AI-Free Interface Aesthetics]] pole of the spectrum.
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[Vibe Coding Enhancement Workflow]]
+- [[Design Style System Prompt]]
+- [[Curated Design Prompt Repositories]]
+- [[AI-Free Interface Aesthetics]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[Aesthetic Judgment in Tech]]
+
+---
+
+## Additional Insights
+
+
+
+## 具体案例中的光谱两端
+本文明确指出了该光谱在实践中的体现：低端是带有“Claude味”和 [[Tailwind CSS]] 默认蓝紫色渐变的、可被轻易识别的AI设计；高端则是通过 [[Design Prompt Curation & Repository]] 和高级提示工程生成的“无AI感高品质界面”。追求 [[AI-Free Interface Aesthetics]] 就是致力于将输出结果从光谱低端推向高端。这要求用户不仅要有 [[Aesthetic Judgment in Tech]]，还要掌握提升质量的具体工具和方法。
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[Vibe Coding Enhancement Workflow]]
+- [[Design Style System Prompt]]
+- [[Curated Design Prompt Repositories]]
+- [[AI-Free Interface Aesthetics]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[Aesthetic Judgment in Tech]]
+- [[Design Prompt Curation & Repository]]
+- [[Tailwind CSS]]

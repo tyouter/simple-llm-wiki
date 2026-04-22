@@ -3,6 +3,7 @@ title: "Context Window Management"
 type: "concept"
 sources:
   - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
 tags:
   - "claude-code"
   - "context-management"
@@ -17,6 +18,9 @@ related:
   - "Persistent Memory System (Claude Code)"
   - "Subagents for Context Efficiency"
   - "Single-Loop Architecture"
+  - "Progressive Disclosure Mechanism"
+  - "Agent Skills Framework"
+  - "Skill Activation"
 ---
 
 # Context Window Management
@@ -76,3 +80,18 @@ Based on techniques from [[Advanced Claude Code Workflow Techniques and Architec
 - [[Persistent Memory System (Claude Code)]]
 - [[Subagents for Context Efficiency]]
 - [[Single-Loop Architecture]]
+
+---
+
+## Extended Definition
+
+**Context Window Management** refers to the strategic handling of an AI agent's finite context token limit, a primary architectural constraint addressed by the [[Agent Skills Framework]]. The [[Progressive Disclosure Mechanism]] is a direct, elegant solution to this problem. By loading only skill metadata (names/descriptions) into the initial context and deferring the loading of full instructions (`SKILL.md`) until [[Skill Activation]], the system allows an agent to be aware of a vast catalog of capabilities without exhausting its token budget on startup. Furthermore, keeping skill instructions concise and offloading detailed references to separate resource files minimizes the token cost of active skills. Effective context management is crucial for maintaining agent performance and enabling a rich, scalable ecosystem of skills.
+
+## Related
+- [[Claude Code]]
+- [[Persistent Memory System (Claude Code)]]
+- [[Subagents for Context Efficiency]]
+- [[Single-Loop Architecture]]
+- [[Progressive Disclosure Mechanism]]
+- [[Agent Skills Framework]]
+- [[Skill Activation]]

@@ -3,6 +3,7 @@ title: "Anthropic"
 type: "entity"
 sources:
   - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
 tags:
   - "ai-company"
   - "claude"
@@ -19,8 +20,10 @@ related:
   - "Geopolitical AI Restrictions"
   - "Knowledge Distillation (Model Distillation)"
   - "Qwen3.5-27B"
+  - "Agent Skills Framework"
+  - "Claude"
+  - "Skill-Creator Tool"
 ---
-
 
 # Anthropic
 
@@ -129,3 +132,17 @@ Information based on Anthropic's September 2024 policy announcements and analysi
 - [[Geopolitical AI Restrictions]]
 - [[Knowledge Distillation (Model Distillation)]]
 - [[Qwen3.5-27B]]
+
+---
+
+**Anthropic** is an AI research and safety company that created the [[Claude]] AI assistant. It is the primary developer, promoter, and standard-setter for the [[Agent Skills Framework]]. Anthropic provides the official documentation, conceptual foundation, and key tooling—most notably the [[Skill-Creator Tool]]—that enable the engineering approach to agent capability development. The company's framing of Skills as a core capability layer for Claude and its emphasis on treating them as reusable [[Skill as Asset|assets]] have been instrumental in shifting the paradigm from [[Prompt Engineering]] to systematic [[Iterative Skill Development]].
+
+## Related
+- [[Claude Code]]
+- [[Claude Opus 4.6]]
+- [[Geopolitical AI Restrictions]]
+- [[Knowledge Distillation (Model Distillation)]]
+- [[Qwen3.5-27B]]
+- [[Agent Skills Framework]]
+- [[Claude]]
+- [[Skill-Creator Tool]]

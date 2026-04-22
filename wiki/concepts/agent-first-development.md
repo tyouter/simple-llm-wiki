@@ -3,6 +3,7 @@ title: "Agent-First Development"
 type: "concept"
 sources:
   - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
 tags:
   - "agent-first-development"
   - "ai-development"
@@ -20,6 +21,10 @@ related:
   - "OpenAI"
   - "Anthropic"
   - "Vibe Coding"
+  - "AI Agent"
+  - "SWE-agent"
+  - "Agent-Computer Interfaces"
+  - "Spec Coding"
 ---
 
 # Agent-First Development
@@ -130,3 +135,64 @@ agent-first-development, ai-development, software-engineering, workflow-transfor
 - [[OpenAI]]
 - [[Anthropic]]
 - [[Vibe Coding]]
+
+---
+
+## Extended Definition
+
+# Agent-First Development
+
+## 定义
+将[[AI Agent]]作为一等公民的软件开发范式，重新设计工具链和工作流以最大化智能体的效能。在[[Claude Code高效配置与开发实践指南]]中，这一概念与"以人类为中心"的传统开发相对，代表了开发范式的根本转变。
+
+## 核心原则
+工具、接口和流程都围绕[[AI Agent]]的能力进行优化，而非仅仅让AI适应人类既有的工作方式。这要求：
+1. **智能体优先的接口设计**：创建高效的[[Agent-Computer Interfaces]]
+2. **能力优化的工具链**：工具设计考虑智能体的认知和处理模式
+3. **流程重构**：工作流围绕智能体效能最大化重新设计
+
+## 具体体现
+- **[[Claude Code]]的[[持久记忆体系]]**：[[CLAUDE.md]]结构考虑如何让Claude最有效地解析信息
+- **清晰的`/memory`命令**：为智能体提供明确的操作接口
+- **灵活的[[权限模式]]**：适应智能体不同的操作场景
+- **基于[[Frontmatter]]的规则作用域**：方便智能体理解规则适用范围
+
+## 研究前沿
+**[[SWE-agent]]**研究项目是这一范式的典型体现。它将解决真实世界软件工程问题（如修复GitHub Issue）的流程，从以人类为中心彻底转向以智能体为中心。在[[SWE-bench]]基准测试中，智能体被给予Issue描述后自主定位Bug、修改代码，最终通过原始开发者编写的真实单元测试验证。
+
+## 与相关概念的关系
+- **[[Spec Coding]]** - 兼容的开发方法论，可服务于Agent-First范式
+- **[[Vibe Coding]]** - 对立的方法，依赖人类主观感觉而非智能体优化流程
+- **[[AI Agent]]** - 本范式的服务对象
+- **[[SWE-agent]]** - 前沿研究实例
+
+## 优势
+- **效能最大化**：充分发挥AI智能体的能力
+- **流程优化**：消除人类-AI协作中的摩擦
+- **可扩展性**：便于构建更复杂的智能体系统
+- **未来适应性**：为AI能力持续提升做好准备
+
+## 实践意义
+设计[[CLAUDE.md]]时，考虑的是如何让Claude这个"智能体"最有效地解析和利用信息，而非仅是人类可读性。配置[[持久记忆体系]]时，思考的是如何建立智能体友好的记忆和检索机制。
+
+## 相关概念
+- [[AI Agent]] - 核心服务对象
+- [[SWE-agent]] - 研究实例
+- [[Agent-Computer Interfaces]] - 关键技术接口
+- [[Spec Coding]] - 兼容的方法论
+- [[Vibe Coding]] - 对立的方法
+
+**backlinks_note**: 本概念在[[Claude Code高效配置与开发实践指南]]中作为开发范式转变被讨论，与[[Spec Coding]]兼容，与[[Vibe Coding]]对立，体现在[[SWE-agent]]研究中。
+
+## Related
+- [[Harness Engineering]]
+- [[Agent Harness]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[OpenAI]]
+- [[Anthropic]]
+- [[Vibe Coding]]
+- [[AI Agent]]
+- [[SWE-agent]]
+- [[Agent-Computer Interfaces]]
+- [[Spec Coding]]

@@ -3,6 +3,7 @@ title: "AI-Native Design Workflow"
 type: "concept"
 sources:
   - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
 tags:
   - "workflow"
   - "design-process"
@@ -17,6 +18,12 @@ related:
   - "Design Prompt Engineering for UI"
   - "Prompt-Dependent Output Quality"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "Prompt Engineering for Aesthetic Control"
+  - "Design System Synthesis by AI"
+  - "Vibe Coding"
+  - "Design Prompt Curation & Repository"
+  - "Prompt Combination & Meta-Prompting"
+  - "Low-Code/No-Code Frontend via AI"
 ---
 
 # AI-Native Design Workflow
@@ -56,3 +63,48 @@ This workflow mirrors the structured, multi-stage approach discussed in [[GStack
 - [[Design Prompt Engineering for UI]]
 - [[Prompt-Dependent Output Quality]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
+
+---
+
+## Additional Insights
+
+
+
+## Concrete Instantiation from Source
+The source workflow is a prime example: it is centered on curating and combining machine-readable design prompts (XML from [[designprompts.dev]]), using AI to generate both code and a cohesive design system file (`MyAppDesign.xml` via [[Design System Synthesis by AI]]), and dynamically swapping AI agents based on task phase. This is not automating an old process but creating a new one where AI agents, guided by human-curated taste ([[Aesthetic Judgment in Tech]]), are the primary actors. The rapid generation of varied landing pages exemplifies [[Vibe Coding]] within this native workflow.
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[Vibe Design]]
+- [[Google Stitch]]
+- [[Design Prompt Engineering for UI]]
+- [[Prompt-Dependent Output Quality]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[Design System Synthesis by AI]]
+- [[Vibe Coding]]
+
+---
+
+## Additional Insights
+
+
+
+## 核心组件与流程细化
+本文详细展示了一个AI-Native设计工作流的具体实例：1) **资源输入**：从 [[Design Prompt Curation & Repository]] 获取高质量风格提示词。2) **规范整合**：可能涉及 [[Prompt Combination & Meta-Prompting]]，生成专属设计规范。3) **代码生成**：AI根据规范和现有代码生成界面，实现 [[Low-Code/No-Code Frontend via AI]]。整个流程高度压缩了从风格参考到可运行代码的周期，其效率严重依赖于预设提示词库和AI的上下文理解能力。
+
+Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+
+## Related
+- [[Vibe Design]]
+- [[Google Stitch]]
+- [[Design Prompt Engineering for UI]]
+- [[Prompt-Dependent Output Quality]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[Prompt Engineering for Aesthetic Control]]
+- [[Design System Synthesis by AI]]
+- [[Vibe Coding]]
+- [[Design Prompt Curation & Repository]]
+- [[Prompt Combination & Meta-Prompting]]
+- [[Low-Code/No-Code Frontend via AI]]

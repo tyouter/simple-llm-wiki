@@ -3,6 +3,7 @@ title: "TurboDocx"
 type: "entity"
 sources:
   - "raw/raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
 tags:
   - "entity"
   - "team"
@@ -15,6 +16,10 @@ related:
   - "Role-Based AI Development"
   - "GStack"
   - "Single-Mode Problem"
+  - "趋同进化"
+  - "基于角色的AI开发"
+  - "单一模糊模式问题"
+  - "gstack"
 ---
 
 # TurboDocx
@@ -34,3 +39,13 @@ Their model, while potentially differing in specific roles or implementation, sh
 - [[Role-Based AI Development]]
 - [[GStack]]
 - [[Single-Mode Problem]]
+
+## Related
+- [[Convergent Evolution (in AI Tools)]]
+- [[Role-Based AI Development]]
+- [[GStack]]
+- [[Single-Mode Problem]]
+- [[趋同进化]]
+- [[基于角色的AI开发]]
+- [[单一模糊模式问题]]
+- [[gstack]]

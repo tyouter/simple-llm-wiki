@@ -4,13 +4,22 @@ type: "entity"
 sources:
   - "wiki/sources/gstack-role-based-ai-development-workflow-for-claude-code.md"
   - "wiki/sources/GStack角色化AI开发工作流.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
 tags:
   - "workflow"
   - "claude-code"
   - "role-based"
 confidence: "high"
-created_at: "2026-04-17T11:18:13.389655"
+created_at: "2026-04-20T00:00:00"
 updated_at: "2026-04-20T00:00:00"
+related:
+  - "Garry Tan"
+  - "基于角色的AI开发"
+  - "技能包"
+  - "固执己见的命令"
+  - "车道限制"
+  - "单一模糊模式问题"
+  - "代理操作系统"
 ---
 
 # GStack
@@ -48,3 +57,20 @@ updated_at: "2026-04-20T00:00:00"
 - [[Garry Tan]]
 - [[Claude Code]]
 - [[TurboDocx]]
+
+---
+
+**gstack** 是一个由[[Garry Tan]]开源、专为[[Claude Code]]环境设计的[[技能包]]。它包含了八个[[固执己见的命令]]，每个命令对应软件开发流程中的一个特定工程角色，是[[基于角色的AI开发]]范式的具体实现和标杆案例。
+
+其八个命令覆盖了从战略规划到发布回顾的全流程：`/plan-ceo-review`（[[Brian Chesky模式]]）、`/plan-eng-review`（工程规划）、`/implement`（实现）、`/review`（[[对抗性通过]]审查）、`/browse`（[[视觉回归检查]]）、`/ship`（[[Git仪式自动化]]）、`/retro`（[[提交分析模式识别]]）以及`/sync`（同步）。gstack的核心设计哲学是[[车道限制]]，即每个技能严格限定在其职责范围内，以模拟真实工程组织的专业分工。
+
+gstack的诞生是为了从根本上解决[[单一模糊模式问题]]，即通用AI编程伙伴的局限性。它通过强制性的角色分离和阶段化流程，提升了AI在各个环节的输出质量和针对性。项目本身正在演变为一个更复杂的[[代理操作系统]]的实验平台，探索如何使用类似[[Conductor]]的工具并行运行多个代理会话。gstack的成功和其引发的[[趋同进化]]现象，标志着AI编程工具向专业化、结构化方向迈出了关键一步。
+
+## Related
+- [[Garry Tan]]
+- [[基于角色的AI开发]]
+- [[技能包]]
+- [[固执己见的命令]]
+- [[车道限制]]
+- [[单一模糊模式问题]]
+- [[代理操作系统]]

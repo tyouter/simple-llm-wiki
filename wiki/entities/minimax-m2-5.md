@@ -5,13 +5,18 @@ sources:
   - "wiki/sources/2026国产大模型Coding Plan对比.md"
   - "wiki/sources/chinese-llm-coding-plan-comparison.md"
   - "wiki/sources/国产大模型Coding Plan横评.md"
+  - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
 tags:
   - "ai-model"
   - "minimax"
   - "chinese-llm"
 confidence: "high"
-created_at: "2026-04-17T22:13:44.878270"
+created_at: "2026-04-20T00:00:00"
 updated_at: "2026-04-20T00:00:00"
+related:
+  - "AI 大模型演进评估"
+  - "主流模型生态位分化"
+  - "开发选型参考"
 ---
 
 # MiniMax M2.5
@@ -44,3 +49,12 @@ MiniMax公司开发的大语言模型M2系列，在Coding Plan横评中被评为
 - [[GLM-5]]
 - [[Kimi K2.5]]
 - [[MiniMax]]
+
+---
+
+**MiniMax M2.5** 是MiniMax公司推出的大语言模型版本。作为国内主流模型之一，它被纳入《[[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]》的演进讨论范畴。其具体能力特点（如在中文场景的优化、逻辑推理或成本控制方面的表现）是视频中进行[[AI 大模型演进评估]]和比较的对象之一。该模型的存在和发展是[[主流模型生态位分化]]趋势的一个具体例证，代表了在全球化AI竞赛中，区域化模型在特定市场或语言场景中寻求差异化优势的努力。对它的评估有助于开发者更全面地理解市场格局，做出更明智的[[开发选型参考]]。
+
+## Related
+- [[AI 大模型演进评估]]
+- [[主流模型生态位分化]]
+- [[开发选型参考]]

@@ -15,6 +15,9 @@ related:
   - "Persistent Memory System (Claude Code)"
   - "CLAUDE.md"
   - "Permission Modes (Claude Code)"
+  - "/memory 命令"
+  - "会话失忆"
+  - "yahah"
 ---
 
 # Auto Memory
@@ -59,3 +62,21 @@ In the debate highlighted in [[Zhihu Discussion: Optimizing Claude Code with CLA
 - [[Persistent Memory System (Claude Code)]]
 - [[CLAUDE.md]]
 - [[Permission Modes (Claude Code)]]
+
+---
+
+## Additional Insights
+
+
+## 局限性与管理
+虽然 [[自动记忆]] 能有效学习习惯，但它也可能记录错误或过时的信息。用户应定期使用 [[/memory命令]] 进行检查和清理。此外，[[yahah]] 所倡导的 [[Spec Coding vs Vibe Coding]] 工作流，在一定程度上减少了对 AI “自行学习”模糊习惯的依赖，转而依靠人类明确编写的 [[Plan]] 和规格，这可能使得自动记忆的角色在高度规范化的项目中有所减弱。理解自动记忆的适用场景（学习个人微偏好、项目特定坑点）和局限（不适合学习复杂架构决策），是有效利用 [[持久记忆体系]] 的关键。
+
+Source: [[raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md]]
+
+## Related
+- [[Persistent Memory System (Claude Code)]]
+- [[CLAUDE.md]]
+- [[Permission Modes (Claude Code)]]
+- [[/memory 命令]]
+- [[会话失忆]]
+- [[yahah]]

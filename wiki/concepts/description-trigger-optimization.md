@@ -15,6 +15,9 @@ related:
   - "Skill Engineering Lifecycle"
   - "skill-creator"
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
+  - "Skill Triggering"
+  - "Skill-Creator Tool"
+  - "Iterative Skill Development"
 ---
 
 # Description Trigger Optimization
@@ -56,3 +59,36 @@ tuning, optimization, agent-interaction, skill-discovery
 - [[Skill Engineering Lifecycle]]
 - [[skill-creator]]
 - [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+
+---
+
+## Extended Definition
+
+**Description Trigger Optimization** is a systematic, machine learning-like process to refine a [[Skills (Anthropic Framework)|Skill]]'s description to maximize accurate [[Skill Triggering]] (true positives) and minimize false activations. It involves generating a curated set of test queries (both positive and negative), splitting them into training/validation sets, and iteratively testing and revising the description. The [[Skill-Creator Tool]] often automates this optimization loop. The goal is to create a description that generalizes well across real user phrasing, including typos and indirect references, rather than overfitting to specific test cases. This process is a cornerstone of [[Iterative Skill Development]], providing empirical data to improve a skill's discoverability and reliability. It directly addresses the core challenge of ensuring a valuable skill is actually invoked when needed.
+
+## Related
+- [[Skill Engineering Lifecycle]]
+- [[skill-creator]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Skill Triggering]]
+- [[Skill-Creator Tool]]
+- [[Iterative Skill Development]]
+
+---
+
+## Additional Insights
+
+
+
+## Enhanced Insights from Analysis
+This process exemplifies the engineering mindset of the broader framework. It is often automated or facilitated by the [[Skill-Creator Tool]], which provides a structured loop for testing and revision. It is a core component of [[Iterative Skill Development]], treating the skill description not as static text but as a tunable parameter critical to the skill's overall performance and reliability. Success is measured by the skill's ability to trigger accurately on unseen, real-world user queries.
+
+Source: [[raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md]]
+
+## Related
+- [[Skill Engineering Lifecycle]]
+- [[skill-creator]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Skill Triggering]]
+- [[Skill-Creator Tool]]
+- [[Iterative Skill Development]]

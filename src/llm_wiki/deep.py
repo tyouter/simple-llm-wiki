@@ -252,7 +252,7 @@ def deep_parse_source(config: WikiConfig, source_path: Path) -> list[WikiPage]:
     metadata = parse_source_metadata(raw_content)
     clean_content = extract_clean_content(raw_content)
 
-    source_content, was_truncated = truncate_to_tokens(clean_content, max_tokens=12000)
+    source_content, was_truncated = truncate_to_tokens(clean_content, max_tokens=100000)
 
     existing_concepts = _get_existing_concepts(config)
     existing_concepts_str = "\n".join(existing_concepts[:50]) if existing_concepts else "(none yet)"
