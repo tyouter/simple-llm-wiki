@@ -12,11 +12,13 @@ tags:
   - "obsidian"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.779617"
-updated_at: "2026-04-20T00:11:14.779617"
+updated_at: "2026-04-22T23:50:25.207723"
 related:
   - "Obsidian"
   - "Note Organization Philosophy"
   - "AI-Enhanced Note-Taking"
+  - "Dataview"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
 ---
 
 # Git-Based Knowledge Management
@@ -67,6 +69,8 @@ git, version-control, knowledge-management, backup, collaboration, obsidian
 - [[Obsidian]]
 - [[Note Organization Philosophy]]
 - [[AI-Enhanced Note-Taking]]
+- [[Dataview]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
 
 ## Related
 - [[Obsidian]]

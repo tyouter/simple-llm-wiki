@@ -10,7 +10,7 @@ tags:
   - "Obsidian"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.162306"
 ---
 
 # AI学习效率流程：三工具组合拳
@@ -58,6 +58,6 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Obsidian CLI]]
-- [[NotebookLM]]
-- [[知识管理]]
+- [[Notebooklm]]
+- 知识管理
 - [[LLM Wiki架构]]

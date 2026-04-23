@@ -11,7 +11,7 @@ tags:
   - "工作流"
 confidence: "high"
 created_at: "2026-04-21T17:54:16.126344"
-updated_at: "2026-04-21T17:54:16.126344"
+updated_at: "2026-04-22T23:50:26.261716"
 related:
   - "AI-Native Design Workflow"
   - "AI-Free Interface Aesthetics"
@@ -19,6 +19,10 @@ related:
   - "AI-Generated Design Quality Spectrum"
   - "Community-Driven AI Tool Discovery"
   - "designprompts.dev"
+  - "Low-Code/No-Code Frontend via AI"
+  - "Vibe Coding"
+  - "Rrupmid Nyche"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
 ---
 
 指对用于生成设计的AI提示词进行系统性收集、分类、优化和展示，形成可被直接预览和使用的提示词库。这类资源将隐性的设计知识和风格描述转化为可复用的、结构化的（如XML格式）提示词资产，极大地降低了高质量设计生成的门槛，并提升了设计迭代的效率。
@@ -35,4 +39,8 @@ related:
 - [[Prompt Combination & Meta-Prompting]]
 - [[AI-Generated Design Quality Spectrum]]
 - [[Community-Driven AI Tool Discovery]]
+- [[Low-Code/No-Code Frontend via AI]]
+- [[Vibe Coding]]
+- [[Rrupmid Nyche]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
 - [[designprompts.dev]]

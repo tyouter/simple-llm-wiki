@@ -1,0 +1,67 @@
+---
+title: "Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建"
+type: "source"
+sources:
+  - "raw/videos/3b2aadbb_Claude Code Obsidian 构建一个247个人操作系统用于个人思考知识积累和创业构建.md"
+tags:
+  - "人工智能"
+  - "知识"
+  - "知识管理"
+  - "obsidian"
+  - "知识积累"
+confidence: "high"
+created_at: "2026-04-22T23:49:45.980004"
+updated_at: "2026-04-23T00:42:41.433471"
+related:
+  - "Claude Code"
+  - "Obsidian"
+  - "Markdown"
+  - "Cli"
+  - "Claude Code"
+  - "Obsidian"
+  - "Claude"
+---
+
+# Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建
+
+## 概述
+
+## 简介
+
+
+用 Markdown 写作一切（日记、项目、信念、人物、会议）
+链接你的笔记，让它们反映你大脑真实的思考方式
+安装 Obsidian CLI，让 Claude Code 能读取你的整个 vault 及其关系网络
+别再每次会话都重新解释项目。改用参考文件
+构建自定义斜杠命令：
+/context → 加载你的完整生活和工作状态
+/trace → 查看一个想法是如何在几个月中演化的
+/connect → 桥接你一直在探索的两个领域
+/ideas → 从你的 vault 中生成创业想法
+/graduate → 将日常思考提升为真正的资产
+坚守一条规则：人来写 vault。代理读取它、建议、执行
+让 Claude (Clode) 揭示你多年来无意识中一直在循环的模式
+从笔记内部委托任务
+
+## 核心概念
+
+- [[Claude Code]]: Claude Code
+- [[Obsidian]]: Obsidian
+- [[Markdown]]: Markdown
+- [[Cli]]: CLI (Command Line Interface)
+
+## 相关实体
+
+- [[Claude Code]] (product)
+- [[Obsidian]] (product)
+- [[Claude]] (product)
+
+## Related
+- [[Claude Code]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Cli]]
+- [[Claude Code]]
+- [[Obsidian]]
+- [[“情报”神器：1000 + 平台社交信息挖掘工具]]
+- [[Claude]]

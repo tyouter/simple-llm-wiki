@@ -12,13 +12,26 @@ tags:
   - "markdown"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.779617"
-updated_at: "2026-04-20T00:11:14.779617"
+updated_at: "2026-04-23T00:42:20.077804"
 related:
   - "Obsidian"
   - "obsidian-skills"
   - "Markdown as Human-AI Interface"
   - "Note Organization Philosophy"
   - "mizore-s-claude-code-automation-toolkit-and-paper-reading-skill"
+  - "Content Structure Agility"
+  - "Dataview"
+  - "Git-Based Knowledge Management"
+  - "Obsidian Plugin Ecosystem"
+  - "主动输入式学习"
+  - "博客内容动态筛选机制"
+  - "提交分析模式识别 (Commit Analysis Pattern Discovery)"
+  - "结构层（决策第二步）"
+  - "长文本解析与理解"
+  - "Kimi K2.5"
+  - "Steph Ango (kepano)"
+  - "XiaoNuo-Notes"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
 ---
 
 # AI-Enhanced Note-Taking
@@ -50,7 +63,7 @@ The practice of using AI agents to generate, format, and structure notes within 
 - **Personalization**: Adapting AI assistance to individual thinking and organization styles.
 
 ## Related Workflows
-- **[[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]**: Another example of AI-enhanced workflow automation.
+- **[[Claude]]**: Another example of AI-enhanced workflow automation.
 - **[[GStack: Role-Based AI Development Workflow for Claude Code]]**: Similar specialization of AI agents for domain-specific tasks.
 - **[[Vibe Coding]]**: Aesthetic-prompt-driven approaches that complement AI-enhanced note-taking.
 
@@ -62,11 +75,24 @@ ai-integration, note-taking, automation, knowledge-management, workflow, markdow
 - [[obsidian-skills]]
 - [[Markdown as Human-AI Interface]]
 - [[Note Organization Philosophy]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]
+- [[Content Structure Agility]]
+- [[Dataview]]
+- [[Git-Based Knowledge Management]]
+- [[Obsidian Plugin Ecosystem]]
+- [[主动输入式学习]]
+- [[博客内容动态筛选机制]]
+- [[提交分析模式识别 (Commit Analysis Pattern Discovery)]]
+- [[结构层（决策第二步）]]
+- [[长文本解析与理解]]
+- [[Kimi K2.5]]
+- [[Steph Ango (kepano)]]
+- [[XiaoNuo-Notes]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
 
 ## Related
 - [[Obsidian]]
 - [[obsidian-skills]]
 - [[Markdown as Human-AI Interface]]
 - [[Note Organization Philosophy]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]

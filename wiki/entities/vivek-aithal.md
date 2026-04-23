@@ -11,12 +11,13 @@ tags:
   - "reverse-engineering"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.979040"
-updated_at: "2026-04-18T00:50:50.979040"
+updated_at: "2026-04-22T23:50:21.420263"
 related:
   - "Claude Code"
   - "Single-Loop Architecture"
   - "LLM Search over RAG"
   - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
+  - "Claude Code工作流技术与架构分析"
 ---
 
 # Vivek Aithal
@@ -72,4 +73,5 @@ Referenced in [[Advanced Claude Code Workflow Techniques and Architecture Analys
 - [[Claude Code]]
 - [[Single-Loop Architecture]]
 - [[LLM Search over RAG]]
+- [[Claude Code工作流技术与架构分析]]
 - [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]

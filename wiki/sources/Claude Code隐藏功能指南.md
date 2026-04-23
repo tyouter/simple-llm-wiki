@@ -14,7 +14,7 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391445"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:27.644000"
 related:
   - "Claude Code"
   - "Thariq"
@@ -25,6 +25,10 @@ related:
   - "Workflow Branching"
   - "GStack角色化AI开发工作流"
   - "AI Tool Chaining/Combination"
+  - "Claude Code 2026完整新手教程"
+  - "Oh My ClaudeCode把Claude变成Coding武器"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "约束工程与VibeCoding的核心要点"
 ---
 
 # Claude Code隐藏功能指南
@@ -94,4 +98,8 @@ related:
 - [[Model-Switching Optimization]]
 - [[Workflow Branching]]
 - [[GStack角色化AI开发工作流]]
+- [[Claude Code 2026完整新手教程]]
+- [[Oh My ClaudeCode把Claude变成Coding武器]]
+- [[为AI构建代码知识图谱的两个Skill]]
+- [[约束工程与VibeCoding的核心要点]]
 - [[AI Tool Chaining/Combination]]

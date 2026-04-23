@@ -11,13 +11,18 @@ tags:
   - "paradigm"
 confidence: "high"
 created_at: "2026-04-17T11:18:13.380577"
-updated_at: "2026-04-17T11:18:13.380577"
+updated_at: "2026-04-22T23:50:22.801614"
 related:
   - "Single-Mode Problem"
   - "GStack"
   - "Convergent Evolution (in AI Tools)"
   - "Agent Operating System"
   - "Claude Code"
+  - "Conductor"
+  - "GStack: Role-Based AI Development Workflow"
+  - "Garry Tan"
+  - "TurboDocx"
+  - "GStack: Role-Based AI Development Workflow for Claude Code"
 ---
 
 # Role-Based AI Development
@@ -45,4 +50,9 @@ This concept is a foundational element for building an **[[Agent Operating Syste
 - [[GStack]]
 - [[Convergent Evolution (in AI Tools)]]
 - [[Agent Operating System]]
+- [[Conductor]]
+- [[GStack: Role-Based AI Development Workflow]]
+- [[Garry Tan]]
+- [[TurboDocx]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
 - [[Claude Code]]

@@ -10,7 +10,7 @@ tags:
   - "local-deployment"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.676970"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:26.545673"
 ---
 
 # Knowledge Distillation (Model Distillation)
@@ -26,8 +26,18 @@ updated_at: "2026-04-20T12:00:00"
 - **社区实践**：Qwen3.5-27B-Claude-Opus-Distill等项目展示了蒸馏的实际应用
 
 ## Related
-- [[LoRA Low-Rank Adaptation]]
+- [[Lora]]
 - [[Local Model Deployment]]
-- [[Chain-of-Thought Reasoning]]
+- [[LoRA (Low-Rank Adaptation)]]
+- [[Anthropic]]
+- Chain-of-Thought Reasoning
 - [[Anthropic对中国控股公司的限制]]
+- [[AI Economics]]
+- [[AI Tool Specialization]]
+- [[Chain-of-Thought (CoT) Reasoning)]]
+- [[Extended Thinking]]
+- [[Geopolitical AI Restrictions]]
+- [[Claude Opus 4.6]]
+- [[Qwen3.5-27B]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
 - [[Qwen]]

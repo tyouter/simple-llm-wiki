@@ -11,7 +11,7 @@ tags:
   - "technical-blogger"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.796503"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:49:31.928032"
 ---
 
 # Ryan Dahl
@@ -27,6 +27,7 @@ Node.js 和 Deno 的创造者，以简洁的编程哲学和对 JavaScript 运行
 - **持续迭代**: 不满足于既有成就，持续反思和改进自己创造的工具，体现了工程师的成长精神
 
 ## Related
+- [[一般技术大牛都在哪里写博客？]]
 
 - [[Simon Willison]]
 - [[尤雨溪 (Evan You)]]

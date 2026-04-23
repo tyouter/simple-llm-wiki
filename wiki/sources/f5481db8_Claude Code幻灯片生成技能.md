@@ -11,7 +11,7 @@ tags:
   - "pdf"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.476157"
 ---
 
 # Claude Code revealjs-skill幻灯片生成
@@ -54,5 +54,5 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 - [[Claude Code Skills系统]]
-- [[Reveal.js]]
-- [[AI文档生成]]
+- Reveal.js
+- AI文档生成

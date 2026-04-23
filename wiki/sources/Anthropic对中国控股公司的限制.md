@@ -15,7 +15,7 @@ tags:
   - "community-response"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.524340"
-updated_at: "2026-04-19T01:51:50.524340"
+updated_at: "2026-04-23T00:42:21.208840"
 related:
   - "Geopolitical AI Restrictions"
   - "Knowledge Distillation (Model Distillation)"
@@ -42,12 +42,12 @@ related:
 - **Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled**：由HuggingFace上的[[Jackrong]]创建
 - **Qwen3.5-27B-Claude-Opus-4.6-Distill**：由[[TeichAI]]开发，附带详细部署指南
 
-这些模型使用Claude Opus的[[Chain-of-Thought (CoT) Reasoning]]输出作为训练数据，教会较小的开源Qwen模型复杂的推理模式。
+这些模型使用Claude Opus的[[Chain-of-Thought (CoT) Reasoning)]]输出作为训练数据，教会较小的开源Qwen模型复杂的推理模式。
 
 ## 技术实现
 
 蒸馏过程通常包括：
-1. **数据收集**：从[[Claude Opus 4.6]]收集高质量的[[Chain-of-Thought (CoT) Reasoning]]输出
+1. **数据收集**：从[[Claude Opus 4.6]]收集高质量的[[Chain-of-Thought (CoT) Reasoning)]]输出
 2. **微调**：使用[[Unsloth]]框架进行高效训练
 3. **参数优化**：应用[[LoRA (Low-Rank Adaptation)]]以最小化计算需求
 4. **本地部署**：在消费级硬件（RTX 3090/4090 GPU）上运行蒸馏模型

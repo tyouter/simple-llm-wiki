@@ -10,10 +10,12 @@ tags:
   - "innovation"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.767758"
-updated_at: "2026-04-17T21:47:20.767758"
+updated_at: "2026-04-22T23:50:27.194143"
 related:
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
   - "Scenario Analysis (场景分析)"
+  - "Function-Oriented vs. Problem-Solving Design|Function-Oriented Design"
+  - "知乎讨论：为什么做产品的人都很喜欢思考场景"
 ---
 
 # Jeff Bezos
@@ -40,4 +42,6 @@ business-leader, amazon, strategy, innovation
 
 ## Related
 - [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
+- [[Function-Oriented vs. Problem-Solving Design|Function-Oriented Design]]
+- [[知乎讨论：为什么做产品的人都很喜欢思考场景]]
 - [[Scenario Analysis (场景分析)]]

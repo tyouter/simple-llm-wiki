@@ -12,7 +12,7 @@ tags:
   - "使用经验"
 confidence: medium
 created_at: "2026-04-20T22:00:00"
-updated_at: "2026-04-20T22:00:00"
+updated_at: "2026-04-23T00:42:33.556610"
 timestamps:
   author: "李自然说"
   published: "2026-03-02"
@@ -60,8 +60,10 @@ timestamps:
 - **多模态**：Gemini
 
 ## Related
+- [[AI时代消费型学习VS生产型学习]]
+- [[Litmaps论文阅读工具：一张图挖出领域祖师爷]]
 
-- [[大模型对比]]
-- [[AI工具选择]]
-- [[Claude编程能力]]
-- [[Gemini创意能力]]
+- 大模型对比
+- AI工具选择
+- [[Claude]]
+- [[Gemini]]

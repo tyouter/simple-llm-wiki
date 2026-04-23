@@ -11,7 +11,7 @@ tags:
   - "情绪管理"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.472641"
 ---
 
 # Clawdbot刷屏与AI时代FOMO情绪
@@ -52,6 +52,6 @@ updated_at: "2026-04-20T12:00:00"
 真正能赢的人不是技术懂得多的人，而是把技术变成商业模式的人
 
 ## Related
-- [[Clawdbot]]
+- [[【闪客】揭秘 Clawdbot 背后干了什么？怪不得这么费钱...]]
 - [[OpenClaw]]
-- [[AI时代心态]]
+- AI时代心态

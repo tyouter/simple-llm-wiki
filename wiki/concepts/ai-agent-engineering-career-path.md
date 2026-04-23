@@ -10,7 +10,7 @@ tags:
   - "competency-model"
 confidence: "high"
 created_at: "2026-04-20T00:24:32.888031"
-updated_at: "2026-04-20T00:24:32.888031"
+updated_at: "2026-04-23T00:42:20.067678"
 related:
   - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
   - "ReAct (Reasoning + Acting)"
@@ -19,6 +19,7 @@ related:
   - "Agent Memory Systems"
   - "Productionization of AI Agents"
   - "ai-agent-framework-comparison"
+  - "AI玩家日志"
 ---
 
 # AI Agent工程师职业发展路径
@@ -60,7 +61,7 @@ related:
 - **参考来源**：此路径模型提炼自知乎讨论“从后端开发转型AI Agent工程师”，由多位从业者共同印证。
 
 ## 相关链接
-[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[ReAct (Reasoning + Acting)]], [[Plan-and-Execute]], [[Multi-Agent Collaboration]], [[Agent Memory Systems]], [[Productionization of AI Agents]], [[ai-agent-framework-comparison]]
+[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[ReAct (Reasoning + Acting)]], [[Plan-and-Execute]], [[Multi-Agent Collaboration]], [[Agent Memory Systems]], [[Productionization of AI Agents]], [[Agent]]
 
 ## Related
 - [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
@@ -69,4 +70,5 @@ related:
 - [[Multi-Agent Collaboration]]
 - [[Agent Memory Systems]]
 - [[Productionization of AI Agents]]
-- [[ai-agent-framework-comparison]]
+- [[AI玩家日志]]
+- [[Agent]]

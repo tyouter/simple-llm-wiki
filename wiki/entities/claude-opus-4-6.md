@@ -12,7 +12,7 @@ tags:
   - "opus"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.526343"
-updated_at: "2026-04-19T01:51:50.526343"
+updated_at: "2026-04-23T00:42:20.821123"
 related:
   - "Knowledge Distillation (Model Distillation)"
   - "Chain-of-Thought (CoT) Reasoning"
@@ -20,6 +20,12 @@ related:
   - "Anthropic"
   - "Model-Switching Optimization"
   - "Geopolitical AI Restrictions"
+  - "AI Economics"
+  - "AI Tool Specialization"
+  - "Extended Thinking"
+  - "Local Model Deployment"
+  - "Anthropic's China Restrictions and Claude Reasoning Distillation Techniques"
+  - "Anthropic对中国控股公司的限制"
 ---
 
 # Claude Opus 4.6
@@ -133,8 +139,14 @@ Analysis based on Claude Opus 4.6's role in community distillation projects foll
 
 ## Related
 - [[Knowledge Distillation (Model Distillation)]]
-- [[Chain-of-Thought (CoT) Reasoning]]
+- [[Chain-of-Thought (CoT) Reasoning)]]
 - [[Qwen3.5-27B]]
 - [[Anthropic]]
 - [[Model-Switching Optimization]]
+- [[AI Economics]]
+- [[AI Tool Specialization]]
+- [[Extended Thinking]]
+- [[Local Model Deployment]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
+- [[Anthropic对中国控股公司的限制]]
 - [[Geopolitical AI Restrictions]]

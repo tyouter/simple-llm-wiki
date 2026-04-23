@@ -11,12 +11,14 @@ tags:
   - "complexity"
 confidence: "high"
 created_at: "2026-04-17T21:57:40.252437"
-updated_at: "2026-04-17T21:57:40.252437"
+updated_at: "2026-04-22T23:50:17.603839"
 related:
   - "Derivation-First Learning"
   - "Knowledge Compression"
   - "Token Efficiency in AI Reasoning"
   - "Zhihu Discussion: Learning Method Transition Crisis"
+  - "Internal Conflict (内耗) in Learning"
+  - "宙巡"
 ---
 
 # Enumeration Path Dependency
@@ -52,6 +54,8 @@ The proposed escape is through [[Derivation-First Learning]], which builds a sca
 learning-theory, cognitive-bias, education-crisis, problem-solving, complexity
 
 ## Related
+- [[Internal Conflict (内耗) in Learning]]
+- [[宙巡]]
 [[Derivation-First Learning]], [[Knowledge Compression]], [[Token Efficiency in AI Reasoning]], [[Zhihu Discussion: Learning Method Transition Crisis]]
 
 ## Related

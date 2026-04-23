@@ -10,12 +10,16 @@ tags:
   - "token-optimization"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.829563"
-updated_at: "2026-04-18T01:17:46.829563"
+updated_at: "2026-04-22T23:50:24.967430"
 related:
   - "Microsoft"
   - "Agent Skills Framework"
   - "Token Efficiency Optimization"
   - "Progressive Disclosure"
+  - "AI Tool Chaining/Combination"
+  - "Agent Skills与MCP技术对比与企业应用"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "web-access插件：解决Agent抓网页痛点"
 ---
 
 # Playwright CLI
@@ -126,6 +130,10 @@ Command-line tool for browser automation developed by [[Microsoft]] that uses [[
 browser-automation, microsoft, skills-implementation, token-optimization
 
 ## Related
+- [[AI Tool Chaining/Combination]]
+- [[Agent Skills与MCP技术对比与企业应用]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[web-access插件：解决Agent抓网页痛点]]
 [[Microsoft]], [[Agent Skills Framework]], [[Token Efficiency Optimization]], [[Progressive Disclosure]]
 
 ## Related

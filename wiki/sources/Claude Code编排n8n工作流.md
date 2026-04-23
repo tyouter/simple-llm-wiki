@@ -13,7 +13,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:33.712784"
 ---
 
 # Claude Code编排n8n工作流
@@ -83,9 +83,10 @@ updated_at: "2026-04-20T12:00:00"
 - awesome-open-claw-use-case仓库：有n8n案例和打包镜像
 
 ## Related
+- [[审美提升的低成本方法论]]
 
-- [[n8n]]
+- [[N8N]]
 - [[Claude Code]]
-- [[MCP]]
-- [[自动化工作流]]
+- [[Mcp]]
+- 自动化工作流
 - [[OpenClaw]]

@@ -10,7 +10,7 @@ tags:
   - "web-scraping"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:21.814563"
 ---
 
 # Playwright CLI反爬虫突破方法
@@ -76,7 +76,7 @@ Playwright CLI可以作为Claude Code的Skills：
 
 ## Related
 
-- [[Playwright爬虫检测]]
-- [[浏览器自动化工具]]
-- [[反爬虫技术]]
-- [[CDP协议]]
+- [[Playwright]]
+- [[浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？]]
+- 反爬虫技术
+- CDP协议

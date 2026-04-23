@@ -1,0 +1,359 @@
+---
+title: "Deepseek"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/1d3a90a2_真的有所谓的开悟吗真的有所谓的开悟吗.md"
+  - "raw/articles/1eca88fe_为什么做产品的人都很喜欢思考场景为什么做产品的人都很喜欢思考场景.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/46f2c12c_中国武术真的有内功存在吗中国武术真的有内功存在吗.md"
+  - "raw/articles/4857790c_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
+  - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/5f560778_真的有所谓的开悟吗真的有所谓的开悟吗.md"
+  - "raw/articles/657ca307_Deepseek能为我做什么Deepseek能为我做什么.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/95825e6f_如何看待比亚迪集团最近三年的发展如何看待比亚迪集团最近三年的发展.md"
+  - "raw/articles/99effbed_中年以后什么是最好的锻炼中年以后什么是最好的锻炼.md"
+  - "raw/articles/9fd2075e_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/bd20437f_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
+  - "raw/articles/c2a8a18c_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/cb5b7cde_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/dff29dae_最难调试修复的 bug 是怎样的最难调试修复的 bug 是怎样的.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/videos/656708d7_Obsidian 接入 Claude Skill 教程CEO亲自下场写的Skill如何使用.md"
+  - "raw/videos/bb57b09a_Obsidian-deepseek 新功能 轻SKILL介绍没有发布.md"
+  - "raw/webpages/b0ac3ea0_汽车电子行业英语缩写中英对照_汽车中控屏英文-CSDN博客汽车电子行业英语缩写中英对照.md"
+tags:
+  - "deepseek"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.564300"
+updated_at: "2026-04-23T00:42:26.811038"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Progressive Disclosure"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Anthropic"
+  - "为什么Claude的代码能力会这么强？"
+  - "小红书"
+  - "知乎"
+  - "真的有所谓的开悟吗？"
+  - "华为"
+  - "为什么做产品的人都很喜欢思考「场景」？"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Superpowers"
+  - "Claude.Md"
+  - "Plan Mode"
+  - "Cloudflare"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "中国武术真的有内功存在吗？"
+  - "微博"
+  - "天涯论坛关闭后，除了知乎，大家都在逛什么？"
+  - "Knowledge Base"
+  - "Markdown"
+  - "Opencode"
+  - "Copilot"
+  - "Claude Code真的那么厉害吗？"
+  - "Context Window"
+  - "Microservice"
+  - "Coding Plan"
+  - "Openclaw"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Skills"
+  - "Cursor"
+  - "Agent"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "Prompt Engineering"
+  - "Agentic Loop"
+  - "Multi-Agent"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Supermemory"
+  - "Embedding"
+  - "Gemini"
+  - "Gpt"
+  - "如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？"
+  - "Rag"
+  - "Api"
+  - "Jasper Wang"
+  - "Chatgpt"
+  - "Antirez"
+  - "有哪些算法惊艳到了你？"
+  - "Deepseek R1"
+  - "Kimi"
+  - "Deepseek能为我做什么？"
+  - "Lora"
+  - "Claude Opus 4"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Mcp"
+  - "Cli"
+  - "deepseek能为gis 行业带来什么？"
+  - "Skill-Creator"
+  - "Playwright"
+  - "你们有哪些好的claude code skills推荐？"
+  - "王传福"
+  - "如何看待比亚迪集团最近三年的发展？"
+  - "如萤随星"
+  - "中年以后，什么是最好的锻炼?"
+  - "Obsidian"
+  - "Dataview"
+  - "Steph Ango"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Context Engineering"
+  - "Refactoring"
+  - "Mitchell Hashimoto"
+  - "Harness Engineering的本质是什么？"
+  - "你人生中太晚明白的道理是什么？"
+  - "海伦娜·坦格利安"
+  - "Stanford"
+  - "Harvard"
+  - "为什么现在很多人推崇国外原版教材？"
+  - "Notebooklm"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "Sop"
+  - "Prd"
+  - "James Gleick"
+  - "Google"
+  - "大神们是从哪获取优质信息，比如哪些微信公众号，知乎?"
+  - "Reinforcement Learning"
+  - "Openviking"
+  - "Microsoft"
+  - "怎么成为一个 ai agent 工程师？"
+  - "Git"
+  - "Github"
+  - "Meta"
+  - "最难调试修复的 bug 是怎样的？"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "Skill"
+  - "Claude"
+  - "Obsidian 接入 Claude Skill 教程：CEO亲自下场写的Skill如何使用？"
+  - "Obsidian-deepseek 新功能 轻SKILL介绍（没有发布）"
+  - "汽车电子行业英语、缩写、中英对照_汽车中控屏英文-CSDN博客"
+  - "Asmr"
+  - "Bridge"
+  - "国产大模型"
+  - "Ci/Cd"
+  - "CLAUDE.md"
+  - "Devops"
+  - "Docker"
+  - "Hooks"
+  - "Worktree"
+  - "Yaml"
+  - "Ai学习的老章"
+  - "DeepSeek-R1"
+  - "GitHub"
+  - "GPT"
+  - "MiniMax M2.5"
+  - "Nvidia"
+  - "OpenCode"
+  - "Youtube"
+  - "吴恩达"
+  - "好地方bug"
+  - "序员先生"
+  - "微信公众号"
+  - "清华"
+  - "饼干哥哥AGI"
+  - "Obsidian-Deepseek插件轻Skill功能介绍"
+  - "DeepSeek"
+  - "Mit"
+  - "Obsidian接入Claude Skill教程"
+---
+
+# Deepseek
+
+## 定义
+
+DeepSeek - 中国的AI大模型公司及其模型
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Progressive Disclosure]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Anthropic]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[小红书]]
+- [[知乎]]
+- [[真的有所谓的开悟吗？]]
+- [[华为]]
+- [[为什么做产品的人都很喜欢思考「场景」？]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Superpowers]]
+- [[CLAUDE.md]]
+- [[Plan Mode]]
+- [[Cloudflare]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[中国武术真的有内功存在吗？]]
+- [[微博]]
+- [[天涯论坛关闭后，除了知乎，大家都在逛什么？]]
+- [[Knowledge Base]]
+- [[Markdown]]
+- [[Opencode]]
+- [[Copilot]]
+- [[Claude Code真的那么厉害吗？]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Coding Plan]]
+- [[OpenClaw]]
+- [[Cherry Studio]]
+- [[MiniMax M2.5]]
+- [[Kimi K2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Skills]]
+- [[Cursor]]
+- [[Agent]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[Prompt Engineering]]
+- [[Agentic Loop]]
+- [[Multi-Agent]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Supermemory]]
+- [[Embedding]]
+- [[Gemini]]
+- [[GPT]]
+- [[如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？]]
+- [[Rag]]
+- [[Api]]
+- [[Jasper Wang]]
+- [[Chatgpt]]
+- [[Antirez]]
+- [[有哪些算法惊艳到了你？]]
+- [[DeepSeek]]
+- [[Mit]]
+- [[Obsidian接入Claude Skill教程]]
+- Deepseek R1
+- [[Kimi]]
+- [[Deepseek能为我做什么？]]
+- [[Lora]]
+- [[Claude Opus 4]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Mcp]]
+- [[Cli]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[王传福]]
+- [[如何看待比亚迪集团最近三年的发展？]]
+- [[如萤随星]]
+- [[中年以后，什么是最好的锻炼?]]
+- [[Obsidian]]
+- [[Dataview]]
+- [[Steph Ango]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Context Engineering]]
+- [[Refactoring]]
+- [[Mitchell Hashimoto]]
+- [[Harness Engineering的本质是什么？]]
+- [[你人生中太晚明白的道理是什么？]]
+- [[海伦娜·坦格利安]]
+- [[Stanford]]
+- [[Harvard]]
+- [[为什么现在很多人推崇国外原版教材？]]
+- [[Notebooklm]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[Sop]]
+- [[Prd]]
+- [[James Gleick]]
+- [[Google]]
+- [[大神们是从哪获取优质信息，比如哪些微信公众号，知乎?]]
+- [[Reinforcement Learning]]
+- [[Openviking]]
+- [[Microsoft]]
+- [[怎么成为一个 ai agent 工程师？]]
+- [[Git]]
+- [[GitHub]]
+- [[Meta]]
+- [[最难调试修复的 bug 是怎样的？]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[Skill]]
+- [[Claude]]
+- [[Obsidian 接入 Claude Skill 教程：CEO亲自下场写的Skill如何使用？]]
+- [[Obsidian-deepseek 新功能 轻SKILL介绍（没有发布）]]
+- [[汽车电子行业英语、缩写、中英对照_汽车中控屏英文-CSDN博客]]
+- [[Asmr]]
+- [[Bridge]]
+- [[国产大模型]]
+- [[Ci/Cd]]
+- [[CLAUDE.md]]
+- [[Devops]]
+- [[Docker]]
+- [[Hooks]]
+- [[Worktree]]
+- [[Yaml]]
+- [[Ai学习的老章]]
+- [[DeepSeek-R1]]
+- [[GitHub]]
+- [[GPT]]
+- [[MiniMax M2.5]]
+- [[Nvidia]]
+- [[OpenCode]]
+- [[Youtube]]
+- [[吴恩达]]
+- [[好地方bug]]
+- [[序员先生]]
+- [[微信公众号]]
+- [[清华]]
+- [[饼干哥哥AGI]]
+- [[Obsidian-Deepseek插件轻Skill功能介绍]]
+- [[Deepseek]]

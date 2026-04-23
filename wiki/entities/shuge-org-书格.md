@@ -10,12 +10,13 @@ tags:
   - "archives"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.069638"
-updated_at: "2026-04-17T21:59:22.069638"
+updated_at: "2026-04-22T23:50:06.034527"
 related:
   - "Niche Knowledge & Creative Hubs"
   - "Post-Forum Internet Landscape"
   - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
   - "China National Library (中国国家图书馆)"
+  - "Niche Knowledge & Creative Hubs|knowledge hub"
 ---
 
 # Shuge.org (书格)
@@ -34,6 +35,7 @@ Platforms like Shuge.org represent the depth and specialization available in the
 - [[Post-Forum Internet Landscape]]
 - [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
 - [[China National Library (中国国家图书馆)]]
+- [[Niche Knowledge & Creative Hubs|knowledge hub]]
 
 ## Related
 - [[Niche Knowledge & Creative Hubs]]

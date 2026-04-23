@@ -11,7 +11,7 @@ tags:
   - "automotive"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.335014"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.239258"
 ---
 
 # Tesla
@@ -38,10 +38,15 @@ updated_at: "2026-04-20T00:00:00"
 - Elon Musk：CEO
 
 ## 相关概念
-- [[金融逻辑与产业逻辑]]
-- [[48V架构革命]]
+- 金融逻辑与产业逻辑
+- 48V架构革命
 - [[Andrej Karpathy]]
 
 ## 相关
-- [[知乎讨论-比亚迪发展策略分析]]
+- [[知乎]]
 - [[Andrej Karpathy]]
+## Related
+- [[China Manufacturing]]
+- [[Financial vs. Industrial Logic]]
+- [[BYD (比亚迪)]]
+

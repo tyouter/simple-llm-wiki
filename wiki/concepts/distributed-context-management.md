@@ -11,13 +11,17 @@ tags:
   - "architecture"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-18T01:05:59.587391"
+updated_at: "2026-04-22T23:50:21.722113"
 related:
   - "Multi-Agent Orchestration"
   - "Context Window Management"
   - "MetaBot"
   - "Claude Code"
   - "Agentic Loop"
+  - "Context Engineering"
+  - "Flood Sung"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
 ---
 
 # Distributed Context Management
@@ -129,4 +133,8 @@ context-management, multi-agent, scalability, token-optimization, architecture
 - [[Context Window Management]]
 - [[MetaBot]]
 - [[Claude Code]]
+- [[Context Engineering]]
+- [[Flood Sung]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
 - [[Agentic Loop]]

@@ -13,7 +13,7 @@ tags:
   - "interview-preparation"
 confidence: "high"
 created_at: "2026-04-20T00:24:32.888031"
-updated_at: "2026-04-20T00:24:32.888031"
+updated_at: "2026-04-23T00:42:21.978278"
 related:
   - "Ludamn"
   - "Finalchemist"
@@ -26,6 +26,7 @@ related:
   - "Plan-and-Execute"
   - "Multi-Agent Collaboration"
   - "Productionization of AI Agents"
+  - "AI Agent Engineering Career Path"
 ---
 
 # Zhihu: 从后端开发转型AI Agent工程师的路线图
@@ -56,7 +57,7 @@ related:
 
 ## 与现有知识的联系与矛盾
 
-- **对[[ai-agent-framework-comparison]]的深化**：本文不仅讨论工具，更深入阐述了使用这些工具所需的**核心技能与知识体系**，为框架对比补充了能力维度。
+- **对[[Agent]]的深化**：本文不仅讨论工具，更深入阐述了使用这些工具所需的**核心技能与知识体系**，为框架对比补充了能力维度。
 - **强调深度而非广度**：与追求快速上手的市场宣传不同，本文强调对底层算法（如向量搜索、图计算）和扎实的系统设计能力的掌握，认为这是区分中级与高级工程师的关键。
 - **连接[[Career Transition Barriers]]**：本文具体化了技术转型中的技能获取障碍，并提供了克服这些障碍的详细路径。
 
@@ -75,9 +76,10 @@ zhihu, career-transition, backend-development, ai-agent-engineering, learning-pa
 - [[AI玩家日志]]
 - [[Anthropic]]
 - [[Microsoft]]
-- [[ai-agent-framework-comparison]]
+- [[Agent]]
 - [[Career Transition Barriers]]
 - [[ReAct (Reasoning + Acting)]]
 - [[Plan-and-Execute]]
 - [[Multi-Agent Collaboration]]
+- [[AI Agent Engineering Career Path]]
 - [[Productionization of AI Agents]]

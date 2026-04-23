@@ -13,7 +13,7 @@ tags:
   - "提示词工程"
 confidence: "medium"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.154753"
 ---
 
 # AI编程工具系统提示词开源项目
@@ -52,11 +52,11 @@ updated_at: "2026-04-20T12:00:00"
 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 ## 相关概念
-- [[系统提示词]]
-- [[提示词工程]]
-- [[AI编程工具]]
+- 系统提示词
+- 提示词工程
+- AI编程工具
 
 ## 相关实体
-- [[神秘的鱼仔]]
+- 神秘的鱼仔
 - [[Cursor]]
 - [[Trae]]

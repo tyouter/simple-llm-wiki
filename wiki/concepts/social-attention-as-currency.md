@@ -11,11 +11,12 @@ tags:
   - "digital-culture"
 confidence: "high"
 created_at: "2026-04-19T15:34:25.411393"
-updated_at: "2026-04-19T15:34:25.411393"
+updated_at: "2026-04-22T23:50:25.165590"
 related:
   - "Personal Work/Product (作品)"
   - "秋风萧瑟 (Qiufeng Xiaose)"
   - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
+  - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
 ---
 
 # Social Attention as Currency
@@ -43,6 +44,7 @@ It incentivizes moving from private competence (being good at your job) to publi
 - [[Personal Work/Product (作品)]]
 - [[秋风萧瑟 (Qiufeng Xiaose)]]
 - [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity]]
 
 ## Related
 - [[Personal Work/Product (作品)]]

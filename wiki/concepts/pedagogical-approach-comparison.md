@@ -10,13 +10,15 @@ tags:
   - "educational-philosophy"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.014402"
-updated_at: "2026-04-19T21:39:03.014402"
+updated_at: "2026-04-22T23:50:27.223669"
 related:
   - "Self-Study Friendly Textbook Design"
   - "海伦娜·坦格利安"
   - "HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson"
   - "幕阳吹雪"
   - "Khan Academy (可汗学院)"
+  - "Open Educational Resources (OER)"
+  - "知乎讨论：为什么现在很多人推崇国外原版教材"
 ---
 
 # Pedagogical Approach Comparison
@@ -56,4 +58,6 @@ This comparison moves beyond simple quality judgments to analyze deeper cultural
 - [[海伦娜·坦格利安]]
 - [[HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson]]
 - [[幕阳吹雪]]
+- [[Open Educational Resources (OER)]]
+- [[知乎讨论：为什么现在很多人推崇国外原版教材]]
 - [[Khan Academy (可汗学院)]]

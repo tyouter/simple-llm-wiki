@@ -10,7 +10,7 @@ tags:
   - "ai-evaluation"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.569131"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.175765"
 ---
 
 # EleutherAI
@@ -29,7 +29,10 @@ updated_at: "2026-04-20T00:00:00"
 
 ## 相关概念
 - [[Harness Engineering]]
-- [[模型评估]]
+- 模型评估
 
 ## 相关
 - [[Harness Engineering与复合工程]]
+## Related
+- [[Agent Harness]]
+

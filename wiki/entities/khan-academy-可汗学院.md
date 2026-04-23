@@ -10,12 +10,14 @@ tags:
   - "digital-education"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.015906"
-updated_at: "2026-04-19T21:39:03.015906"
+updated_at: "2026-04-22T23:50:27.216187"
 related:
   - "Open Educational Resources (OER)"
   - "Self-Study Friendly Textbook Design"
   - "知乎用户"
   - "吴恩达"
+  - "Pedagogical Approach Comparison"
+  - "知乎讨论：为什么现在很多人推崇国外原版教材"
 ---
 
 # Khan Academy (可汗学院)
@@ -41,4 +43,6 @@ Khan Academy represents the evolution of the textbook into an interactive, adapt
 - [[Open Educational Resources (OER)]]
 - [[Self-Study Friendly Textbook Design]]
 - [[知乎用户]]
+- [[Pedagogical Approach Comparison]]
+- [[知乎讨论：为什么现在很多人推崇国外原版教材]]
 - [[吴恩达]]

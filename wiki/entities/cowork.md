@@ -10,7 +10,7 @@ tags:
   - "ai-assistant"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.515460"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.239258"
 ---
 
 # Cowork
@@ -36,10 +36,14 @@ Anthropic的行政管理AI工具，用于处理邮件管理、旅行预订、文
 - [[Cowork]]：行政管理任务
 
 ## 相关概念
-- [[AI工具链]]
-- [[行政自动化]]
+- AI工具链
+- 行政自动化
 
 ## 相关
 - [[Claude.ai]]
 - [[Claude Code]]
 - [[Anthropic]]
+## Related
+- [[AI-Exponential Product Management]]
+- [[Cat Wu]]
+

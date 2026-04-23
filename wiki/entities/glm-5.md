@@ -5,13 +5,14 @@ sources:
   - "wiki/sources/2026国产大模型Coding Plan对比.md"
   - "wiki/sources/chinese-llm-coding-plan-comparison.md"
   - "wiki/sources/国产大模型Coding Plan横评.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
 tags:
   - "ai-model"
   - "zhipu-ai"
   - "chinese-llm"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.879783"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.246793"
 ---
 
 # GLM-5
@@ -36,10 +37,18 @@ updated_at: "2026-04-20T00:00:00"
 
 ## 相关概念
 - [[国产大模型]]
-- [[NVIDIA NIM]]
-- [[智谱AI]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- 智谱AI
 
 ## 相关
 - [[Kimi K2.5]]
 - [[MiniMax M2.5]]
 - [[Zhipu AI]]
+## Related
+- [[Coding Plan]]
+- [[Free Model Integration via NIM]]
+- [[Alibaba Cloud Bailian]]
+- [[Cherry Studio]]
+- [[MiniMax]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+

@@ -1,5 +1,5 @@
 ---
-title: "Brain Prediction Model|Path 2 (model updating)"
+title: "Brain Prediction Model"
 type: "concept"
 sources:
   - "wiki/sources/zhihu-discussion-enlightenment-and-brain-prediction-model.md"
@@ -11,7 +11,7 @@ tags:
   - "enlightenment"
 confidence: "high"
 created_at: "2026-04-17T21:45:18.272385"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.374255"
 ---
 
 # Brain Prediction Model - Path 2 (Model Updating)
@@ -29,8 +29,9 @@ updated_at: "2026-04-20T12:00:00"
 - **三阶段演进**：从被动接受(阶段1)到认知冲突(阶段2)再到主动更新(阶段3)
 
 ## Related
+- [[大脑预测模型更新]]
 
-- [[brain-prediction-model]]
-- [[enlightenment-开悟]]
-- [[three-stages-of-understanding]]
-- [[zhihu-discussion-enlightenment-and-brain-prediction-model]]
+- brain-prediction-model
+- enlightenment-开悟
+- three-stages-of-understanding
+- [[Zhihu]]

@@ -10,7 +10,7 @@ tags:
   - "Skills"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.286077"
 ---
 
 # 15条高频实用的Claude Code技巧
@@ -51,4 +51,4 @@ updated_at: "2026-04-20T08:00:00"
 - [[Claude Code Skills系统]]
 - [[Claude Code子代理]]
 - [[Plan Mode工作流]]
-- [[MCP协议分析]]
+- [[Mcp]]

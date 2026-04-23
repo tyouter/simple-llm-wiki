@@ -12,12 +12,14 @@ tags:
   - "3d-modeling"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.015629"
-updated_at: "2026-04-18T23:00:54.015629"
+updated_at: "2026-04-22T23:50:27.309704"
 related:
   - "CodePilot"
   - "cdbus_gui"
   - "AI Tool Specialization for Design"
   - "Streaming Rendering"
+  - "Duke Fong"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Three.js3D
@@ -63,4 +65,6 @@ While distinct from AI-focused tools like [[CodePilot]], it shares the theme of 
 - [[CodePilot]]
 - [[cdbus_gui]]
 - [[AI Tool Specialization for Design]]
+- [[Duke Fong]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[Streaming Rendering]]

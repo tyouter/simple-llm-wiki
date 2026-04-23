@@ -11,7 +11,7 @@ tags:
   - "认知升级"
 confidence: medium
 created_at: "2026-04-20T22:00:00"
-updated_at: "2026-04-20T22:00:00"
+updated_at: "2026-04-23T00:42:40.481995"
 timestamps:
   author: "赴瑞泊Freebro"
   published: "2026-02-22"
@@ -51,8 +51,13 @@ timestamps:
 4. 先完成再完美，先会卖再学会
 
 ## Related
+- [[ChatGPT/Claude/Gemini使用选择：每月600刀经验总结]]
+- [[Litmaps论文阅读工具：一张图挖出领域祖师爷]]
+- [[Claude Code + NotebookLM + Obsidian 研究工作流]]
+- [[每周汽车观察室0126-0201]]
+- [[寻医几十年遇到大先生式中医有多难]]
 
-- [[学习方法转型]]
-- [[AI时代知识价值]]
-- [[变现闭环]]
-- [[行动力与学习]]
+- 学习方法转型
+- AI时代知识价值
+- 变现闭环
+- 行动力与学习

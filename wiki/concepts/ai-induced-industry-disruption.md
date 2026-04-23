@@ -10,12 +10,21 @@ tags:
   - "ai-impact"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.227171"
-updated_at: "2026-04-17T22:12:00.227171"
+updated_at: "2026-04-22T23:50:27.980787"
 related:
   - "Google Stitch"
   - "Figma"
   - "Vibe Design"
   - "Prompt-Dependent Output Quality"
+  - "AI技术博客主题聚合"
+  - "Low-Code/No-Code Frontend via AI"
+  - "Salvatore Sanfilippo (antirez)"
+  - "判断与决策价值论"
+  - "基于标准化考试词库的工具定位"
+  - "Ethan Mollick"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "谷歌Stitch氛围设计更新"
 ---
 
 # AI-Induced Industry Disruption
@@ -52,4 +61,13 @@ When [[Google Stitch]] was repositioned as a 'vibe design platform,' [[Figma]]'s
 - [[Google Stitch]]
 - [[Figma]]
 - [[Vibe Design]]
+- [[AI技术博客主题聚合]]
+- [[Low-Code/No-Code Frontend via AI]]
+- [[Salvatore Sanfilippo (antirez)]]
+- [[判断与决策价值论]]
+- [[基于标准化考试词库的工具定位]]
+- [[Ethan Mollick]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[谷歌Stitch氛围设计更新]]
 - [[Prompt-Dependent Output Quality]]

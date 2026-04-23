@@ -10,7 +10,7 @@ tags:
   - "chinese-llm"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.880298"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.238065"
 ---
 
 # MiniMax
@@ -41,4 +41,9 @@ updated_at: "2026-04-20T00:00:00"
 ## 相关
 - [[GLM-5]]
 - [[Kimi K2.5]]
-- [[智谱AI]]
+- 智谱AI
+## Related
+- [[Token Burning Prevention]]
+- [[Zhipu AI]]
+- [[Alibaba Cloud Bailian]]
+

@@ -10,11 +10,12 @@ tags:
   - "agility"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.465049"
-updated_at: "2026-04-21T16:31:03.465049"
+updated_at: "2026-04-22T23:50:23.954106"
 related:
   - "Text Block as a Unit of Manipulation"
   - "Obsidian Dragger"
   - "AI-Enhanced Note-Taking"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Content Structure Agility** measures how easily and rapidly users can reorganize and restructure the hierarchical and sequential relationships within their digital notes. High agility reduces the cognitive and mechanical friction of changing one's mind about information architecture, supporting non-linear thinking and iterative knowledge refinement.
@@ -26,4 +27,5 @@ This capability complements [[AI-Enhanced Note-Taking]] workflows where AI assis
 ## Related
 - [[Text Block as a Unit of Manipulation]]
 - [[Obsidian Dragger]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[AI-Enhanced Note-Taking]]

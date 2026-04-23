@@ -11,7 +11,7 @@ tags:
   - "agentic-os"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:47.480068"
 ---
 
 # 停止在终端中使用Claude Code：管理目标而非会话
@@ -126,8 +126,9 @@ Command Center内置Agentic OS：
 - 利用Claude Code的自主能力
 
 ## Related
+- [[颠覆式AI使用方法：让AI主动追问效率MAX]]
 
-- [[Claude Code工作流]]
-- [[Agentic OS]]
-- [[Agent团队管理]]
+- [[Claude]]
+- [[Agent]]
+- [[Agent]]
 - [[Claude Code Skills系统]]

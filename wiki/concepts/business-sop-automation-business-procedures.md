@@ -1,5 +1,5 @@
 ---
-title: "Business SOP Automation|business procedures"
+title: "Business SOP Automation"
 type: "concept"
 sources:
   - "wiki/sources/agent-skills-vs-mcp-technical-comparison-and-enterprise-applications.md"
@@ -10,7 +10,7 @@ tags:
   - "skill-engineering"
 confidence: "high"
 created_at: "2026-04-17T22:15:48.144558"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.374763"
 ---
 
 # Business SOP Automation
@@ -29,7 +29,7 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[skills-anthropic-framework]]
-- [[skill-engineering-lifecycle]]
-- [[agent-skills-vs-mcp-technical-comparison-and-enterprise-applications]]
-- [[enterprise-skill-engineering]]
+- [[Skill]]
+- [[Skill]]
+- [[Agent]]
+- [[Skill]]

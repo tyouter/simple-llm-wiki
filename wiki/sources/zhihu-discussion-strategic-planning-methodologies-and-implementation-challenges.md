@@ -13,7 +13,7 @@ tags:
   - "chinese-enterprises"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.360999"
-updated_at: "2026-04-18T01:29:07.360999"
+updated_at: "2026-04-22T23:50:25.430812"
 related:
   - "7-Step Strategic Planning Framework"
   - "BLM (Business Leadership Model)"
@@ -22,6 +22,7 @@ related:
   - "吴海洋"
   - "IBM"
   - "华为 (Huawei)"
+  - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
 ---
 
 # Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges
@@ -64,4 +65,5 @@ strategic-planning, blm-model, business-strategy, zhihu-discussion, consulting-c
 - [[和夫咨询]]
 - [[吴海洋]]
 - [[IBM]]
+- [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]
 - [[华为 (Huawei)]]

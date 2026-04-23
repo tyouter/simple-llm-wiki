@@ -12,13 +12,16 @@ tags:
   - "system-awareness"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.319580"
-updated_at: "2026-04-18T22:44:23.319580"
+updated_at: "2026-04-23T00:42:26.621723"
 related:
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
   - "Context Window Management"
   - "Claude Code Automation/Configuration Management"
   - "Subagents for Context Efficiency"
   - "Error Memory for AI Improvement"
+  - "AI-Assisted Paper Reading"
+  - "Cross-Model Code Review"
+  - "Mizore"
 ---
 
 # Context & Resource Awareness in AI Coding
@@ -105,4 +108,7 @@ context-management, resource-monitoring, workflow-optimization, claude-code, dev
 - [[Context Window Management]]
 - [[Claude Code Automation/Configuration Management]]
 - [[Subagents for Context Efficiency]]
+- [[AI-Assisted Paper Reading]]
+- [[Cross-Model Code Review]]
+- [[Mizore]]
 - [[Error Memory for AI Improvement]]

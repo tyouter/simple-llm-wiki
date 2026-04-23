@@ -11,11 +11,24 @@ tags:
   - "optimization"
 confidence: "high"
 created_at: "2026-04-17T22:21:17.648824"
-updated_at: "2026-04-17T22:21:17.648824"
+updated_at: "2026-04-22T23:50:25.936558"
 related:
   - "Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs"
   - "Pass@k & Majority Voting for Benchmarking"
   - "LongMemEval/LongMemEval_s"
+  - "AI 大模型演进评估"
+  - "Cost Management in AI Development"
+  - "SWE Driven开发"
+  - "主观使用体验 (AI 模型)"
+  - "学习过程数据化"
+  - "开发选型参考"
+  - "技能持续监测与优化"
+  - "模型能力场景化评测"
+  - "ASMR (Agentic Search and Memory Retrieval)"
+  - "Supermemory.ai"
+  - "SWE-agent"
+  - "OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
 ---
 
 # Benchmark vs. Engineering Reality Gap
@@ -57,4 +70,17 @@ benchmarking, ai-engineering, production-systems, evaluation, optimization
 ## Related
 - [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]]
 - [[Pass@k & Majority Voting for Benchmarking]]
+- [[AI 大模型演进评估]]
+- [[Cost Management in AI Development]]
+- [[SWE Driven开发]]
+- [[主观使用体验 (AI 模型)]]
+- [[学习过程数据化]]
+- [[开发选型参考]]
+- [[技能持续监测与优化]]
+- [[模型能力场景化评测]]
+- [[ASMR (Agentic Search and Memory Retrieval)]]
+- [[Supermemory.ai]]
+- [[SWE-agent]]
+- [[OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
 - [[LongMemEval/LongMemEval_s]]

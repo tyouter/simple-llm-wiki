@@ -4,6 +4,15 @@ type: "entity"
 sources:
   - "raw/videos/ab312a84_AI真正改变的不是效率而是决策质量.md"
   - "raw/videos/b9661a04_Obsidain 补完计划像 Notion 一样丝滑拖拽文本块Dragger.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/videos/1d53e060_主流AI编程工具背后的提示词竟然被这一个项目开源了.md"
+  - "raw/videos/be68806e_ObsidianAI让所有app听你指挥.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/d88e13cd_用Claude Code自动编排n8n工作流告别手搓.md"
+  - "raw/videos/eb586db5_Obsidian从0到1完整攻略 搞定同步打通AI.md"
+  - "raw/webpages/0ac94217_让我们专注于内容Markdown 制作幻灯片的三种方案对比 - 少数派.md"
 tags:
   - "知识管理"
   - "数据库"
@@ -12,7 +21,7 @@ tags:
   - "决策模板"
 confidence: "high"
 created_at: "2026-04-21T16:13:59.076084"
-updated_at: "2026-04-21T16:13:59.076084"
+updated_at: "2026-04-23T00:42:26.810035"
 related:
   - "评估层（决策第四步）"
   - "决策系统迭代"
@@ -21,6 +30,54 @@ related:
   - "Paradigm Borrowing in UX"
   - "Obsidian Dragger"
   - "Obsidian"
+  - "Model Context Protocol"
+  - "Prompt Engineering"
+  - "Extended Thinking"
+  - "Context Window"
+  - "Agentic Loop"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Ai Agent"
+  - "Agent"
+  - "Api"
+  - "Git"
+  - "你写过什么不错的开源项目？"
+  - "Progressive Disclosure"
+  - "Skill-Creator"
+  - "Claude Code"
+  - "Frontmatter"
+  - "Skills的本质是什么？"
+  - "Complexity"
+  - "主流AI编程工具背后的提示词，竟然被这一个项目开源了"
+  - "Skill"
+  - "AI真正改变的，不是效率，而是决策质量"
+  - "Dragger"
+  - "Rag"
+  - "Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger"
+  - "Mcp"
+  - "Obsidian+AI=让所有app听你指挥"
+  - "Code Review"
+  - "Superpowers"
+  - "Subagent"
+  - "Worktree"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Skills"
+  - "Docker"
+  - "用Claude Code自动编排n8n工作流，告别手搓。"
+  - "Markdown"
+  - "Obsidian从0到1完整攻略 | 搞定同步+打通AI"
+  - "Slidev"
+  - "Yaml"
+  - "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派"
+  - "Cli"
+  - "Mobile-First Note-Taking UX"
+  - "Obsidian Plugin Ecosystem"
+  - "Prd"
+  - "Sop"
+  - "Tdd"
+  - "工具链专业化组合"
+  - "Ariestar"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
+  - "Obsidian从0到1完整攻略"
 ---
 
 ## 概述
@@ -38,6 +95,54 @@ related:
 - [[评估层（决策第四步）]]
 - [[决策系统迭代]]
 - [[Balanced Scorecard]]
+- [[Model Context Protocol]]
+- [[Prompt Engineering]]
+- [[Extended Thinking]]
+- [[Context Window]]
+- [[Agentic Loop]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[AI Agent]]
+- [[Agent]]
+- [[Api]]
+- [[Git]]
+- [[你写过什么不错的开源项目？]]
+- [[Progressive Disclosure]]
+- [[Skill-Creator]]
+- [[Claude Code]]
+- [[Frontmatter]]
+- [[Skills的本质是什么？]]
+- [[Complexity]]
+- [[主流AI编程工具背后的提示词，竟然被这一个项目开源了]]
+- [[Skill]]
+- [[AI真正改变的，不是效率，而是决策质量]]
+- [[Dragger]]
+- [[Rag]]
+- [[Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger]]
+- [[Mcp]]
+- [[Obsidian+AI=让所有app听你指挥]]
+- [[Code Review]]
+- [[Superpowers]]
+- [[Subagent]]
+- [[Worktree]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Skills]]
+- [[Docker]]
+- [[用Claude Code自动编排n8n工作流，告别手搓。]]
+- [[Markdown]]
+- [[Obsidian从0到1完整攻略 | 搞定同步+打通AI]]
+- [[Slidev]]
+- [[Yaml]]
+- [[让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派]]
+- [[Cli]]
+- [[Mobile-First Note-Taking UX]]
+- [[Obsidian Plugin Ecosystem]]
+- [[Prd]]
+- [[Sop]]
+- [[Tdd]]
+- [[工具链专业化组合]]
+- [[Ariestar]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
+- [[Obsidian从0到1完整攻略]]
 
 ---
 

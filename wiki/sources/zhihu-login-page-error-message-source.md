@@ -11,12 +11,13 @@ tags:
   - "recruitment"
 confidence: "high"
 created_at: "2026-04-17T22:54:50.206029"
-updated_at: "2026-04-17T22:54:50.206029"
+updated_at: "2026-04-22T23:50:14.290640"
 related:
   - "Zhihu"
   - "Knowledge Wasteland (知识荒原)"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
   - "Zhihu Discussion: Learning Method Transition Crisis"
+  - "jobs@zhihu.com"
 ---
 
 # Zhihu Login Page Error Message
@@ -53,4 +54,5 @@ zhihu, ui, error-message, platform-features, recruitment
 - [[Zhihu]]
 - [[Knowledge Wasteland (知识荒原)]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
+- [[jobs@zhihu.com]]
 - [[Zhihu Discussion: Learning Method Transition Crisis]]

@@ -13,7 +13,7 @@ tags:
   - "skepticism"
 confidence: "high"
 created_at: "2026-04-17T22:00:53.022314"
-updated_at: "2026-04-17T22:00:53.022314"
+updated_at: "2026-04-22T23:50:11.233765"
 related:
   - "易安遐观"
   - "文雨先生"
@@ -22,6 +22,9 @@ related:
   - "呼吸法 (Breathing Method)"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
   - "Cross-Disciplinary Knowledge for Management"
+  - "丹田与核心肌群 (Dantian vs. Core Muscles)"
+  - "晨练体系 (Morning Exercise System)"
+  - "身体姿态与核心控制 (Body Posture and Core Control)"
 ---
 
 # Zhihu Discussion: Internal Martial Arts and Breathing Techniques
@@ -57,4 +60,7 @@ zhihu-discussion, martial-arts, traditional-knowledge, breathwork, exercise-scie
 - [[内功 (Internal Martial Arts / Neigong)]]
 - [[呼吸法 (Breathing Method)]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
+- [[丹田与核心肌群 (Dantian vs. Core Muscles)]]
+- [[晨练体系 (Morning Exercise System)]]
+- [[身体姿态与核心控制 (Body Posture and Core Control)]]
 - [[Cross-Disciplinary Knowledge for Management]]

@@ -1,0 +1,64 @@
+---
+title: "DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工"
+type: "source"
+sources:
+  - "raw/videos/ced2ad0c_DeerFlow 2.0字节跳动开源下一代超级 Agent 员工.md"
+tags:
+  - "AI IN ALL！"
+  - "人工智能"
+  - "编程"
+  - "超级员工"
+  - "OpenClaw"
+  - "开源"
+  - "员工"
+  - "框架"
+  - "Agent"
+  - "字节跳动"
+confidence: "high"
+created_at: "2026-04-22T23:49:52.817661"
+updated_at: "2026-04-23T00:42:47.982220"
+related:
+  - "Deerflow"
+  - "Agent"
+  - "Git"
+  - "Github"
+  - "Gpt"
+  - "GitHub"
+  - "GPT"
+---
+
+# DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工
+
+## 概述
+
+## 简介
+
+
+-
+
+## 语音转录（FunASR）
+
+兄弟们这两天字节跳动开源超级agent的员工dear flow二点零开源当天就登上github trending榜单榜首两天斩获三点七万星标该项目不仅仅是一个框架官方给它的定义是超级智能体引擎不再只是局限于深度研究而是直接为你集成了沙盒环境长效记忆技能扩展以及多智能体编排的全套流水线功能遇到复杂任务dear flow会自动派出子agent分头执行分解后的任务最后汇总交付写报告建网站做PPT生成视频都是dear flow的内置技能支个任务运行在一个隔离的docor容器中拥有完整的文件系统支持读取写入和编辑文件支持执行代码杀盒式容器隔离环境污染除此之外它还拥有长期记忆随着使用环境污染不会悄悄记住你的代码习惯技术占偏好和写作风格拥为完用越顺手的超级员能支持接入GPT deep sick豆包等模型dear flow二点零代码完全开源感兴趣的朋友们赶紧去试试吧
+
+## 核心概念
+
+- [[Deerflow]]: DeerFlow
+- [[Agent]]: AI Agent
+- [[Git]]: Git
+
+## 相关实体
+
+- [[GitHub]] (product)
+- [[GPT]] (product)
+
+## Related
+- [[Deerflow]]
+- [[Agent]]
+- [[Git]]
+- [[GitHub]]
+- [[GitHub]]
+- [[GPT]]
+- [[【补档】仓皇北顾！从享界S9看国产中大型豪华轿车定义困局（原视频时间2025/04/29）]]
+- [[颠覆式使用AI的方法，让AI主动追问效率MAX]]
+- [[高阶ENTP的四大特质]]
+- [[GPT]]

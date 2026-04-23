@@ -11,12 +11,14 @@ tags:
   - "user-experience"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.014122"
-updated_at: "2026-04-18T23:00:54.014122"
+updated_at: "2026-04-22T23:50:27.280209"
 related:
   - "CodePilot"
   - "Generative UI"
   - "Code Fence + Sandbox Iframe Architecture"
   - "Three.js3D"
+  - "歸藏"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Streaming Rendering
@@ -52,4 +54,6 @@ While discussed in the context of chart generation in [[CodePilot]], streaming r
 - [[CodePilot]]
 - [[Generative UI]]
 - [[Code Fence + Sandbox Iframe Architecture]]
+- [[歸藏]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[Three.js3D]]

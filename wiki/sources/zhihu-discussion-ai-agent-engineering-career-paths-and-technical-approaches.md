@@ -14,7 +14,7 @@ tags:
   - "implementation-guide"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.439111"
-updated_at: "2026-04-17T16:57:33.439111"
+updated_at: "2026-04-23T00:42:21.928062"
 related:
   - "Domain-Specific Language (DSL) for AI Agents"
   - "Tool-Integrated Reasoning (TIR)"
@@ -24,6 +24,9 @@ related:
   - "字节跳动 (ByteDance)"
   - "Agent Operating System"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
+  - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Zhihu Discussion: Optimizing Claude Code with CLAUDE.md and Efficient Development Workflows"
 ---
 
 # Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches
@@ -71,13 +74,16 @@ Discussion of job requirements at companies like [[字节跳动 (ByteDance)]] re
 ## Relation to Existing Concepts
 This discussion presents a more technical, implementation-focused perspective compared to higher-level orchestration concepts in the [[Agent Operating System]] page. While existing documentation emphasizes role-based workflows and orchestration frameworks, this source delves into the underlying technical architecture and mathematical foundations.
 
-**Contradiction Note**: The source emphasizes DSL design as the core implementation strategy, whereas existing wiki content focuses more on role-based workflows in [[gstack-role-based-ai-development-workflow-for-claude-code]].
+**Contradiction Note**: The source emphasizes DSL design as the core implementation strategy, whereas existing wiki content focuses more on role-based workflows in [[Claude]].
 
 ## Tags
 zhihu, ai-agent, dsl-design, tool-integrated-reasoning, career-transition, technical-tutorial, multi-agent-systems, implementation-guide
 
 ## Related
-[[Domain-Specific Language (DSL) for AI Agents]], [[Tool-Integrated Reasoning (TIR)]], [[面壁 (FaceWall)]], [[腾讯 (Tencent)]], [[清华大学 (Tsinghua University)]], [[字节跳动 (ByteDance)]], [[Agent Operating System]], [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
+- [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
+- [[Zhihu Discussion: Optimizing Claude Code with CLAUDE.md and Efficient Development Workflows]]
+[[Domain-Specific Language (DSL) for AI Agents]], [[Tool-Integrated Reasoning (TIR)]], [[面壁 (FaceWall)]], [[腾讯 (Tencent)]], [[清华大学 (Tsinghua University)]], [[字节跳动 (ByteDance)]], [[Agent Operating System]], [[Claude]]
 
 ## Related
 - [[Domain-Specific Language (DSL) for AI Agents]]
@@ -87,4 +93,4 @@ zhihu, ai-agent, dsl-design, tool-integrated-reasoning, career-transition, techn
 - [[清华大学 (Tsinghua University)]]
 - [[字节跳动 (ByteDance)]]
 - [[Agent Operating System]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]

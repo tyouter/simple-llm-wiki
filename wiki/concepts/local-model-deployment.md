@@ -12,7 +12,7 @@ tags:
   - "cost-optimization"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.525345"
-updated_at: "2026-04-19T01:51:50.525345"
+updated_at: "2026-04-22T23:50:21.059061"
 related:
   - "Geopolitical AI Restrictions"
   - "Knowledge Distillation (Model Distillation)"
@@ -20,6 +20,10 @@ related:
   - "LoRA (Low-Rank Adaptation)"
   - "Model-Switching Optimization"
   - "AI Economics"
+  - "Cost Management in AI Development"
+  - "Anthropic"
+  - "Anthropic's China Restrictions and Claude Reasoning Distillation Techniques"
+  - "Anthropic对中国控股公司的限制"
 ---
 
 # Local Model Deployment
@@ -138,4 +142,8 @@ Based on community documentation of local deployment techniques following Anthro
 - [[Qwen3.5-27B]]
 - [[LoRA (Low-Rank Adaptation)]]
 - [[Model-Switching Optimization]]
+- [[Cost Management in AI Development]]
+- [[Anthropic]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
+- [[Anthropic对中国控股公司的限制]]
 - [[AI Economics]]

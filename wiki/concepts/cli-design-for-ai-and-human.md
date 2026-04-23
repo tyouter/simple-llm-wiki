@@ -9,7 +9,7 @@ tags:
   - "developer-tools"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.196436"
 ---
 
 # CLI设计原则（AI与人类友好）
@@ -59,5 +59,5 @@ a2acli watch --task abc123 --no-tui
 > 数据与呈现分离是CLI设计的终极形态。
 
 ## Related
-- [[数据与呈现分离]]
-- [[AGENTS.md]]
+- 数据与呈现分离
+- [[Agent]]

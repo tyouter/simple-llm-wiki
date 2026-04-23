@@ -3,6 +3,9 @@ title: "Harness Engineering"
 type: "concept"
 sources:
   - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
 tags:
   - "harness-engineering"
   - "ai-development"
@@ -12,7 +15,7 @@ tags:
   - "ai-agents"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.382589"
-updated_at: "2026-04-19T01:52:16.382589"
+updated_at: "2026-04-23T00:42:26.619211"
 related:
   - "Agent Harness"
   - "Compound Engineering"
@@ -27,6 +30,72 @@ related:
   - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
   - "Agent Operating System"
   - "AI Tool Chaining/Combination"
+  - "Model Context Protocol"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Deepseek"
+  - "Github Copilot"
+  - "Langgraph"
+  - "怎么成为一个ai agent 工程师？"
+  - "Multi-Agent"
+  - "Claude.Md"
+  - "Conductor"
+  - "Openclaw"
+  - "Markdown"
+  - "Brian Chesky"
+  - "gstack：Claude工程团队"
+  - "Openai"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Spec Coding"
+  - "Swe-Agent"
+  - "Harness Engineering的本质是什么？"
+  - "Agent = Loop(Model + Harness)"
+  - "AI Agent"
+  - "Api"
+  - "CLAUDE.md"
+  - "Cli"
+  - "Copilot"
+  - "Cost Management in AI Development"
+  - "Cursor"
+  - "Cybernetics Connection"
+  - "Docker"
+  - "Entropy Management"
+  - "Mcp"
+  - "Rag"
+  - "Skill"
+  - "Skills"
+  - "Worktree"
+  - "Yaml"
+  - "Airbnb"
+  - "DeepSeek"
+  - "Every"
+  - "GitHub"
+  - "LangGraph"
+  - "mCell"
+  - "Microsoft"
+  - "Qwen"
+  - "riba2534"
+  - "Stripe"
+  - "SWE-agent"
+  - "Trae"
+  - "吴恩达"
+  - "汉松"
+  - "GSD AI编程工作流指南"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering详解"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)"
+  - "Harness Engineering深度解析"
+  - "知乎讨论：Harness Engineering开发哲学"
+  - "Agent"
+  - "Cybernetics"
+  - "Git"
+  - "Claude"
+  - "Mit"
 ---
 
 # Harness Engineering
@@ -115,6 +184,72 @@ As AI capabilities advance, harness engineering is expected to become more sophi
 harness-engineering, ai-development, agent-architecture, software-engineering, workflow-automation, ai-agents
 
 ## Related
+- [[Model Context Protocol]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Deepseek]]
+- [[Github Copilot]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Multi-Agent]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+- [[Markdown]]
+- [[Brian Chesky]]
+- [[gstack：Claude工程团队]]
+- [[OpenAI]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Spec Coding]]
+- [[Swe-Agent]]
+- [[Harness Engineering的本质是什么？]]
+- [[Agent = Loop(Model + Harness)]]
+- [[AI Agent]]
+- [[Api]]
+- [[CLAUDE.md]]
+- [[Cli]]
+- [[Copilot]]
+- [[Cost Management in AI Development]]
+- [[Cursor]]
+- [[Cybernetics Connection]]
+- [[Docker]]
+- [[Entropy Management]]
+- [[Mcp]]
+- [[Rag]]
+- [[Skill]]
+- [[Skills]]
+- [[Worktree]]
+- [[Yaml]]
+- [[Airbnb]]
+- [[DeepSeek]]
+- [[Every]]
+- [[GitHub]]
+- [[LangGraph]]
+- [[mCell]]
+- [[Microsoft]]
+- [[Qwen]]
+- [[riba2534]]
+- [[Stripe]]
+- [[SWE-agent]]
+- [[Trae]]
+- [[吴恩达]]
+- [[汉松]]
+- [[GSD AI编程工作流指南]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering详解]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)]]
+- [[Harness Engineering深度解析]]
+- [[知乎讨论：Harness Engineering开发哲学]]
+- [[Agent]]
+- [[Cybernetics]]
+- [[Git]]
+- [[Claude]]
+- [[Mit]]
 [[Agent Harness]], [[Compound Engineering]], [[Context Engineering]], [[Agent-First Development]], [[OpenAI]], [[Anthropic]], [[Mitchell Hashimoto]], [[Ethan Mollick]], [[Vibe Coding]], [[Single-Mode Problem]], [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]], [[Agent Operating System]], [[AI Tool Chaining/Combination]]
 
 ## Related

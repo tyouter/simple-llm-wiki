@@ -10,7 +10,7 @@ tags:
   - "entrepreneurship"
 confidence: "medium"
 created_at: "2026-04-18T22:52:17.180356"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.249864"
 ---
 
 # Zhechuangtou（折创投）
@@ -43,10 +43,16 @@ updated_at: "2026-04-20T00:00:00"
 - 构成创业成功的多维度支持网络
 
 ## 相关
-- [[张雪]]
-- [[张继星]]
-- [[易军]]
-- [[凯越]]
-- [[知乎讨论-张雪的经历对普通人有借鉴意义吗]]
-- [[产业集群优势]]
-- [[梦想先行、商业后行的创业模式]]
+- 张雪
+- 张继星
+- 易军
+- 凯越
+- [[知乎]]
+- 产业集群优势
+- 梦想先行、商业后行的创业模式
+## Related
+- [[Authenticity as Capital]]
+- [[Dream-First, Business-Second Entrepreneurship]]
+- [[Zhang Xue Motorcycle]]
+- [[Zhang Xue]]
+

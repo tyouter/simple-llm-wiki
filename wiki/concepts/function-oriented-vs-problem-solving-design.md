@@ -9,11 +9,14 @@ tags:
   - "user-centered-design"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.766744"
-updated_at: "2026-04-17T21:47:20.766744"
+updated_at: "2026-04-23T00:42:55.300613"
 related:
   - "Scenario Analysis (场景分析)"
   - "User Story vs. Environment"
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
+  - "Jeff Bezos"
+  - "Marty Cagan"
+  - "知乎"
 ---
 
 # Function-Oriented vs. Problem-Solving Design
@@ -46,4 +49,7 @@ product-philosophy, product-strategy, user-centered-design
 ## Related
 - [[Scenario Analysis (场景分析)]]
 - [[User Story vs. Environment]]
+- [[Jeff Bezos]]
+- [[Marty Cagan]]
+- [[知乎]]
 - [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]

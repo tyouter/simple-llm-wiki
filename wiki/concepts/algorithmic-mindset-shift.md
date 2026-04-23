@@ -11,13 +11,18 @@ tags:
   - "engineering-philosophy"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.347716"
-updated_at: "2026-04-17T22:23:15.347716"
+updated_at: "2026-04-23T00:42:20.110260"
 related:
   - "Probabilistic Data Structures"
   - "Vector Embedding"
   - "Bit-Level Hacking"
   - "Engineering Compromise"
   - "Skills vs Tools Distinction"
+  - "判断与决策价值论"
+  - "学习过程数据化"
+  - "工程师思维写作范式"
+  - "负技能转化"
+  - "BugBuster喵"
 ---
 
 # Algorithmic Mindset Shift
@@ -26,7 +31,7 @@ related:
 The conceptual transformation that occurs when a computer scientist or engineer moves from naive, brute-force approaches to more sophisticated problem-solving strategies that leverage mathematical insight, probabilistic reasoning, or hardware-aware optimizations.
 
 ## The "Laziness" Principle
-As articulated in the [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]], advanced algorithms often embody a form of "intelligent laziness"—avoiding unnecessary computation through:
+As articulated in the [[Zhihu]], advanced algorithms often embody a form of "intelligent laziness"—avoiding unnecessary computation through:
 1. **Probabilistic Approximations**: Accepting small errors for massive efficiency gains (see [[Probabilistic Data Structures]])
 2. **Geometric Insights**: Transforming problems into spatial relationships (see [[Vector Embedding]])
 3. **Statistical Reasoning**: Using sampling and estimation instead of complete enumeration
@@ -64,6 +69,11 @@ The discussion highlights how certain algorithms serve as "gateway" experiences 
 algorithmic-thinking, problem-solving, computer-science-education, optimization, engineering-philosophy
 
 ## Related
+- [[判断与决策价值论]]
+- [[学习过程数据化]]
+- [[工程师思维写作范式]]
+- [[负技能转化]]
+- [[BugBuster喵]]
 [[Probabilistic Data Structures]], [[Vector Embedding]], [[Bit-Level Hacking]], [[Engineering Compromise]], [[Skills vs Tools Distinction]]
 
 ## Related

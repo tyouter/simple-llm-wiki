@@ -10,11 +10,15 @@ tags:
   - "rss"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.970191"
 related:
   - "Paul Graham"
   - "Simon Willison"
   - "技术博客质量层级"
+  - "Salvatore Sanfilippo (antirez)"
+  - "尤雨溪 (Evan You)"
+  - "廖雪峰 (Liao Xuefeng)"
+  - "阮一峰 (Ruan YiFeng)"
 ---
 
 # 技术大牛博客平台汇总
@@ -62,5 +66,9 @@ related:
 - [[Paul Graham]]
 - [[Simon Willison]]
 - [[技术博客质量层级]]
-- [[Karpathy]]
-- [[个人独立博客价值]]
+- [[Andrej Karpathy]]
+- 个人独立博客价值
+- [[Salvatore Sanfilippo (antirez)]]
+- [[尤雨溪 (Evan You)]]
+- [[廖雪峰 (Liao Xuefeng)]]
+- [[阮一峰 (Ruan YiFeng)]]

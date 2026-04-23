@@ -13,7 +13,7 @@ tags:
   - "reasoning-engines"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.393562"
-updated_at: "2026-04-17T21:56:25.393562"
+updated_at: "2026-04-23T00:42:26.904742"
 related:
   - "杞鋂"
   - "LangGraph"
@@ -26,6 +26,9 @@ related:
   - "AI Tool Chaining/Combination"
   - "Agent Operating System"
   - "GStack: Role-Based AI Development Workflow"
+  - "AI Agent Cognitive Architecture"
+  - "Multi-Agent Specialization & Orchestration"
+  - "如何成为 AI Agent 工程师？—— 知乎问答分析"
 ---
 
 # Advanced AI Agent Architecture for Financial Analysis
@@ -62,6 +65,9 @@ This architecture represents an advanced form of [[AI Tool Chaining/Combination]
 ai-agents, financial-analysis, langgraph, multi-agent-systems, rag, tool-orchestration, reasoning-engines
 
 ## Related
+- [[AI Agent Cognitive Architecture]]
+- [[Multi-Agent Specialization & Orchestration]]
+- [[如何成为 AI Agent 工程师？—— 知乎问答分析]]
 [[杞鋂]], [[LangGraph]], [[Tavily]], [[Microsoft]], [[Enhanced RAG with Human-like Reasoning]], [[Multi-Tool Orchestration with State Machines]], [[Self-Verification and Quality Auditing in AI Systems]], [[Structured Data + Unstructured Document Fusion]], [[AI Tool Chaining/Combination]], [[Agent Operating System]], [[GStack: Role-Based AI Development Workflow]]
 
 ## Related

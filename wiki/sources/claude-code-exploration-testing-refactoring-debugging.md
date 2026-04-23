@@ -12,7 +12,7 @@ tags:
   - "codebase"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.304678"
 ---
 
 # Claude Code 探索测试重构调试代码库教程
@@ -61,8 +61,8 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[Claude-Code]]
-- [[Code-Review]]
-- [[Testing]]
+- [[Claude]]
+- Code-Review
+- [[Baseline A/B Testing]]
 - [[Refactoring]]
-- [[Debugging]]
+- Debugging

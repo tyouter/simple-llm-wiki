@@ -11,7 +11,7 @@ tags:
   - "streaming"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.014122"
-updated_at: "2026-04-18T23:00:54.014122"
+updated_at: "2026-04-22T23:50:27.297525"
 related:
   - "歸藏"
   - "Generative UI"
@@ -20,6 +20,8 @@ related:
   - "Kimi K2.5"
   - "MiniMax M2.5"
   - "AI Tool Specialization for Design"
+  - "Three.js3D"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # CodePilot
@@ -66,4 +68,6 @@ Connects to the broader Chinese AI model landscape discussed in [[2026 Chinese A
 - [[Code Fence + Sandbox Iframe Architecture]]
 - [[Kimi K2.5]]
 - [[MiniMax M2.5]]
+- [[Three.js3D]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[AI Tool Specialization for Design]]

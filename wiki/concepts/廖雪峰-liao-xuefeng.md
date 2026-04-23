@@ -11,7 +11,7 @@ tags:
   - "china-developer"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.795503"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.676867"
 ---
 
 # 廖雪峰 (Liao Xuefeng)
@@ -31,5 +31,5 @@ updated_at: "2026-04-20T12:00:00"
 - [[尤雨溪 (Evan You)]]
 - [[阮一峰 (Ruan YiFeng)]]
 - [[技术大牛博客平台汇总]]
-- [[Python教程]]
-- [[技术教育]]
+- Python教程
+- 技术教育

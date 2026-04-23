@@ -10,12 +10,16 @@ tags:
   - "workflow-transformation"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.670538"
-updated_at: "2026-04-18T00:19:39.670538"
+updated_at: "2026-04-23T00:42:55.176598"
 related:
   - "Scribe Fallacy"
   - "Commoditization of Execution"
   - "Decomposition as Core Skill"
   - "Claude Code"
+  - "AI Programming Ecosystem"
+  - "awesome-claude-code"
+  - "Clave"
+  - "Agent"
 ---
 
 # Engineer Identity Transformation
@@ -49,6 +53,10 @@ The transformation argues that while the *tool* (manual coding) may become less 
 - [[Claude Code]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
 - [[Agent Operating System]]
+- [[AI Programming Ecosystem]]
+- [[awesome-claude-code]]
+- [[Clave]]
+- [[Agent]]
 
 ## Related
 - [[Scribe Fallacy]]

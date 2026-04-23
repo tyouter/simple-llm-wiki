@@ -13,7 +13,7 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-19T15:34:25.403860"
-updated_at: "2026-04-19T15:34:25.403860"
+updated_at: "2026-04-22T23:50:25.166600"
 related:
   - "秋风萧瑟 (Qiufeng Xiaose)"
   - "Pianeer"
@@ -24,6 +24,7 @@ related:
   - "Self-Design through Environmental Engineering"
   - "Social Attention as Currency"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
 ---
 
 # Zhihu Discussion: Personal Development and Life Philosophy Insights
@@ -61,6 +62,7 @@ Analysis derived from a curated Zhihu Q&A thread titled "What are some life trut
 - [[Self-Design through Environmental Engineering]]
 - [[Social Attention as Currency]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
+- [[Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity]]
 
 ## Related
 - [[秋风萧瑟 (Qiufeng Xiaose)]]

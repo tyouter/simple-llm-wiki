@@ -12,7 +12,7 @@ tags:
   - "note-taking"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.687700"
 ---
 
 # Obsidian CLI + Claude Code AI笔记工作流
@@ -94,7 +94,7 @@ Obsidian 官方推出了 CLI 命令行工具，面向所有用户开放。这意
 ## Related
 
 - [[Obsidian]]
-- [[Claude-Code]]
-- [[Obsidian-CLI]]
+- [[Claude]]
+- [[Cli]]
 - [[Skills]]
-- [[AI-Enhanced-Note-Taking]]
+- AI-Enhanced-Note-Taking

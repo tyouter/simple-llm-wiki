@@ -11,12 +11,13 @@ tags:
   - "vibe-coding"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.480723"
-updated_at: "2026-04-17T21:53:35.480723"
+updated_at: "2026-04-22T23:50:23.428813"
 related:
   - "Vibe Coding Enhancement Workflow"
   - "Curated Design Prompt Repositories"
   - "Prompt Combination & Adaptation"
   - "AI-Generated Design Quality Spectrum"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
 ---
 
 # Design Style System Prompt
@@ -48,6 +49,7 @@ This concept acknowledges that AI needs explicit design education. It's not enou
 - [[Curated Design Prompt Repositories]]
 - [[Prompt Combination & Adaptation]]
 - [[AI-Generated Design Quality Spectrum]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
 
 ## Related
 - [[Vibe Coding Enhancement Workflow]]

@@ -10,7 +10,7 @@ tags:
   - "ucd"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.809931"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.570849"
 ---
 
 # Use Case (用例)
@@ -26,9 +26,11 @@ updated_at: "2026-04-20T12:00:00"
 - **需求规格化**: 将模糊需求转化为可验证的交互规范，支撑开发验收
 
 ## Related
+- [[郑坚义]]
+- [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
 
 - [[Scenario Analysis (场景分析)]]
 - [[User-Centered Design (UCD)]]
 - [[Persona (用户画像)]]
-- [[知乎讨论-为什么做产品的人都很喜欢思考场景]]
+- [[知乎]]
 - [[Marty Cagan]]

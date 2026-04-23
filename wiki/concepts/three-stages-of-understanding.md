@@ -11,12 +11,13 @@ tags:
   - "wisdom"
 confidence: "high"
 created_at: "2026-04-17T21:45:18.252067"
-updated_at: "2026-04-17T21:45:18.252067"
+updated_at: "2026-04-22T23:50:18.133811"
 related:
   - "Enlightenment (开悟)"
   - "Brain Prediction Model"
   - "Personal Transformation through Incremental Action"
   - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "杜千"
 ---
 
 # Three Stages of Understanding
@@ -53,4 +54,5 @@ cognitive-development, learning-stages, enlightenment, personal-growth, wisdom
 - [[Enlightenment (开悟)]]
 - [[Brain Prediction Model]]
 - [[Personal Transformation through Incremental Action]]
+- [[杜千]]
 - [[Zhihu Discussion on Enlightenment and Personal Transformation]]

@@ -11,13 +11,15 @@ tags:
   - "multi-agent-systems"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.394565"
-updated_at: "2026-04-17T21:56:25.394565"
+updated_at: "2026-04-22T23:50:08.235530"
 related:
   - "LangGraph"
   - "AI Tool Chaining/Combination"
   - "AI Agent Cognitive Architecture"
   - "Self-Verification and Quality Auditing in AI Systems"
   - "Advanced AI Agent Architecture for Financial Analysis"
+  - "Multi-Agent Specialization & Orchestration"
+  - "Structured Data + Unstructured Document Fusion"
 ---
 
 # Multi-Tool Orchestration with State Machines
@@ -64,6 +66,8 @@ This is a practical implementation of [[AI Tool Chaining/Combination]] and forms
 tool-orchestration, state-machines, workflow, langgraph, multi-agent-systems
 
 ## Related
+- [[Multi-Agent Specialization & Orchestration]]
+- [[Structured Data + Unstructured Document Fusion]]
 [[LangGraph]], [[AI Tool Chaining/Combination]], [[AI Agent Cognitive Architecture]], [[Self-Verification and Quality Auditing in AI Systems]], [[Advanced AI Agent Architecture for Financial Analysis]]
 
 ## Related

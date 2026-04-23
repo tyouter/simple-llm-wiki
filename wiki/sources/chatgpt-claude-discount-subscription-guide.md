@@ -12,7 +12,7 @@ tags:
   - "礼品卡"
 confidence: "medium"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:44:54.110330"
 ---
 
 # ChatGPT Plus/Claude Code半价订阅方案
@@ -65,8 +65,8 @@ updated_at: "2026-04-20T12:00:00"
 - 土耳其地址生成器：https://www.meiguodizhi.com/tr-address
 
 ## 相关概念
-- [[订阅服务优化]]
-- [[地区定价差异]]
+- 订阅服务优化
+- 地区定价差异
 
 ## 相关实体
-- [[小陈同学c_z]]
+- 小陈同学c_z

@@ -12,7 +12,7 @@ tags:
   - "knowledge-management"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.014028"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.344609"
 ---
 
 # LLM Search over RAG
@@ -28,8 +28,12 @@ Claude Code的设计理念：让模型自行决定如何搜索而非依赖僵化
 - **知识复利**：搜索过程积累的结构化知识可供后续复用
 
 ## Related
-- [[RAG Retrieval-Augmented Generation]]
+- [[Rag]]
 - [[Claude Code]]
 - [[Single-Loop Architecture]]
 - [[知识编译器模式]]
-- [[karpathy-llm-knowledge-base-architecture]]
+- [[RAG (Retrieval-Augmented Generation)]]
+- [[Vivek Aithal]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Claude Code工作流技术与架构分析]]
+- karpathy-llm-knowledge-base-architecture

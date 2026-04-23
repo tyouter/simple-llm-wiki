@@ -11,12 +11,13 @@ tags:
   - "methodology"
 confidence: "high"
 created_at: "2026-04-17T21:51:25.983238"
-updated_at: "2026-04-17T21:51:25.983238"
+updated_at: "2026-04-22T23:50:26.471393"
 related:
   - "Skills vs Tools Distinction"
   - "Aesthetic Judgment in Tech"
   - "非著名程序员"
   - "龙腾"
+  - "前端设计Skill美颜神器"
 ---
 
 # Front-End Design Skill/Tool
@@ -48,6 +49,7 @@ In a social media review by [[非著名程序员]], this tool/methodology is pra
 front-end-development, ui-design, aesthetics, tooling, methodology
 
 ## Related
+- [[前端设计Skill美颜神器]]
 [[Skills vs Tools Distinction]], [[Aesthetic Judgment in Tech]], [[非著名程序员]], [[龙腾]]
 
 ## Related

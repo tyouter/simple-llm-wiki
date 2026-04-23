@@ -11,11 +11,16 @@ tags:
   - "utility-first"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:26.394150"
 related:
   - "AI-Generated Design Quality Spectrum"
   - "AI-Free Interface Aesthetics"
   - "Claude Code"
+  - "AI-assisted design"
+  - "AI-Free Interface Aesthetics|AI aesthetics"
+  - "Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
+  - "使用DesignPrompts生成无AI感界面"
 ---
 
 # Tailwind CSS
@@ -31,6 +36,11 @@ Utility-first CSS 框架，通过原子化 CSS 类实现快速界面开发，但
 - **与 DesignPrompts 结合**: 可通过 curated prompts 超越 Tailwind 的默认美学，生成独特界面
 
 ## Related
+- [[AI-assisted design]]
+- [[AI-Free Interface Aesthetics|AI aesthetics]]
+- [[Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
+- [[使用DesignPrompts生成无AI感界面]]
 
 - [[AI-Free Interface Aesthetics]]
 - [[designprompts.dev]]

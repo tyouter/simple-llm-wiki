@@ -11,7 +11,7 @@ tags:
   - "ai-workflow"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.318712"
 ---
 
 # Claude Code + Obsidian 构建24/7个人操作系统
@@ -67,8 +67,8 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[Claude-Code]]
+- [[Claude]]
 - [[Obsidian]]
-- [[Personal-Operating-System]]
-- [[Knowledge-Management]]
-- [[Markdown-As-Human-AI-Interface]]
+- Personal-Operating-System
+- Knowledge-Management
+- [[Markdown]]

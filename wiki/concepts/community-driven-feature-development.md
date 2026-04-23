@@ -10,13 +10,15 @@ tags:
   - "user-innovation"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.461743"
-updated_at: "2026-04-21T16:31:03.461743"
+updated_at: "2026-04-22T23:50:23.963938"
 related:
   - "Obsidian Plugin Ecosystem"
   - "Ariestar"
   - "Obsidian Dragger"
   - "BRAT (Beta Reviewer's Auto-update Tool)"
   - "AI Programming Ecosystem"
+  - "Beta Distribution via Plugin Manager (BRAT)"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Community-Driven Feature Development** describes a software evolution model where end-users identify missing functionality and implement solutions themselves, then share those solutions back with the community. This model thrives in ecosystems with accessible APIs, supportive documentation, and cultural encouragement of contributions—exactly the environment cultivated around [[Obsidian]].
@@ -30,4 +32,6 @@ This approach is a cornerstone of the broader [[Obsidian Plugin Ecosystem]] and 
 - [[Ariestar]]
 - [[Obsidian Dragger]]
 - [[BRAT (Beta Reviewer's Auto-update Tool)]]
+- [[Beta Distribution via Plugin Manager (BRAT)]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[AI Programming Ecosystem]]

@@ -11,7 +11,7 @@ tags:
   - "快速原型"
 confidence: "high"
 created_at: "2026-04-21T17:54:16.130641"
-updated_at: "2026-04-21T17:54:16.130641"
+updated_at: "2026-04-22T23:50:26.325636"
 related:
   - "Vibe Coding"
   - "AI-Native Design Workflow"
@@ -19,6 +19,8 @@ related:
   - "AI Programming Ecosystem"
   - "AI Tool Specialization for Design"
   - "Prompt Combination & Meta-Prompting"
+  - "AI Tool Chaining/Combination"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
 ---
 
 指通过自然语言指令和高级设计描述，由AI直接生成可用的前端代码（如JSX, CSS），从而极大降低了实现复杂、美观界面的技术门槛。这代表了Low-Code/No-Code运动在AI时代的新形态，将视觉设计和前端实现更紧密地融合。
@@ -35,4 +37,6 @@ related:
 - [[AI-Induced Industry Disruption]]
 - [[AI Programming Ecosystem]]
 - [[AI Tool Specialization for Design]]
+- [[AI Tool Chaining/Combination]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
 - [[Prompt Combination & Meta-Prompting]]

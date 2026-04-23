@@ -11,13 +11,28 @@ tags:
   - "cost-optimization"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.810323"
-updated_at: "2026-04-17T22:13:44.810323"
+updated_at: "2026-04-22T23:50:19.595587"
 related:
   - "NVIDIA NIM (NVIDIA Inference Microservices)"
   - "Free Model Integration via NIM"
   - "Coding Plan"
   - "GLM-5"
   - "AI Tool Chaining/Combination"
+  - "Context Window"
+  - "Microservice"
+  - "Vibe Coding"
+  - "Claude Code"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Agent"
+  - "Api"
+  - "Cli"
+  - "Deepseek"
+  - "Mcp"
+  - "Skill"
+  - "Skills"
+  - "Yaml"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
 ---
 
 # Cherry Studio
@@ -131,4 +146,19 @@ client-application, api-integration, multi-model, development-tools, cost-optimi
 - [[Free Model Integration via NIM]]
 - [[Coding Plan]]
 - [[GLM-5]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Vibe Coding]]
+- [[Claude Code]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Agent]]
+- [[Api]]
+- [[Cli]]
+- [[Deepseek]]
+- [[Mcp]]
+- [[Skill]]
+- [[Skills]]
+- [[Yaml]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
 - [[AI Tool Chaining/Combination]]

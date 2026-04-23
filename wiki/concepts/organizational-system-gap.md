@@ -11,12 +11,14 @@ tags:
   - "strategic-planning"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.362542"
-updated_at: "2026-04-18T01:29:07.362542"
+updated_at: "2026-04-22T23:50:17.450373"
 related:
   - "Strategic Gap Analysis"
   - "7-Step Strategic Planning Framework"
   - "BLM (Business Leadership Model)"
   - "和夫咨询"
+  - "Three-Level Sales Target System"
+  - "吴海洋"
 ---
 
 # Organizational System Gap
@@ -119,4 +121,6 @@ organizational-development, system-gap, competitive-advantage, capability-buildi
 - [[Strategic Gap Analysis]]
 - [[7-Step Strategic Planning Framework]]
 - [[BLM (Business Leadership Model)]]
+- [[Three-Level Sales Target System]]
+- [[吴海洋]]
 - [[和夫咨询]]

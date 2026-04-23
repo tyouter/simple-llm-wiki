@@ -16,7 +16,7 @@ tags:
   - "automation"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.778617"
-updated_at: "2026-04-20T00:11:14.778617"
+updated_at: "2026-04-23T00:42:21.960113"
 related:
   - "Obsidian"
   - "obsidian-skills"
@@ -57,7 +57,7 @@ A discussion thread on Zhihu where users share their [[Obsidian]] workflows, foc
 - **Synchronization vs. Customization**: Git management advice represents trade-offs between full configuration portability and simplified synchronization.
 
 ## Connections to Existing Concepts
-- **[[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]**: Both represent community-developed toolkits extending AI agent capabilities for specific workflows.
+- **[[Claude]]**: Both represent community-developed toolkits extending AI agent capabilities for specific workflows.
 - **[[GStack: Role-Based AI Development Workflow for Claude Code]]**: Both exemplify specialized skill/tool packs for Claude Code performing domain-specific tasks.
 - **[[AI Tool Chaining/Combination]]**: The obsidian-skills toolkit demonstrates tool chaining by allowing different AI agents to leverage the same skills.
 - **[[Vibe Coding]]**: Implicit connection through aesthetic-prompt-driven approaches, as obsidian-skills allows AI to generate visually structured notes based on high-level instructions.
@@ -79,7 +79,7 @@ obsidian, note-taking, knowledge-management, ai-integration, git, markdown, zhih
 - [[Git-Based Knowledge Management]]
 - [[Note Organization Philosophy]]
 - [[Markdown as Human-AI Interface]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
 
 ## Related
@@ -91,5 +91,5 @@ obsidian, note-taking, knowledge-management, ai-integration, git, markdown, zhih
 - [[Git-Based Knowledge Management]]
 - [[Note Organization Philosophy]]
 - [[Markdown as Human-AI Interface]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]

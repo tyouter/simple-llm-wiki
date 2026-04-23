@@ -11,7 +11,7 @@ tags:
   - "search"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.442155"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.461606"
 ---
 
 # RAG (Retrieval-Augmented Generation)
@@ -28,7 +28,10 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 - [[LLM Search over RAG]]
-- [[智能RAG架构]]
+- [[Rag]]
 - [[知识编译器模式]]
-- [[karpathy-llm-knowledge-base-architecture]]
-- [[zhihu-discussion-why-ai-agents-underperform-in-practice-and-intelligent-rag-solutions]]
+- karpathy-llm-knowledge-base-architecture
+- [[Enhanced RAG with Human-like Reasoning]]
+- [[Multi-Agent Specialization & Orchestration]]
+- [[ASMR (Agentic Search and Memory Retrieval)]]
+- [[Agent]]

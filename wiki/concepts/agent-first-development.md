@@ -12,7 +12,7 @@ tags:
   - "human-ai-collaboration"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.382589"
-updated_at: "2026-04-19T01:52:16.382589"
+updated_at: "2026-04-23T00:42:20.054105"
 related:
   - "Harness Engineering"
   - "Agent Harness"
@@ -25,6 +25,17 @@ related:
   - "SWE-agent"
   - "Agent-Computer Interfaces"
   - "Spec Coding"
+  - "AI技术博客主题聚合"
+  - "SWE Driven开发"
+  - "低成本 API 接入策略"
+  - "开发选型参考"
+  - "本地部署与集成"
+  - "Every"
+  - "OpenSpace"
+  - "汉松"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
 ---
 
 # Agent-First Development
@@ -125,6 +136,17 @@ As AI capabilities advance, agent-first development is expected to become more p
 agent-first-development, ai-development, software-engineering, workflow-transformation, human-ai-collaboration
 
 ## Related
+- [[AI技术博客主题聚合]]
+- [[SWE Driven开发]]
+- [[低成本 API 接入策略]]
+- [[开发选型参考]]
+- [[本地部署与集成]]
+- [[Every]]
+- [[OpenSpace]]
+- [[汉松]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
 [[Harness Engineering]], [[Agent Harness]], [[Compound Engineering]], [[Context Engineering]], [[OpenAI]], [[Anthropic]], [[Vibe Coding]]
 
 ## Related
@@ -147,7 +169,7 @@ agent-first-development, ai-development, software-engineering, workflow-transfor
 
 ## 核心原则
 工具、接口和流程都围绕[[AI Agent]]的能力进行优化，而非仅仅让AI适应人类既有的工作方式。这要求：
-1. **智能体优先的接口设计**：创建高效的[[Agent-Computer Interfaces]]
+1. **智能体优先的接口设计**：创建高效的[[Agent]]
 2. **能力优化的工具链**：工具设计考虑智能体的认知和处理模式
 3. **流程重构**：工作流围绕智能体效能最大化重新设计
 
@@ -158,7 +180,7 @@ agent-first-development, ai-development, software-engineering, workflow-transfor
 - **基于[[Frontmatter]]的规则作用域**：方便智能体理解规则适用范围
 
 ## 研究前沿
-**[[SWE-agent]]**研究项目是这一范式的典型体现。它将解决真实世界软件工程问题（如修复GitHub Issue）的流程，从以人类为中心彻底转向以智能体为中心。在[[SWE-bench]]基准测试中，智能体被给予Issue描述后自主定位Bug、修改代码，最终通过原始开发者编写的真实单元测试验证。
+**[[SWE-agent]]**研究项目是这一范式的典型体现。它将解决真实世界软件工程问题（如修复GitHub Issue）的流程，从以人类为中心彻底转向以智能体为中心。在SWE-bench基准测试中，智能体被给予Issue描述后自主定位Bug、修改代码，最终通过原始开发者编写的真实单元测试验证。
 
 ## 与相关概念的关系
 - **[[Spec Coding]]** - 兼容的开发方法论，可服务于Agent-First范式
@@ -178,7 +200,7 @@ agent-first-development, ai-development, software-engineering, workflow-transfor
 ## 相关概念
 - [[AI Agent]] - 核心服务对象
 - [[SWE-agent]] - 研究实例
-- [[Agent-Computer Interfaces]] - 关键技术接口
+- [[Agent]] - 关键技术接口
 - [[Spec Coding]] - 兼容的方法论
 - [[Vibe Coding]] - 对立的方法
 
@@ -194,5 +216,5 @@ agent-first-development, ai-development, software-engineering, workflow-transfor
 - [[Vibe Coding]]
 - [[AI Agent]]
 - [[SWE-agent]]
-- [[Agent-Computer Interfaces]]
+- [[Agent]]
 - [[Spec Coding]]

@@ -13,7 +13,7 @@ tags:
   - "科普"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:45.792542"
 ---
 
 # 闪客拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑
@@ -52,6 +52,8 @@ updated_at: "2026-04-20T12:00:00"
 - 67万观看，5万点赞，爆款科普视频
 
 ## Related
+- [[视频-神级提示词挖掘隐藏天赋]]
+- [[视频-袁希对话张坚顺与逆销售冠军人生法则]]
 
 - [[OpenClaw]]
 - [[Claude Code Skills系统]]

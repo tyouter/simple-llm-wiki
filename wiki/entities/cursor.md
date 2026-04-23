@@ -4,6 +4,24 @@ type: "entity"
 sources:
   - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
   - "raw/videos/b12b45ef_一个能自我进化的智能体港大实验室又带着开源项目来了.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/b5d1922b_谷歌提出CLI的7条设计原则AI和人类都友好的CLI长这样.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/videos/1a8159fd_Stop Writing Bad CLAUDE.md Files.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/feca4e53_GitNexus代码知识图谱让 AI 编程助手真正看懂整个项目.md"
 tags:
   - "ide"
   - "ai-development"
@@ -11,7 +29,7 @@ tags:
   - "programming-tools"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.829563"
-updated_at: "2026-04-18T01:17:46.829563"
+updated_at: "2026-04-23T00:42:26.736005"
 related:
   - "Agent Skills Framework"
   - "Token Efficiency Optimization"
@@ -22,6 +40,84 @@ related:
   - "智能体自我进化"
   - "任务驱动的技能生成"
   - "经验积累与效率提升"
+  - "Harness Engineering"
+  - "Multi-Agent"
+  - "Claude Code"
+  - "Claude.Md"
+  - "Conductor"
+  - "Model Context Protocol"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Knowledge Base"
+  - "Deepseek"
+  - "Markdown"
+  - "Context Window"
+  - "Microservice"
+  - "Vibe Coding"
+  - "Coding Plan"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Skills"
+  - "Playwright"
+  - "Code Review"
+  - "Copilot"
+  - "Cursor"
+  - "Agent"
+  - "Mcp"
+  - "Superpowers"
+  - "Opencode"
+  - "Context Engineering"
+  - "Hooks"
+  - "Google Stitch"
+  - "Vibe Design"
+  - "Tailwind"
+  - "Agent-Reach"
+  - "Gitnexus"
+  - "Git"
+  - "Api"
+  - "Bridge"
+  - "CLAUDE.md"
+  - "Cli"
+  - "Figma"
+  - "Rag"
+  - "Sop"
+  - "Yaml"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "Mit"
+  - "Youtube"
+  - "小红书"
+  - "微信公众号"
+  - "知乎"
+  - "Agent Skills与MCP技术对比与企业应用"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "AI编程工具系统提示词开源项目"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Claude Code真的那么厉害吗？"
+  - "deepseek能为gis 行业带来什么？"
+  - "GitNexus：代码→知识图谱，让 AI 编程助手真正看懂整个项目"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "gstack：Claude工程团队"
+  - "Harness Engineering的本质是什么？"
+  - "OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了"
+  - "Skills的本质是什么？"
+  - "Stop Writing Bad CLAUDE.md Files"
+  - "为什么Claude的代码能力会这么强？"
+  - "你们有哪些好的claude code skills推荐？"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样"
+  - "Skill"
+  - "Claude"
+  - "Google"
+  - "Claude Code vs Cursor vs TRAE 对比分析"
 ---
 
 # Cursor
@@ -144,6 +240,84 @@ AI programming Integrated Development Environment (IDE) that integrates [[Agent 
 ide, ai-development, skills-integration, programming-tools
 
 ## Related
+- [[Harness Engineering]]
+- [[Multi-Agent]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[Model Context Protocol]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Knowledge Base]]
+- [[Deepseek]]
+- [[Markdown]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Vibe Coding]]
+- [[Coding Plan]]
+- [[AI Agent]]
+- [[OpenClaw]]
+- [[Skills]]
+- [[Playwright]]
+- [[Code Review]]
+- [[Copilot]]
+- [[Cursor]]
+- [[Agent]]
+- [[Mcp]]
+- [[Superpowers]]
+- [[Opencode]]
+- [[Context Engineering]]
+- [[Hooks]]
+- [[Google Stitch]]
+- [[Vibe Design]]
+- [[Tailwind]]
+- [[Agent-Reach]]
+- [[Gitnexus]]
+- [[Git]]
+- [[Api]]
+- [[Bridge]]
+- [[CLAUDE.md]]
+- [[Cli]]
+- [[Figma]]
+- [[Rag]]
+- [[Sop]]
+- [[Yaml]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[Mit]]
+- [[Youtube]]
+- [[小红书]]
+- [[微信公众号]]
+- [[知乎]]
+- [[Agent Skills与MCP技术对比与企业应用]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[AI编程工具系统提示词开源项目]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Claude Code真的那么厉害吗？]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[GitNexus：代码→知识图谱，让 AI 编程助手真正看懂整个项目]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[gstack：Claude工程团队]]
+- [[Harness Engineering的本质是什么？]]
+- [[OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了]]
+- [[Skills的本质是什么？]]
+- [[Stop Writing Bad CLAUDE.md Files]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样]]
+- [[Skill]]
+- [[Claude]]
+- [[Google]]
+- [[Claude Code vs Cursor vs TRAE 对比分析]]
 [[Agent Skills Framework]], [[Token Efficiency Optimization]], [[Enterprise Skill Engineering]], [[Anthropic]]
 
 ## Related

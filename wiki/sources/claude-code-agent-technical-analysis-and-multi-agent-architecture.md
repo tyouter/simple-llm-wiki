@@ -13,7 +13,7 @@ tags:
   - "technical-analysis"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-18T01:05:59.587391"
+updated_at: "2026-04-23T00:42:26.706152"
 related:
   - "Flood Sung"
   - "Claude Code"
@@ -22,6 +22,12 @@ related:
   - "Model Context Protocol"
   - "MetaBot"
   - "advanced-claude-code-workflow-techniques-and-architecture-analysis"
+  - "Agent Harness"
+  - "Harness Engineering"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "AI Agent框架对比分析"
 ---
 
 # Claude Code Agent Technical Analysis and Multi-Agent Architecture
@@ -74,7 +80,7 @@ The fundamental pattern powering Claude Code:
 - **Tool Integration**: MCP protocol vs. limited extension systems
 
 ### vs. Single-Agent Claude Code
-Contradiction with [[advanced-claude-code-workflow-techniques-and-architecture-analysis]] which emphasizes Claude Code's [[Single-Loop Architecture]] as a design choice prioritizing debuggability over complex multi-agent systems.
+Contradiction with [[Claude]] which emphasizes Claude Code's [[Single-Loop Architecture]] as a design choice prioritizing debuggability over complex multi-agent systems.
 
 ## Connections to Existing Concepts
 - **[[GStack: Role-Based AI Development Workflow for Claude Code]]**: Both discuss structured, role-based approaches to AI development workflows
@@ -97,4 +103,10 @@ claude-code, agent-architecture, multi-agent, tool-design, context-management, p
 - [[Multi-Agent Orchestration]]
 - [[Model Context Protocol]]
 - [[MetaBot]]
-- [[advanced-claude-code-workflow-techniques-and-architecture-analysis]]
+- [[Agent Harness]]
+- [[Harness Engineering]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[AI Agent框架对比分析]]
+- [[Claude]]

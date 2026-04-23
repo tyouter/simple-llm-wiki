@@ -10,12 +10,19 @@ tags:
   - "ai-assisted-development"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.894466"
-updated_at: "2026-04-17T21:42:57.894466"
+updated_at: "2026-04-23T00:42:26.935342"
 related:
   - "CLAUDE.md"
   - "Auto Memory"
   - "Permission Modes (Claude Code)"
   - "Spec Coding vs. Vibe Coding"
+  - "Agent Memory Systems"
+  - "Context Window Management"
+  - "Self-Evolving AI Assistant"
+  - "白玉京"
+  - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
+  - "Claude Code工作流技术与架构分析"
+  - "知乎讨论：claude.md怎么写才能让Claude Code更高效"
 ---
 
 # Persistent Memory System (Claude Code)
@@ -54,4 +61,11 @@ The system's effectiveness is also intertwined with [[Permission Modes (Claude C
 - [[CLAUDE.md]]
 - [[Auto Memory]]
 - [[Permission Modes (Claude Code)]]
+- [[Agent Memory Systems]]
+- [[Context Window Management]]
+- [[Self-Evolving AI Assistant]]
+- [[白玉京]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Claude Code工作流技术与架构分析]]
+- [[知乎讨论：claude.md怎么写才能让Claude Code更高效]]
 - [[Spec Coding vs. Vibe Coding]]

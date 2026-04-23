@@ -11,13 +11,14 @@ tags:
   - "ai-implementation"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-22T23:50:27.054224"
 related:
   - "OpenClaw (Moltbot/ClawdBot)"
   - "AI Agent Complexity Management"
   - "Token Management in Complex Systems"
   - "饼干哥哥AGI"
   - "Mario Zechner"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # 序员先生 (Programmer Xiansheng)
@@ -86,6 +87,7 @@ Programmer Xiansheng's experience directly informs several key concepts:
 technical-director, system-architect, openclaw-practitioner, economic-analysis, ai-implementation
 
 ## Related
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[OpenClaw (Moltbot/ClawdBot)]], [[AI Agent Complexity Management]], [[Token Management in Complex Systems]], [[饼干哥哥AGI]], [[Mario Zechner]]
 
 ## Related

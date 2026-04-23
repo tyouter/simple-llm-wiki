@@ -15,7 +15,7 @@ tags:
   - "implementation"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.653638"
-updated_at: "2026-04-17T21:42:03.653638"
+updated_at: "2026-04-22T23:50:08.220236"
 related:
   - "Strategic Management Learning Framework"
   - "Theory-Practice Integration"
@@ -27,6 +27,8 @@ related:
   - "Theory-to-Practice Bridge in Strategy"
   - "Michael E. Porter"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Balanced Scorecard"
+  - "Strategy Map"
 ---
 
 # Robert S. Kaplan & David P. Norton
@@ -76,6 +78,8 @@ These frameworks would typically be studied after foundational theory (like [[Mi
 - [[木游子]]
 - [[Michael Porter]]
 - [[Philip Kotler]]
+- [[Balanced Scorecard]]
+- [[Strategy Map]]
 
 ---
 

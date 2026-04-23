@@ -11,7 +11,7 @@ tags:
   - 工作流
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:39.046186"
 ---
 
 # 从会用AI到构建AI协作框架
@@ -53,4 +53,5 @@ updated_at: "2026-04-20T21:00:00"
 - [[Anthropic Skills工程方法]]
 - [[Agent Skills与MCP技术对比与企业应用]]
 - [[Claude Code工作流技术与架构分析]]
-- [[Skills本质分析]]
+- [[在中国生活的身份认同反思]]
+- [[Skill]]

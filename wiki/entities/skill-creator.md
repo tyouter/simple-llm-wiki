@@ -3,6 +3,11 @@ title: "skill-creator"
 type: "entity"
 sources:
   - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
 tags:
   - "tool"
   - "anthropic-official"
@@ -11,7 +16,7 @@ tags:
   - "evaluation-framework"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.780634"
-updated_at: "2026-04-17T22:06:46.780634"
+updated_at: "2026-04-23T00:42:20.946065"
 related:
   - "Anthropic"
   - "Skills (Anthropic Framework)"
@@ -21,6 +26,25 @@ related:
   - "Description Trigger Optimization"
   - "Baseline A/B Testing"
   - "Agent Skills Framework"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Claude Code"
+  - "Frontmatter"
+  - "Playwright"
+  - "Claude.Md"
+  - "Code Review"
+  - "Superpowers"
+  - "Markdown"
+  - "Opencode"
+  - "Agent Skills Framework|Skills"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+  - "Enterprise Skill Engineering"
+  - "Token Efficiency Optimization"
+  - "Ai学习的老章"
+  - "Agent Skills与MCP技术对比与企业应用"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "Anthropic Skills工程方法"
 ---
 
 # skill-creator
@@ -53,6 +77,25 @@ The `skill-creator` is the primary practical tool for implementing the methodolo
 tool, anthropic-official, github, cli, evaluation-framework
 
 ## Related
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Claude Code]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[CLAUDE.md]]
+- [[Code Review]]
+- [[Superpowers]]
+- [[Markdown]]
+- [[Opencode]]
+- [[Agent Skills Framework|Skills]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- [[Enterprise Skill Engineering]]
+- [[Token Efficiency Optimization]]
+- [[Ai学习的老章]]
+- [[Agent Skills与MCP技术对比与企业应用]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[Anthropic Skills工程方法]]
 [[Anthropic]], [[Skills (Anthropic Framework)]], [[Skill Engineering Lifecycle]], [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
 
 ## Related

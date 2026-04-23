@@ -1,0 +1,372 @@
+---
+title: "Cli"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/78bdbe39_无大算力时作为学生LLM 还有哪些值得做的研究无大算力时作为学生LLM 还有哪些值得做的研究.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/b5d1922b_谷歌提出CLI的7条设计原则AI和人类都友好的CLI长这样.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/cb5b7cde_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/e0070893_Playwright CLI 的隐藏技能帮 Claude Code 突破反爬虫读到读不了的网页.md"
+  - "raw/articles/edab6de9_龙虾装了这个Skill显得其它的都像个废物.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f46fff1a_playwright自动化脚本工具打开浏览器网页被检测为爬虫导致无法执行脚本代码请问怎么解决playwright自动化脚本工具打开浏览器网页被检测为爬虫.md"
+  - "raw/videos/00b97521_全网最细 OpenClaw 教学完整部署飞书连接白嫖LLM无限进化框架看完彻底学会.md"
+  - "raw/videos/136f10d5_开源 Figma 来了AI 原生设计编辑器 OpenPencil7MB 本地运行还能多人协作.md"
+  - "raw/videos/1a27c5f5_bilibili-cli.md"
+  - "raw/videos/3b2aadbb_Claude Code Obsidian 构建一个247个人操作系统用于个人思考知识积累和创业构建.md"
+  - "raw/videos/42a13a06_Obsidian CLI80命令让笔记库听命于终端.md"
+  - "raw/videos/4c31509e_Stop Copying Files Into Obsidian Folder Bridge Plugin.md"
+  - "raw/videos/502d4b3e_闪客你管这破玩意叫智能体.md"
+  - "raw/videos/5630b8bc_ObsidianCLIClaudeCode我的AI笔记工作流.md"
+  - "raw/videos/58309433_熟肉老外论证汽车仙人的时代已经结束了.md"
+  - "raw/videos/65058f8c_Obsidian CLI 详细教程官方命令行工具激进拥抱智能体高效 自动化 降低Token消耗.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/videos/8d7b65af_opencli网站直接变 CLI 工具.md"
+  - "raw/videos/9fd78b71_Figma 再见Gemini 搭顶尖设计 Skill美学起飞.md"
+  - "raw/videos/bafdf2e5_Obsidian Claudian插件如何终结了我所有案头工作.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+  - "raw/videos/d241c58b_一个CLI干掉所有MCP工具省99的token mcp2cli.md"
+  - "raw/videos/d8e2d0ff_让AI洞察你的知识网络-Obsidian CLI.md"
+  - "raw/videos/d907b96c_Claude CodeObsidian每天自动读论文早上到工位来上这么一篇真是惬意呀.md"
+  - "raw/videos/dee8b3fa_ui前端开发神器小白秒变UI专家.md"
+  - "raw/videos/e5e7399c_ui前端开发神器小白秒变UI专家.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/eb586db5_Obsidian从0到1完整攻略 搞定同步打通AI.md"
+  - "raw/webpages/0ac94217_让我们专注于内容Markdown 制作幻灯片的三种方案对比 - 少数派.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/3ad26c70_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/81df9b89_X 上的 Andrej KarpathyLLM Knowledge BasesSomething Im finding very useful rec.md"
+tags:
+  - "cli"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.566808"
+updated_at: "2026-04-23T00:42:26.806340"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Claude.Md"
+  - "Obsidian"
+  - "Markdown"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Refactoring"
+  - "Openclaw"
+  - "Gemini"
+  - "Slidev"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Api"
+  - "Sop"
+  - "Prd"
+  - "James Gleick"
+  - "Stanford"
+  - "Google"
+  - "大神们是从哪获取优质信息，比如哪些微信公众号，知乎?"
+  - "Context Window"
+  - "Microservice"
+  - "Vibe Coding"
+  - "Coding Plan"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Skills"
+  - "Cursor"
+  - "Anthropic"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "Prompt Engineering"
+  - "Extended Thinking"
+  - "Agentic Loop"
+  - "Multi-Agent"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Plan Mode"
+  - "Cloudflare"
+  - "最好用的Agent框架是什么？"
+  - "Distillation"
+  - "Agent"
+  - "Lora"
+  - "Rag"
+  - "Chatgpt"
+  - "Openai"
+  - "无大算力时，作为学生，LLM 还有哪些值得做的研究？"
+  - "Copilot"
+  - "Mcp"
+  - "Gpt"
+  - "小红书"
+  - "deepseek能为gis 行业带来什么？"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Opencode"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Skill"
+  - "Claude"
+  - "谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样"
+  - "Playwright"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页"
+  - "Docker"
+  - "Bridge"
+  - "Bilibili"
+  - "龙虾装了这个Skill，显得其它的都像个废物"
+  - "Claude Opus 4"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "Git"
+  - "Bright Data"
+  - "Microsoft"
+  - "playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？"
+  - "Github"
+  - "b站"
+  - "全网最细 OpenClaw 教学：完整部署+飞书连接+白嫖LLM+无限进化框架，看完彻底学会！！！"
+  - "Open Pencil"
+  - "Figma"
+  - "Mit"
+  - "开源 Figma 来了！AI 原生设计编辑器 OpenPencil，7MB 本地运行还能多人协作"
+  - "Bilibili-Cli"
+  - "bilibili-cli"
+  - "Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建"
+  - "Progressive Disclosure"
+  - "Youtube"
+  - "Obsidian CLI：80+命令让笔记库听命于终端"
+  - "Stop Copying Files Into Obsidian | Folder Bridge Plugin"
+  - "【闪客】你管这破玩意叫智能体？"
+  - "ObsidianCLI+ClaudeCode:我的AI笔记工作流"
+  - "【熟肉】老外论证汽车仙人的时代已经结束了"
+  - "Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。"
+  - "Reinforcement Learning"
+  - "Decision Making"
+  - "Baseline"
+  - "Princeton"
+  - "对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42"
+  - "知乎"
+  - "opencli：网站直接变 CLI 工具"
+  - "Figma 再见！Gemini 搭顶尖设计 Skill，美学起飞！"
+  - "Obsidian Claudian插件如何终结了我所有案头工作"
+  - "Open Source"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "Mcp2Cli"
+  - "Hacker News"
+  - "一个CLI干掉所有MCP工具，省99%的token mcp2cli"
+  - "让AI洞察你的知识网络-Obsidian CLI"
+  - "Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~"
+  - "Creative Tim"
+  - "ui前端开发神器！小白秒变UI专家"
+  - "Agent-Reach"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "Notion"
+  - "Obsidian从0到1完整攻略 | 搞定同步+打通AI"
+  - "Yaml"
+  - "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派"
+  - "Superpowers"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "X 上的 Andrej Karpathy：“LLM Knowledge Bases"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "吴恩达"
+  - "微信公众号"
+  - "清华"
+  - "CLI设计原则 - AI和人类友好"
+  - "Firecrawl核弹级爬虫工具"
+  - "Obsidian CLI官方命令行工具教程"
+  - "Obsidian CLI + Claude Code AI笔记工作流"
+  - "Obsidian从0到1完整攻略"
+---
+
+# Cli
+
+## 定义
+
+CLI (Command Line Interface) - 命令行界面
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[CLAUDE.md]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Refactoring]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[Slidev]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Api]]
+- [[Sop]]
+- [[Prd]]
+- [[James Gleick]]
+- [[Stanford]]
+- [[Google]]
+- [[大神们是从哪获取优质信息，比如哪些微信公众号，知乎?]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Vibe Coding]]
+- [[Coding Plan]]
+- [[Cherry Studio]]
+- [[MiniMax M2.5]]
+- [[Kimi K2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Skills]]
+- [[Cursor]]
+- [[Anthropic]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[Prompt Engineering]]
+- [[Extended Thinking]]
+- [[Agentic Loop]]
+- [[Multi-Agent]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Plan Mode]]
+- [[Cloudflare]]
+- [[最好用的Agent框架是什么？]]
+- [[Distillation]]
+- [[Agent]]
+- [[Lora]]
+- [[Rag]]
+- [[Chatgpt]]
+- [[OpenAI]]
+- [[无大算力时，作为学生，LLM 还有哪些值得做的研究？]]
+- [[Copilot]]
+- [[Mcp]]
+- [[GPT]]
+- [[小红书]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Opencode]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Skill]]
+- [[Claude]]
+- [[谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样]]
+- [[Playwright]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页]]
+- [[Docker]]
+- [[Bridge]]
+- [[Bilibili]]
+- [[龙虾装了这个Skill，显得其它的都像个废物]]
+- [[Claude Opus 4]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[Git]]
+- [[Bright Data]]
+- [[Microsoft]]
+- [[playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？]]
+- [[GitHub]]
+- [[b站]]
+- [[全网最细 OpenClaw 教学：完整部署+飞书连接+白嫖LLM+无限进化框架，看完彻底学会！！！]]
+- [[Open Pencil]]
+- [[Figma]]
+- [[Mit]]
+- [[开源 Figma 来了！AI 原生设计编辑器 OpenPencil，7MB 本地运行还能多人协作]]
+- [[Bilibili-Cli]]
+- [[bilibili-cli]]
+- [[Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建]]
+- [[Progressive Disclosure]]
+- [[Youtube]]
+- [[Obsidian CLI：80+命令让笔记库听命于终端]]
+- [[Stop Copying Files Into Obsidian | Folder Bridge Plugin]]
+- [[【闪客】你管这破玩意叫智能体？]]
+- [[ObsidianCLI+ClaudeCode:我的AI笔记工作流]]
+- [[【熟肉】老外论证汽车仙人的时代已经结束了]]
+- [[Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。]]
+- [[Reinforcement Learning]]
+- [[Decision Making]]
+- [[Baseline]]
+- [[Princeton]]
+- [[对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42]]
+- [[知乎]]
+- [[opencli：网站直接变 CLI 工具]]
+- [[Figma 再见！Gemini 搭顶尖设计 Skill，美学起飞！]]
+- [[Obsidian Claudian插件如何终结了我所有案头工作]]
+- [[Open Source]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[Mcp2Cli]]
+- [[Hacker News]]
+- [[一个CLI干掉所有MCP工具，省99%的token mcp2cli]]
+- [[让AI洞察你的知识网络-Obsidian CLI]]
+- [[Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~]]
+- [[Creative Tim]]
+- [[ui前端开发神器！小白秒变UI专家]]
+- [[Agent-Reach]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[Notion]]
+- [[Obsidian从0到1完整攻略 | 搞定同步+打通AI]]
+- [[Yaml]]
+- [[让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派]]
+- [[Superpowers]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[X 上的 Andrej Karpathy：“LLM Knowledge Bases]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[吴恩达]]
+- [[微信公众号]]
+- [[清华]]
+- [[CLI设计原则 - AI和人类友好]]
+- [[Firecrawl核弹级爬虫工具]]
+- [[Obsidian CLI官方命令行工具教程]]
+- [[Obsidian CLI + Claude Code AI笔记工作流]]
+- [[Obsidian从0到1完整攻略]]
+- [[Deepseek]]

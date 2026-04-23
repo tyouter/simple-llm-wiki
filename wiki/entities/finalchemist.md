@@ -9,7 +9,7 @@ tags:
   - "beginner-guide"
 confidence: "high"
 created_at: "2026-04-20T00:24:32.889030"
-updated_at: "2026-04-20T00:24:32.889030"
+updated_at: "2026-04-23T00:42:20.840246"
 related:
   - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
   - "Microsoft"
@@ -42,11 +42,11 @@ related:
 [[Finalchemist]]代表了“结构化入门”的学习倡导者，相信通过优质的体系化课程和明确的工具列表，可以帮助初学者高效地跨越最初的学习门槛，避免在信息海洋中迷失方向。
 
 ## 相关链接
-[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[Microsoft]], [[ai-agent-framework-comparison]], [[LangGraph]], [[CrewAI]]
+[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[Microsoft]], [[Agent]], [[LangGraph]], [[CrewAI]]
 
 ## Related
 - [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
 - [[Microsoft]]
-- [[ai-agent-framework-comparison]]
+- [[Agent]]
 - [[LangGraph]]
 - [[CrewAI]]

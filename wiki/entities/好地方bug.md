@@ -3,6 +3,7 @@ title: "好地方bug"
 type: "entity"
 sources:
   - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/9fd2075e_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
 tags:
   - "zhihu-user"
   - "mathematics"
@@ -11,17 +12,22 @@ tags:
   - "theoretical-cs"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.348716"
-updated_at: "2026-04-17T22:23:15.348716"
+updated_at: "2026-04-23T00:42:21.010220"
 related:
   - "Zhihu Discussion: Algorithms That Inspire Awe in Computer Science"
   - "BugBuster喵"
   - "TurtleLiu"
+  - "Embedding"
+  - "Deepseek"
+  - "Rag"
+  - "Api"
+  - "有哪些算法惊艳到了你？"
 ---
 
 # 好地方bug
 
 ## Identity
-Zhihu user with a strong mathematics background who contributed a specialized answer to the discussion [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]].
+Zhihu user with a strong mathematics background who contributed a specialized answer to the discussion [[Zhihu]].
 
 ## Contribution
 Provided a deep dive into **impartial combinatorial games**, explaining:
@@ -56,9 +62,14 @@ Represents the **mathematical beauty** dimension of computer science—algorithm
 zhihu-user, mathematics, game-theory, combinatorial-games, theoretical-cs
 
 ## Related
-[[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]], [[BugBuster喵]], [[TurtleLiu]]
+- [[Embedding]]
+- [[Deepseek]]
+- [[Rag]]
+- [[Api]]
+- [[有哪些算法惊艳到了你？]]
+[[Zhihu]], [[BugBuster喵]], [[TurtleLiu]]
 
 ## Related
-- [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]]
+- [[Zhihu]]
 - [[BugBuster喵]]
 - [[TurtleLiu]]

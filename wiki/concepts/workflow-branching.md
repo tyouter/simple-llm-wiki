@@ -11,13 +11,15 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391958"
-updated_at: "2026-04-17T21:50:12.391958"
+updated_at: "2026-04-23T00:42:20.583413"
 related:
   - "Claude Code"
   - "Context Pollution"
   - "Parallel Agent Review"
   - "Model-Switching Optimization"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Workflow Branching
@@ -58,7 +60,7 @@ In [[Claude Code]], workflow branching is facilitated through the `/branch` comm
 ### Integration with Other Techniques
 - Combined with [[Parallel Agent Review]] to get specialized feedback on each branch
 - Used with [[Model-Switching Optimization]] where Opus plans branches and Sonnet implements them
-- Supports [[gstack-role-based-ai-development-workflow-for-claude-code]] by enabling role-specific branch exploration
+- Supports [[Claude]] by enabling role-specific branch exploration
 - Helps avoid [[Context Pollution]] by isolating experimental work from main development
 
 ## Workflow Patterns
@@ -98,4 +100,6 @@ Technique described in the "Claude Code Hidden Features Guide" as enabled by the
 - [[Context Pollution]]
 - [[Parallel Agent Review]]
 - [[Model-Switching Optimization]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
+- [[Claude]]

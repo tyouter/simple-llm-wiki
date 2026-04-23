@@ -11,7 +11,7 @@ tags:
   - "行业变革"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:44:54.169675"
 ---
 
 # Seedance 2.0攻克人类最难视频，AI颠覆设计行业

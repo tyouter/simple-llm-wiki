@@ -10,7 +10,7 @@ tags:
   - "北郭Ai"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.149249"
 ---
 
 # AI全流程电影《神兵列传之苏侯阴兵》
@@ -49,6 +49,6 @@ updated_at: "2026-04-20T08:00:00"
 - 高质量画面和表演
 
 ## 相关
-- [[LTX Desktop]]
-- [[AI视频生成]]
-- [[AI内容创作]]
+- [[Ltx Desktop]]
+- AI视频生成
+- AI内容创作

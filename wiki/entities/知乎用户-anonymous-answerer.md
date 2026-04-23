@@ -10,7 +10,7 @@ tags:
   - "anonymous-contributor"
 confidence: "high"
 created_at: "2026-04-19T21:41:38.071658"
-updated_at: "2026-04-19T21:41:38.071658"
+updated_at: "2026-04-23T00:42:21.046074"
 related:
   - "OpenClaw"
   - "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
@@ -19,6 +19,7 @@ related:
   - "糖炒栗子"
   - "Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines"
   - "advanced-claude-code-workflow-techniques-and-architecture-analysis"
+  - "诗与星空"
 ---
 
 # 知乎用户 (anonymous answerer)
@@ -64,7 +65,7 @@ An experienced [[OpenClaw]] user contributing anonymously to [[Zhihu Discussion:
 
 ### Community Knowledge Sharing
 - **Example of** Zhihu's technical knowledge dissemination pattern
-- **Similar to** detailed guidance in [[advanced-claude-code-workflow-techniques-and-architecture-analysis]]
+- **Similar to** detailed guidance in [[Claude]]
 - **Contributes to** collective problem-solving for emerging technologies
 
 ## Source Attribution
@@ -77,7 +78,8 @@ Analysis based on anonymous technical contributions to [[Zhihu Discussion: OpenC
 - [[快照功能依赖 (Snapshot Function Dependency)]]
 - [[糖炒栗子]]
 - [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
-- [[advanced-claude-code-workflow-techniques-and-architecture-analysis]]
+- [[Claude]]
+- [[诗与星空]]
 
 ## Related
 - [[OpenClaw]]
@@ -86,4 +88,4 @@ Analysis based on anonymous technical contributions to [[Zhihu Discussion: OpenC
 - [[快照功能依赖 (Snapshot Function Dependency)]]
 - [[糖炒栗子]]
 - [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
-- [[advanced-claude-code-workflow-techniques-and-architecture-analysis]]
+- [[Claude]]

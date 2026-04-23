@@ -11,12 +11,17 @@ tags:
   - "martial-arts"
 confidence: "high"
 created_at: "2026-04-17T22:00:53.022817"
-updated_at: "2026-04-17T22:00:53.022817"
+updated_at: "2026-04-23T00:42:26.943884"
 related:
   - "呼吸法 (Breathing Method)"
   - "内功 (Internal Martial Arts / Neigong)"
   - "丹田与核心肌群 (Dantian vs. Core Muscles)"
   - "Zhihu Discussion: Internal Martial Arts and Breathing Techniques"
+  - "晨练体系 (Morning Exercise System)"
+  - "文雨先生"
+  - "易安遐观"
+  - "中国武术内功与呼吸法解析"
+  - "知乎讨论-内功与呼吸法"
 ---
 
 # 身体姿态与核心控制 (Body Posture and Core Control)
@@ -84,4 +89,9 @@ posture, alignment, body-mechanics, core-stability, martial-arts
 - [[呼吸法 (Breathing Method)]]
 - [[内功 (Internal Martial Arts / Neigong)]]
 - [[丹田与核心肌群 (Dantian vs. Core Muscles)]]
+- [[晨练体系 (Morning Exercise System)]]
+- [[文雨先生]]
+- [[易安遐观]]
+- [[中国武术内功与呼吸法解析]]
+- [[知乎讨论-内功与呼吸法]]
 - [[Zhihu Discussion: Internal Martial Arts and Breathing Techniques]]

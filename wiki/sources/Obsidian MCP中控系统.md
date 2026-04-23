@@ -12,7 +12,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.674707"
 ---
 
 # Obsidian MCP中控系统
@@ -52,6 +52,6 @@ MCP带来的全新工作方式革命，实现：
 ## Related
 
 - [[Obsidian]]
-- [[MCP]]
+- [[Mcp]]
 - [[Claude Code]]
-- [[自动化工作流]]
+- 自动化工作流

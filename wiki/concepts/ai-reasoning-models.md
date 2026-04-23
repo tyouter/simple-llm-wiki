@@ -11,12 +11,24 @@ tags:
   - "ai-architecture"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-22T23:50:26.003025"
 related:
   - "DeepSeek-R1"
   - "DeepSeek"
   - "Prompt Engineering for Chinese AI"
   - "Chinese Language AI Specialization"
+  - "AI 大模型演进评估"
+  - "Prompt Combination & Meta-Prompting"
+  - "Quantitative Analysis via AI"
+  - "主流模型生态位分化"
+  - "决策推演 vs. 决策表达"
+  - "复杂逻辑链路处理"
+  - "推理层（决策第三步）"
+  - "ChatGPT 5.2"
+  - "ChatGPT / GPT"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
 ---
 
 # AI Reasoning Models
@@ -96,4 +108,16 @@ Language models specifically optimized for logical inference, contextual underst
 - [[DeepSeek-R1]]
 - [[DeepSeek]]
 - [[Prompt Engineering for Chinese AI]]
+- [[AI 大模型演进评估]]
+- [[Prompt Combination & Meta-Prompting]]
+- [[Quantitative Analysis via AI]]
+- [[主流模型生态位分化]]
+- [[决策推演 vs. 决策表达]]
+- [[复杂逻辑链路处理]]
+- [[推理层（决策第三步）]]
+- [[ChatGPT 5.2]]
+- [[ChatGPT / GPT]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
 - [[Chinese Language AI Specialization]]

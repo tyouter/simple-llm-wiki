@@ -11,11 +11,13 @@ tags:
   - "metacognition"
 confidence: "high"
 created_at: "2026-04-17T21:57:40.252437"
-updated_at: "2026-04-17T21:57:40.252437"
+updated_at: "2026-04-23T00:42:26.657731"
 related:
   - "希言自然"
   - "Zhihu Discussion: Learning Method Transition Crisis"
   - "Enumeration Path Dependency"
+  - "Zhihu Login Page Error Message (Source)"
+  - "Zhihu"
 ---
 
 # Internal Conflict (内耗) in Learning
@@ -54,6 +56,8 @@ Strategies may include:
 psychology, education, mental-health, learning-anxiety, metacognition
 
 ## Related
+- [[Zhihu Login Page Error Message (Source)]]
+- [[Zhihu]]
 [[希言自然]], [[Zhihu Discussion: Learning Method Transition Crisis]], [[Enumeration Path Dependency]]
 
 ## Related

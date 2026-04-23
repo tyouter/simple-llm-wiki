@@ -12,11 +12,15 @@ tags:
   - "psychology"
 confidence: "high"
 created_at: "2026-04-20T00:27:32.668781"
-updated_at: "2026-04-20T00:27:32.668781"
+updated_at: "2026-04-22T23:50:20.516349"
 related:
   - "Pianeer"
   - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
   - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
+  - "信息层（决策第一步）"
+  - "碎片化学习节奏化"
+  - "负技能转化"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
 ---
 
 # Acceptance of Imperfection and Complexity
@@ -46,6 +50,10 @@ It encourages:
 ## Related
 - [[Pianeer]]
 - [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[信息层（决策第一步）]]
+- [[碎片化学习节奏化]]
+- [[负技能转化]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
 
 ## Related
 - [[Pianeer]]

@@ -11,13 +11,16 @@ tags:
   - "optimization"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.978818"
 related:
   - "Anthropic"
   - "Cat Wu"
   - "Model-Capability-Driven Product Evolution"
   - "AI-Exponential Product Management"
   - "Prototype-First Development"
+  - "METR"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Simplest Working Solution Principle
@@ -97,4 +100,7 @@ engineering-principle, simplicity, technical-debt, adaptability, optimization
 - [[Cat Wu]]
 - [[Model-Capability-Driven Product Evolution]]
 - [[AI-Exponential Product Management]]
+- [[METR]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Prototype-First Development]]

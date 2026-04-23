@@ -12,7 +12,7 @@ tags:
   - "llm"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:42:21.645582"
 ---
 
 # MinerU PDF解析开源项目
@@ -63,11 +63,11 @@ updated_at: "2026-04-20T00:00:00"
 
 ## 相关概念
 
-- [[RAG]]
-- [[大模型]]
-- [[开源项目]]
+- [[Rag]]
+- 大模型
+- 开源项目
 
 ## 相关实体
 
-- [[神秘的鱼仔]]
-- [[OpenDataLab]]
+- 神秘的鱼仔
+- OpenDataLab

@@ -12,7 +12,7 @@ tags:
   - "reuse-systems"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.382589"
-updated_at: "2026-04-19T01:52:16.382589"
+updated_at: "2026-04-23T00:42:26.619211"
 related:
   - "Harness Engineering"
   - "Vibe Coding"
@@ -20,6 +20,25 @@ related:
   - "Agent-First Development"
   - "Context Engineering"
   - "AI Tool Chaining/Combination"
+  - "Code Review"
+  - "Subagent"
+  - "Markdown"
+  - "Mitchell Hashimoto"
+  - "Ethan Mollick"
+  - "Anthropic"
+  - "Openai"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Api"
+  - "Docker"
+  - "Git"
+  - "Rag"
+  - "Yaml"
+  - "Claude"
+  - "GitHub"
+  - "汉松"
+  - "Harness Engineering与复合工程"
+  - "Agent"
+  - "Mit"
 ---
 
 # Compound Engineering
@@ -102,6 +121,25 @@ As AI systems become more integrated into development workflows, compound engine
 compound-engineering, knowledge-management, software-engineering, development-methodology, ai-development, reuse-systems
 
 ## Related
+- [[Code Review]]
+- [[Subagent]]
+- [[Markdown]]
+- [[Mitchell Hashimoto]]
+- [[Ethan Mollick]]
+- [[Anthropic]]
+- [[OpenAI]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Api]]
+- [[Docker]]
+- [[Git]]
+- [[Rag]]
+- [[Yaml]]
+- [[Claude]]
+- [[GitHub]]
+- [[汉松]]
+- [[Harness Engineering与复合工程]]
+- [[Agent]]
+- [[Mit]]
 [[Harness Engineering]], [[Vibe Coding]], [[Every]], [[Agent-First Development]], [[Context Engineering]], [[AI Tool Chaining/Combination]]
 
 ## Related

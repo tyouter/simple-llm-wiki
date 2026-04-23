@@ -11,7 +11,7 @@ tags:
   - 自动化
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.662520"
 ---
 
 # N8N爬虫工作流教程
@@ -84,6 +84,8 @@ updated_at: "2026-04-20T12:00:00"
 - 支持批量数据处理
 
 ## Related
+- [[Firecrawl核弹级爬虫工具]]
+- [[opencli网站直接变CLI工具]]
 
-- [[自动化工作流]]
+- 自动化工作流
 - [[AI Agent]]

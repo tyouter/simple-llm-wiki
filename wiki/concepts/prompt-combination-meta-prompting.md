@@ -11,7 +11,7 @@ tags:
   - "工作流优化"
 confidence: "high"
 created_at: "2026-04-21T17:54:16.128436"
-updated_at: "2026-04-21T17:54:16.128436"
+updated_at: "2026-04-22T23:50:26.269505"
 related:
   - "AI Tool Chaining/Combination"
   - "AI Reasoning Models"
@@ -19,6 +19,9 @@ related:
   - "AI-Native Design Workflow"
   - "AI-Free Interface Aesthetics"
   - "Design Prompt Curation & Repository"
+  - "Low-Code/No-Code Frontend via AI"
+  - "designprompts.dev"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
 ---
 
 指通过组合多个基础提示词，或创建一个新的“元提示词”来指导AI分析和综合现有设计规范，从而生成符合特定项目需求的、统一且高级的设计方案。这超越了简单的风格复制，实现了风格的适配、融合与再创造。
@@ -35,4 +38,7 @@ related:
 - [[Agentic Loop]]
 - [[AI-Native Design Workflow]]
 - [[AI-Free Interface Aesthetics]]
+- [[Low-Code/No-Code Frontend via AI]]
+- [[designprompts.dev]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
 - [[Design Prompt Curation & Repository]]

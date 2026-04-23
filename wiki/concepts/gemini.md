@@ -1,0 +1,259 @@
+---
+title: "Gemini"
+type: "concept"
+sources:
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
+  - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/d65f8843_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/videos/00e84772_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/29302ee4_我的Obsidian与Gemini命令行工作流.md"
+  - "raw/videos/2adc0687_炸裂谷歌Gemini史诗级更新表现简直强到离谱.md"
+  - "raw/videos/47389e2e_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/48d3cc29_ChatGPTClaudeGemini 什么任务该交给谁每月600刀经验总结.md"
+  - "raw/videos/92471d0f_从会用AI到构建AI协作框架.md"
+  - "raw/videos/9dd222e3_Oh My ClaudeCode把 Claude 变成 coding 武器19个专业AI特工 多模式自动驾驶从想法到上线全自动.md"
+  - "raw/videos/9fd78b71_Figma 再见Gemini 搭顶尖设计 Skill美学起飞.md"
+  - "raw/videos/bec891e7_Gemini还能这么玩挖出Human 3.0人生操作系统含金量太高了.md"
+  - "raw/videos/df67d69c_OpenClaw高级使用经验分享2026年最强生产力五分钟打造多Agent协作编程开发团队模型容灾机制深度配置云端Gateway操控本地macOS.md"
+  - "raw/videos/e50e8a42_90 的人都不知道被严重低估的 Gemini 生产力超越对话的正确打开方式.md"
+  - "raw/videos/ee09e261_学习效率狂飙一套流程怒省1460小时网友我考试就这么用的.md"
+  - "raw/videos/f15f24d0_一觉睡醒Vibe Coding进化成Visual Coding了....md"
+tags:
+  - "gemini"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.788699"
+updated_at: "2026-04-22T23:49:55.432541"
+related:
+  - "Claude Code"
+  - "Tailwind"
+  - "Skill"
+  - "Designprompts"
+  - "Claude Code"
+  - "Claude"
+  - "Gemini"
+  - "Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎"
+  - "为什么Claude的代码能力会这么强？"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Frontmatter"
+  - "Auto Memory"
+  - "Cloudflare"
+  - "Anthropic"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Refactoring"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Slidev"
+  - "Agent"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Superpowers"
+  - "Claude.Md"
+  - "Plan Mode"
+  - "Knowledge Base"
+  - "Deepseek"
+  - "Markdown"
+  - "Opencode"
+  - "Claude Code真的那么厉害吗？"
+  - "Vibe Design"
+  - "Figma"
+  - "Ethan Mollick"
+  - "Chatgpt"
+  - "Openai"
+  - "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）"
+  - "Model Context Protocol"
+  - "Prompt Engineering"
+  - "Extended Thinking"
+  - "Agentic Loop"
+  - "Multi-Agent"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Subagent"
+  - "Langgraph"
+  - "最好用的Agent框架是什么？"
+  - "Supermemory"
+  - "Embedding"
+  - "Gpt"
+  - "如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？"
+  - "Copilot"
+  - "Lora"
+  - "Claude Opus 4"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Skill-Creator"
+  - "Playwright"
+  - "你们有哪些好的claude code skills推荐？"
+  - "Context Engineering"
+  - "Code Review"
+  - "Skills"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Coding Plan"
+  - "Minimax M2.5"
+  - "Notebooklm"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "Api"
+  - "Andrej Karpathy"
+  - "Y Combinator"
+  - "Paul Graham"
+  - "天涯论坛关闭后，除了知乎，大家都在逛什么？"
+  - "Cursor"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "Mcp"
+  - "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件"
+  - "Obsidian"
+  - "Git"
+  - "我的Obsidian与Gemini命令行工作流"
+  - "炸裂！谷歌Gemini史诗级更新，表现简直强到离谱！"
+  - "Google"
+  - "ChatGPT、Claude、Gemini 什么任务该交给谁？每月600刀经验总结"
+  - "Github"
+  - "从会用AI，到构建AI协作框架"
+  - "Kimi"
+  - "Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动"
+  - "Cli"
+  - "Figma 再见！Gemini 搭顶尖设计 Skill，美学起飞！"
+  - "Gemini还能这么玩？挖出Human 3.0人生操作系统，含金量太高了！"
+  - "🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！"
+  - "90% 的人都不知道❗️被严重低估的 Gemini 生产力：超越“对话”的正确打开方式"
+  - "学习效率狂飙！一套流程怒省1460小时，网友：我考试就这么用的"
+  - "Visual Coding"
+  - "一觉睡醒Vibe Coding进化成Visual Coding了..."
+---
+
+# Gemini
+
+## 定义
+
+Gemini - Google的AI大模型
+
+## 相关概念
+
+- [[Claude Code]]
+- [[Tailwind]]
+- [[Skill]]
+
+## 相关实体
+
+- [[Designprompts]]
+- [[Claude Code]]
+- [[Claude]]
+- [[Gemini]]
+
+## Related
+- [[Claude Code]]
+- [[Tailwind]]
+- [[Skill]]
+- [[Designprompts]]
+- [[Claude Code]]
+- [[Claude]]
+- [[Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Frontmatter]]
+- [[Auto Memory]]
+- [[Cloudflare]]
+- [[Anthropic]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Refactoring]]
+- [[Ai Agent]]
+- [[Openclaw]]
+- [[Slidev]]
+- [[Agent]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Superpowers]]
+- [[Claude.Md]]
+- [[Plan Mode]]
+- [[Knowledge Base]]
+- [[Deepseek]]
+- [[Markdown]]
+- [[Opencode]]
+- [[Claude Code真的那么厉害吗？]]
+- [[Vibe Design]]
+- [[Figma]]
+- [[Ethan Mollick]]
+- [[Chatgpt]]
+- [[Openai]]
+- [[谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）]]
+- [[Model Context Protocol]]
+- [[Prompt Engineering]]
+- [[Extended Thinking]]
+- [[Agentic Loop]]
+- [[Multi-Agent]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Subagent]]
+- [[Langgraph]]
+- [[最好用的Agent框架是什么？]]
+- [[Supermemory]]
+- [[Embedding]]
+- [[Gpt]]
+- [[如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？]]
+- [[Copilot]]
+- [[Lora]]
+- [[Claude Opus 4]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[Context Engineering]]
+- [[Code Review]]
+- [[Skills]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Coding Plan]]
+- [[Minimax M2.5]]
+- [[Notebooklm]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[Api]]
+- [[Andrej Karpathy]]
+- [[Y Combinator]]
+- [[Paul Graham]]
+- [[天涯论坛关闭后，除了知乎，大家都在逛什么？]]
+- [[Cursor]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[Mcp]]
+- [[OpenCode详细攻略，开源版Claude Code，免费模型与神级插件]]
+- [[Obsidian]]
+- [[Git]]
+- [[我的Obsidian与Gemini命令行工作流]]
+- [[炸裂！谷歌Gemini史诗级更新，表现简直强到离谱！]]
+- [[Google]]
+- [[ChatGPT、Claude、Gemini 什么任务该交给谁？每月600刀经验总结]]
+- [[Github]]
+- [[从会用AI，到构建AI协作框架]]
+- [[Kimi]]
+- [[Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动]]
+- [[Cli]]
+- [[Figma 再见！Gemini 搭顶尖设计 Skill，美学起飞！]]
+- [[Gemini还能这么玩？挖出Human 3.0人生操作系统，含金量太高了！]]
+- [[🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！]]
+- [[90% 的人都不知道❗️被严重低估的 Gemini 生产力：超越“对话”的正确打开方式]]
+- [[学习效率狂飙！一套流程怒省1460小时，网友：我考试就这么用的]]
+- [[Visual Coding]]
+- [[一觉睡醒Vibe Coding进化成Visual Coding了...]]
+- [[Gemini]]

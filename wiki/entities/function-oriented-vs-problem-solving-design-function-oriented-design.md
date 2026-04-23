@@ -1,5 +1,5 @@
 ---
-title: "Function-Oriented vs. Problem-Solving Design|Function-Oriented Design"
+title: "Function-Oriented vs. Problem-Solving Design"
 type: "entity"
 sources:
   - "wiki/sources/知乎讨论-为什么做产品的人都很喜欢思考场景.md"
@@ -9,7 +9,7 @@ tags:
   - "user-centered"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.808397"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T07:26:07.825467"
 ---
 
 # Function-Oriented Design（功能导向设计）
@@ -43,7 +43,10 @@ updated_at: "2026-04-20T00:00:00"
 ## 相关
 - [[User Story vs. Environment|User Story]]
 - [[User Story vs. Environment|Environment]]
-- [[知乎讨论-为什么做产品的人都很喜欢思考场景]]
+- [[知乎]]
 - [[Marty Cagan]]
 - [[Jeff Bezos]]
-- [[以用户为中心的设计 (UCD)]]
+- 以用户为中心的设计 (UCD)
+## Related
+- [[Scenario Analysis (场景分析)]]
+

@@ -9,7 +9,7 @@ tags:
   - "best-practices"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:44.464527"
 ---
 
 # claude.md高效配置方法 - Zephyr-AI版本
@@ -68,7 +68,9 @@ src/
 此版本强调模板化的标准结构，适合团队协作项目。
 
 ## Related
+- [[开悟讨论 - 是否真有所谓的开悟]]
+- [[算法惊艳案例分享]]
 
-- [[claude-md高效配置-杞鋂]]
-- [[Claude-Code配置最佳实践]]
-- [[CLAUDE-md文件结构]]
+- [[Claude]]
+- [[Claude]]
+- [[Claude]]

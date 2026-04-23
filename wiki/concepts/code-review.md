@@ -1,0 +1,227 @@
+---
+title: "Code Review"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/videos/8690a67a_FULL Claude Code Tutorial for Beginners in 2026 Step-By-Step.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+tags:
+  - "code-review"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.564300"
+updated_at: "2026-04-23T00:42:26.619211"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Ai Agent"
+  - "Subagent"
+  - "Deepseek"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Progressive Disclosure"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Claude.Md"
+  - "Anthropic"
+  - "为什么Claude的代码能力会这么强？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Obsidian"
+  - "Markdown"
+  - "Slidev"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Playwright"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "Vibe Coding"
+  - "Mitchell Hashimoto"
+  - "Ethan Mollick"
+  - "Openai"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Spec Coding"
+  - "Refactoring"
+  - "Superpowers"
+  - "Cloudflare"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Prompt Engineering"
+  - "Harness Engineering的本质是什么？"
+  - "Openclaw"
+  - "Mcp"
+  - "Git"
+  - "Claude"
+  - "Github"
+  - "FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)"
+  - "Worktree"
+  - "Skills"
+  - "Agent"
+  - "Superpowers Plugin"
+  - "Notion"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Open Source"
+  - "Skill"
+  - "Youtube"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "Api"
+  - "Bm25"
+  - "CLAUDE.md"
+  - "Cli"
+  - "Copilot"
+  - "Cursor"
+  - "Docker"
+  - "Gemini"
+  - "Humanize"
+  - "Opencode"
+  - "Plan Mode"
+  - "Prd"
+  - "Rag"
+  - "Tdd"
+  - "Yaml"
+  - "DeepSeek"
+  - "GitHub"
+  - "LangGraph"
+  - "Meta"
+  - "OpenCode"
+  - "Qwen"
+  - "Qwen3"
+  - "skill-creator"
+  - "SWE-agent"
+  - "Trae"
+  - "Vercel"
+  - "吴恩达"
+  - "汉松"
+  - "知乎"
+  - "Mit"
+---
+
+# Code Review
+
+## 定义
+
+Code Review - 代码审查
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Deepseek]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Deepseek]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Progressive Disclosure]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[CLAUDE.md]]
+- [[Anthropic]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Slidev]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[Vibe Coding]]
+- [[Mitchell Hashimoto]]
+- [[Ethan Mollick]]
+- [[OpenAI]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Spec Coding]]
+- [[Refactoring]]
+- [[Superpowers]]
+- [[Cloudflare]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Prompt Engineering]]
+- [[Harness Engineering的本质是什么？]]
+- [[OpenClaw]]
+- [[Mcp]]
+- [[Git]]
+- [[Claude]]
+- [[GitHub]]
+- [[FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)]]
+- [[Worktree]]
+- [[Skills]]
+- [[Agent]]
+- [[Superpowers Plugin]]
+- [[Notion]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Open Source]]
+- [[Skill]]
+- [[Youtube]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[Api]]
+- [[Bm25]]
+- [[CLAUDE.md]]
+- [[Cli]]
+- [[Copilot]]
+- [[Cursor]]
+- [[Docker]]
+- [[Gemini]]
+- [[Humanize]]
+- [[Opencode]]
+- [[Plan Mode]]
+- [[Prd]]
+- [[Rag]]
+- [[Tdd]]
+- [[Yaml]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[LangGraph]]
+- [[Meta]]
+- [[OpenCode]]
+- [[Qwen]]
+- [[Qwen3]]
+- [[skill-creator]]
+- [[SWE-agent]]
+- [[Trae]]
+- [[Vercel]]
+- [[吴恩达]]
+- [[汉松]]
+- [[知乎]]
+- [[Mit]]
+- [[Deepseek]]

@@ -11,12 +11,16 @@ tags:
   - "workflow"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.779630"
-updated_at: "2026-04-17T22:06:46.779630"
+updated_at: "2026-04-23T00:42:26.430400"
 related:
   - "Skills (Anthropic Framework)"
   - "skill-creator"
   - "Description Trigger Optimization"
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
+  - "Agent Skills Framework"
+  - "Enterprise Skill Engineering"
+  - "Ai学习的老章"
+  - "Progressive Disclosure"
 ---
 
 # Skill Engineering Lifecycle
@@ -58,13 +62,17 @@ Centrally involves the use of the official [[skill-creator]] template from [[Ant
 
 ## Relation to Other Concepts
 - **[[Description Trigger Optimization]]:** A crucial iterative sub-process within the broader lifecycle.
-- **[[skills-vs-tools-distinction]]:** This lifecycle is the engineering methodology for creating the "Skills" side of that distinction.
+- **[[Skill]]:** This lifecycle is the engineering methodology for creating the "Skills" side of that distinction.
 - **[[AI Tool Chaining/Combination]]:** The lifecycle produces reliable, focused Skills that can be effectively chained by an agent.
 
 ## Tags
 agent-engineering, iterative-development, testing, optimization, workflow
 
 ## Related
+- [[Agent Skills Framework]]
+- [[Enterprise Skill Engineering]]
+- [[Ai学习的老章]]
+- [[Progressive Disclosure]]
 [[Skills (Anthropic Framework)]], [[skill-creator]], [[Description Trigger Optimization]], [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
 
 ## Related

@@ -10,11 +10,12 @@ tags:
   - "methodology-origin"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.363543"
-updated_at: "2026-04-18T01:29:07.363543"
+updated_at: "2026-04-22T23:50:27.445784"
 related:
   - "BLM (Business Leadership Model)"
   - "华为 (Huawei)"
   - "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
+  - "知乎讨论：如何做企业战略规划"
 ---
 
 # IBM
@@ -72,4 +73,5 @@ technology-company, blm-developer, strategic-planning, methodology-origin
 ## Related
 - [[BLM (Business Leadership Model)]]
 - [[华为 (Huawei)]]
+- [[知乎讨论：如何做企业战略规划]]
 - [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]]

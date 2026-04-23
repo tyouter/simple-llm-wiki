@@ -11,12 +11,14 @@ tags:
   - "agent-management"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.671541"
-updated_at: "2026-04-18T00:19:39.671541"
+updated_at: "2026-04-22T23:50:27.010092"
 related:
   - "Claude Code"
   - "Agent Operating System"
   - "Decomposition as Core Skill"
   - "awesome-claude-code"
+  - "AI Programming Ecosystem"
+  - "知乎讨论：Claude Code生态系统与工程影响"
 ---
 
 # Clave
@@ -46,6 +48,8 @@ Clave directly implements the idea of running multiple AI agents in parallel, a 
 - [[Decomposition as Core Skill]]
 - [[awesome-claude-code]]
 - [[Engineer Identity Transformation]]
+- [[AI Programming Ecosystem]]
+- [[知乎讨论：Claude Code生态系统与工程影响]]
 
 ## Related
 - [[Claude Code]]

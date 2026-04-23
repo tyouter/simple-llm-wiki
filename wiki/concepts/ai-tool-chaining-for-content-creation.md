@@ -11,12 +11,15 @@ tags:
   - "creative-process"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-22T23:50:22.339600"
 related:
   - "DeepSeek"
   - "Prompt Engineering for Chinese AI"
   - "Chinese Language AI Specialization"
   - "AI Reasoning Models"
+  - "主动输入式学习"
+  - "模型能力场景化评测"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
 ---
 
 # AI Tool Chaining for Content Creation
@@ -102,4 +105,7 @@ The strategic combination of multiple AI tools and models in a workflow to lever
 - [[DeepSeek]]
 - [[Prompt Engineering for Chinese AI]]
 - [[Chinese Language AI Specialization]]
+- [[主动输入式学习]]
+- [[模型能力场景化评测]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
 - [[AI Reasoning Models]]

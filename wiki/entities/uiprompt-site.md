@@ -10,12 +10,14 @@ tags:
   - "ai-design"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.481228"
-updated_at: "2026-04-17T21:53:35.481228"
+updated_at: "2026-04-22T23:50:24.917255"
 related:
   - "Curated Design Prompt Repositories"
   - "designprompts.dev"
   - "uiprompt.dev"
   - "Vibe Coding Enhancement Workflow"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
+  - "Vibe Coding做的网站太难看怎么办"
 ---
 
 # uiprompt.site
@@ -43,6 +45,8 @@ A website functioning as a [[Curated Design Prompt Repositories]], offering a la
 - [[designprompts.dev]]
 - [[uiprompt.dev]]
 - [[Vibe Coding Enhancement Workflow]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
+- [[Vibe Coding做的网站太难看怎么办]]
 
 ## Related
 - [[Curated Design Prompt Repositories]]

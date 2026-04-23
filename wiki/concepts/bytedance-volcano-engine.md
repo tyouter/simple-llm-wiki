@@ -10,7 +10,7 @@ tags:
   - "enterprise"
 confidence: "medium"
 created_at: "2026-04-17T22:13:44.878270"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.246793"
 ---
 
 # ByteDance Volcano Engine (字节跳动火山引擎)
@@ -37,3 +37,10 @@ updated_at: "2026-04-20T16:00:00"
 
 ## 来源
 - [src: Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches]
+## Related
+- [[Coding Plan]]
+- [[Token Burning Prevention]]
+- [[Alibaba Cloud Bailian]]
+- [[Cherry Studio]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+

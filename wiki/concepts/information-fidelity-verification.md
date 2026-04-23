@@ -10,12 +10,13 @@ tags:
   - "epistemology"
 confidence: "high"
 created_at: "2026-04-17T21:56:51.705989"
-updated_at: "2026-04-17T21:56:51.705989"
+updated_at: "2026-04-23T00:42:44.301887"
 related:
   - "Information Source Curation"
   - "Self-Directed Learning Infrastructure"
   - "Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development"
   - "James Gleick"
+  - "王沪宁"
 ---
 
 # Information Fidelity & Verification
@@ -34,7 +35,7 @@ Information exists on a spectrum from low to high fidelity:
 - **Medium Fidelity:** News articles from reputable outlets, well-researched blog posts by experts, technical documentation from commercial entities.
 - **High Fidelity:** Peer-reviewed academic papers, official government publications, data from original research, standards documents from international bodies, primary source historical documents.
 
-The philosophy espoused in [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]] argues that for substantive learning and professional development, one must consciously seek high-fidelity sources.
+The philosophy espoused in [[Zhihu]] argues that for substantive learning and professional development, one must consciously seek high-fidelity sources.
 
 ## Verification Practices
 Key verification techniques include:
@@ -51,11 +52,14 @@ The quote from [[James Gleick]] included in the source Zhihu discussion—"When 
 ## Related
 - [[Information Source Curation]]
 - [[Self-Directed Learning Infrastructure]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[James Gleick]]
+- [[王沪宁]]
+- [[优质信息获取渠道汇总]]
+- [[知乎讨论-大神们是从哪获取优质信息]]
 
 ## Related
 - [[Information Source Curation]]
 - [[Self-Directed Learning Infrastructure]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[James Gleick]]

@@ -11,13 +11,16 @@ tags:
   - "innovation"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.212657"
-updated_at: "2026-04-18T22:51:14.212657"
+updated_at: "2026-04-23T00:42:26.382988"
 related:
   - "Vertical Integration/闭环"
   - "Financial vs. Industrial Logic"
   - "Financialization of Industry"
   - "BYD (比亚迪)"
   - "Wang Chuanfu (王传福)"
+  - "China Manufacturing"
+  - "Warren Buffett"
+  - "Industrial Logic"
 ---
 
 # Industrial Moats/护城河
@@ -50,4 +53,7 @@ concept, competitive-advantage, strategy, manufacturing, innovation
 - [[Financial vs. Industrial Logic]]
 - [[Financialization of Industry]]
 - [[BYD (比亚迪)]]
+- [[China Manufacturing]]
+- [[Warren Buffett]]
+- [[Industrial Logic]]
 - [[Wang Chuanfu (王传福)]]

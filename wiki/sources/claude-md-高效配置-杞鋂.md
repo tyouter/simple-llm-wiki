@@ -9,7 +9,7 @@ tags:
   - "best-practices"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:41.103826"
 ---
 
 # claude.md高效配置方法
@@ -58,7 +58,9 @@ CLAUDE.md的本质是"一次性编写、持续生效"的配置文件，核心价
 - 避免一次性加载过多内容
 
 ## Related
+- [[bmad-method开源项目分析]]
+- [[开悟讨论 - 是否真有所谓的开悟]]
 
-- [[Claude-Code配置最佳实践]]
-- [[CLAUDE-md文件结构]]
-- [[Skills系统设计]]
+- [[Claude]]
+- [[Claude]]
+- [[Skill]]

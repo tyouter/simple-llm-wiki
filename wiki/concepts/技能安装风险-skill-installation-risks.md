@@ -10,12 +10,14 @@ tags:
   - "permission-abuse"
 confidence: "high"
 created_at: "2026-04-19T21:41:38.068653"
-updated_at: "2026-04-19T21:41:38.068653"
+updated_at: "2026-04-23T00:42:26.951199"
 related:
   - "OpenClaw"
   - "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
   - "快照功能依赖 (Snapshot Function Dependency)"
   - "糖炒栗子"
+  - "AGENT 元年 (AGENT First Year)"
+  - "知乎讨论：普通人第一次用OpenClaw应该注意什么"
 ---
 
 # 技能安装风险 (Skill Installation Risks)
@@ -64,6 +66,8 @@ Concept derived from security warnings in [[Zhihu Discussion: OpenClaw Beginner 
 - [[快照功能依赖 (Snapshot Function Dependency)]]
 - [[糖炒栗子]]
 - [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
+- [[AGENT 元年 (AGENT First Year)]]
+- [[知乎讨论：普通人第一次用OpenClaw应该注意什么]]
 
 ## Related
 - [[OpenClaw]]

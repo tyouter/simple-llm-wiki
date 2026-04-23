@@ -14,7 +14,7 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.478214"
-updated_at: "2026-04-17T21:53:35.478214"
+updated_at: "2026-04-22T23:50:25.498617"
 related:
   - "Vibe Coding"
   - "Design Style System Prompt"
@@ -23,6 +23,7 @@ related:
   - "杨杰出海笔记 (Yang Jie Overseas Notes)"
   - "designprompts.dev"
   - "Prompt Combination & Adaptation"
+  - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
 ---
 
 # Improving Vibe Coding Aesthetics with Design Prompts
@@ -60,6 +61,7 @@ This workflow directly challenges the notion that AI can independently produce p
 - [[AI-Generated Design Quality Spectrum]]
 - [[designprompts.dev]]
 - [[Prompt Combination & Adaptation]]
+- [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
 
 ## Related
 - [[Vibe Coding]]

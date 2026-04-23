@@ -10,7 +10,7 @@ tags:
   - "kaplan-norton"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.702146"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.542068"
 ---
 
 # Strategy Map
@@ -26,8 +26,11 @@ updated_at: "2026-04-20T12:00:00"
 - **实践导向**: 强调从战略制定到执行的闭环，避免战略停留在纸面
 
 ## Related
+- [[Systematic Learning Framework]]
+- [[Sunny]]
+- [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]
 
 - [[Balanced Scorecard]]
 - [[Robert S. Kaplan & David P. Norton]]
 - [[Strategic Management Learning Framework]]
-- [[知乎讨论-30岁转行战略咨询如何从零开始系统学习战略管理]]
+- [[知乎]]

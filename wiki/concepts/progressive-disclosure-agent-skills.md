@@ -11,7 +11,7 @@ tags:
   - "context-management"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.015027"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.455000"
 ---
 
 # Progressive Disclosure (Agent Skills)
@@ -28,7 +28,10 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 - [[Claude Code Skills系统]]
-- [[Agent Skills框架]]
-- [[Token效率优化]]
+- [[Agent]]
+- Token效率优化
 - [[Agent Skills与MCP技术对比与企业应用]]
+- [[Context Window Management]]
+- [[Single-Loop Architecture]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
 - [[Claude Code工作流技术与架构分析]]

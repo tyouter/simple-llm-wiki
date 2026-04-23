@@ -3,6 +3,7 @@ title: "Ethan Mollick"
 type: "entity"
 sources:
   - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
 tags:
   - "person"
   - "academic-researcher"
@@ -10,13 +11,35 @@ tags:
   - "innovation"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.227171"
-updated_at: "2026-04-17T22:12:00.227171"
+updated_at: "2026-04-23T00:42:20.838243"
 related:
   - "Google Stitch"
   - "Vibe Design"
   - "AI-Native Design Workflow"
   - "AI-Induced Industry Disruption"
   - "Vibe Coding"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Gemini"
+  - "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）"
+  - "Compound Engineering"
+  - "Harness Engineering"
+  - "Context Engineering"
+  - "Code Review"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Agent"
+  - "Api"
+  - "Docker"
+  - "Git"
+  - "Markdown"
+  - "Rag"
+  - "Subagent"
+  - "Ui/Ux"
+  - "Yaml"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "谷歌Stitch氛围设计更新"
 ---
 
 # Ethan Mollick
@@ -50,4 +73,26 @@ As an academic researcher rather than a tool vendor or direct competitor, Mollic
 - [[Vibe Design]]
 - [[AI-Native Design Workflow]]
 - [[AI-Induced Industry Disruption]]
+- [[AI Agent]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）]]
+- [[Compound Engineering]]
+- [[Harness Engineering]]
+- [[Context Engineering]]
+- [[Code Review]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Agent]]
+- [[Api]]
+- [[Docker]]
+- [[Git]]
+- [[Markdown]]
+- [[Rag]]
+- [[Subagent]]
+- [[Ui/Ux]]
+- [[Yaml]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[谷歌Stitch氛围设计更新]]
 - [[Vibe Coding]]

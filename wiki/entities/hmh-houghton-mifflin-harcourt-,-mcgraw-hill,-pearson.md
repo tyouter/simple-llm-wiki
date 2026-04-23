@@ -10,11 +10,12 @@ tags:
   - "american-education"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.015906"
-updated_at: "2026-04-19T21:39:03.015906"
+updated_at: "2026-04-22T23:50:27.196117"
 related:
   - "Self-Study Friendly Textbook Design"
   - "Pedagogical Approach Comparison"
   - "知乎用户"
+  - "知乎讨论：为什么现在很多人推崇国外原版教材"
 ---
 
 # HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson
@@ -36,4 +37,5 @@ These entities are not analyzed in detail as companies but are used as shorthand
 ## Related
 - [[Self-Study Friendly Textbook Design]]
 - [[Pedagogical Approach Comparison]]
+- [[知乎讨论：为什么现在很多人推崇国外原版教材]]
 - [[知乎用户]]

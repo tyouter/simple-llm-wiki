@@ -11,13 +11,15 @@ tags:
   - "cloud-services"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.809811"
-updated_at: "2026-04-17T22:13:44.809811"
+updated_at: "2026-04-22T23:50:19.502214"
 related:
   - "Free Model Integration via NIM"
   - "Coding Plan"
   - "GLM-5"
   - "Kimi K2.5"
   - "Cherry Studio"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
 ---
 
 # NVIDIA NIM (NVIDIA Inference Microservices)
@@ -124,4 +126,6 @@ nvidia, inference-platform, free-api, model-marketplace, cloud-services
 - [[Coding Plan]]
 - [[GLM-5]]
 - [[Kimi K2.5]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
 - [[Cherry Studio]]

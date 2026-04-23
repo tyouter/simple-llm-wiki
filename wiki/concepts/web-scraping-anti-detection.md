@@ -12,13 +12,16 @@ tags:
   - "data-collection"
 confidence: "high"
 created_at: "2026-04-17T22:26:16.846985"
-updated_at: "2026-04-17T22:26:16.846985"
+updated_at: "2026-04-22T23:50:27.380655"
 related:
   - "Browser Fingerprinting"
   - "Managed Scraping Browser"
   - "Selenium"
   - "Bright Data (亮数据)"
   - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
+  - "Stack Overflow"
+  - "朱卫军"
+  - "知乎讨论-使用Selenium采集数据被检测"
 ---
 
 # Web Scraping Anti-Detection
@@ -53,6 +56,9 @@ As discussed in [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypa
 - [[Selenium]]
 - [[Bright Data (亮数据)]]
 - [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
+- [[Stack Overflow]]
+- [[朱卫军]]
+- [[知乎讨论-使用Selenium采集数据被检测]]
 
 ## Related
 - [[Browser Fingerprinting]]

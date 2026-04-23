@@ -9,7 +9,7 @@ tags:
   - "pragmatic-engineer"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.797014"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.279358"
 ---
 
 # Gergely Orosz
@@ -28,8 +28,8 @@ Gergely Orosz是SubStack排名第一的技术博主，在pragmaticengineer.com�
 
 ## Related
 
-- [[armin-ronacher]]
-- [[dan-abramov]]
-- [[david-heinemeier-hansson-dhh]]
-- [[technical-blog-quality-hierarchy]]
-- [[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]]
+- armin-ronacher
+- dan-abramov
+- david-heinemeier-hansson-dhh
+- technical-blog-quality-hierarchy
+- [[Zhihu]]

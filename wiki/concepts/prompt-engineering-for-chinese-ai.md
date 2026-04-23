@@ -11,7 +11,7 @@ tags:
   - "cultural-context"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-22T23:50:22.293077"
 related:
   - "Chinese Language AI Specialization"
   - "AI Reasoning Models"
@@ -19,6 +19,8 @@ related:
   - "DeepSeek-R1"
   - "GPT"
   - "豆包 (Doubao)"
+  - "Quantitative Analysis via AI"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
 ---
 
 # Prompt Engineering for Chinese AI
@@ -83,4 +85,6 @@ Structured techniques for optimizing interactions with Chinese language models, 
 - [[DeepSeek]]
 - [[DeepSeek-R1]]
 - [[GPT]]
+- [[Quantitative Analysis via AI]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
 - [[豆包 (Doubao)]]

@@ -10,12 +10,13 @@ tags:
   - "china-internet"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.070756"
-updated_at: "2026-04-17T21:59:22.070756"
+updated_at: "2026-04-22T23:50:06.035532"
 related:
   - "Niche Knowledge & Creative Hubs"
   - "Post-Forum Internet Landscape"
   - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
   - "Tianya Forum (天涯论坛)"
+  - "Niche Knowledge & Creative Hubs|knowledge hub"
 ---
 
 # ZCOOL (站酷)
@@ -34,6 +35,7 @@ Unlike a general forum like the former [[Tianya Forum (天涯论坛)]], ZCOOL's 
 - [[Post-Forum Internet Landscape]]
 - [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
 - [[Tianya Forum (天涯论坛)]]
+- [[Niche Knowledge & Creative Hubs|knowledge hub]]
 
 ## Related
 - [[Niche Knowledge & Creative Hubs]]

@@ -3,6 +3,11 @@ title: "Humanize"
 type: "concept"
 sources:
   - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
 tags:
   - "AI协同开发"
   - "迭代开发"
@@ -10,7 +15,7 @@ tags:
   - "工作流"
 confidence: "high"
 created_at: "2026-04-21T14:13:50.852718"
-updated_at: "2026-04-21T14:13:50.852718"
+updated_at: "2026-04-23T00:42:26.747569"
 related:
   - "Spec Coding"
   - "Plan"
@@ -21,17 +26,38 @@ related:
   - "Humanize工作流"
   - "Spec Coding vs Vibe Coding"
   - "yahah"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Frontmatter"
+  - "Auto Memory"
+  - "Cloudflare"
+  - "Anthropic"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Claude.Md"
+  - "Plan Mode"
+  - "Progressive Disclosure"
+  - "Skill-Creator"
+  - "Playwright"
+  - "Notebooklm"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Context Engineering"
+  - "Code Review"
+  - "Refactoring"
+  - "Humanize 工作流"
+  - "持久记忆体系"
+  - "Claude Code 高效配置指南：持久记忆体系与权限模式详解"
 ---
 
 # Humanize
 
 ## 定义
-一种利用迭代反馈循环的[[AI协同开发]]模式，强调[[Claude Code]]执行计划与[[Codex]]独立审查的分离。在[[Claude Code高效配置与开发实践指南]]中，[[yahah]]将其描述为[[Spec Coding]]的一种具体实现方式。
+一种利用迭代反馈循环的AI协同开发模式，强调[[Claude Code]]执行计划与[[Codex vs Claude 编程偏好讨论]]独立审查的分离。在[[Claude Code高效配置与开发实践指南]]中，[[yahah]]将其描述为[[Spec Coding]]的一种具体实现方式。
 
 ## 核心机制
-建立"[[Claude Code]]执行 → [[Codex]]审查 → 发现问题 → 反馈修正"的持续循环。不追求一次性产出完美代码，而是通过迭代逐步完善：
+建立"[[Claude Code]]执行 → [[Codex vs Claude 编程偏好讨论]]审查 → 发现问题 → 反馈修正"的持续循环。不追求一次性产出完美代码，而是通过迭代逐步完善：
 1. [[Claude Code]]负责按照[[Plan]]写代码
-2. 另一个AI（如[[Codex]]）独立审查进展
+2. 另一个AI（如[[Codex vs Claude 编程偏好讨论]]）独立审查进展
 3. 及早发现问题并反馈
 4. 工作持续进行，直到满足所有验收标准
 
@@ -44,9 +70,9 @@ related:
 这种模式高效占用开发者的时间，同时保持高质量的代码产出。[[yahah]]建议白天开发时为同一项目打开两个[[Claude Code]]窗口，一个用于规划和审查，一个用于执行代码生成任务。
 
 ## 工具支持
-- **[[Humanize工具]]** - GitHub项目humania-org/humanize提供的具体实现
-- **[[Superpowers]]** - 确保AI代理能使用预定义技能的工具，可为[[Codex]]配置
-- **[[Codex]]** - 通常指OpenAI的Codex模型，用作独立审查者
+- **Humanize工具** - GitHub项目humania-org/humanize提供的具体实现
+- **[[Superpowers]]** - 确保AI代理能使用预定义技能的工具，可为[[Codex vs Claude 编程偏好讨论]]配置
+- **[[Codex vs Claude 编程偏好讨论]]** - 通常指OpenAI的Codex模型，用作独立审查者
 
 ## 与相关方法的关系
 - **[[Spec Coding]]** - Humanize是实现Spec Coding的具体模式之一
@@ -63,7 +89,7 @@ related:
 - [[Spec Coding]] - 本方法所属的方法论框架
 - [[Plan]] - 执行的基础
 - [[RLCR]] - 互补的代码修改方法
-- [[Codex]] - 常用的独立审查AI
+- [[Codex vs Claude 编程偏好讨论]] - 常用的独立审查AI
 - [[Superpowers]] - 支持工具
 
 **backlinks_note**: 本概念在[[Claude Code高效配置与开发实践指南]]中作为高级开发方法论被介绍，是[[Spec Coding]]的具体实现模式，与[[RLCR]]互补。
@@ -72,21 +98,42 @@ related:
 - [[Spec Coding]]
 - [[Plan]]
 - [[RLCR]]
-- [[Codex]]
+- [[Codex vs Claude 编程偏好讨论]]
 - [[Superpowers]]
 - [[Claude Code]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Frontmatter]]
+- [[Auto Memory]]
+- [[Cloudflare]]
+- [[Anthropic]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[CLAUDE.md]]
+- [[Plan Mode]]
+- [[Progressive Disclosure]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[Notebooklm]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Context Engineering]]
+- [[Code Review]]
+- [[Refactoring]]
+- [[Humanize 工作流]]
+- [[持久记忆体系]]
+- [[Claude Code 高效配置指南：持久记忆体系与权限模式详解]]
 
 ---
 
-一个利用迭代反馈循环进行 AI 辅助开发的工具/框架，由 “humania-org” 开发。其核心模式 [[Humanize工作流]] 是让一个 AI（如 Claude）执行 [[Plan]]，另一个 AI（如 Codex）进行独立审查，人类在快速迭代中提供反馈和裁决。该工具不追求一次性正确，而是通过自动化循环持续工作直至满足标准。[[yahah]] 在其回答中引用了此工具作为实践 [[Spec Coding vs Vibe Coding]] 理念的范例，并描述了将其融入高强度开发日程的“双开窗口”模式。
+一个利用迭代反馈循环进行 AI 辅助开发的工具/框架，由 “humania-org” 开发。其核心模式 Humanize工作流 是让一个 AI（如 Claude）执行 [[Plan]]，另一个 AI（如 Codex）进行独立审查，人类在快速迭代中提供反馈和裁决。该工具不追求一次性正确，而是通过自动化循环持续工作直至满足标准。[[yahah]] 在其回答中引用了此工具作为实践 [[Spec Coding vs. Vibe Coding]] 理念的范例，并描述了将其融入高强度开发日程的“双开窗口”模式。
 
 ## Related
 - [[Spec Coding]]
 - [[Plan]]
 - [[RLCR]]
-- [[Codex]]
+- [[Codex vs Claude 编程偏好讨论]]
 - [[Superpowers]]
 - [[Claude Code]]
-- [[Humanize工作流]]
-- [[Spec Coding vs Vibe Coding]]
+- Humanize工作流
+- [[Spec Coding vs. Vibe Coding]]
 - [[yahah]]

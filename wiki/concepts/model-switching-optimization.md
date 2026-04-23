@@ -11,12 +11,20 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391958"
-updated_at: "2026-04-17T21:50:12.391958"
+updated_at: "2026-04-23T00:42:20.382840"
 related:
   - "Claude Code"
   - "Workflow Branching"
   - "Parallel Agent Review"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
+  - "AI Economics"
+  - "Geopolitical AI Restrictions"
+  - "Local Model Deployment"
+  - "Claude Opus 4.6"
+  - "Anthropic's China Restrictions and Claude Reasoning Distillation Techniques"
+  - "Anthropic对中国控股公司的限制"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Model-Switching Optimization
@@ -61,7 +69,7 @@ In [[Claude Code]], this optimization is enabled through the `/model opusplan` c
 ### Integration with Other Techniques
 - Can be combined with [[Parallel Agent Review]] for comprehensive quality assurance
 - Works well with [[Workflow Branching]] to plan multiple approaches efficiently
-- Complements [[gstack-role-based-ai-development-workflow-for-claude-code]] by optimizing model usage across different roles
+- Complements [[Claude]] by optimizing model usage across different roles
 
 ## Technical Considerations
 - **Context transfer**: Ensuring clean context handoff between models
@@ -85,4 +93,12 @@ Strategy described in the "Claude Code Hidden Features Guide" as an efficiency t
 - [[Claude Code]]
 - [[Workflow Branching]]
 - [[Parallel Agent Review]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[AI Economics]]
+- [[Geopolitical AI Restrictions]]
+- [[Local Model Deployment]]
+- [[Claude Opus 4.6]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
+- [[Anthropic对中国控股公司的限制]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
+- [[Claude]]

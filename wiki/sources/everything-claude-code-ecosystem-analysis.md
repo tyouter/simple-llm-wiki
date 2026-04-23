@@ -12,7 +12,7 @@ tags:
   - "持续学习"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.466315"
 ---
 
 # Everything-Claude-Code - 54K Star AI开发生态系统剖析
@@ -72,8 +72,8 @@ https://github.com/affaan-m/everything-claude-code
 ## 相关概念
 - [[Claude Code Skills系统]]
 - [[Claude Code子代理]]
-- [[持续学习系统]]
-- [[Agent协作模式]]
+- 持续学习系统
+- [[Agent]]
 
 ## 相关实体
-- [[探索未至之境]]
+- 探索未至之境

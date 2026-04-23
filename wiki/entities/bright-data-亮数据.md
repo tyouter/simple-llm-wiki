@@ -13,13 +13,16 @@ tags:
   - "luminati"
 confidence: "high"
 created_at: "2026-04-17T22:26:16.847986"
-updated_at: "2026-04-17T22:26:16.847986"
+updated_at: "2026-04-22T23:50:27.370707"
 related:
   - "Managed Scraping Browser"
   - "Web Scraping Anti-Detection"
   - "Browser Fingerprinting"
   - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
   - "朱卫军"
+  - "Selenium"
+  - "Stack Overflow"
+  - "知乎讨论-使用Selenium采集数据被检测"
 ---
 
 # Bright Data (亮数据)
@@ -60,6 +63,9 @@ Bright Data's tools represent the commercialization of [[Web Scraping Anti-Detec
 - [[Browser Fingerprinting]]
 - [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
 - [[朱卫军]]
+- [[Selenium]]
+- [[Stack Overflow]]
+- [[知乎讨论-使用Selenium采集数据被检测]]
 
 ## Related
 - [[Managed Scraping Browser]]

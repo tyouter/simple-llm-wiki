@@ -11,7 +11,7 @@ tags:
   - "目标驱动"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.530219"
 ---
 
 # GoSkill开源项目介绍
@@ -53,5 +53,5 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关
 - [[OpenClaw]]
-- [[Agent工程化]]
-- [[目标驱动Agent]]
+- [[Agent]]
+- [[Agent]]

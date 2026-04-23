@@ -10,13 +10,17 @@ tags:
   - "tools"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.798683"
-updated_at: "2026-04-17T11:04:20.798683"
+updated_at: "2026-04-22T23:50:16.165585"
 related:
   - "designprompts.dev"
   - "AI-Free Interface Aesthetics"
   - "Prompt Combination & Adaptation"
   - "Vibe Coding"
   - "Design Prompt Engineering for UI"
+  - "AI-assisted design"
+  - "AI-Free Interface Aesthetics|AI aesthetics"
+  - "Curated Design Prompt Repositories"
+  - "Rrupmid Nyche"
 ---
 
 # Design Prompt Curation/Repositories
@@ -46,4 +50,8 @@ Using such a repository is a core step in workflows aimed at achieving [[AI-Free
 - [[AI-Free Interface Aesthetics]]
 - [[Prompt Combination & Adaptation]]
 - [[Vibe Coding]]
+- [[AI-assisted design]]
+- [[AI-Free Interface Aesthetics|AI aesthetics]]
+- [[Curated Design Prompt Repositories]]
+- [[Rrupmid Nyche]]
 - [[Design Prompt Engineering for UI]]

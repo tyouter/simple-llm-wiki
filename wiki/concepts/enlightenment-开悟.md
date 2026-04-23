@@ -12,12 +12,13 @@ tags:
   - "cognitive-flexibility"
 confidence: "high"
 created_at: "2026-04-17T21:45:18.250561"
-updated_at: "2026-04-17T21:45:18.250561"
+updated_at: "2026-04-22T23:50:19.197637"
 related:
   - "Brain Prediction Model"
   - "Three Stages of Understanding"
   - "杜千"
   - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "驷马奔腾"
 ---
 
 # Enlightenment (开悟)
@@ -66,4 +67,5 @@ enlightenment, cognition, mental-models, neuroscience, personal-development, cog
 - [[Brain Prediction Model]]
 - [[Three Stages of Understanding]]
 - [[杜千]]
+- [[驷马奔腾]]
 - [[Zhihu Discussion on Enlightenment and Personal Transformation]]

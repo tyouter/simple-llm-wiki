@@ -10,7 +10,7 @@ tags:
   - "ai-engineer"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.796503"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.136009"
 ---
 
 # Boris Cherny
@@ -29,7 +29,7 @@ Boris Cherny是Claude Code的核心开发者之一，属于Anthropic团队，在
 
 ## Related
 
-- [[dan-abramov]]
-- [[gergely-orosz]]
-- [[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]]
-- [[zhihu-discussion-claude-code-s-ecosystem,-impact-on-engineering,-and-practical-experiences]]
+- dan-abramov
+- gergely-orosz
+- [[Zhihu]]
+- [[Zhihu]]

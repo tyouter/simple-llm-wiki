@@ -13,7 +13,7 @@ tags:
   - "technical-analysis"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:24.144001"
 related:
   - "Flood Sung"
   - "Claude Code"
@@ -22,6 +22,9 @@ related:
   - "Model Context Protocol"
   - "MetaBot"
   - "Claude Code工作流技术与架构分析"
+  - "Multi-Agent Collaboration"
+  - "Parallel Tool Calling"
+  - "Oh My ClaudeCode把Claude变成Coding武器"
 ---
 
 # Claude Code Agent技术分析与多代理架构
@@ -94,4 +97,7 @@ related:
 - [[Multi-Agent Orchestration]]
 - [[Model Context Protocol]]
 - [[MetaBot]]
+- [[Multi-Agent Collaboration]]
+- [[Parallel Tool Calling]]
+- [[Oh My ClaudeCode把Claude变成Coding武器]]
 - [[Claude Code工作流技术与架构分析]]

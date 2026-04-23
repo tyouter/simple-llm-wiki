@@ -12,12 +12,15 @@ tags:
   - "philosopher"
 confidence: "high"
 created_at: "2026-04-20T00:27:32.685563"
-updated_at: "2026-04-20T00:27:32.685563"
+updated_at: "2026-04-23T00:42:26.941865"
 related:
   - "Personal Work/Product (作品)"
   - "Social Attention as Currency"
   - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
   - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
+  - "搏击俱乐部 (Fight Club)"
+  - "知乎讨论：人生道理与创造力、接纳与主动性"
+  - "知乎讨论：你人生中太晚明白的道理是什么"
 ---
 
 # 秋风萧瑟 (Qiufeng Xiaose)
@@ -43,6 +46,9 @@ This perspective provides a compelling alternative to both traditional careerism
 - [[Personal Work/Product (作品)]]
 - [[Social Attention as Currency]]
 - [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[搏击俱乐部 (Fight Club)]]
+- [[知乎讨论：人生道理与创造力、接纳与主动性]]
+- [[知乎讨论：你人生中太晚明白的道理是什么]]
 
 ## Related
 - [[Personal Work/Product (作品)]]

@@ -11,7 +11,7 @@ tags:
   - "frontend"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.799691"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.247662"
 ---
 
 # Design Prompt Engineering for UI
@@ -29,9 +29,20 @@ updated_at: "2026-04-20T12:00:00"
 - **合成与适配**：从多个设计提示中选择、组合、适配为项目定制规范
 
 ## Related
+- [[AI-Native Design Workflow]]
+- [[Claude Code]]
+- [[Design Prompt Curation/Repositories]]
+- [[Figma]]
+- [[Prompt Combination & Adaptation]]
+- [[Prompt-Dependent Output Quality]]
+- [[Tailwind CSS]]
+- [[Vibe Design]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code]]
+- [[谷歌Stitch氛围设计更新]]
 
-- [[ai-free-interface-aesthetics]]
-- [[ai-tool-specialization-for-design]]
-- [[ai-tool-chaining-combination-combination]]
-- [[vibe-coding]]
-- [[using-designprompts-dev-to-generate-high-quality-ai-free-interfaces-with-claude-code]]
+- ai-free-interface-aesthetics
+- ai-tool-specialization-for-design
+- ai-tool-chaining-combination-combination
+- vibe-coding
+- [[Designprompts]]

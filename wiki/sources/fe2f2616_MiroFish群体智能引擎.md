@@ -11,7 +11,7 @@ tags:
   - "mirofish"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:41.590398"
 ---
 
 # MiroFish群体智能引擎
@@ -52,6 +52,8 @@ updated_at: "2026-04-20T12:00:00"
 - GitHub: https://github.com/666ghj/MiroFish
 
 ## Related
-- [[群体智能]]
-- [[Agent系统]]
-- [[预测模型]]
+- [[和光同尘：自我与环境的平衡智慧]]
+- [[情报神器：1000+平台社交信息挖掘工具]]
+- 群体智能
+- [[Agent]]
+- 预测模型

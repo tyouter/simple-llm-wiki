@@ -11,7 +11,7 @@ tags:
   - "agent-development"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.087117"
-updated_at: "2026-04-19T15:33:03.087117"
+updated_at: "2026-04-22T23:50:23.057212"
 related:
   - "Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)"
   - "Harness Engineering"
@@ -19,6 +19,11 @@ related:
   - "Entropy Management"
   - "DeepSeek"
   - "riba2534"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Vibe Coding"
+  - "Harness Engineering的本质是什么？"
+  - "Harness Engineering详解"
 ---
 
 # mCell
@@ -84,4 +89,9 @@ zhihu-author, harness-engineering, practitioner, memo-code-project, agent-develo
 - [[Agent = Loop(Model + Harness)]]
 - [[Entropy Management]]
 - [[DeepSeek]]
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Vibe Coding]]
+- [[Harness Engineering的本质是什么？]]
+- [[Harness Engineering详解]]
 - [[riba2534]]

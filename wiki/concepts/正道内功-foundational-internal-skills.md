@@ -11,7 +11,7 @@ tags:
   - "middle-age"
 confidence: "high"
 created_at: "2026-04-18T22:54:42.763034"
-updated_at: "2026-04-18T22:54:42.763034"
+updated_at: "2026-04-23T00:42:20.729079"
 related:
   - "代偿 (Compensation)"
   - "超负荷原则 (Overload Principle)"
@@ -27,7 +27,7 @@ A metaphor describing basic movement patterns (breathing, balance, hip hinge) as
 
 ## The Three Foundational Skills
 
-As described by [[谷磨]] in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]:
+As described by [[谷磨]] in [[Zhihu]]:
 
 1. **Breathing/Core Integration**
    - Proper diaphragmatic breathing
@@ -69,11 +69,11 @@ For middle-aged adults beginning exercise:
 - **Alternative Perspective**: Contrasts with immediately starting specific activities like swimming or weight training
 
 ## Source Context
-Central concept introduced by [[谷磨]] in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] as the essential starting point for middle-aged fitness.
+Central concept introduced by [[谷磨]] in [[Zhihu]] as the essential starting point for middle-aged fitness.
 
 ## Related
 - [[代偿 (Compensation)]]
 - [[超负荷原则 (Overload Principle)]]
 - [[肌少症 (Sarcopenia)]]
 - [[谷磨]]
-- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]
+- [[Zhihu]]

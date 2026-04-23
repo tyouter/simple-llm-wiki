@@ -11,7 +11,7 @@ tags:
   - "ai-assisted-development"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.015027"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:26.422499"
 ---
 
 # TDD with Claude Code
@@ -27,9 +27,13 @@ updated_at: "2026-04-20T12:00:00"
 - **与 Plan Mode 结合**: 规划阶段定义测试策略，实现阶段严格执行
 
 ## Related
+- [[雁南飞]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Plan Mode]]
 
 - [[Claude Code]]
 - [[Plan Mode工作流]]
 - [[Spec Coding vs. Vibe Coding]]
-- [[Development Methodologies]]
-- [[workflow-optimization]]
+- Development Methodologies
+- workflow-optimization

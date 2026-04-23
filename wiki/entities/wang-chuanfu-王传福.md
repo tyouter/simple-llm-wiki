@@ -12,7 +12,7 @@ tags:
   - "china"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.215163"
-updated_at: "2026-04-18T22:51:14.215163"
+updated_at: "2026-04-23T00:42:26.382988"
 related:
   - "BYD (比亚迪)"
   - "Vertical Integration/闭环"
@@ -20,6 +20,8 @@ related:
   - "Financial vs. Industrial Logic"
   - "Li Shufu (李书福)"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
+  - "Industrial Logic"
 ---
 
 # Wang Chuanfu (王传福)
@@ -57,4 +59,6 @@ entity, person, entrepreneur, ceo, engineer, china
 - [[Industrial Moats/护城河]]
 - [[Financial vs. Industrial Logic]]
 - [[Li Shufu (李书福)]]
+- [[China Manufacturing]]
+- [[Industrial Logic]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

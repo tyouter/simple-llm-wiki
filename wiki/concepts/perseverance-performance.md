@@ -13,12 +13,13 @@ tags:
   - "narrative-creation"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.061295"
-updated_at: "2026-04-18T22:52:17.061295"
+updated_at: "2026-04-22T23:50:25.506241"
 related:
   - "Authenticity as Capital"
   - "Dream-First, Business-Second Entrepreneurship"
   - "Zhang Xue"
   - "Yi Jun"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Perseverance Performance (执着展示)
@@ -83,4 +84,5 @@ perseverance, performance, dedication, credibility, signaling, entrepreneurship,
 - [[Authenticity as Capital]]
 - [[Dream-First, Business-Second Entrepreneurship]]
 - [[Zhang Xue]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Yi Jun]]

@@ -10,10 +10,18 @@ tags:
   - "implementation"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:22.729019"
 related:
   - "Claude Code深度使用指南"
   - "Claude Code子代理"
+  - "Hooks for Deterministic Automation"
+  - "Slash Commands Customization"
+  - "TDD with Claude Code"
+  - "CLAUDE.md Architecture"
+  - "Plan-and-Execute"
+  - "15条高频实用的Claude Code技巧"
+  - "Claude Code职场替身应用"
+  - "GSD AI编程工作流指南"
 ---
 
 # Plan Mode工作流
@@ -61,4 +69,12 @@ Explore → Plan → Implement → Verify
 
 ## Related
 - [[Claude Code深度使用指南]]
+- [[Hooks for Deterministic Automation]]
+- [[Slash Commands Customization]]
+- [[TDD with Claude Code]]
+- [[CLAUDE.md Architecture]]
+- [[Plan-and-Execute]]
+- [[15条高频实用的Claude Code技巧]]
+- [[Claude Code职场替身应用]]
+- [[GSD AI编程工作流指南]]
 - [[Claude Code子代理]]

@@ -10,7 +10,7 @@ tags:
   - "business-philosophy"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.334015"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.580910"
 ---
 
 # Warren Buffett
@@ -26,9 +26,11 @@ updated_at: "2026-04-20T12:00:00"
 - **反金融化立场**: 与过度金融化、短期股东回报优先的企业趋势形成对比
 
 ## Related
+- [[China Manufacturing]]
+- [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]
 
 - [[BYD (比亚迪)]]
 - [[Financial vs. Industrial Logic]]
-- [[Value Investing]]
+- Value Investing
 - [[Industrial Moats/护城河]]
-- [[知乎讨论-比亚迪发展策略分析]]
+- [[知乎]]

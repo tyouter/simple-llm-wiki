@@ -11,7 +11,7 @@ tags:
   - "workflow"
 confidence: "medium"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.441387"
 ---
 
 # 个人操作系统
@@ -65,9 +65,15 @@ updated_at: "2026-04-20T12:00:00"
 - 模式识别与自我洞察
 
 ## Related
+- [[Human 3.0人生操作系统：用Gemini做个人天赋挖掘]]
+- [[Obsidian与Gemini CLI工作流：ADHD患者的第二大脑]]
+- [[人生管理大系统 - 个人效率工具集成方案]]
+- [[一人AI公司架构：四层基建体系]]
+- [[视频-Claude Code+Obsidian构建247个人操作系统]]
+- [[视频-Obsidian+OpenClaw重构AI知识管理体系]]
 
 - [[Obsidian]]
-- [[Claude-Code]]
-- [[知识管理]]
-- [[AI-Enhanced-Note-Taking]]
-- [[Markdown-As-Human-AI-Interface]]
+- [[Claude]]
+- 知识管理
+- AI-Enhanced-Note-Taking
+- [[Markdown]]

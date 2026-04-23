@@ -10,11 +10,14 @@ tags:
   - "cognition"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:29.122499"
 related:
   - "开悟"
   - "大脑预测模型"
   - "认知三阶段"
+  - "开悟 开悟觉醒 真的有所谓的开悟吗？ (知乎问答)"
+  - "知乎讨论-开悟与大脑预测模型"
+  - "知乎讨论：真的有所谓的开悟吗"
 ---
 
 # 开悟与大脑预测模型
@@ -74,6 +77,10 @@ related:
 > 你看到的不是世界，而是你的认知。
 
 ## Related
-- [[enlightenment-开悟]]
-- [[brain-prediction-model]]
-- [[three-stages-of-understanding]]
+- [[开悟 开悟觉醒 真的有所谓的开悟吗？ (知乎问答)]]
+- [[知乎讨论-开悟与大脑预测模型]]
+- [[知乎讨论：真的有所谓的开悟吗]]
+- [[大脑预测模型更新]]
+- enlightenment-开悟
+- brain-prediction-model
+- three-stages-of-understanding

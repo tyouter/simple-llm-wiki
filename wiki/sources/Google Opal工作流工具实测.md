@@ -13,7 +13,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.516709"
 ---
 
 # Google Opal工作流工具实测
@@ -84,7 +84,7 @@ Opal汇集Google几乎所有AI服务：
 
 ## Related
 
-- [[Google Opal]]
-- [[n8n]]
-- [[自动化工作流]]
-- [[UGC广告]]
+- [[Google]]
+- [[N8N]]
+- 自动化工作流
+- UGC广告

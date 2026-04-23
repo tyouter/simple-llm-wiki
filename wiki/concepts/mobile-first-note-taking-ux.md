@@ -11,12 +11,14 @@ tags:
   - "ergonomics"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.459853"
-updated_at: "2026-04-21T16:31:03.459853"
+updated_at: "2026-04-22T23:50:23.993995"
 related:
   - "Obsidian Dragger"
   - "Paradigm Borrowing in UX"
   - "AI-Free Interface Aesthetics"
   - "Notion"
+  - "Ariestar"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Mobile-First Note-Taking UX** prioritizes the constraints and interaction models of smartphones and tablets when designing knowledge management tools. On mobile devices, traditional desktop editing patterns—reliant on precise cursor placement, keyboard shortcuts, and right-click menus—break down completely. Instead, successful mobile UX must leverage touch gestures, simplified interfaces, and contextual actions that work within limited screen real estate.
@@ -29,4 +31,6 @@ This design philosophy aligns with [[AI-Free Interface Aesthetics]] principles t
 - [[Obsidian Dragger]]
 - [[Paradigm Borrowing in UX]]
 - [[AI-Free Interface Aesthetics]]
+- [[Ariestar]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[Notion]]

@@ -10,7 +10,7 @@ tags:
   - "agent-architecture"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.625540"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:14.838306"
 ---
 
 # Parallel Tool Calling
@@ -29,4 +29,6 @@ updated_at: "2026-04-20T12:00:00"
 - [[Claude Code]]
 - [[Model Context Protocol]]
 - [[Agentic Loop]]
+- [[Multi-Agent Orchestration]]
+- [[MetaBot]]
 - [[Claude Code Agent技术分析与多代理架构]]

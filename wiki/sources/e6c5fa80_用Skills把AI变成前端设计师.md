@@ -11,7 +11,7 @@ tags:
   - "ai编程"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.459295"
 ---
 
 # 用Skills把AI变成前端设计师
@@ -47,10 +47,10 @@ front-end-design-skills包含：
 现在的编程方式从"怎么写代码"转变为"能不能把需求跟AI讲清楚"，程序员更多是审查而非补全。
 
 ## 相关工具
-- [[TRAE]] — 支持Skills的AI IDE
-- [[Skills系统]] — 结构化的AI工作流配置
+- [[Trae]] — 支持Skills的AI IDE
+- [[Claude Code Skills系统]] — 结构化的AI工作流配置
 - [[Vibe Coding]] — 自然语言驱动的编程范式
 
 ## Related
 - [[Claude Code Skills系统]]
-- [[AI前端设计]]
+- AI前端设计

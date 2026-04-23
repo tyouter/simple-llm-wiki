@@ -11,10 +11,11 @@ tags:
   - "市场调研"
 confidence: "high"
 created_at: "2026-04-21T16:13:59.078756"
-updated_at: "2026-04-21T16:13:59.078756"
+updated_at: "2026-04-22T23:50:10.351768"
 related:
   - "信息层（决策第一步）"
   - "Agent-Based Active Retrieval"
+  - "工具链专业化组合"
 ---
 
 ## 概述
@@ -28,4 +29,5 @@ related:
 
 ## Related
 - [[信息层（决策第一步）]]
+- [[工具链专业化组合]]
 - [[Agent-Based Active Retrieval]]

@@ -12,13 +12,16 @@ tags:
   - "machine-teaching"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.319580"
-updated_at: "2026-04-18T22:44:23.319580"
+updated_at: "2026-04-23T00:42:26.620716"
 related:
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
   - "Claude Code Automation/Configuration Management"
   - "Cross-Model Code Review"
   - "Context & Resource Awareness in AI Coding"
   - "AI-Assisted Paper Reading"
+  - "Southern University of Science and Technology (SUSTech)"
+  - "Mizore的Claude Code一键配置开源"
+  - "Mizore"
 ---
 
 # Error Memory for AI Improvement
@@ -117,4 +120,7 @@ error-learning, continuous-improvement, personalization, claude-code, automation
 - [[Claude Code Automation/Configuration Management]]
 - [[Cross-Model Code Review]]
 - [[Context & Resource Awareness in AI Coding]]
+- [[Southern University of Science and Technology (SUSTech)]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[Mizore]]
 - [[AI-Assisted Paper Reading]]

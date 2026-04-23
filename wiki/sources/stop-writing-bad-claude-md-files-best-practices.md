@@ -13,7 +13,7 @@ tags:
   - "AGENTS.md"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:44:54.113411"
 ---
 
 # Stop Writing Bad CLAUDE.md Files - Claude Code配置最佳实践
@@ -67,7 +67,7 @@ updated_at: "2026-04-20T12:00:00"
 ## 相关概念
 - [[Claude Code Skills系统]]
 - [[Claude Code Hooks]]
-- [[CLAUDE.md最佳实践]]
+- [[Claude]]
 
 ## 相关实体
-- [[camelCase]]
+- camelCase

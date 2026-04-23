@@ -1,5 +1,5 @@
 ---
-title: "AI-Free Interface Aesthetics|AI aesthetics"
+title: "AI-Free Interface Aesthetics"
 type: "concept"
 sources:
   - "wiki/sources/using-designprompts-dev-to-generate-high-quality-ai-free-interfaces-with-claude-code.md"
@@ -10,7 +10,7 @@ tags:
   - "frontend"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.251829"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T07:23:32.373748"
 ---
 
 # AI-Free Interface Aesthetics / AI aesthetics
@@ -28,7 +28,7 @@ updated_at: "2026-04-20T16:00:00"
 ## 相关概念
 - [[Vibe Coding]]
 - [[Design Prompt Curation/Repositories]]
-- [[AI-assisted Design]]
+- [[AI-assisted design]]
 - [[Prompt Combination & Adaptation]]
 - [[Tailwind CSS]]
 

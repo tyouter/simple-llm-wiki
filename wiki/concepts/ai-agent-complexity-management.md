@@ -11,13 +11,18 @@ tags:
   - "token-optimization"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.961838"
-updated_at: "2026-04-17T22:15:47.961838"
+updated_at: "2026-04-23T00:42:20.064675"
 related:
   - "AI Agent"
   - "Token Management in Complex Systems"
   - "Business SOP Automation"
   - "Agent Operating System"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "Skill Engineering for AI Agents"
+  - "智能体自我进化"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # AI Agent Complexity Management
@@ -45,7 +50,7 @@ Based on the [[Zhihu Discussion: OpenClaw/Moltbot Practical Applications and Lim
 - **Integration Planning**: Determining where to use deterministic systems (RPA) vs. AI agents
 
 ## Connection to Related Concepts
-This concept directly addresses issues discussed in [[token-efficiency-in-ai-reasoning]] and relates to frameworks like [[Agent Operating System]]. The approach shares similarities with [[GStack: Role-Based AI Development Workflow for Claude Code]] in its structured methodology.
+This concept directly addresses issues discussed in token-efficiency-in-ai-reasoning and relates to frameworks like [[Agent Operating System]]. The approach shares similarities with [[GStack: Role-Based AI Development Workflow for Claude Code]] in its structured methodology.
 
 ## Practical Examples
 - **Global Economic Monitoring System**: [[序员先生 (Programmer Xiansheng)]]'s implementation tracking 153 indicators required careful architectural planning
@@ -65,6 +70,11 @@ This concept directly addresses issues discussed in [[token-efficiency-in-ai-rea
 ai-agent, complexity-management, system-architecture, modular-design, token-optimization
 
 ## Related
+- [[Skill Engineering for AI Agents]]
+- [[智能体自我进化]]
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[AI Agent]], [[Token Management in Complex Systems]], [[Business SOP Automation]], [[Agent Operating System]], [[GStack: Role-Based AI Development Workflow for Claude Code]]
 
 ## Related

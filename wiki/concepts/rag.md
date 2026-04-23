@@ -1,0 +1,350 @@
+---
+title: "Rag"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
+  - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/78bdbe39_无大算力时作为学生LLM 还有哪些值得做的研究无大算力时作为学生LLM 还有哪些值得做的研究.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/9fd2075e_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/dff29dae_最难调试修复的 bug 是怎样的最难调试修复的 bug 是怎样的.md"
+  - "raw/articles/fa5b8d2c_浏览器自动化工具 SeleniumPlaywrightPuppeteer 做爬虫有哪些弊病浏览器自动化工具 SeleniumPlaywrightPu.md"
+  - "raw/videos/4c31509e_Stop Copying Files Into Obsidian Folder Bridge Plugin.md"
+  - "raw/videos/567e6da2_红杉资本大转向已开始做工具的时代结束.md"
+  - "raw/videos/63b223d8_闪客一口气拆穿SkillMCPRAGAgentOpenClaw底层逻辑.md"
+  - "raw/videos/6612c7a5_爬虫界的核弹级开源项目快速获取网页核心内容.md"
+  - "raw/videos/712bf9fc_AutoResearch 让Claude像Karpathy一样自己迭代自己代码内容性能全自动无限优化Claude Code Skill实战分.md"
+  - "raw/videos/7ab5e223_卡尼2026达沃斯封神演讲获全场起立鼓掌旧世界真的回不去了.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/videos/8b4f5533_我做了两个 Skill为 AI 构建代码知识图谱.md"
+  - "raw/videos/9c48ef85_Agent Skills 做知识库检索能比传统 RAG 效果更好吗.md"
+  - "raw/videos/a0a94361_2026 款全新保时捷 911 生产过程梦想就是这样诞生的.md"
+  - "raw/videos/b9661a04_Obsidain 补完计划像 Notion 一样丝滑拖拽文本块Dragger.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/cd96fa4c_比 n8n 更好用的工作流来了Google Opal轻松搭建自动化 AI 广告工作室免费0学习成本.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+  - "raw/videos/dadd5906_How I use Claude Code Meta Staff Engineer Tips.md"
+  - "raw/videos/ecbd3463_未来新的高收入技能组合.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/80556898_Top product management books and resources for 2026.md"
+  - "raw/webpages/81df9b89_X 上的 Andrej KarpathyLLM Knowledge BasesSomething Im finding very useful rec.md"
+  - "raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md"
+tags:
+  - "rag"
+confidence: "high"
+created_at: "2026-04-22T23:49:29.566808"
+updated_at: "2026-04-23T07:17:34.598789"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Claude.Md"
+  - "Obsidian"
+  - "Markdown"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Refactoring"
+  - "Openclaw"
+  - "Gemini"
+  - "Slidev"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Agent"
+  - "Git"
+  - "Openai"
+  - "Github"
+  - "Tavily"
+  - "为什么感觉现在AI Agent都是雷声大雨点小？"
+  - "Context Window"
+  - "Supermemory"
+  - "Gpt"
+  - "如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？"
+  - "Api"
+  - "Jasper Wang"
+  - "Chatgpt"
+  - "Antirez"
+  - "有哪些算法惊艳到了你？"
+  - "Progressive Disclosure"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Playwright"
+  - "Anthropic"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Distillation"
+  - "Lora"
+  - "Cli"
+  - "Google"
+  - "无大算力时，作为学生，LLM 还有哪些值得做的研究？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "Vibe Coding"
+  - "Ethan Mollick"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Copilot"
+  - "Cursor"
+  - "Mcp"
+  - "小红书"
+  - "deepseek能为gis 行业带来什么？"
+  - "Opencode"
+  - "Skills"
+  - "Reinforcement Learning"
+  - "Prompt Engineering"
+  - "Multi-Agent"
+  - "Openviking"
+  - "Microsoft"
+  - "怎么成为一个 ai agent 工程师？"
+  - "Meta"
+  - "最难调试修复的 bug 是怎样的？"
+  - "Selenium"
+  - "Docker"
+  - "Bridge"
+  - "Claude"
+  - "浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？"
+  - "Stop Copying Files Into Obsidian | Folder Bridge Plugin"
+  - "红杉资本"
+  - "红杉资本：大转向已开始，做工具的时代结束"
+  - "Skill"
+  - "【闪客】一口气拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑"
+  - "爬虫界的核弹级开源项目，快速获取网页核心内容"
+  - "Autoresearch"
+  - "AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分"
+  - "Mit"
+  - "卡尼2026达沃斯“封神”演讲，获全场起立鼓掌！旧世界真的回不去了！"
+  - "Decision Making"
+  - "Baseline"
+  - "Princeton"
+  - "Bilibili"
+  - "Youtube"
+  - "对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42"
+  - "我做了两个 Skill，为 AI 构建代码知识图谱"
+  - "Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？"
+  - "Porsche"
+  - "2026 款全新保时捷 911 生产过程：梦想就是这样诞生的"
+  - "Dragger"
+  - "Notion"
+  - "Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger"
+  - "Superpowers"
+  - "Worktree"
+  - "Superpowers Plugin"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "N8N"
+  - "比 n8n 更好用的工作流来了！Google Opal：轻松搭建自动化 AI 广告工作室！免费|0学习成本"
+  - "Open Source"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "Git Worktrees"
+  - "Plan Mode"
+  - "How I use Claude Code (Meta Staff Engineer Tips)"
+  - "Complexity"
+  - "Sop"
+  - "未来新的高收入技能组合"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "Top product management books and resources for 2026"
+  - "X 上的 Andrej Karpathy：“LLM Knowledge Bases"
+  - "Design Pattern"
+  - "Extend Claude with skills - Claude Code Docs"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "LangGraph"
+  - "好地方bug"
+  - "知乎"
+  - "知识编译器模式"
+  - "LLM Search over RAG"
+  - "LLM Wiki架构"
+  - "RAG (Retrieval-Augmented Generation)"
+  - "ReAct (Reasoning + Acting)"
+  - "Karpathy的LLM知识库架构分析"
+  - "MinerU PDF解析开源项目"
+  - "Supermemory的ASMR系统分析"
+  - "AI Agent雷声大雨点小分析"
+  - "如何成为 AI Agent 工程师？—— 知乎问答分析"
+  - "无大算力时LLM研究方向"
+  - "知乎讨论：为什么AI Agent雷声大雨点小"
+  - "金融分析高级AI Agent架构"
+---
+
+# Rag
+
+## 定义
+
+RAG (Retrieval-Augmented Generation) - 检索增强生成，结合外部知识检索来提升LLM回答质量
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[CLAUDE.md]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Refactoring]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[Slidev]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Agent]]
+- [[Git]]
+- [[OpenAI]]
+- [[GitHub]]
+- [[Tavily]]
+- [[为什么感觉现在AI Agent都是雷声大雨点小？]]
+- [[Context Window]]
+- [[Supermemory]]
+- [[GPT]]
+- [[如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？]]
+- [[Api]]
+- [[Jasper Wang]]
+- [[Chatgpt]]
+- [[Antirez]]
+- [[有哪些算法惊艳到了你？]]
+- [[Progressive Disclosure]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[Anthropic]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Distillation]]
+- [[Lora]]
+- [[Cli]]
+- [[Google]]
+- [[无大算力时，作为学生，LLM 还有哪些值得做的研究？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[Vibe Coding]]
+- [[Ethan Mollick]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Copilot]]
+- [[Cursor]]
+- [[Mcp]]
+- [[小红书]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[Opencode]]
+- [[Skills]]
+- [[Reinforcement Learning]]
+- [[Prompt Engineering]]
+- [[Multi-Agent]]
+- [[Openviking]]
+- [[Microsoft]]
+- [[怎么成为一个 ai agent 工程师？]]
+- [[Meta]]
+- [[最难调试修复的 bug 是怎样的？]]
+- [[Selenium]]
+- [[Docker]]
+- [[Bridge]]
+- [[Claude]]
+- [[浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？]]
+- [[Stop Copying Files Into Obsidian | Folder Bridge Plugin]]
+- [[红杉资本]]
+- [[红杉资本：大转向已开始，做工具的时代结束]]
+- [[Skill]]
+- [[【闪客】一口气拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑]]
+- [[爬虫界的核弹级开源项目，快速获取网页核心内容]]
+- [[Autoresearch]]
+- [[AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分]]
+- [[Mit]]
+- [[卡尼2026达沃斯“封神”演讲，获全场起立鼓掌！旧世界真的回不去了！]]
+- [[Decision Making]]
+- [[Baseline]]
+- [[Princeton]]
+- [[Bilibili]]
+- [[Youtube]]
+- [[对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42]]
+- [[我做了两个 Skill，为 AI 构建代码知识图谱]]
+- [[Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？]]
+- [[Porsche]]
+- [[2026 款全新保时捷 911 生产过程：梦想就是这样诞生的]]
+- [[Dragger]]
+- [[Notion]]
+- [[Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger]]
+- [[Superpowers]]
+- [[Worktree]]
+- [[Superpowers Plugin]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[N8N]]
+- [[比 n8n 更好用的工作流来了！Google Opal：轻松搭建自动化 AI 广告工作室！免费|0学习成本]]
+- [[Open Source]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[Git Worktrees]]
+- [[Plan Mode]]
+- [[How I use Claude Code (Meta Staff Engineer Tips)]]
+- [[Complexity]]
+- [[Sop]]
+- [[未来新的高收入技能组合]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[Top product management books and resources for 2026]]
+- [[X 上的 Andrej Karpathy：“LLM Knowledge Bases]]
+- [[Design Pattern]]
+- [[Extend Claude with skills - Claude Code Docs]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[LangGraph]]
+- [[好地方bug]]
+- [[知乎]]
+- [[知识编译器模式]]
+- [[LLM Search over RAG]]
+- [[LLM Wiki架构]]
+- [[RAG (Retrieval-Augmented Generation)]]
+- [[ReAct (Reasoning + Acting)]]
+- [[Karpathy的LLM知识库架构分析]]
+- [[MinerU PDF解析开源项目]]
+- [[Supermemory的ASMR系统分析]]
+- [[AI Agent雷声大雨点小分析]]
+- [[如何成为 AI Agent 工程师？—— 知乎问答分析]]
+- [[无大算力时LLM研究方向]]
+- [[知乎讨论：为什么AI Agent雷声大雨点小]]
+- [[金融分析高级AI Agent架构]]
+- [[Deepseek]]

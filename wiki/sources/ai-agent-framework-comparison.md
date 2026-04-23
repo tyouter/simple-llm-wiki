@@ -11,7 +11,7 @@ tags:
   - "vercel-ai-sdk"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.145743"
 related:
   - "LangChain"
   - "LangGraph"
@@ -94,9 +94,9 @@ LangChain团队推出的深度代理框架，核心能力：
 | AWS生态 | Strands Agents |
 
 ## Related
-- [[LangChain]]
+- LangChain
 - [[LangGraph]]
-- [[Claude Agent SDK]]
-- [[Vercel AI SDK]]
-- [[DeepAgents]]
-- [[pi-mono框架]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
+- [[Vercel]]
+- [[DeepAgents框架]]
+- pi-mono框架

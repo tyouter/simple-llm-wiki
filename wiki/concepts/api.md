@@ -1,0 +1,413 @@
+---
+title: "Api"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
+  - "raw/articles/441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/5a10535a_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/709aff76_朱卫军 的想法 这几天用selenium操作chrome浏览器尝试采集一些电商数据但被网站检测出来后面就没法访问了我怀疑是 - 知乎.md"
+  - "raw/articles/78bdbe39_无大算力时作为学生LLM 还有哪些值得做的研究无大算力时作为学生LLM 还有哪些值得做的研究.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/9fd2075e_有哪些算法惊艳到了你有哪些算法惊艳到了你.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/b5d1922b_谷歌提出CLI的7条设计原则AI和人类都友好的CLI长这样.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/cb5b7cde_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/d65f8843_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/dff29dae_最难调试修复的 bug 是怎样的最难调试修复的 bug 是怎样的.md"
+  - "raw/articles/e0070893_Playwright CLI 的隐藏技能帮 Claude Code 突破反爬虫读到读不了的网页.md"
+  - "raw/articles/edab6de9_龙虾装了这个Skill显得其它的都像个废物.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f46fff1a_playwright自动化脚本工具打开浏览器网页被检测为爬虫导致无法执行脚本代码请问怎么解决playwright自动化脚本工具打开浏览器网页被检测为爬虫.md"
+  - "raw/articles/fa5b8d2c_浏览器自动化工具 SeleniumPlaywrightPuppeteer 做爬虫有哪些弊病浏览器自动化工具 SeleniumPlaywrightPu.md"
+  - "raw/videos/08c54c6d_生产环境稳定运行半年多一个解析任意复杂PDF的开源项目.md"
+  - "raw/videos/261a2b6c_5折订阅官方 chatgpt plusclaude code 会员服务更简单更省钱无需国际信用卡每月不到 80 元.md"
+  - "raw/videos/2bb1300e_AI编程变天了Trae Skills傻瓜式教程.md"
+  - "raw/videos/30252ee0_一人AI公司的底牌架构全在这里.md"
+  - "raw/videos/42a13a06_Obsidian CLI80命令让笔记库听命于终端.md"
+  - "raw/videos/58309433_熟肉老外论证汽车仙人的时代已经结束了.md"
+  - "raw/videos/63a4625f_设计即将完全重构这不是观点这是事实人类最难的视频真真正正的被AI攻克了Seedance 2.0即将改变一切生产模式公司构架行业形态都将被彻底颠覆.md"
+  - "raw/videos/6612c7a5_爬虫界的核弹级开源项目快速获取网页核心内容.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/videos/92471d0f_从会用AI到构建AI协作框架.md"
+  - "raw/videos/a15518e8_最强开源工作流N8N-爬虫教程1.md"
+  - "raw/videos/a876215e_超级记忆系统ASMR让你的AI拥有永久记忆能力.md"
+  - "raw/videos/ac4ca822_微软发布的开源小模型百分百在本地运行.md"
+  - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
+  - "raw/videos/c1b57a29_Every Claude Code Concept Explained for Normal People.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/d10d7467_PR和剪映要慌了全球首款原生AI 剪辑软件LTX免费开源了 ltxdesktop.md"
+  - "raw/videos/d241c58b_一个CLI干掉所有MCP工具省99的token mcp2cli.md"
+  - "raw/videos/d88e13cd_用Claude Code自动编排n8n工作流告别手搓.md"
+  - "raw/videos/d907b96c_Claude CodeObsidian每天自动读论文早上到工位来上这么一篇真是惬意呀.md"
+  - "raw/videos/df67d69c_OpenClaw高级使用经验分享2026年最强生产力五分钟打造多Agent协作编程开发团队模型容灾机制深度配置云端Gateway操控本地macOS.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/ecbd3463_未来新的高收入技能组合.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/39c8d10e_Tobias Sühlmann follows Michael Mauer as Porsches new Head of Design Classic.md"
+  - "raw/webpages/80556898_Top product management books and resources for 2026.md"
+tags:
+  - "api"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.567886"
+updated_at: "2026-04-23T07:17:34.594578"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Claude.Md"
+  - "Obsidian"
+  - "Markdown"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Anthropic"
+  - "Claude"
+  - "Cat Wu"
+  - "Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的"
+  - "Cli"
+  - "Sop"
+  - "Prd"
+  - "James Gleick"
+  - "Stanford"
+  - "Google"
+  - "大神们是从哪获取优质信息，比如哪些微信公众号，知乎?"
+  - "Context Window"
+  - "Microservice"
+  - "Vibe Coding"
+  - "Coding Plan"
+  - "Openclaw"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Skills"
+  - "Cursor"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "Prompt Engineering"
+  - "Extended Thinking"
+  - "Agentic Loop"
+  - "Multi-Agent"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Plan Mode"
+  - "Gemini"
+  - "Cloudflare"
+  - "最好用的Agent框架是什么？"
+  - "Rag"
+  - "Jasper Wang"
+  - "Chatgpt"
+  - "Antirez"
+  - "有哪些算法惊艳到了你？"
+  - "Playwright"
+  - "Selenium"
+  - "Scraping"
+  - "Bright Data"
+  - "朱卫军 的想法: 这几天用selenium操作chrome浏览器尝试采集一些电商数据，但被网站检测出来，后面就没法访问了，我怀疑是… - 知乎"
+  - "Distillation"
+  - "Agent"
+  - "Lora"
+  - "Openai"
+  - "无大算力时，作为学生，LLM 还有哪些值得做的研究？"
+  - "Opencode"
+  - "Copilot"
+  - "Claude Opus 4"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "Mitchell Hashimoto"
+  - "Ethan Mollick"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Mcp"
+  - "Gpt"
+  - "小红书"
+  - "deepseek能为gis 行业带来什么？"
+  - "Git"
+  - "Notion"
+  - "你写过什么不错的开源项目？"
+  - "Skill"
+  - "谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "Y Combinator"
+  - "Paul Graham"
+  - "天涯论坛关闭后，除了知乎，大家都在逛什么？"
+  - "Github"
+  - "Meta"
+  - "最难调试修复的 bug 是怎样的？"
+  - "Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页"
+  - "Docker"
+  - "Bridge"
+  - "Bilibili"
+  - "龙虾装了这个Skill，显得其它的都像个废物"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "Microsoft"
+  - "playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？"
+  - "浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？"
+  - "Mineru"
+  - "生产环境稳定运行半年多，一个解析任意复杂PDF的开源项目"
+  - "5折订阅官方 chatgpt plus/claude code 会员服务｜更简单｜更省钱｜无需国际信用卡，每月不到 80 元"
+  - "AI编程变天了，Trae Skills傻瓜式教程！"
+  - "一人AI公司的底牌架构，全在这里。"
+  - "Progressive Disclosure"
+  - "Youtube"
+  - "Obsidian CLI：80+命令让笔记库听命于终端"
+  - "【熟肉】老外论证汽车仙人的时代已经结束了"
+  - "Qwen"
+  - "设计即将完全重构！这不是观点，这是事实！人类最难的视频真真正正的被AI攻克了！Seedance 2.0即将改变一切！生产模式，公司构架，行业形态都将被彻底颠覆！"
+  - "爬虫界的核弹级开源项目，快速获取网页核心内容"
+  - "Reinforcement Learning"
+  - "Decision Making"
+  - "Baseline"
+  - "Princeton"
+  - "对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42"
+  - "从会用AI，到构建AI协作框架"
+  - "N8N"
+  - "最强开源工作流N8N-爬虫教程1"
+  - "Supermemory"
+  - "Asmr"
+  - "超级记忆系统ASMR，让你的AI拥有永久记忆能力"
+  - "微软发布的开源小模型，百分百在本地运行"
+  - "Kimi"
+  - "买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）"
+  - "Mental Model"
+  - "Worktree"
+  - "Mit"
+  - "Every Claude Code Concept Explained for Normal People"
+  - "Superpowers"
+  - "Superpowers Plugin"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Ltx Desktop"
+  - "Open Source"
+  - "PR和剪映要慌了？全球首款原生AI 剪辑软件LTX免费开源了 #ltxdesktop"
+  - "Mcp2Cli"
+  - "Hacker News"
+  - "一个CLI干掉所有MCP工具，省99%的token mcp2cli"
+  - "用Claude Code自动编排n8n工作流，告别手搓。"
+  - "Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~"
+  - "🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！"
+  - "Agent-Reach"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "Complexity"
+  - "未来新的高收入技能组合"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "Porsche"
+  - "Tobias Sühlmann follows Michael Mauer as Porsche's new Head of Design | Classic Driver Magazine"
+  - "Top product management books and resources for 2026"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "MiniMax M2.5"
+  - "吴恩达"
+  - "好地方bug"
+  - "微信公众号"
+  - "歸藏"
+  - "清华"
+  - "知乎"
+---
+
+# Api
+
+## 定义
+
+API (Application Programming Interface) - 应用编程接口
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[CLAUDE.md]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Anthropic]]
+- [[Claude]]
+- [[Cat Wu]]
+- [[Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的]]
+- [[Cli]]
+- [[Sop]]
+- [[Prd]]
+- [[James Gleick]]
+- [[Stanford]]
+- [[Google]]
+- [[大神们是从哪获取优质信息，比如哪些微信公众号，知乎?]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Vibe Coding]]
+- [[Coding Plan]]
+- [[OpenClaw]]
+- [[Cherry Studio]]
+- [[MiniMax M2.5]]
+- [[Kimi K2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Skills]]
+- [[Cursor]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[Prompt Engineering]]
+- [[Extended Thinking]]
+- [[Agentic Loop]]
+- [[Multi-Agent]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Plan Mode]]
+- [[Gemini]]
+- [[Cloudflare]]
+- [[最好用的Agent框架是什么？]]
+- [[Rag]]
+- [[Jasper Wang]]
+- [[Chatgpt]]
+- [[Antirez]]
+- [[有哪些算法惊艳到了你？]]
+- [[Playwright]]
+- [[Selenium]]
+- [[Scraping]]
+- [[Bright Data]]
+- [[朱卫军 的想法: 这几天用selenium操作chrome浏览器尝试采集一些电商数据，但被网站检测出来，后面就没法访问了，我怀疑是… - 知乎]]
+- [[Distillation]]
+- [[Agent]]
+- [[Lora]]
+- [[OpenAI]]
+- [[无大算力时，作为学生，LLM 还有哪些值得做的研究？]]
+- [[Opencode]]
+- [[Copilot]]
+- [[Claude Opus 4]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[Mitchell Hashimoto]]
+- [[Ethan Mollick]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Mcp]]
+- [[GPT]]
+- [[小红书]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[Git]]
+- [[Notion]]
+- [[你写过什么不错的开源项目？]]
+- [[Skill]]
+- [[谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[Y Combinator]]
+- [[Paul Graham]]
+- [[天涯论坛关闭后，除了知乎，大家都在逛什么？]]
+- [[GitHub]]
+- [[Meta]]
+- [[最难调试修复的 bug 是怎样的？]]
+- [[Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页]]
+- [[Docker]]
+- [[Bridge]]
+- [[Bilibili]]
+- [[龙虾装了这个Skill，显得其它的都像个废物]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[Microsoft]]
+- [[playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？]]
+- [[浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？]]
+- [[Mineru]]
+- [[生产环境稳定运行半年多，一个解析任意复杂PDF的开源项目]]
+- [[5折订阅官方 chatgpt plus/claude code 会员服务｜更简单｜更省钱｜无需国际信用卡，每月不到 80 元]]
+- [[AI编程变天了，Trae Skills傻瓜式教程！]]
+- [[一人AI公司的底牌架构，全在这里。]]
+- [[Progressive Disclosure]]
+- [[Youtube]]
+- [[Obsidian CLI：80+命令让笔记库听命于终端]]
+- [[【熟肉】老外论证汽车仙人的时代已经结束了]]
+- [[Qwen]]
+- [[设计即将完全重构！这不是观点，这是事实！人类最难的视频真真正正的被AI攻克了！Seedance 2.0即将改变一切！生产模式，公司构架，行业形态都将被彻底颠覆！]]
+- [[爬虫界的核弹级开源项目，快速获取网页核心内容]]
+- [[Reinforcement Learning]]
+- [[Decision Making]]
+- [[Baseline]]
+- [[Princeton]]
+- [[对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42]]
+- [[从会用AI，到构建AI协作框架]]
+- [[N8N]]
+- [[最强开源工作流N8N-爬虫教程1]]
+- [[Supermemory]]
+- [[Asmr]]
+- [[超级记忆系统ASMR，让你的AI拥有永久记忆能力]]
+- [[微软发布的开源小模型，百分百在本地运行]]
+- [[Kimi]]
+- [[买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）]]
+- [[Mental Model]]
+- [[Worktree]]
+- [[Mit]]
+- [[Every Claude Code Concept Explained for Normal People]]
+- [[Superpowers]]
+- [[Superpowers Plugin]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Ltx Desktop]]
+- [[Open Source]]
+- [[PR和剪映要慌了？全球首款原生AI 剪辑软件LTX免费开源了 #ltxdesktop]]
+- [[Mcp2Cli]]
+- [[Hacker News]]
+- [[一个CLI干掉所有MCP工具，省99%的token mcp2cli]]
+- [[用Claude Code自动编排n8n工作流，告别手搓。]]
+- [[Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~]]
+- [[🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！]]
+- [[Agent-Reach]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[Complexity]]
+- [[未来新的高收入技能组合]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[Porsche]]
+- [[Tobias Sühlmann follows Michael Mauer as Porsche's new Head of Design | Classic Driver Magazine]]
+- [[Top product management books and resources for 2026]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[MiniMax M2.5]]
+- [[吴恩达]]
+- [[好地方bug]]
+- [[微信公众号]]
+- [[歸藏]]
+- [[清华]]
+- [[知乎]]
+- [[Deepseek]]

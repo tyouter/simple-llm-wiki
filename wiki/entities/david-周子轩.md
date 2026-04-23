@@ -10,11 +10,14 @@ tags:
   - "contributor"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.766744"
-updated_at: "2026-04-17T21:47:20.766744"
+updated_at: "2026-04-22T23:50:27.165280"
 related:
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
   - "Scenario Analysis (场景分析)"
   - "User Story vs. Environment"
+  - "User Story vs. Environment|Environment"
+  - "User Story vs. Environment|User Story"
+  - "知乎讨论：为什么做产品的人都很喜欢思考场景"
 ---
 
 # David 周子轩
@@ -42,4 +45,7 @@ zhihu-user, product-manager, scenario-analysis, contributor
 ## Related
 - [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
 - [[Scenario Analysis (场景分析)]]
+- [[User Story vs. Environment|Environment]]
+- [[User Story vs. Environment|User Story]]
+- [[知乎讨论：为什么做产品的人都很喜欢思考场景]]
 - [[User Story vs. Environment]]

@@ -13,7 +13,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.692247"
 ---
 
 # Obsidian从0到1完整攻略
@@ -107,8 +107,18 @@ Bases功能通过条件筛选笔记，自动在日志展示：
 3. **不离开Obsidian**: 在软件内直接对话
 
 ## Related
+- [[Agent]]
+- [[Cli]]
+- [[Git]]
+- [[Markdown]]
+- [[Skill]]
+- [[GitHub]]
+- [[Google]]
+- [[Notion]]
+- [[Obsidian CLI官方命令行工具教程]]
+- [[Obsidian接入Claude Skill教程]]
 
 - [[Obsidian]]
 - [[Obsidian CLI]]
-- [[Claudian插件]]
-- [[双向链接]]
+- Claudian插件
+- 双向链接

@@ -11,12 +11,14 @@ tags:
   - "content-moderation"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-23T00:42:26.758736"
 related:
   - "DeepSeek"
   - "GPT"
   - "Chinese Language AI Specialization"
   - "Prompt Engineering for Chinese AI"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
+  - "DeepSeek实用应用与提示词指南"
 ---
 
 # 豆包 (Doubao)
@@ -89,4 +91,6 @@ ByteDance's AI model mentioned in the DeepSeek analysis as having become overly 
 - [[DeepSeek]]
 - [[GPT]]
 - [[Chinese Language AI Specialization]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
+- [[DeepSeek实用应用与提示词指南]]
 - [[Prompt Engineering for Chinese AI]]

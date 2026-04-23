@@ -10,13 +10,17 @@ tags:
   - "prompt-engineering"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.799188"
-updated_at: "2026-04-17T11:04:20.799188"
+updated_at: "2026-04-22T23:50:28.014289"
 related:
   - "Claude Code"
   - "Gemini"
   - "Antigravity"
   - "designprompts.dev"
   - "AI-Free Interface Aesthetics"
+  - "AI-assisted design"
+  - "Rrupmid Nyche"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "谷歌Stitch氛围设计更新"
 ---
 
 # AI Tool Chaining/Specialization for Design
@@ -50,4 +54,8 @@ This strategy is often discussed in pursuit of [[AI-Free Interface Aesthetics]],
 - [[Gemini]]
 - [[Antigravity]]
 - [[designprompts.dev]]
+- [[AI-assisted design]]
+- [[Rrupmid Nyche]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[谷歌Stitch氛围设计更新]]
 - [[AI-Free Interface Aesthetics]]

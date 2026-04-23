@@ -17,7 +17,7 @@ tags:
   - "consulting"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.647926"
-updated_at: "2026-04-17T21:42:03.647926"
+updated_at: "2026-04-23T00:42:26.307619"
 related:
   - "Cross-Disciplinary Knowledge for Management"
   - "Theory-Practice Integration"
@@ -30,6 +30,14 @@ related:
   - "Sunny"
   - "Michael E. Porter"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Personal Transformation through Incremental Action"
+  - "Systematic Learning Framework"
+  - "考拉的糖果"
+  - "青峰哥"
+  - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
+  - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
+  - "Career Transition Barriers"
 ---
 
 # Strategic Management Learning Framework
@@ -55,7 +63,7 @@ A proposed method for learning strategic management that starts with foundationa
 - Bridge the gap between theory and practice through [[Theory-Practice Integration]]
 
 ## Implementation Approach
-This framework was proposed by Zhihu user [[木游子]] in response to a professional seeking to transition into strategic management. The approach emphasizes systematic progression from theory to practice, mirroring structured learning methodologies seen in other domains like the [[gstack-role-based-ai-development-workflow-for-claude-code]].
+This framework was proposed by Zhihu user [[木游子]] in response to a professional seeking to transition into strategic management. The approach emphasizes systematic progression from theory to practice, mirroring structured learning methodologies seen in other domains like the [[Claude]].
 
 ## Related Concepts
 - [[Cross-Disciplinary Knowledge for Management]]
@@ -75,7 +83,15 @@ This framework was proposed by Zhihu user [[木游子]] in response to a profess
 - [[Michael Porter]]
 - [[Robert S. Kaplan & David P. Norton]]
 - [[Philip Kotler]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
+- [[Personal Transformation through Incremental Action]]
+- [[Systematic Learning Framework]]
+- [[考拉的糖果]]
+- [[青峰哥]]
+- [[Zhihu Discussion on Enlightenment and Personal Transformation]]
+- [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]]
+- [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
+- [[Career Transition Barriers]]
 
 ---
 
@@ -134,7 +150,7 @@ strategic-management, learning-framework, career-development, knowledge-acquisit
 - [[Michael Porter]]
 - [[Robert S. Kaplan & David P. Norton]]
 - [[Philip Kotler]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[Theory-to-Practice Bridge in Strategy]]
 - [[Sunny]]
 - [[Michael E. Porter]]

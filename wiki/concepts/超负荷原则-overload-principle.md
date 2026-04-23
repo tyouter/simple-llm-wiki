@@ -11,13 +11,15 @@ tags:
   - "middle-age"
 confidence: "high"
 created_at: "2026-04-18T22:54:42.762024"
-updated_at: "2026-04-18T22:54:42.762024"
+updated_at: "2026-04-23T00:42:20.746385"
 related:
   - "肌少症 (Sarcopenia)"
   - "代偿 (Compensation)"
   - "间歇变速法 (Interval Training)"
   - "如萤随星"
   - "Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults"
+  - "正道内功 (Foundational Internal Skills)"
+  - "蕾妈在成长"
 ---
 
 # 超负荷原则 (Overload Principle)
@@ -42,11 +44,13 @@ In the context of middle-aged exercise discussed on Zhihu, the overload principl
 - [[间歇变速法 (Interval Training)]] - Practical application of overload principle in cardio
 
 ## Source Context
-Concept discussed in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] by user [[如萤随星]] as a foundational principle for effective middle-aged exercise programming.
+Concept discussed in [[Zhihu]] by user [[如萤随星]] as a foundational principle for effective middle-aged exercise programming.
 
 ## Related
 - [[肌少症 (Sarcopenia)]]
 - [[代偿 (Compensation)]]
 - [[间歇变速法 (Interval Training)]]
 - [[如萤随星]]
-- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]
+- [[正道内功 (Foundational Internal Skills)]]
+- [[蕾妈在成长]]
+- [[Zhihu]]

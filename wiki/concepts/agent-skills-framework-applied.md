@@ -11,13 +11,17 @@ tags:
   - "Workflow Optimization"
 confidence: "high"
 created_at: "2026-04-21T13:58:22.845279"
-updated_at: "2026-04-21T13:58:22.845279"
+updated_at: "2026-04-22T23:50:24.855302"
 related:
   - "AI Tool Specialization for Design"
   - "AI Tool Chaining/Combination"
   - "Claude Code"
   - "Gemini"
   - "Antigravity"
+  - "Design System Synthesis by AI"
+  - "GitHub"
+  - "AI决策五步法"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
 ---
 
 The practical recognition and utilization of distinct capabilities (skills) in different AI agents, assigning tasks based on their specialized proficiencies to maximize outcome quality. This is the operational core of a skills-based approach to agentic systems.
@@ -29,4 +33,8 @@ The source document provides a clear example: it advises against using a general
 - [[AI Tool Chaining/Combination]]
 - [[Claude Code]]
 - [[Gemini]]
+- [[Design System Synthesis by AI]]
+- [[GitHub]]
+- [[AI决策五步法]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
 - [[Antigravity]]

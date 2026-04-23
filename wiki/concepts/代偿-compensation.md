@@ -11,7 +11,7 @@ tags:
   - "rehabilitation"
 confidence: "high"
 created_at: "2026-04-18T22:54:42.763034"
-updated_at: "2026-04-18T22:54:42.763034"
+updated_at: "2026-04-23T00:42:20.610711"
 related:
   - "正道内功 (Foundational Internal Skills)"
   - "肌少症 (Sarcopenia)"
@@ -27,7 +27,7 @@ A movement dysfunction where improper movement patterns or muscular weaknesses c
 
 ## Relevance to Middle-Aged Exercise
 
-In the context of [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]], compensation is identified as a critical concern because:
+In the context of [[Zhihu]], compensation is identified as a critical concern because:
 
 1. **Age-Related Changes**: Reduced flexibility, strength imbalances, and previous injuries increase compensation risk
 2. **Foundation First**: As emphasized by [[谷磨]], addressing compensation requires mastering [[正道内功 (Foundational Internal Skills)]] before engaging in specific training
@@ -53,11 +53,11 @@ In the context of [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged A
 - [[超负荷原则 (Overload Principle)]] - Risk of injury if applied with existing compensation
 
 ## Source Context
-Discussed by [[谷磨]] in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] as a fundamental concept for safe, effective exercise programming.
+Discussed by [[谷磨]] in [[Zhihu]] as a fundamental concept for safe, effective exercise programming.
 
 ## Related
 - [[正道内功 (Foundational Internal Skills)]]
 - [[肌少症 (Sarcopenia)]]
 - [[超负荷原则 (Overload Principle)]]
 - [[谷磨]]
-- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]
+- [[Zhihu]]

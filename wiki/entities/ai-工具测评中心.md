@@ -11,12 +11,13 @@ tags:
   - "knowledge-sharing"
 confidence: "high"
 created_at: "2026-04-19T22:45:41.927538"
-updated_at: "2026-04-19T22:45:41.927538"
+updated_at: "2026-04-22T23:50:24.209347"
 related:
   - "OpenAkita: Open-Source Self-Evolving AI Assistant Framework"
   - "钱嘟嘟左卫门"
   - "Self-Evolving AI Assistant"
   - "Autonomous Task Planning & Execution"
+  - "OpenAkita开源自我进化AI助手框架"
 ---
 
 # AI 工具测评中心 (AI Tool Evaluation Center)
@@ -86,4 +87,5 @@ While specific evaluation criteria aren't detailed in the source material, the O
 - [[OpenAkita: Open-Source Self-Evolving AI Assistant Framework]]
 - [[钱嘟嘟左卫门]]
 - [[Self-Evolving AI Assistant]]
+- [[OpenAkita开源自我进化AI助手框架]]
 - [[Autonomous Task Planning & Execution]]

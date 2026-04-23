@@ -13,12 +13,13 @@ tags:
   - "engineering"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.320714"
-updated_at: "2026-04-18T22:44:23.320714"
+updated_at: "2026-04-22T23:50:23.729334"
 related:
   - "Mizore"
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
   - "AI-Assisted Paper Reading"
   - "Claude Code Automation/Configuration Management"
+  - "Mizore的Claude Code一键配置开源"
 ---
 
 # Southern University of Science and Technology (SUSTech)
@@ -72,4 +73,5 @@ university, research-institution, shenzhen, china, stem-education, academic, eng
 - [[Mizore]]
 - [[Mizore's Claude Code Automation Toolkit and Paper Reading Skill]]
 - [[AI-Assisted Paper Reading]]
+- [[Mizore的Claude Code一键配置开源]]
 - [[Claude Code Automation/Configuration Management]]

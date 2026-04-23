@@ -11,7 +11,7 @@ tags:
   - "领导力"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.834831"
 ---
 
 # 2026产品管理书籍与资源推荐
@@ -92,6 +92,6 @@ Mind the Product发布的2026年产品管理资源指南，涵盖书籍、播客
 | Pendomonium | - | Pendo年度产品节 |
 
 ## Related
-- [[产品管理]]
-- [[AI产品管理]]
+- 产品管理
+- AI产品管理
 - [[一人AI公司]]

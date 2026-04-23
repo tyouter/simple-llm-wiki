@@ -11,12 +11,16 @@ tags:
   - "industry-academic-collaboration"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-23T00:42:26.949196"
 related:
   - "清华大学 (Tsinghua University)"
   - "Tool-Integrated Reasoning (TIR)"
   - "Domain-Specific Language (DSL) for AI Agents"
   - "AI Agent"
+  - "Agent RL Training"
+  - "字节跳动 (ByteDance)"
+  - "面壁 (FaceWall)"
+  - "知乎讨论：怎么成为一个AI Agent工程师"
 ---
 
 # 腾讯 (Tencent)
@@ -57,6 +61,10 @@ Understanding this foundational research helps [[AI Agent]] engineers make infor
 chinese-tech-company, ai-research, mathematical-foundations, tool-integrated-reasoning, industry-academic-collaboration
 
 ## Related
+- [[Agent RL Training]]
+- [[字节跳动 (ByteDance)]]
+- [[面壁 (FaceWall)]]
+- [[知乎讨论：怎么成为一个AI Agent工程师]]
 [[清华大学 (Tsinghua University)]], [[Tool-Integrated Reasoning (TIR)]], [[Domain-Specific Language (DSL) for AI Agents]], [[AI Agent]]
 
 ## Related

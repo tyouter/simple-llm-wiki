@@ -12,12 +12,14 @@ tags:
   - "format"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.780616"
-updated_at: "2026-04-20T00:11:14.780616"
+updated_at: "2026-04-22T23:50:25.200699"
 related:
   - "AI-Enhanced Note-Taking"
   - "obsidian-skills"
   - "Note Organization Philosophy"
   - "Obsidian"
+  - "Steph Ango (kepano)"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
 ---
 
 # Markdown as Human-AI Interface
@@ -77,6 +79,8 @@ markdown, ai-integration, interface, collaboration, knowledge-management, format
 - [[obsidian-skills]]
 - [[Note Organization Philosophy]]
 - [[Obsidian]]
+- [[Steph Ango (kepano)]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
 
 ## Related
 - [[AI-Enhanced Note-Taking]]

@@ -11,13 +11,15 @@ tags:
   - "resource"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.480723"
-updated_at: "2026-04-17T21:53:35.480723"
+updated_at: "2026-04-22T23:50:23.436443"
 related:
   - "designprompts.dev"
   - "Vibe Coding Enhancement Workflow"
   - "Design Style System Prompt"
   - "AI-Free Interface Aesthetics"
   - "Design Prompt Curation/Repositories"
+  - "AI-Generated Design Quality Spectrum"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
 ---
 
 # Curated Design Prompt Repositories
@@ -51,6 +53,8 @@ These sites encapsulate design expertise into a transferable format. They allow 
 - [[Design Style System Prompt]]
 - [[AI-Free Interface Aesthetics]]
 - [[Design Prompt Curation/Repositories]]
+- [[AI-Generated Design Quality Spectrum]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
 
 ## Related
 - [[designprompts.dev]]

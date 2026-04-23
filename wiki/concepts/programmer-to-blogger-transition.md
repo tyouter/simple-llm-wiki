@@ -11,13 +11,16 @@ tags:
   - "open-source"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.748072"
-updated_at: "2026-04-17T21:46:36.748072"
+updated_at: "2026-04-23T00:42:20.451996"
 related:
   - "Technical Blog Quality Hierarchy"
   - "AI Content Saturation"
   - "Simon Willison"
   - "David Heinemeier Hansson (DHH)"
   - "Armin Ronacher"
+  - "Andrej Karpathy"
+  - "Paul Graham"
+  - "陈皓 (Cool Shell)"
 ---
 
 # Programmer-to-Blogger Transition
@@ -66,14 +69,17 @@ Many programmer-bloggers have shifted focus to AI topics in recent years, reflec
 - **Topic Selection**: Choosing between technical depth and broader accessibility.
 
 ## Relation to Broader Trends
-This transition pattern is documented in discussions like [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]], which also addresses [[AI Content Saturation]] challenges.
+This transition pattern is documented in discussions like [[Zhihu]], which also addresses [[AI Content Saturation]] challenges.
 
-**Source**: [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+**Source**: [[Zhihu]]
 
 ## Tags
 programmer-culture, technical-communication, career-development, thought-leadership, open-source
 
 ## Related
+- [[Andrej Karpathy]]
+- [[Paul Graham]]
+- [[陈皓 (Cool Shell)]]
 [[Technical Blog Quality Hierarchy]], [[AI Content Saturation]], [[Simon Willison]], [[David Heinemeier Hansson (DHH)]], [[Armin Ronacher]]
 
 ## Related

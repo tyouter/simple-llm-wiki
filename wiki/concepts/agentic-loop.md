@@ -11,13 +11,54 @@ tags:
   - "tool-calling"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-18T01:05:59.587391"
+updated_at: "2026-04-23T00:42:26.267656"
 related:
   - "Claude Code"
   - "Extended Thinking"
   - "Model Context Protocol"
   - "Multi-Agent Orchestration"
   - "advanced-claude-code-workflow-techniques-and-architecture-analysis"
+  - "Prompt Engineering"
+  - "Context Window"
+  - "Multi-Agent"
+  - "Anthropic"
+  - "Luhui Dev"
+  - "Deepseek"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Agent RL Training"
+  - "AI Agent"
+  - "AI Tool Chaining/Combination"
+  - "Api"
+  - "Cli"
+  - "Conductor"
+  - "Copilot"
+  - "Distributed Context Management"
+  - "Gemini"
+  - "Mcp"
+  - "Parallel Tool Calling"
+  - "Prompt Combination & Meta-Prompting"
+  - "ReAct (Reasoning + Acting)"
+  - "Subagent"
+  - "Subagents for Context Efficiency"
+  - "Vibe Coding"
+  - "主动输入式学习"
+  - "主观使用体验 (AI 模型)"
+  - "代理操作系统 (Agent Operating System)"
+  - "推理层（决策第三步）"
+  - "智能体自我进化"
+  - "碎片化学习节奏化"
+  - "ChatGPT 5.2"
+  - "DeepSeek"
+  - "GitHub"
+  - "Google"
+  - "Meta"
+  - "MetaBot"
+  - "Notion"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
+  - "Agent"
 ---
 
 # Agentic Loop
@@ -76,7 +117,7 @@ Based on analysis by [[零一猴子]] who reverse-engineered Claude Code's npm p
 - **Self-Correction**: Iterative refinement based on execution results
 
 ### Engineering Benefits
-- **Debuggability**: Clear phase transitions make debugging easier (as noted in [[advanced-claude-code-workflow-techniques-and-architecture-analysis]])
+- **Debuggability**: Clear phase transitions make debugging easier (as noted in [[Claude]])
 - **Predictability**: Structured flow enables better outcome prediction
 - **Extensibility**: New tools and capabilities can be integrated into the loop
 
@@ -100,4 +141,45 @@ agent-architecture, claude-code, workflow, autonomous-execution, tool-calling
 - [[Extended Thinking]]
 - [[Model Context Protocol]]
 - [[Multi-Agent Orchestration]]
-- [[advanced-claude-code-workflow-techniques-and-architecture-analysis]]
+- [[Prompt Engineering]]
+- [[Context Window]]
+- [[Multi-Agent]]
+- [[Anthropic]]
+- [[Luhui Dev]]
+- [[Deepseek]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Agent RL Training]]
+- [[AI Agent]]
+- [[AI Tool Chaining/Combination]]
+- [[Api]]
+- [[Cli]]
+- [[Conductor]]
+- [[Copilot]]
+- [[Distributed Context Management]]
+- [[Gemini]]
+- [[Mcp]]
+- [[Parallel Tool Calling]]
+- [[Prompt Combination & Meta-Prompting]]
+- [[ReAct (Reasoning + Acting)]]
+- [[Subagent]]
+- [[Subagents for Context Efficiency]]
+- [[Vibe Coding]]
+- [[主动输入式学习]]
+- [[主观使用体验 (AI 模型)]]
+- [[代理操作系统 (Agent Operating System)]]
+- [[推理层（决策第三步）]]
+- [[智能体自我进化]]
+- [[碎片化学习节奏化]]
+- [[ChatGPT 5.2]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[Google]]
+- [[Meta]]
+- [[MetaBot]]
+- [[Notion]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
+- [[Agent]]
+- [[Claude]]

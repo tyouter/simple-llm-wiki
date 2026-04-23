@@ -16,7 +16,7 @@ tags:
   - "知乎分析"
 confidence: "high"
 created_at: "2026-04-21T13:59:50.041753"
-updated_at: "2026-04-21T13:59:50.041753"
+updated_at: "2026-04-23T00:42:22.084669"
 related:
   - "领域特定语言 (DSL)"
   - "工具集成推理 (TIR)"
@@ -46,20 +46,20 @@ related:
 5.  **引入子智能体 (SubAgent)**：通过上下文隔离处理复杂子任务。
 6.  **构建技能 (Skills) 系统**：实现领域知识的模块化与按需加载。
 
-**职业建议**：文档还分析了 **AI Agent 工程师技能栈**，建议转行者从扎实编程基础、熟悉 AI 编程工具（如 [[Claude Code / GitHub Copilot / Qwen Code]]）、掌握 Agent 框架（如 [[LangChain / LangGraph]]）和实践项目（如参考 [[mini-agent (代码仓库)]]）入手。
+**职业建议**：文档还分析了 **AI Agent 工程师技能栈**，建议转行者从扎实编程基础、熟悉 AI 编程工具（如 [[Qwen]]）、掌握 Agent 框架（如 [[LangGraph]]）和实践项目（如参考 [[Agent]]）入手。
 
 **关键矛盾与辨析**：文档中存在视角差异。理论派强调 DSL 是本质，批判“纯文本技能”；实践派的 **技能 (Skills)** 系统则是一个有效的工程模块。这反映了抽象原理与具体实现之间的张力，但两者共同指向了构建高效、可控 Agent 的目标。
 
 ## Related
-- [[领域特定语言 (DSL)]]
-- [[工具集成推理 (TIR)]]
-- [[Token 效率]]
-- [[可行支撑集]]
-- [[上下文糜烂]]
-- [[ReAct 循环]]
-- [[模型上下文协议 (MCP)]]
-- [[子智能体 (SubAgent)]]
-- [[技能 (Skills)]]
-- [[TODO 管理]]
-- [[Workflow + RAG 的局限性]]
-- [[AI Agent 工程师技能栈]]
+- 领域特定语言 (DSL)
+- 工具集成推理 (TIR)
+- Token 效率
+- 可行支撑集
+- 上下文糜烂
+- ReAct 循环
+- [[Mcp]]
+- [[Agent]]
+- [[Skill]]
+- TODO 管理
+- [[Rag]]
+- [[Advanced AI Agent Architecture for Financial Analysis]]

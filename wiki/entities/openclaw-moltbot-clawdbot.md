@@ -11,13 +11,15 @@ tags:
   - "automation-platform"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-23T00:42:20.938002"
 related:
   - "AI Agent"
   - "Mario Zechner"
   - "AI Agent Complexity Management"
   - "Business SOP Automation"
   - "RPA-AI Hybrid Architecture"
+  - "饼干哥哥AGI"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # OpenClaw (Moltbot/ClawdBot)
@@ -62,7 +64,7 @@ Based on implementations discussed by experienced users:
 - **Skill Development**: Demands rigorous [[Skill Engineering for AI Agents]] for reliable performance
 
 ## Creator and Ecosystem
-- **Creator**: [[Mario Zechner]], also known for Pi Agent and mentioned in [[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]] as an influential technical blogger
+- **Creator**: [[Mario Zechner]], also known for Pi Agent and mentioned in [[Zhihu]] as an influential technical blogger
 - **Community**: Active user community sharing implementations and best practices
 - **Development**: Ongoing evolution with contributions from practical implementations
 
@@ -87,6 +89,8 @@ OpenClaw implementations often connect to concepts like [[Agent Operating System
 ai-agent-framework, openclaw, moltbot, clawdbot, automation-platform
 
 ## Related
+- [[饼干哥哥AGI]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[AI Agent]], [[Mario Zechner]], [[AI Agent Complexity Management]], [[Business SOP Automation]], [[RPA-AI Hybrid Architecture]]
 
 ## Related

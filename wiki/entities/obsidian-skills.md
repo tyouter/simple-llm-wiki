@@ -12,13 +12,15 @@ tags:
   - "markdown"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.780616"
-updated_at: "2026-04-20T00:11:14.780616"
+updated_at: "2026-04-23T00:42:20.936496"
 related:
   - "Obsidian"
   - "Steph Ango (kepano)"
   - "AI-Enhanced Note-Taking"
   - "Markdown as Human-AI Interface"
   - "mizore-s-claude-code-automation-toolkit-and-paper-reading-skill"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
+  - "知乎讨论：大家的obsidian笔记都是怎么做的"
 ---
 
 # obsidian-skills
@@ -67,7 +69,7 @@ An open-source toolkit by [[Obsidian]]'s CEO [[Steph Ango (kepano)]] containing 
 ## Related Concepts
 - **[[AI Tool Chaining/Combination]]**: The toolkit exemplifies tool chaining by allowing different AI agents to leverage the same skills.
 - **[[Vibe Coding]]**: Connection through aesthetic-prompt-driven approaches to content generation.
-- **[[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]**: Another community-developed toolkit for AI workflow automation.
+- **[[Claude]]**: Another community-developed toolkit for AI workflow automation.
 
 ## Tags
 obsidian, ai-integration, toolkit, open-source, automation, markdown
@@ -77,11 +79,13 @@ obsidian, ai-integration, toolkit, open-source, automation, markdown
 - [[Steph Ango (kepano)]]
 - [[AI-Enhanced Note-Taking]]
 - [[Markdown as Human-AI Interface]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
+- [[知乎讨论：大家的obsidian笔记都是怎么做的]]
 
 ## Related
 - [[Obsidian]]
 - [[Steph Ango (kepano)]]
 - [[AI-Enhanced Note-Taking]]
 - [[Markdown as Human-AI Interface]]
-- [[mizore-s-claude-code-automation-toolkit-and-paper-reading-skill]]
+- [[Claude]]

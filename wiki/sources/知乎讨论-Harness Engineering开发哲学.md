@@ -10,7 +10,7 @@ tags:
   - "控制论"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:22.315804"
 related:
   - "Harness Engineering"
   - "控制论与Agent"
@@ -91,6 +91,6 @@ related:
 
 ## Related
 - [[Harness Engineering]]
-- [[控制论与Agent]]
-- [[Agent环境设计]]
-- [[熵管理]]
+- [[Agent]]
+- [[Agent]]
+- 熵管理

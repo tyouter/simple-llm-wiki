@@ -11,12 +11,14 @@ tags:
   - "confidence-scoring"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.394565"
-updated_at: "2026-04-17T21:56:25.394565"
+updated_at: "2026-04-22T23:50:18.149914"
 related:
   - "AI Agent Cognitive Architecture"
   - "Multi-Tool Orchestration with State Machines"
   - "AI Tool Chaining/Combination"
   - "Advanced AI Agent Architecture for Financial Analysis"
+  - "LangGraph"
+  - "杞鋂"
 ---
 
 # Self-Verification and Quality Auditing in AI Systems
@@ -69,6 +71,8 @@ This quality control mechanism is essential for robust [[AI Agent Cognitive Arch
 quality-control, verification, metacognition, error-handling, confidence-scoring
 
 ## Related
+- [[LangGraph]]
+- [[杞鋂]]
 [[AI Agent Cognitive Architecture]], [[Multi-Tool Orchestration with State Machines]], [[AI Tool Chaining/Combination]], [[Advanced AI Agent Architecture for Financial Analysis]]
 
 ## Related

@@ -10,11 +10,16 @@ tags:
   - "strategic-planning"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.361537"
-updated_at: "2026-04-18T01:29:07.361537"
+updated_at: "2026-04-22T23:50:17.491325"
 related:
   - "7-Step Strategic Planning Framework"
   - "Organizational System Gap"
   - "Three-Level Sales Target System"
+  - "HAHAPPYPPY"
+  - "IBM"
+  - "华为 (Huawei)"
+  - "吴海洋"
+  - "和夫咨询"
 ---
 
 # Strategic Gap Analysis
@@ -92,4 +97,9 @@ strategic-analysis, gap-analysis, performance-management, strategic-planning
 ## Related
 - [[7-Step Strategic Planning Framework]]
 - [[Organizational System Gap]]
+- [[HAHAPPYPPY]]
+- [[IBM]]
+- [[华为 (Huawei)]]
+- [[吴海洋]]
+- [[和夫咨询]]
 - [[Three-Level Sales Target System]]

@@ -11,12 +11,16 @@ tags:
   - "scalability"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-23T00:42:20.566836"
 related:
   - "token-efficiency-in-ai-reasoning"
   - "AI Agent Complexity Management"
   - "Business SOP Automation"
   - "AI Agent"
+  - "RPA-AI Hybrid Architecture"
+  - "Skill Engineering for AI Agents"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # Token Management in Complex Systems
@@ -85,7 +89,7 @@ As discussed in the [[Zhihu Discussion: OpenClaw/Moltbot Practical Applications 
 - **Automation vs. Human Review**: Determining where human intervention is most valuable
 
 ## Connection to Related Concepts
-This concept directly extends principles from [[token-efficiency-in-ai-reasoning]] to complex system design. It's essential for implementing [[AI Agent Complexity Management]] in practical systems and enables [[Business SOP Automation]] at scale.
+This concept directly extends principles from token-efficiency-in-ai-reasoning to complex system design. It's essential for implementing [[AI Agent Complexity Management]] in practical systems and enables [[Business SOP Automation]] at scale.
 
 ## Optimization Techniques
 1. **Context Compression**: Using techniques like fine-tuning or prompt engineering to reduce token requirements
@@ -99,10 +103,14 @@ This concept directly extends principles from [[token-efficiency-in-ai-reasoning
 token-management, system-architecture, optimization, ai-agent, scalability
 
 ## Related
-[[token-efficiency-in-ai-reasoning]], [[AI Agent Complexity Management]], [[Business SOP Automation]], [[AI Agent]]
+- [[RPA-AI Hybrid Architecture]]
+- [[Skill Engineering for AI Agents]]
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
+token-efficiency-in-ai-reasoning, [[AI Agent Complexity Management]], [[Business SOP Automation]], [[AI Agent]]
 
 ## Related
-- [[token-efficiency-in-ai-reasoning]]
+- token-efficiency-in-ai-reasoning
 - [[AI Agent Complexity Management]]
 - [[Business SOP Automation]]
 - [[AI Agent]]

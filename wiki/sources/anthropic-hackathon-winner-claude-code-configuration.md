@@ -12,7 +12,7 @@ tags:
   - "Anthropic"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.196262"
 ---
 
 # Anthropic黑客马拉松获胜者的Claude Code配置
@@ -69,9 +69,9 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关概念
 - [[Claude Code Skills系统]]
-- [[持续学习系统]]
-- [[Claude Code配置最佳实践]]
+- 持续学习系统
+- [[Stop Writing Bad CLAUDE.md Files - Claude Code配置最佳实践]]
 
 ## 相关实体
-- [[AI随风随风]]
+- AI随风随风
 - [[Anthropic]]

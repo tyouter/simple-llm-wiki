@@ -11,12 +11,28 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.670538"
-updated_at: "2026-04-18T00:19:39.670538"
+updated_at: "2026-04-22T23:50:25.962554"
 related:
   - "Claude Code"
   - "awesome-claude-code"
   - "Clave"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "AI 大模型演进评估"
+  - "AI技术博客主题聚合"
+  - "Community-Driven Feature Development"
+  - "Low-Code/No-Code Frontend via AI"
+  - "Obsidian Plugin Ecosystem"
+  - "Simon Willison"
+  - "低成本 API 接入策略"
+  - "开源学习工具的可试先行"
+  - "技能共享社区"
+  - "趋同进化 (Convergent Evolution)"
+  - "Antigravity"
+  - "GitHub"
+  - "OpenCode"
+  - "XiaoNuo-Notes"
+  - "香港大学实验室"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
 ---
 
 # AI Programming Ecosystem
@@ -50,6 +66,22 @@ The growth of an ecosystem can be a significant competitive moat for an AI codin
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
 - [[Engineer Identity Transformation]]
 - [[Agent Operating System]]
+- [[AI 大模型演进评估]]
+- [[AI技术博客主题聚合]]
+- [[Community-Driven Feature Development]]
+- [[Low-Code/No-Code Frontend via AI]]
+- [[Obsidian Plugin Ecosystem]]
+- [[Simon Willison]]
+- [[低成本 API 接入策略]]
+- [[开源学习工具的可试先行]]
+- [[技能共享社区]]
+- [[趋同进化 (Convergent Evolution)]]
+- [[Antigravity]]
+- [[GitHub]]
+- [[OpenCode]]
+- [[XiaoNuo-Notes]]
+- [[香港大学实验室]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
 
 ## Related
 - [[Claude Code]]

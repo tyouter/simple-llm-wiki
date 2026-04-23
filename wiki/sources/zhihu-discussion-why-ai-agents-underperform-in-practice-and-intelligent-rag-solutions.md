@@ -10,7 +10,7 @@ tags:
   - "self-verification"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:35.828867"
 related:
   - "Agent问题分析"
   - "智能RAG架构"
@@ -81,7 +81,8 @@ AgentState包含：
 > 要让AI像人一样思考，而不只是搜索。
 
 ## Related
-- [[Agent问题分析]]
-- [[智能RAG架构]]
-- [[多工具编排]]
-- [[自我验证与审计]]
+- [[Agent]]
+- [[Rag]]
+- [[惊艳算法合集]]
+- 多工具编排
+- 自我验证与审计

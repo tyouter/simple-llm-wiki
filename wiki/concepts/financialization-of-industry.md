@@ -11,13 +11,14 @@ tags:
   - "criticism"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.214159"
-updated_at: "2026-04-18T22:51:14.214159"
+updated_at: "2026-04-22T23:50:01.652957"
 related:
   - "Financial vs. Industrial Logic"
   - "Industrial Moats/护城河"
   - "Boeing"
   - "BYD (比亚迪)"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
 ---
 
 # Financialization of Industry
@@ -53,4 +54,5 @@ concept, finance, corporate-governance, industrial-policy, criticism
 - [[Industrial Moats/护城河]]
 - [[Boeing]]
 - [[BYD (比亚迪)]]
+- [[China Manufacturing]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

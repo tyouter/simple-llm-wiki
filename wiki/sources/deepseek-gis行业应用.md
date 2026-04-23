@@ -10,7 +10,7 @@ tags:
   - "autonomous-gis"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:21.402523"
 ---
 
 # DeepSeek在GIS行业的应用前景
@@ -58,7 +58,7 @@ updated_at: "2026-04-20T10:00:00"
 
 ## Related
 
-- [[自主GIS系统]]
-- [[地理空间问答]]
-- [[空间数据处理]]
+- 自主GIS系统
+- 地理空间问答
+- 空间数据处理
 - [[DeepSeek]]

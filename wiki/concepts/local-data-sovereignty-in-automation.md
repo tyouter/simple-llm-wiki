@@ -11,11 +11,13 @@ tags:
   - "governance"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.014122"
-updated_at: "2026-04-18T23:00:54.014122"
+updated_at: "2026-04-22T23:50:27.288251"
 related:
   - "cdbus_gui"
   - "Code Fence + Sandbox Iframe Architecture"
   - "AI Tool Chaining/Combination"
+  - "Duke Fong"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Local Data Sovereignty in Automation
@@ -67,4 +69,6 @@ Represents an alternative model to dominant cloud-based automation platforms lik
 ## Related
 - [[cdbus_gui]]
 - [[Code Fence + Sandbox Iframe Architecture]]
+- [[Duke Fong]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[AI Tool Chaining/Combination]]

@@ -11,12 +11,17 @@ tags:
   - "cognitive-architecture"
 confidence: "high"
 created_at: "2026-04-17T22:21:17.646793"
-updated_at: "2026-04-17T22:21:17.646793"
+updated_at: "2026-04-22T23:50:16.470285"
 related:
   - "ASMR (Agentic Search and Memory Retrieval)"
   - "Multi-Agent Specialization & Orchestration"
   - "Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs"
   - "Benchmark vs. Engineering Reality Gap"
+  - "信息层（决策第一步）"
+  - "博客内容动态筛选机制"
+  - "LongMemEval/LongMemEval_s"
+  - "Perplexity 或 AI搜索工具"
+  - "Supermemory.ai"
 ---
 
 # Agent-Based Active Retrieval
@@ -58,4 +63,9 @@ information-retrieval, ai-agents, reasoning-engines, rag-critique, cognitive-arc
 - [[ASMR (Agentic Search and Memory Retrieval)]]
 - [[Multi-Agent Specialization & Orchestration]]
 - [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]]
+- [[信息层（决策第一步）]]
+- [[博客内容动态筛选机制]]
+- [[LongMemEval/LongMemEval_s]]
+- [[Perplexity 或 AI搜索工具]]
+- [[Supermemory.ai]]
 - [[Benchmark vs. Engineering Reality Gap]]

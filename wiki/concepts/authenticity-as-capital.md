@@ -13,7 +13,7 @@ tags:
   - "china-business"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.060295"
-updated_at: "2026-04-18T22:52:17.060295"
+updated_at: "2026-04-22T23:50:18.562703"
 related:
   - "Perseverance Performance"
   - "Dream-First, Business-Second Entrepreneurship"
@@ -21,6 +21,13 @@ related:
   - "Zhang Xue"
   - "Yi Jun"
   - "Zhang Jixing"
+  - "从创作者到投资/布道者的博客演进"
+  - "工程师思维写作范式"
+  - "技术博客生态分层"
+  - "独立个人博客价值"
+  - "社区反馈驱动的产品验证"
+  - "Zhang Xue Motorcycle"
+  - "知乎"
 ---
 
 # Authenticity as Capital (真诚的能量)
@@ -76,4 +83,11 @@ authenticity, social-capital, entrepreneurship, character, trust, mentorship, ch
 - [[Career Transition Barriers in Consulting]]
 - [[Zhang Xue]]
 - [[Yi Jun]]
+- [[从创作者到投资/布道者的博客演进]]
+- [[工程师思维写作范式]]
+- [[技术博客生态分层]]
+- [[独立个人博客价值]]
+- [[社区反馈驱动的产品验证]]
+- [[Zhang Xue Motorcycle]]
+- [[知乎]]
 - [[Zhang Jixing]]

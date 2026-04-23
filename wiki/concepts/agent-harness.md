@@ -12,7 +12,7 @@ tags:
   - "state-management"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.382589"
-updated_at: "2026-04-19T01:52:16.382589"
+updated_at: "2026-04-22T23:50:23.200282"
 related:
   - "Harness Engineering"
   - "Anthropic"
@@ -21,6 +21,10 @@ related:
   - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
   - "Multi-Agent Orchestration"
   - "Context Engineering"
+  - "Agent-First Development"
+  - "汉松"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
 ---
 
 # Agent Harness
@@ -113,6 +117,10 @@ As AI agent capabilities advance, agent harnesses are expected to become more so
 agent-harness, ai-infrastructure, agent-architecture, execution-environment, tool-integration, state-management
 
 ## Related
+- [[Agent-First Development]]
+- [[汉松]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
 [[Harness Engineering]], [[Anthropic]], [[EleutherAI]], [[Agent Operating System]], [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]], [[Multi-Agent Orchestration]], [[Context Engineering]]
 
 ## Related

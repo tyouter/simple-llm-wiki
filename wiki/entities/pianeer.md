@@ -11,11 +11,13 @@ tags:
   - "philosopher"
 confidence: "high"
 created_at: "2026-04-20T00:27:32.686562"
-updated_at: "2026-04-20T00:27:32.686562"
+updated_at: "2026-04-22T23:50:27.262415"
 related:
   - "Acceptance of Imperfection and Complexity"
   - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
   - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
+  - "知乎讨论：人生道理与创造力、接纳与主动性"
+  - "知乎讨论：你人生中太晚明白的道理是什么"
 ---
 
 # Pianeer
@@ -40,6 +42,8 @@ Provides a pragmatic, psychologically relieving counterpoint to optimization cul
 ## Related
 - [[Acceptance of Imperfection and Complexity]]
 - [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[知乎讨论：人生道理与创造力、接纳与主动性]]
+- [[知乎讨论：你人生中太晚明白的道理是什么]]
 
 ## Related
 - [[Acceptance of Imperfection and Complexity]]

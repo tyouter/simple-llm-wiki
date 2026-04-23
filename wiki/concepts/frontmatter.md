@@ -3,6 +3,12 @@ title: "Frontmatter"
 type: "concept"
 sources:
   - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/55258346_claude code使用感受如何claude code使用感受如何.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md"
 tags:
   - "YAML"
   - "配置"
@@ -10,16 +16,142 @@ tags:
   - "Markdown"
 confidence: "high"
 created_at: "2026-04-21T18:22:23.249742"
-updated_at: "2026-04-21T18:22:23.249742"
+updated_at: "2026-04-23T00:42:26.457523"
 related:
   - "Rules规则目录"
   - "CLAUDE.md"
   - "持久记忆体系"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Auto Memory"
+  - "Superpowers"
+  - "Cloudflare"
+  - "Anthropic"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Playwright"
+  - "Ai Agent"
+  - "Github Copilot"
+  - "Skills的本质是什么？"
+  - "Model Context Protocol"
+  - "Extended Thinking"
+  - "Claude.Md"
+  - "Openclaw"
+  - "Claude"
+  - "claude code使用感受如何？"
+  - "Code Review"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Opencode"
+  - "Skills"
+  - "Cursor"
+  - "Design Pattern"
+  - "Subagent"
+  - "Mit"
+  - "Extend Claude with skills - Claude Code Docs"
+  - "A/B Test"
+  - "Agent-First Development"
+  - "Cli"
+  - "Copilot"
+  - "Docker"
+  - "Gemini"
+  - "Hooks"
+  - "Humanize"
+  - "Markdown"
+  - "Mcp"
+  - "Obsidian"
+  - "Plan Mode"
+  - "Rag"
+  - "Tailwind"
+  - "Worktree"
+  - "Yaml"
+  - "Ai学习的老章"
+  - "GitHub"
+  - "GPT"
+  - "Meta"
+  - "Notion"
+  - "OpenCode"
+  - "skill-creator"
+  - "Stripe"
+  - "SWE-agent"
+  - "Vercel"
+  - "Youtube"
+  - "白玉京"
+  - "知乎"
+  - "Claude Code高效配置与开发实践指南"
+  - "Agent"
+  - "Skill"
 ---
 
-一种写在 Markdown 文件顶部的、用 `---` 包裹的 YAML 配置区块，用于为文件附加元数据。在 [[Claude Code]] 的 [[Rules规则目录]] 机制中，Frontmatter 被用来声明该规则文件的生效范围。通过在 Frontmatter 中配置 `paths` 字段，可以指定通配符路径，使得该规则仅对匹配路径的文件生效。这实现了规则的精细化、条件化应用，是管理大型、多模块项目编码规范的核心工具，也是对 [[CLAUDE.md]] 单一文件作用域的强大补充。例如，可以在 `code-style.md` 顶部配置 `paths: ["src/**/*.py"]` 来确保该代码风格规则只应用于 Python 源文件。
+一种写在 Markdown 文件顶部的、用 `---` 包裹的 YAML 配置区块，用于为文件附加元数据。在 [[Claude Code]] 的 Rules规则目录 机制中，Frontmatter 被用来声明该规则文件的生效范围。通过在 Frontmatter 中配置 `paths` 字段，可以指定通配符路径，使得该规则仅对匹配路径的文件生效。这实现了规则的精细化、条件化应用，是管理大型、多模块项目编码规范的核心工具，也是对 [[CLAUDE.md]] 单一文件作用域的强大补充。例如，可以在 `code-style.md` 顶部配置 `paths: ["src/**/*.py"]` 来确保该代码风格规则只应用于 Python 源文件。
 
 ## Related
-- [[Rules规则目录]]
+- [[Agent]]
+- [[Skill]]
+- Rules规则目录
 - [[CLAUDE.md]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Auto Memory]]
+- [[Superpowers]]
+- [[Cloudflare]]
+- [[Anthropic]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[AI Agent]]
+- [[Github Copilot]]
+- [[Skills的本质是什么？]]
+- [[Model Context Protocol]]
+- [[Extended Thinking]]
+- [[CLAUDE.md]]
+- [[OpenClaw]]
+- [[Claude]]
+- [[claude code使用感受如何？]]
+- [[Code Review]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Opencode]]
+- [[Skills]]
+- [[Cursor]]
+- [[Design Pattern]]
+- [[Subagent]]
+- [[Mit]]
+- [[Extend Claude with skills - Claude Code Docs]]
+- [[A/B Test]]
+- [[Agent-First Development]]
+- [[Cli]]
+- [[Copilot]]
+- [[Docker]]
+- [[Gemini]]
+- [[Hooks]]
+- [[Humanize]]
+- [[Markdown]]
+- [[Mcp]]
+- [[Obsidian]]
+- [[Plan Mode]]
+- [[Rag]]
+- [[Tailwind]]
+- [[Worktree]]
+- [[Yaml]]
+- [[Ai学习的老章]]
+- [[GitHub]]
+- [[GPT]]
+- [[Meta]]
+- [[Notion]]
+- [[OpenCode]]
+- [[skill-creator]]
+- [[Stripe]]
+- [[SWE-agent]]
+- [[Vercel]]
+- [[Youtube]]
+- [[白玉京]]
+- [[知乎]]
+- [[Claude Code高效配置与开发实践指南]]
 - [[持久记忆体系]]

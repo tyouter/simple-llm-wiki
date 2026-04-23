@@ -11,13 +11,16 @@ tags:
   - "traditional-practice"
 confidence: "high"
 created_at: "2026-04-17T22:00:53.022817"
-updated_at: "2026-04-17T22:00:53.022817"
+updated_at: "2026-04-23T00:42:26.943884"
 related:
   - "易安遐观"
   - "晨练体系 (Morning Exercise System)"
   - "身体姿态与核心控制 (Body Posture and Core Control)"
   - "内功 (Internal Martial Arts / Neigong)"
   - "Zhihu Discussion: Internal Martial Arts and Breathing Techniques"
+  - "丹田与核心肌群 (Dantian vs. Core Muscles)"
+  - "知乎讨论：中国武术真的有内功存在吗"
+  - "知乎讨论-内功与呼吸法"
 ---
 
 # 呼吸法 (Breathing Method)
@@ -73,4 +76,7 @@ breathwork, breathing-techniques, health, body-control, traditional-practice
 - [[晨练体系 (Morning Exercise System)]]
 - [[身体姿态与核心控制 (Body Posture and Core Control)]]
 - [[内功 (Internal Martial Arts / Neigong)]]
+- [[丹田与核心肌群 (Dantian vs. Core Muscles)]]
+- [[知乎讨论：中国武术真的有内功存在吗]]
+- [[知乎讨论-内功与呼吸法]]
 - [[Zhihu Discussion: Internal Martial Arts and Breathing Techniques]]

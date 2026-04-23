@@ -11,11 +11,12 @@ tags:
   - "system-design"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.347716"
-updated_at: "2026-04-17T22:23:15.347716"
+updated_at: "2026-04-23T00:42:20.255732"
 related:
   - "Probabilistic Data Structures"
   - "Algorithmic Mindset Shift"
   - "Bit-Level Hacking"
+  - "BugBuster喵"
 ---
 
 # Engineering Compromise
@@ -24,7 +25,7 @@ related:
 The deliberate acceptance of trade-offs—particularly between perfect correctness and practical efficiency—in the design and implementation of software systems. This principle recognizes that optimal engineering solutions often involve balanced sacrifices rather than theoretical perfection.
 
 ## Manifestation in Algorithms
-As discussed in [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]], several transformative algorithms embody this principle:
+As discussed in [[Zhihu]], several transformative algorithms embody this principle:
 
 ### Probabilistic Trade-Offs
 [[Probabilistic Data Structures]] like HyperLogLog and Bloom Filters accept small, quantifiable error rates (e.g., 1-2% estimation error) in exchange for orders-of-magnitude memory savings. The compromise is explicit: accuracy for efficiency.
@@ -66,6 +67,7 @@ The engineering perspective adds:
 software-engineering, trade-offs, optimization, practical-cs, system-design
 
 ## Related
+- [[BugBuster喵]]
 [[Probabilistic Data Structures]], [[Algorithmic Mindset Shift]], [[Bit-Level Hacking]]
 
 ## Related

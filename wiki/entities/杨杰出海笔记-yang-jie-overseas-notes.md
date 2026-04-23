@@ -10,11 +10,12 @@ tags:
   - "ai-practitioner"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.481228"
-updated_at: "2026-04-17T21:53:35.481228"
+updated_at: "2026-04-23T00:42:26.852385"
 related:
   - "Improving Vibe Coding Aesthetics with Design Prompts"
   - "Vibe Coding Enhancement Workflow"
   - "AI-Generated Design Quality Spectrum"
+  - "Vibe Coding做的网站太难看怎么办"
 ---
 
 # 杨杰出海笔记 (Yang Jie Overseas Notes)
@@ -41,6 +42,7 @@ The article provides a critical, solution-oriented analysis of [[Vibe Coding]]'s
 - [[Improving Vibe Coding Aesthetics with Design Prompts]]
 - [[Vibe Coding Enhancement Workflow]]
 - [[AI-Generated Design Quality Spectrum]]
+- [[Vibe Coding做的网站太难看怎么办]]
 
 ## Related
 - [[Improving Vibe Coding Aesthetics with Design Prompts]]

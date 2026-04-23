@@ -11,12 +11,14 @@ tags:
   - "china-racing"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.063296"
-updated_at: "2026-04-18T22:52:17.063296"
+updated_at: "2026-04-22T23:50:25.516238"
 related:
   - "Strategic Pivot from Racing to Manufacturing"
   - "Authenticity as Capital"
   - "Zhang Xue"
   - "Zhang Xue Motorcycle"
+  - "Dream-First, Business-Second Entrepreneurship"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Zhang Jixing (张继星) (牙哥)
@@ -67,4 +69,6 @@ mentor, motorcycle-racer, career-guidance, talent-recognition, china-racing
 - [[Strategic Pivot from Racing to Manufacturing]]
 - [[Authenticity as Capital]]
 - [[Zhang Xue]]
+- [[Dream-First, Business-Second Entrepreneurship]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Zhang Xue Motorcycle]]

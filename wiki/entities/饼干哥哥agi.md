@@ -11,13 +11,21 @@ tags:
   - "practical-ai"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-23T00:42:21.064113"
 related:
   - "OpenClaw (Moltbot/ClawdBot)"
   - "Business SOP Automation"
   - "RPA-AI Hybrid Architecture"
   - "Skill Engineering for AI Agents"
   - "序员先生 (Programmer Xiansheng)"
+  - "Claude Code"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Deepseek"
+  - "Skills"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "AI Agent Complexity Management"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # 饼干哥哥AGI
@@ -98,6 +106,14 @@ Based on hackathon outcomes and personal experience:
 community-organizer, business-automation, implementation-documentation, openclaw-hackathon, practical-ai
 
 ## Related
+- [[Claude Code]]
+- [[AI Agent]]
+- [[OpenClaw]]
+- [[Deepseek]]
+- [[Skills]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[AI Agent Complexity Management]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[OpenClaw (Moltbot/ClawdBot)]], [[Business SOP Automation]], [[RPA-AI Hybrid Architecture]], [[Skill Engineering for AI Agents]], [[序员先生 (Programmer Xiansheng)]]
 
 ## Related

@@ -9,7 +9,7 @@ tags:
   - "agent-architecture"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.160867"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.238065"
 ---
 
 # Agent Memory Systems
@@ -37,3 +37,16 @@ AI Agent的记忆系统是解决长期上下文保持和知识持久化的关键
 
 ## 来源
 - [src: Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]
+## Related
+- [[Agent RL Training]]
+- [[AI Agent Engineering Career Path]]
+- [[AI Agent]]
+- [[Productionization of AI Agents]]
+- [[上下文锚定 (Context Anchoring)]]
+- [[学习过程数据化]]
+- [[技能持续监测与优化]]
+- [[提交分析模式识别 (Commit Analysis Pattern Discovery)]]
+- [[评估层（决策第四步）]]
+- [[长文本解析与理解]]
+- [[AI玩家日志]]
+

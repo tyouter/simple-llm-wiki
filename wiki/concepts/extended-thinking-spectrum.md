@@ -9,7 +9,7 @@ tags:
   - "reasoning"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.015027"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.264808"
 ---
 
 # Extended Thinking Spectrum
@@ -27,8 +27,10 @@ updated_at: "2026-04-20T12:00:00"
 - **上下文关联**：思考深度与上下文管理策略相关
 
 ## Related
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Claude Code工作流技术与架构分析]]
 
-- [[claude-md]]
-- [[plan-mode-workflow]]
-- [[meta-staff-engineer-claude-code-tips]]
-- [[token-efficiency-in-ai-reasoning]]
+- [[Claude]]
+- [[Plan]]
+- [[Meta]]
+- token-efficiency-in-ai-reasoning

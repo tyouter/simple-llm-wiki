@@ -10,7 +10,7 @@ tags:
   - "AI营销"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.615570"
 ---
 
 # Marketing Skills：Claude Code营销专家技能包
@@ -53,5 +53,5 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[前端设计Skill]]
-- [[AI营销自动化]]
+- [[前端设计Skills深度增强版]]
+- AI营销自动化

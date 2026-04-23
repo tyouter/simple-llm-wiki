@@ -13,12 +13,19 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.779630"
-updated_at: "2026-04-17T22:06:46.779630"
+updated_at: "2026-04-23T00:42:26.833002"
 related:
   - "skills-vs-tools-distinction"
   - "Anthropic"
   - "Ai学习的老章"
   - "skill-creator"
+  - "Skills (Anthropic Framework)"
+  - "技能进化模式"
+  - "Agent Skills Framework"
+  - "Progressive Disclosure"
+  - "Token Efficiency in AI Reasoning"
+  - "开源Agent Skills社区资源整理"
+  - "OpenCode详细攻略：开源版Claude Code免费模型与神级插件"
 ---
 
 # Anthropic Skills: Engineering Approach to Agent Capability Development
@@ -29,7 +36,7 @@ A comprehensive review and practical guide based on Anthropic's updated Skills f
 ## Key Insights
 
 ### From Concept to Engineering Practice
-This document represents a significant evolution of the [[skills-vs-tools-distinction]] concept, moving it from theory to a concrete, implementable framework. It advocates for treating Skills as permanent, reusable assets rather than one-off prompts.
+This document represents a significant evolution of the [[Skill]] concept, moving it from theory to a concrete, implementable framework. It advocates for treating Skills as permanent, reusable assets rather than one-off prompts.
 
 ### The Skill Engineering Lifecycle
 Outlines a systematic process for Skill development:
@@ -47,7 +54,7 @@ Outlines a systematic process for Skill development:
 Highlights the use of the official `skill-creator` template from [[Anthropic]] on GitHub, which provides a structured directory and guides the engineering process.
 
 ## Connections to Other Concepts
-- **[[skills-vs-tools-distinction]]:** Provides the concrete, engineering-focused implementation of this theoretical distinction.
+- **[[Skill]]:** Provides the concrete, engineering-focused implementation of this theoretical distinction.
 - **[[GStack: Role-Based AI Development Workflow for Claude Code]]:** Skills are presented as a method to encode and automate structured, role-based workflows.
 - **[[AI Tool Chaining/Combination]]:** Advocates for creating multiple small, focused Skills that an agent can combine to solve complex tasks, echoing themes of specialization and composition.
 
@@ -61,10 +68,17 @@ Primary analysis and guide provided by [[Ai学习的老章]] on Zhihu and WeChat
 agent-engineering, skill-development, anthropic-claude, iterative-optimization, workflow-automation, zhihu
 
 ## Related
-[[skills-vs-tools-distinction]], [[Anthropic]], [[Ai学习的老章]], [[skill-creator]], [[Progressive Disclosure Mechanism]], [[Skill Engineering Lifecycle]], [[Description Trigger Optimization]]
+- [[Skills (Anthropic Framework)]]
+- [[技能进化模式]]
+- [[Agent Skills Framework]]
+- [[Progressive Disclosure]]
+- [[Token Efficiency in AI Reasoning]]
+- [[开源Agent Skills社区资源整理]]
+- [[OpenCode详细攻略：开源版Claude Code免费模型与神级插件]]
+[[Skill]], [[Anthropic]], [[Ai学习的老章]], [[skill-creator]], [[Progressive Disclosure Mechanism]], [[Skill Engineering Lifecycle]], [[Description Trigger Optimization]]
 
 ## Related
-- [[skills-vs-tools-distinction]]
+- [[Skill]]
 - [[Anthropic]]
 - [[Ai学习的老章]]
 - [[skill-creator]]

@@ -10,7 +10,7 @@ tags:
   - "problem-solving"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.394565"
-updated_at: "2026-04-17T21:56:25.394565"
+updated_at: "2026-04-22T23:50:24.603232"
 related:
   - "Multi-Tool Orchestration with State Machines"
   - "Structured Data + Unstructured Document Fusion"
@@ -18,6 +18,16 @@ related:
   - "Enhanced RAG with Human-like Reasoning"
   - "Self-Verification and Quality Auditing in AI Systems"
   - "Advanced AI Agent Architecture for Financial Analysis"
+  - "Agent-Based Active Retrieval"
+  - "Agent Memory Systems"
+  - "Multi-Agent Specialization & Orchestration"
+  - "智能体自我进化"
+  - "理论框架学习法"
+  - "车道限制 (Lane Restriction)"
+  - "杞鋂"
+  - "香港大学实验室"
+  - "gstack：Claude工程团队 - 汇智网分析"
+  - "Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs"
 ---
 
 # AI Agent Cognitive Architecture
@@ -70,6 +80,16 @@ This architecture operationalizes [[Multi-Tool Orchestration with State Machines
 cognitive-architecture, multi-agent-systems, reasoning-engines, problem-solving
 
 ## Related
+- [[Agent-Based Active Retrieval]]
+- [[Agent Memory Systems]]
+- [[Multi-Agent Specialization & Orchestration]]
+- [[智能体自我进化]]
+- [[理论框架学习法]]
+- [[车道限制 (Lane Restriction)]]
+- [[杞鋂]]
+- [[香港大学实验室]]
+- [[gstack：Claude工程团队 - 汇智网分析]]
+- [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]]
 [[Multi-Tool Orchestration with State Machines]], [[Structured Data + Unstructured Document Fusion]], [[AI Tool Chaining/Combination]], [[Enhanced RAG with Human-like Reasoning]], [[Self-Verification and Quality Auditing in AI Systems]], [[Advanced AI Agent Architecture for Financial Analysis]]
 
 ## Related

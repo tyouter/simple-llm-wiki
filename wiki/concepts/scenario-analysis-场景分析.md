@@ -11,7 +11,7 @@ tags:
   - "user-centered-design"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.765234"
-updated_at: "2026-04-17T21:47:20.765234"
+updated_at: "2026-04-22T23:50:14.583865"
 related:
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
   - "User Story vs. Environment"
@@ -20,6 +20,9 @@ related:
   - "刘飞"
   - "郑坚义"
   - "Function-Oriented vs. Problem-Solving Design"
+  - "David 周子轩"
+  - "Jeff Bezos"
+  - "Marty Cagan"
 ---
 
 # Scenario Analysis (场景分析)
@@ -68,4 +71,7 @@ product-management, user-experience, requirements-analysis, design-method, user-
 - [[User-Centered Design (UCD)]]
 - [[刘飞]]
 - [[郑坚义]]
+- [[David 周子轩]]
+- [[Jeff Bezos]]
+- [[Marty Cagan]]
 - [[Function-Oriented vs. Problem-Solving Design]]

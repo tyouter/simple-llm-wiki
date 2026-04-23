@@ -1,5 +1,5 @@
 ---
-title: "Skills (Anthropic Framework)|Anthropic Skills Framework"
+title: "Skills (Anthropic Framework)"
 type: "concept"
 sources:
   - "wiki/sources/anthropic-skills-engineering-approach-to-agent-capability-development.md"
@@ -12,7 +12,7 @@ tags:
   - "capability-encapsulation"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.803885"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.375272"
 ---
 
 # Anthropic Skills Framework
@@ -31,8 +31,8 @@ Anthropic Skills框架是Claude Code的扩展机制，通过SKILL.md文件定义
 
 ## Related
 
-- [[skills-anthropic-framework-skills]]
-- [[skills-vs-tools-distinction]]
-- [[progressive-disclosure-mechanism]]
-- [[skill-engineering-lifecycle]]
-- [[anthropic-skills-engineering-approach-to-agent-capability-development]]
+- [[Skill]]
+- [[Skill]]
+- progressive-disclosure-mechanism
+- [[Skill]]
+- [[Agent]]

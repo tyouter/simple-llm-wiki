@@ -14,7 +14,7 @@ tags:
   - "来源文档"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.806203"
-updated_at: "2026-04-17T22:13:44.806203"
+updated_at: "2026-04-23T00:42:26.689062"
 related:
   - "Coding Plan"
   - "NVIDIA NIM (NVIDIA Inference Microservices)"
@@ -24,6 +24,7 @@ related:
   - "MiniMax"
   - "Token Burning Prevention"
   - "Free Model Integration via NIM"
+  - "国产AI Coding Plan全面对比"
 ---
 
 # 2026国产大模型Coding Plan对比
@@ -87,4 +88,5 @@ AI编程, 订阅模式, 国产AI, 成本优化, API访问, 开发者工具, 2026
 - [[Zhipu AI]]
 - [[MiniMax]]
 - [[Token Burning Prevention]]
+- [[国产AI Coding Plan全面对比]]
 - [[Free Model Integration via NIM]]

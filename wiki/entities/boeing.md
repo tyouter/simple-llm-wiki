@@ -9,7 +9,7 @@ tags:
   - "financialization"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.334015"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.249864"
 ---
 
 # Boeing
@@ -28,8 +28,15 @@ updated_at: "2026-04-20T00:00:00"
 - 质量下降与成本削减的关联
 
 ## 相关概念
-- [[金融化]]
-- [[产业逻辑与金融逻辑]]
+- 金融化
+- 产业逻辑与金融逻辑
 
 ## 相关
-- [[知乎讨论-比亚迪发展策略分析]]
+- [[知乎]]
+## Related
+- [[China Manufacturing]]
+- [[Financial vs. Industrial Logic]]
+- [[Financialization of Industry]]
+- [[Industrial Moats/护城河]]
+- [[Wang Chuanfu (王传福)]]
+

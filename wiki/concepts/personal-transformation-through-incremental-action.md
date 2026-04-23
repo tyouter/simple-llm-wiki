@@ -12,13 +12,14 @@ tags:
   - "incrementalism"
 confidence: "high"
 created_at: "2026-04-17T21:45:18.252573"
-updated_at: "2026-04-17T21:45:18.252573"
+updated_at: "2026-04-22T23:50:08.778054"
 related:
   - "青峰哥"
   - "Enlightenment (开悟)"
   - "驷马奔腾"
   - "Zhihu Discussion on Enlightenment and Personal Transformation"
   - "Strategic Management Learning Framework"
+  - "Three Stages of Understanding"
 ---
 
 # Personal Transformation through Incremental Action
@@ -60,4 +61,5 @@ self-improvement, productivity, skill-development, discipline, focus, incrementa
 - [[Enlightenment (开悟)]]
 - [[驷马奔腾]]
 - [[Zhihu Discussion on Enlightenment and Personal Transformation]]
+- [[Three Stages of Understanding]]
 - [[Strategic Management Learning Framework]]

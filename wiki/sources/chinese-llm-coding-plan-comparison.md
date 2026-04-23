@@ -13,7 +13,7 @@ tags:
   - "qwen"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.268030"
 ---
 
 # 国产大模型 Coding Plan 横评避坑指南
@@ -91,8 +91,8 @@ updated_at: "2026-04-20T12:00:00"
 ## Related
 
 - [[国产大模型]]
-- [[Coding-Plan]]
-- [[GLM]]
+- [[Plan]]
+- GLM
 - [[MiniMax]]
 - [[Qwen]]
-- [[模型选型]]
+- 模型选型

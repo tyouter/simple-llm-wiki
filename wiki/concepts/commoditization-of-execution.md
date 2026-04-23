@@ -11,12 +11,13 @@ tags:
   - "value-creation"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.671541"
-updated_at: "2026-04-18T00:19:39.671541"
+updated_at: "2026-04-22T23:50:12.503140"
 related:
   - "Engineer Identity Transformation"
   - "Decomposition as Core Skill"
   - "Scribe Fallacy"
   - "Claude Code"
+  - "Clave"
 ---
 
 # Commoditization of Execution
@@ -48,6 +49,7 @@ The **[[Scribe Fallacy]]** argues that this commoditization of the *mechanical a
 - [[Decomposition as Core Skill]]
 - [[Scribe Fallacy]]
 - [[Claude Code]]
+- [[Clave]]
 
 ## Related
 - [[Engineer Identity Transformation]]

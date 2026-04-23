@@ -11,7 +11,7 @@ tags:
   - "spec-coding-advocate"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.897084"
-updated_at: "2026-04-17T21:42:57.897084"
+updated_at: "2026-04-23T00:42:20.991956"
 related:
   - "CLAUDE.md"
   - "Spec Coding vs. Vibe Coding"
@@ -30,6 +30,13 @@ related:
   - "Humanize插件"
   - "Spec Coding vs Vibe Coding"
   - "Humanize工作流"
+  - "Auto Memory"
+  - "Humanize 工作流"
+  - "上下文窗口"
+  - "持久记忆体系"
+  - "SWE-agent"
+  - "Claude Code 高效配置指南：持久记忆体系与权限模式详解"
+  - "知乎讨论：claude.md怎么写才能让Claude Code更高效"
 ---
 
 # yahah
@@ -64,6 +71,13 @@ zhihu-user, phd-candidate, minimalist-workflow, spec-coding-advocate
 - [[AI Tool Chaining/Combination]]
 - [[白玉京]]
 - [[笙囧同学]]
+- [[Auto Memory]]
+- [[Humanize 工作流]]
+- [[上下文窗口]]
+- [[持久记忆体系]]
+- [[SWE-agent]]
+- [[Claude Code 高效配置指南：持久记忆体系与权限模式详解]]
+- [[知乎讨论：claude.md怎么写才能让Claude Code更高效]]
 
 ---
 
@@ -76,7 +90,7 @@ zhihu-user, phd-candidate, minimalist-workflow, spec-coding-advocate
 ### 方法论深度探讨
 - **[[Spec Coding]]哲学**：系统阐述了反对[[Vibe Coding]]的严谨工程方法，强调规格说明和计划的重要性
 - **[[Humanize]]模式**：详细描述了利用迭代反馈循环的协同开发模式
-- **[[RLCR]]方法论**：介绍了针对大规模代码修改的系统化方法，分享了[[gem5]]项目成功案例
+- **[[RLCR]]方法论**：介绍了针对大规模代码修改的系统化方法，分享了gem5项目成功案例
 
 ### 配置哲学
 提供了极其精炼的[[CLAUDE.md]]示例，代表了"核心共识派"的配置哲学。与[[白玉京]]的"详尽规范派"形成对比，强调极致简洁而非详尽罗列。
@@ -89,10 +103,10 @@ zhihu-user, phd-candidate, minimalist-workflow, spec-coding-advocate
 在[[Spec Coding]]框架中，特别强调[[Plan]]的重要性。认为Plan应该详细到"按照这个步骤，一个本科生也能在一个月内完成"，大型项目的Plan可能长达5-10页A4纸。
 
 ### 大规模工程实践
-分享了[[RLCR]]方法论的实际应用经验，特别是"[[蜂群]]+RLCR"处理10k-30k行代码改动的策略，以及使用带`/batch`命令的RLCR处理超过3万行的大规模改动。
+分享了[[RLCR]]方法论的实际应用经验，特别是"蜂群+RLCR"处理10k-30k行代码改动的策略，以及使用带`/batch`命令的RLCR处理超过3万行的大规模改动。
 
 ## 成功案例
-**gem5构建系统迁移**：使用RLCR结合"蜂群"在四小时内完成了[[gem5]]仓库（计算机系统架构模拟器）构建系统从SCons到CMake的彻底替换。这个案例展示了高级方法论在实际大型工程中的威力。
+**gem5构建系统迁移**：使用RLCR结合"蜂群"在四小时内完成了gem5仓库（计算机系统架构模拟器）构建系统从SCons到CMake的彻底替换。这个案例展示了高级方法论在实际大型工程中的威力。
 
 ## 相关概念
 - [[Spec Coding]] - 主要倡导的方法论
@@ -100,7 +114,7 @@ zhihu-user, phd-candidate, minimalist-workflow, spec-coding-advocate
 - [[Plan]] - 强调的核心组件
 - [[Humanize]] - 介绍的协同模式
 - [[RLCR]] - 分享的大规模修改方法
-- [[gem5]] - 成功案例项目
+- gem5 - 成功案例项目
 
 ## 影响
 提供了从工具使用到工程哲学的升华，将[[Claude Code高效配置与开发实践指南]]的讨论从"如何配置"提升到"如何思考开发范式"的层面。
@@ -117,13 +131,13 @@ zhihu-user, phd-candidate, minimalist-workflow, spec-coding-advocate
 - [[Plan]]
 - [[Humanize]]
 - [[RLCR]]
-- [[gem5]]
+- gem5
 
 ---
 
 知乎答主，中国科学院大学计算机博士在读。在[[CLAUDE.md高效编写指南与AI编程实践]]讨论中贡献了详细的CLAUDE.md模板，并系统阐述了[[Spec Coding]]方法论。
 
-yahah强调反对[[Vibe Coding]]，主张严格的[[Spec Coding]]方法，要求先有详细的规格说明（Spec）和实施[[Plan]]。他详细描述了[[Agent协作与任务拆分]]的具体实践，包括如何将复杂任务分解为低耦合的子任务，分配给不同的Claude执行。
+yahah强调反对[[Vibe Coding]]，主张严格的[[Spec Coding]]方法，要求先有详细的规格说明（Spec）和实施[[Plan]]。他详细描述了[[Agent]]的具体实践，包括如何将复杂任务分解为低耦合的子任务，分配给不同的Claude执行。
 
 他还提出了禁止使用/init等具体建议，认为这些快捷方式不利于代码质量。yahah的贡献连接了学术研究（如[[SWE Driven开发]]）与工程实践，为AI编程提供了系统化的方法论框架。他的观点与[[Humanize插件]]的设计理念一致，都强调结构化和验证。
 
@@ -139,14 +153,14 @@ yahah强调反对[[Vibe Coding]]，主张严格的[[Spec Coding]]方法，要求
 - [[Plan]]
 - [[Humanize]]
 - [[RLCR]]
-- [[gem5]]
-- [[Agent协作与任务拆分]]
+- gem5
+- [[Agent]]
 - [[SWE Driven开发]]
 - [[Humanize插件]]
 
 ---
 
-知乎回答者，中国科学院大学计算机科学与技术博士在读。提供了另一份侧重于开发方法论、工作流程和最佳实践的回答。他引入了 [[Spec Coding vs Vibe Coding]]、[[Plan]] 和 [[Humanize工作流]] 等概念，强调通过严谨的规格说明和计划来驱动 AI 工作，反对套用空泛的 [[CLAUDE.md]] 模板。他分享了自己将 CLAUDE.md 从3000字精简到800字的经验，主张规则应“短”而“关键”。他的观点代表了从“工作哲学”和“流程设计”角度来提升 AI 编程效率的视角。
+知乎回答者，中国科学院大学计算机科学与技术博士在读。提供了另一份侧重于开发方法论、工作流程和最佳实践的回答。他引入了 [[Spec Coding vs. Vibe Coding]]、[[Plan]] 和 [[Humanize]] 等概念，强调通过严谨的规格说明和计划来驱动 AI 工作，反对套用空泛的 [[CLAUDE.md]] 模板。他分享了自己将 CLAUDE.md 从3000字精简到800字的经验，主张规则应“短”而“关键”。他的观点代表了从“工作哲学”和“流程设计”角度来提升 AI 编程效率的视角。
 
 ## Related
 - [[CLAUDE.md]]
@@ -160,9 +174,9 @@ yahah强调反对[[Vibe Coding]]，主张严格的[[Spec Coding]]方法，要求
 - [[Plan]]
 - [[Humanize]]
 - [[RLCR]]
-- [[gem5]]
-- [[Agent协作与任务拆分]]
+- gem5
+- [[Agent]]
 - [[SWE Driven开发]]
 - [[Humanize插件]]
-- [[Spec Coding vs Vibe Coding]]
-- [[Humanize工作流]]
+- [[Spec Coding vs. Vibe Coding]]
+- [[Humanize]]

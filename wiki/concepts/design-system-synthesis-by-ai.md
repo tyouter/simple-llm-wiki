@@ -11,13 +11,14 @@ tags:
   - "Style Guide"
 confidence: "high"
 created_at: "2026-04-21T13:58:22.843195"
-updated_at: "2026-04-21T13:58:22.843195"
+updated_at: "2026-04-22T23:50:24.813455"
 related:
   - "AI-Native Design Workflow"
   - "Prompt Engineering for Aesthetic Control"
   - "Agent Skills Framework (Applied)"
   - "Claude Code"
   - "designprompts.dev"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
 ---
 
 The use of AI to analyze existing code and design references in order to generate a coherent, unified design system specification (e.g., in XML) that ensures visual consistency across an application. This represents an advanced application where AI moves from generating discrete components to understanding and extrapolating holistic design rules.
@@ -29,4 +30,5 @@ As described in the source, a user can provide their app's JSX and CSS code to [
 - [[Prompt Engineering for Aesthetic Control]]
 - [[Agent Skills Framework (Applied)]]
 - [[Claude Code]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
 - [[designprompts.dev]]

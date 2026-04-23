@@ -10,7 +10,7 @@ tags:
   - "tools"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:21.369981"
 ---
 
 # claude.md高效配置方法 - CCJK工具介绍
@@ -64,7 +64,7 @@ ccjk generate --output CLAUDE.md
 
 ## Related
 
-- [[claude-md高效配置-杞鋂]]
-- [[claude-md高效配置-zephyr-ai]]
-- [[CCJK工具]]
-- [[Claude-Code配置工具]]
+- [[Claude]]
+- [[Claude]]
+- CCJK工具
+- [[Claude]]

@@ -12,7 +12,7 @@ tags:
   - "27b-parameters"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.526343"
-updated_at: "2026-04-19T01:51:50.526343"
+updated_at: "2026-04-22T23:50:21.019420"
 related:
   - "Knowledge Distillation (Model Distillation)"
   - "Claude Opus 4.6"
@@ -21,6 +21,11 @@ related:
   - "Geopolitical AI Restrictions"
   - "Jackrong"
   - "TeichAI"
+  - "AI Economics"
+  - "AI Tool Specialization"
+  - "Anthropic"
+  - "Anthropic's China Restrictions and Claude Reasoning Distillation Techniques"
+  - "Anthropic对中国控股公司的限制"
 ---
 
 # Qwen3.5-27B
@@ -158,4 +163,9 @@ Analysis based on Qwen3.5-27B's role as base model for Claude Opus distillation 
 - [[LoRA (Low-Rank Adaptation)]]
 - [[Geopolitical AI Restrictions]]
 - [[Jackrong]]
+- [[AI Economics]]
+- [[AI Tool Specialization]]
+- [[Anthropic]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
+- [[Anthropic对中国控股公司的限制]]
 - [[TeichAI]]

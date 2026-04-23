@@ -11,12 +11,16 @@ tags:
   - "implementation"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.361537"
-updated_at: "2026-04-18T01:29:07.361537"
+updated_at: "2026-04-22T23:50:17.474357"
 related:
   - "Strategic Gap Analysis"
   - "Three-Level Sales Target System"
   - "HAHAPPYPPY"
   - "BLM (Business Leadership Model)"
+  - "Token侦探"
+  - "华为 (Huawei)"
+  - "吴海洋"
+  - "和夫咨询"
 ---
 
 # 7-Step Strategic Planning Framework
@@ -90,4 +94,8 @@ strategic-planning, framework, methodology, business-strategy, implementation
 - [[Strategic Gap Analysis]]
 - [[Three-Level Sales Target System]]
 - [[HAHAPPYPPY]]
+- [[Token侦探]]
+- [[华为 (Huawei)]]
+- [[吴海洋]]
+- [[和夫咨询]]
 - [[BLM (Business Leadership Model)]]

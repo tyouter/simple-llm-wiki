@@ -11,12 +11,15 @@ tags:
   - "developer-tools"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.671541"
-updated_at: "2026-04-18T00:19:39.671541"
+updated_at: "2026-04-22T23:50:26.998293"
 related:
   - "Claude Code"
   - "AI Programming Ecosystem"
   - "Clave"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "Antigravity"
+  - "OpenCode"
+  - "知乎讨论：Claude Code生态系统与工程影响"
 ---
 
 # awesome-claude-code
@@ -46,6 +49,9 @@ Discussed in the **[[Zhihu Discussion: Claude Code's Ecosystem, Impact on Engine
 - [[AI Programming Ecosystem]]
 - [[Clave]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[Antigravity]]
+- [[OpenCode]]
+- [[知乎讨论：Claude Code生态系统与工程影响]]
 
 ## Related
 - [[Claude Code]]

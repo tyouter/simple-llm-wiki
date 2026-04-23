@@ -3,6 +3,9 @@ title: "LangGraph"
 type: "entity"
 sources:
   - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
 tags:
   - "framework"
   - "state-machines"
@@ -11,12 +14,49 @@ tags:
   - "multi-agent-systems"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.395565"
-updated_at: "2026-04-17T21:56:25.395565"
+updated_at: "2026-04-23T00:42:26.901728"
 related:
   - "Multi-Tool Orchestration with State Machines"
   - "AI Agent Cognitive Architecture"
   - "Advanced AI Agent Architecture for Financial Analysis"
   - "杞鋂"
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "怎么成为一个ai agent 工程师？"
+  - "Embedding"
+  - "Agent"
+  - "Rag"
+  - "Git"
+  - "为什么感觉现在AI Agent都是雷声大雨点小？"
+  - "Plan Mode"
+  - "Subagent"
+  - "Openclaw"
+  - "最好用的Agent框架是什么？"
+  - "Reinforcement Learning"
+  - "Prompt Engineering"
+  - "Multi-Agent"
+  - "Openviking"
+  - "怎么成为一个 ai agent 工程师？"
+  - "AI Agent Engineering Career Path"
+  - "DeepAgents框架"
+  - "AutoGen"
+  - "CrewAI"
+  - "Finalchemist"
+  - "AI Agent框架对比分析"
+  - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
+  - "金融分析高级AI Agent架构"
+  - "Api"
+  - "Cli"
+  - "Copilot"
+  - "Deepseek"
+  - "Hooks"
+  - "Mcp"
+  - "Skill"
+  - "Skills"
+  - "如何成为 AI Agent 工程师？—— 知乎问答分析"
 ---
 
 # LangGraph
@@ -69,6 +109,43 @@ While part of the LangChain ecosystem, LangGraph represents a more sophisticated
 framework, state-machines, workflow-orchestration, langchain, multi-agent-systems
 
 ## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Embedding]]
+- [[Agent]]
+- [[Rag]]
+- [[Git]]
+- [[为什么感觉现在AI Agent都是雷声大雨点小？]]
+- [[Plan Mode]]
+- [[Subagent]]
+- [[OpenClaw]]
+- [[最好用的Agent框架是什么？]]
+- [[Reinforcement Learning]]
+- [[Prompt Engineering]]
+- [[Multi-Agent]]
+- [[Openviking]]
+- [[怎么成为一个 ai agent 工程师？]]
+- [[AI Agent Engineering Career Path]]
+- [[DeepAgents框架]]
+- [[AutoGen]]
+- [[CrewAI]]
+- [[Finalchemist]]
+- [[AI Agent框架对比分析]]
+- [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
+- [[金融分析高级AI Agent架构]]
+- [[Api]]
+- [[Cli]]
+- [[Copilot]]
+- [[Deepseek]]
+- [[Hooks]]
+- [[Mcp]]
+- [[Skill]]
+- [[Skills]]
+- [[如何成为 AI Agent 工程师？—— 知乎问答分析]]
 [[Multi-Tool Orchestration with State Machines]], [[AI Agent Cognitive Architecture]], [[Advanced AI Agent Architecture for Financial Analysis]], [[杞鋂]]
 
 ## Related

@@ -11,7 +11,7 @@ tags:
   - "megaease"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.748072"
-updated_at: "2026-04-17T21:46:36.748072"
+updated_at: "2026-04-23T00:42:21.062104"
 related:
   - "Programmer-to-Blogger Transition"
   - "Technical Blog Quality Hierarchy"
@@ -69,21 +69,21 @@ Chinese programmer, founder of MegaEase, and influential technical blogger known
 - Represents Chinese perspective in global technical discussions
 
 ## Relation to Blogging Trends
-As discussed in [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]], 陈皓 exemplifies the [[Programmer-to-Blogger Transition]] in the Chinese context. His blog represents high-quality content in the [[Technical Blog Quality Hierarchy]], providing authentic practitioner perspectives.
+As discussed in [[Zhihu]], 陈皓 exemplifies the [[Programmer-to-Blogger Transition]] in the Chinese context. His blog represents high-quality content in the [[Technical Blog Quality Hierarchy]], providing authentic practitioner perspectives.
 
 ## Comparison with Peers
 Unlike [[尤雨溪 (Evan You)]] who doesn't maintain a technical blog despite creating Vue.js, 陈皓 has built significant influence through consistent technical writing alongside his engineering work.
 
-**Source**: Mentioned in [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]] as influential Chinese technical blogger.
+**Source**: Mentioned in [[Zhihu]] as influential Chinese technical blogger.
 
 ## Tags
 chinese-programmer, technical-blogger, distributed-systems, cloud-architecture, megaease
 
 ## Related
-[[Programmer-to-Blogger Transition]], [[Technical Blog Quality Hierarchy]], [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]], [[尤雨溪 (Evan You)]]
+[[Programmer-to-Blogger Transition]], [[Technical Blog Quality Hierarchy]], [[Zhihu]], [[尤雨溪 (Evan You)]]
 
 ## Related
 - [[Programmer-to-Blogger Transition]]
 - [[Technical Blog Quality Hierarchy]]
-- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Zhihu]]
 - [[尤雨溪 (Evan You)]]

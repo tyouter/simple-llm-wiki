@@ -11,7 +11,7 @@ tags:
   - "preference"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:26.750580"
 ---
 
 # Codex vs Claude 编程偏好讨论
@@ -60,8 +60,10 @@ updated_at: "2026-04-20T10:00:00"
 4. **成本考量** - API费用差异
 
 ## Related
+- [[Humanize]]
+- [[Claude Code高效配置与开发实践指南]]
 
-- [[Claude-Code]]
-- [[Codex]]
-- [[AI编程工具对比]]
-- [[claude-code-cursor-trae对比]]
+- [[Claude]]
+- Codex
+- AI编程工具对比
+- [[Trae]]

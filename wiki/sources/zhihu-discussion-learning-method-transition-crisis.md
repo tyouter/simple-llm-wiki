@@ -11,7 +11,7 @@ tags:
   - "education-analysis"
 confidence: "high"
 created_at: "2026-04-17T21:57:40.251340"
-updated_at: "2026-04-17T21:57:40.251340"
+updated_at: "2026-04-22T23:50:25.593537"
 related:
   - "宙巡"
   - "希言自然"
@@ -21,6 +21,8 @@ related:
   - "Internal Conflict (内耗) in Learning"
   - "Token Efficiency in AI Reasoning"
   - "Domain-Specific Language (DSL) for AI Agents"
+  - "Zhihu"
+  - "Zhihu Login Page Error Message (Source)"
 ---
 
 # Zhihu Discussion: Learning Method Transition Crisis
@@ -56,6 +58,8 @@ The analysis directly challenges widespread educational practices:
 learning-crisis, academic-transition, pedagogy, zhihu-discussion, education-analysis
 
 ## Related
+- [[Zhihu]]
+- [[Zhihu Login Page Error Message (Source)]]
 [[宙巡]], [[希言自然]], [[Derivation-First Learning]], [[Enumeration Path Dependency]], [[Knowledge Compression]], [[Internal Conflict (内耗) in Learning]], [[Token Efficiency in AI Reasoning]], [[Domain-Specific Language (DSL) for AI Agents]]
 
 ## Related

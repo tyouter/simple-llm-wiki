@@ -11,12 +11,14 @@ tags:
   - "vocabulary-acquisition"
 confidence: "high"
 created_at: "2026-04-17T21:49:07.820654"
-updated_at: "2026-04-17T21:49:07.820654"
+updated_at: "2026-04-22T23:50:24.702150"
 related:
   - "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
   - "Spaced Repetition via Error Tracking"
   - "Open-Source Educational Tools"
   - "AI Tool Specialization for Design"
+  - "Sylearn"
+  - "TypeWords打字式背单词"
 ---
 
 # Typing-Based Language Learning
@@ -55,4 +57,6 @@ Unlike flashcards or multiple-choice exercises, typing-based learning:
 - [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]]
 - [[Spaced Repetition via Error Tracking]]
 - [[Open-Source Educational Tools]]
+- [[Sylearn]]
+- [[TypeWords打字式背单词]]
 - [[AI Tool Specialization for Design]]

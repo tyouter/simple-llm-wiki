@@ -6,19 +6,49 @@ sources:
   - "wiki/sources/visual-coding-from-vibe-coding.md"
   - "wiki/sources/f15f24d0_Visual Coding从Vibe Coding进化.md"
   - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
 tags:
   - "ai-model"
   - "moonshot"
   - "chinese-llm"
 confidence: "high"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:42:26.616116"
 related:
   - "长文本解析与理解"
   - "主流模型生态位分化"
   - "模型能力场景化评测"
   - "开发选型参考"
   - "AI-Enhanced Note-Taking"
+  - "Context Window"
+  - "Microservice"
+  - "Claude Code"
+  - "Coding Plan"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Ai Agent"
+  - "Agent"
+  - "Api"
+  - "Git"
+  - "你写过什么不错的开源项目？"
+  - "Cli"
+  - "Code Fence + Sandbox Iframe Architecture"
+  - "Deepseek"
+  - "Free Model Integration via NIM"
+  - "Mcp"
+  - "Skill"
+  - "Skills"
+  - "Yaml"
+  - "Alibaba Cloud Bailian"
+  - "Cherry Studio"
+  - "CodePilot"
+  - "NVIDIA NIM (NVIDIA Inference Microservices)"
+  - "歸藏"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
+  - "Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development"
+  - "知乎讨论：你写过什么不错的开源项目"
+  - "MiniMax"
 ---
 
 # Kimi K2.5
@@ -45,12 +75,12 @@ related:
 - [[国产大模型]]
 - [[Visual Coding]]
 - [[Vibe Coding]]
-- [[NVIDIA NIM]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
 
 ## 相关
 - [[GLM-5]]
 - [[MiniMax M2.5]]
-- [[月之暗面]]
+- 月之暗面
 
 ---
 
@@ -61,4 +91,32 @@ related:
 - [[主流模型生态位分化]]
 - [[模型能力场景化评测]]
 - [[开发选型参考]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Claude Code]]
+- [[Coding Plan]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[AI Agent]]
+- [[Agent]]
+- [[Api]]
+- [[Git]]
+- [[你写过什么不错的开源项目？]]
+- [[Cli]]
+- [[Code Fence + Sandbox Iframe Architecture]]
+- [[Deepseek]]
+- [[Free Model Integration via NIM]]
+- [[Mcp]]
+- [[Skill]]
+- [[Skills]]
+- [[Yaml]]
+- [[Alibaba Cloud Bailian]]
+- [[Cherry Studio]]
+- [[CodePilot]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+- [[歸藏]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
+- [[Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development]]
+- [[知乎讨论：你写过什么不错的开源项目]]
+- [[MiniMax]]
 - [[AI-Enhanced Note-Taking]]

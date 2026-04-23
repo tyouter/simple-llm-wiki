@@ -10,10 +10,14 @@ tags:
   - "inspired"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.767758"
-updated_at: "2026-04-17T21:47:20.767758"
+updated_at: "2026-04-22T23:50:27.185415"
 related:
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
   - "Scenario Analysis (场景分析)"
+  - "Use Case (用例)"
+  - "Function-Oriented vs. Problem-Solving Design|Function-Oriented Design"
+  - "User Story vs. Environment|User Story"
+  - "知乎讨论：为什么做产品的人都很喜欢思考场景"
 ---
 
 # Marty Cagan
@@ -36,4 +40,8 @@ author, thought-leader, product-management, inspired
 
 ## Related
 - [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
+- [[Use Case (用例)]]
+- [[Function-Oriented vs. Problem-Solving Design|Function-Oriented Design]]
+- [[User Story vs. Environment|User Story]]
+- [[知乎讨论：为什么做产品的人都很喜欢思考场景]]
 - [[Scenario Analysis (场景分析)]]

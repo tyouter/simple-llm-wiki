@@ -13,7 +13,7 @@ tags:
   - "anthropic"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-23T00:42:21.155255"
 related:
   - "Cat Wu"
   - "AI-Exponential Product Management"
@@ -61,7 +61,7 @@ This workflow represents a form of [[AI Tool Chaining/Combination]] where differ
 - [[AI-Exponential Product Management]] - The new paradigm described
 - [[Model-Capability-Driven Product Evolution]] - The practice of regularly updating features
 - [[Simplest Working Solution Principle]] - Anthropic's organizational principle
-- [[gstack-role-based-ai-development-workflow-for-claude-code]] - Related structured workflow concept
+- [[Claude]] - Related structured workflow concept
 
 ## Source
 Based on a blog post by Cat Wu, Product Manager at Anthropic's Research PM team.

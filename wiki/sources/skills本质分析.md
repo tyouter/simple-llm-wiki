@@ -10,7 +10,7 @@ tags:
   - "capability-encapsulation"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:21.860534"
 ---
 
 # Skills的本质分析
@@ -72,7 +72,7 @@ Skills更偏向：
 
 ## Related
 
-- [[Skills系统]]
-- [[SKILL-md格式]]
-- [[Claude-Code-Skills推荐]]
-- [[能力封装模式]]
+- [[Claude Code Skills系统]]
+- [[Skill]]
+- [[Claude]]
+- 能力封装模式

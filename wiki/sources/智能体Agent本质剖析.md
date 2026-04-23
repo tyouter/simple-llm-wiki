@@ -13,7 +13,7 @@ tags:
   - 豆包手机
 confidence: medium
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:42.938028"
 ---
 
 # 智能体Agent的本质剖析
@@ -41,7 +41,8 @@ updated_at: "2026-04-20T21:30:00"
 - 真正自动化系统还需在工具调度层面继续优化
 
 ## Related
-- [[Claude Code Agent技术分析]]
-- [[Agent Skills与MCP对比]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Agent]]
 - [[Harness Engineering详解]]
-- [[AI Agent构建指南]]
+- [[李敖硬气回应蔡康永访谈片段]]
+- [[AI Agent构建指南：30分钟掌握90%核心知识]]

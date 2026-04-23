@@ -11,7 +11,7 @@ tags:
   - "openclaw"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.160867"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:25.616260"
 ---
 
 # Multi-Agent Collaboration
@@ -32,4 +32,7 @@ updated_at: "2026-04-20T12:00:00"
 - [[Single-Mode Problem]]
 - [[MetaBot]]
 - [[Claude Code Agent技术分析与多代理架构]]
+- [[AI Agent Engineering Career Path]]
+- [[AI玩家日志]]
+- [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
 - [[OpenClaw高级使用经验多Agent协作]]

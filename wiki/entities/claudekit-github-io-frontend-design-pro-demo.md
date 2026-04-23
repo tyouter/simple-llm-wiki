@@ -12,12 +12,14 @@ tags:
   - "claude"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.482232"
-updated_at: "2026-04-17T21:53:35.482232"
+updated_at: "2026-04-22T23:50:24.942833"
 related:
   - "Claude"
   - "Curated Design Prompt Repositories"
   - "Vibe Coding Enhancement Workflow"
   - "designprompts.dev"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
+  - "Vibe Coding做的网站太难看怎么办"
 ---
 
 # claudekit.github.io/frontend-design-pro-demo
@@ -45,6 +47,8 @@ A user might employ the [[Vibe Coding Enhancement Workflow]] using a basic style
 - [[Curated Design Prompt Repositories]]
 - [[Vibe Coding Enhancement Workflow]]
 - [[designprompts.dev]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
+- [[Vibe Coding做的网站太难看怎么办]]
 
 ## Related
 - [[Claude]]

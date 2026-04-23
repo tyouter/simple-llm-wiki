@@ -11,12 +11,15 @@ tags:
   - "enterprise-systems"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-22T23:50:27.099618"
 related:
   - "AI Agent"
   - "Token Management in Complex Systems"
   - "AI Tool Chaining/Combination"
   - "Business SOP Automation"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "饼干哥哥AGI"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # RPA-AI Hybrid Architecture
@@ -86,6 +89,9 @@ This architecture directly addresses [[Token Management in Complex Systems]] con
 rpa, ai-agent, hybrid-architecture, automation, enterprise-systems
 
 ## Related
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[饼干哥哥AGI]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[AI Agent]], [[Token Management in Complex Systems]], [[AI Tool Chaining/Combination]], [[Business SOP Automation]]
 
 ## Related

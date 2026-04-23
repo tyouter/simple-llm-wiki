@@ -11,7 +11,7 @@ tags:
   - "technical-blogger"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.794491"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.351620"
 ---
 
 # Mario Zechner
@@ -28,7 +28,10 @@ Mario Zechner是Pi Agent和OpenClaw的创造者，同时也是有影响力的技
 
 ## Related
 - [[OpenClaw]]
-- [[Pi Agent]]
-- [[知乎讨论-一般技术大牛都在哪里写博客]]
+- [[Agent]]
+- [[知乎]]
 - [[知乎讨论-OpenClaw实用应用与局限性]]
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[序员先生 (Programmer Xiansheng)]]
+- [[饼干哥哥AGI]]
 - [[技术博客质量层级]]

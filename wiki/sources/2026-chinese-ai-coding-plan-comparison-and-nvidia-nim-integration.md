@@ -14,7 +14,7 @@ tags:
   - "source-document"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.806203"
-updated_at: "2026-04-17T22:13:44.806203"
+updated_at: "2026-04-23T00:42:26.324154"
 related:
   - "Coding Plan"
   - "NVIDIA NIM (NVIDIA Inference Microservices)"
@@ -24,6 +24,11 @@ related:
   - "MiniMax"
   - "Token Burning Prevention"
   - "Free Model Integration via NIM"
+  - "CodePilot"
+  - "歸藏"
+  - "Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development"
+  - "知乎讨论：你写过什么不错的开源项目"
+  - "Coding Plan订阅模式"
 ---
 
 # 2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration
@@ -87,4 +92,9 @@ ai-coding, subscription-models, chinese-ai, cost-optimization, api-access, devel
 - [[Zhipu AI]]
 - [[MiniMax]]
 - [[Token Burning Prevention]]
+- [[CodePilot]]
+- [[歸藏]]
+- [[Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development]]
+- [[知乎讨论：你写过什么不错的开源项目]]
+- [[Coding Plan订阅模式]]
 - [[Free Model Integration via NIM]]

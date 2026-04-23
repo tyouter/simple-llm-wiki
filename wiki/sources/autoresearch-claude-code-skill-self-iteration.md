@@ -11,7 +11,7 @@ tags:
   - "性能优化"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.211839"
 ---
 
 # AutoResearch Claude Code Skill实战
@@ -73,4 +73,4 @@ Andrej Karpathy开源的"autoresearch"概念：
 ## 相关
 - [[Andrej Karpathy]]
 - [[Claude Code Skills系统]]
-- [[自动迭代优化]]
+- 自动迭代优化

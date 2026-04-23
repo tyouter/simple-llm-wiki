@@ -10,7 +10,7 @@ tags:
   - "zhihu"
 confidence: "high"
 created_at: "2026-04-20T00:24:32.889030"
-updated_at: "2026-04-20T00:24:32.889030"
+updated_at: "2026-04-23T00:42:20.921263"
 related:
   - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
   - "Anthropic"
@@ -36,9 +36,9 @@ related:
 [[Ludamn]]的回答体现了“从做中学”和“依托优质官方资源”的学习理念，避免了过于抽象的理论讨论，适合动手能力强的开发者快速找到学习切入点。
 
 ## 相关链接
-[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[Anthropic]], [[ai-agent-framework-comparison]]
+[[Zhihu: 从后端开发转型AI Agent工程师的路线图]], [[Anthropic]], [[Agent]]
 
 ## Related
 - [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
 - [[Anthropic]]
-- [[ai-agent-framework-comparison]]
+- [[Agent]]

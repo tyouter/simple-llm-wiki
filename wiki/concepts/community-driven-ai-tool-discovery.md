@@ -11,7 +11,7 @@ tags:
   - "AI生态"
 confidence: "high"
 created_at: "2026-04-21T17:54:16.132477"
-updated_at: "2026-04-21T17:54:16.132477"
+updated_at: "2026-04-22T23:50:26.333067"
 related:
   - "AI Content Saturation"
   - "AI Tool Specialization for Design"
@@ -19,6 +19,8 @@ related:
   - "AI-Native Design Workflow"
   - "Rrupmid Nyche"
   - "designprompts.dev"
+  - "Design Prompt Curation & Repository"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
 ---
 
 指通过社区分享、测评和推荐，来发现和验证小众但高效的AI工具、提示词资源或工作流技巧的机制。在AI工具生态快速演变、信息过载的背景下，这种机制对于从业者绕过 [[AI Content Saturation]]、找到真正有价值的资源至关重要。
@@ -35,4 +37,6 @@ related:
 - [[AI Economics]]
 - [[AI-Native Design Workflow]]
 - [[Rrupmid Nyche]]
+- [[Design Prompt Curation & Repository]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
 - [[designprompts.dev]]

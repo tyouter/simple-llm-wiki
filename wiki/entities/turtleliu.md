@@ -10,7 +10,7 @@ tags:
   - "poetic-technical-writing"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.348716"
-updated_at: "2026-04-17T22:23:15.348716"
+updated_at: "2026-04-23T00:42:20.967543"
 related:
   - "Zhihu Discussion: Algorithms That Inspire Awe in Computer Science"
   - "BugBuster喵"
@@ -20,7 +20,7 @@ related:
 # TurtleLiu
 
 ## Identity
-Zhihu user who contributed a brief but poetic answer to the discussion [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]].
+Zhihu user who contributed a brief but poetic answer to the discussion [[Zhihu]].
 
 ## Contribution
 Provided a concise, evocative reflection on the **KMP (Knuth-Morris-Pratt) string searching algorithm**, emphasizing its elegance in avoiding redundant character comparisons through intelligent preprocessing of the pattern.
@@ -61,9 +61,9 @@ Brief, poetic contributions are a recognized style on Zhihu and other Chinese te
 zhihu-user, algorithm-appreciation, string-algorithms, poetic-technical-writing
 
 ## Related
-[[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]], [[BugBuster喵]], [[好地方bug]]
+[[Zhihu]], [[BugBuster喵]], [[好地方bug]]
 
 ## Related
-- [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]]
+- [[Zhihu]]
 - [[BugBuster喵]]
 - [[好地方bug]]

@@ -11,7 +11,7 @@ tags:
   - "agentic"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.159867"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.247794"
 ---
 
 # Plan-and-Execute
@@ -65,3 +65,7 @@ Explore → Plan → Implement → Verify
 - [[Claude Code]]
 - [[CLAUDE.md Architecture]]
 - [[Claude Code子代理]]
+## Related
+- [[AI Agent Engineering Career Path]]
+- [[Spec Coding vs. Vibe Coding|Spec Coding]]
+

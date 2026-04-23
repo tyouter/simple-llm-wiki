@@ -10,12 +10,16 @@ tags:
   - "fragmentation"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.067615"
-updated_at: "2026-04-17T21:59:22.067615"
+updated_at: "2026-04-22T23:50:17.302989"
 related:
   - "Tianya Forum (天涯论坛)"
   - "Niche Knowledge & Creative Hubs"
   - "Curated Digital Exploration"
   - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
+  - "China National Library (中国国家图书馆)"
+  - "Shuge.org (书格)"
+  - "ZCOOL (站酷)"
+  - "Zhihu (知乎)"
 ---
 
 # Post-Forum Internet Landscape
@@ -38,6 +42,10 @@ The shift away from large, centralized, and general-purpose online forums (like 
 - [[Niche Knowledge & Creative Hubs]]
 - [[Curated Digital Exploration]]
 - [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
+- [[China National Library (中国国家图书馆)]]
+- [[Shuge.org (书格)]]
+- [[ZCOOL (站酷)]]
+- [[Zhihu (知乎)]]
 
 ## Related
 - [[Tianya Forum (天涯论坛)]]

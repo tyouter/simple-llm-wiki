@@ -11,7 +11,7 @@ tags:
   - Agent
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:35.443689"
 ---
 
 # Agent Skills知识库检索vs传统RAG
@@ -65,4 +65,5 @@ updated_at: "2026-04-20T21:00:00"
 - [[Agent Skills与MCP技术对比与企业应用]]
 - [[Anthropic Skills工程方法]]
 - [[Supermemory AI记忆系统]]
-- [[知乎讨论-为什么AI Agent雷声大雨点小]]
+- [[每周汽车观察室0126-0201]]
+- [[Agent]]

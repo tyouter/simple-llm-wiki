@@ -10,12 +10,14 @@ tags:
   - "enterprise-ai"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.829054"
-updated_at: "2026-04-18T01:17:46.829054"
+updated_at: "2026-04-22T23:50:20.202268"
 related:
   - "Agent Skills Framework"
   - "Skill Engineering Lifecycle"
   - "Token Efficiency Optimization"
   - "skill-creator"
+  - "Cursor"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
 ---
 
 # Enterprise Skill Engineering
@@ -122,6 +124,8 @@ Practice of converting business Standard Operating Procedures (SOPs), rules, and
 business-process, knowledge-management, standardization, enterprise-ai
 
 ## Related
+- [[Cursor]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
 [[Agent Skills Framework]], [[Skill Engineering Lifecycle]], [[Token Efficiency Optimization]], [[skill-creator]]
 
 ## Related

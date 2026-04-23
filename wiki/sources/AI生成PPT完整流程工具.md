@@ -11,7 +11,7 @@ tags:
   - github
 confidence: medium
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:21.173674"
 ---
 
 # AI生成PPT完整流程工具
@@ -45,6 +45,6 @@ updated_at: "2026-04-20T21:30:00"
 - 可编辑格式输出
 
 ## Related
-- [[Claude幻灯片生成技能]]
-- [[Markdown幻灯片对比]]
+- [[Claude]]
+- [[Markdown]]
 - [[GSD AI编程工作流指南]]

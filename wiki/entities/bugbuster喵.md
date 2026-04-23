@@ -10,7 +10,7 @@ tags:
   - "technical-writer"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.348716"
-updated_at: "2026-04-17T22:23:15.348716"
+updated_at: "2026-04-23T00:42:20.814599"
 related:
   - "Algorithmic Mindset Shift"
   - "Engineering Compromise"
@@ -22,7 +22,7 @@ related:
 # BugBuster喵
 
 ## Identity
-Zhihu user and experienced software engineer who authored the primary answer in the discussion [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]].
+Zhihu user and experienced software engineer who authored the primary answer in the discussion [[Zhihu]].
 
 ## Contribution
 Provided a comprehensive list of six algorithms that fundamentally changed their perspective on computer science, accompanied by technical explanations, real-world applications, and learning resources. The answer demonstrates deep practical experience with both theoretical concepts and production systems.
@@ -59,11 +59,11 @@ Serves as the anchor contributor, providing the most comprehensive answer that s
 zhihu-user, software-engineer, algorithm-enthusiast, technical-writer
 
 ## Related
-[[Algorithmic Mindset Shift]], [[Engineering Compromise]], [[Probabilistic Data Structures]], [[Vector Embedding]], [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]]
+[[Algorithmic Mindset Shift]], [[Engineering Compromise]], [[Probabilistic Data Structures]], [[Vector Embedding]], [[Zhihu]]
 
 ## Related
 - [[Algorithmic Mindset Shift]]
 - [[Engineering Compromise]]
 - [[Probabilistic Data Structures]]
 - [[Vector Embedding]]
-- [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]]
+- [[Zhihu]]

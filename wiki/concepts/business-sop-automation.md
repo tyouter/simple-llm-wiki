@@ -11,12 +11,19 @@ tags:
   - "process-optimization"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-23T00:42:55.239888"
 related:
   - "AI Agent"
   - "Skill Engineering for AI Agents"
   - "RPA-AI Hybrid Architecture"
   - "AI Tool Chaining/Combination"
+  - "AI Agent Complexity Management"
+  - "Token Management in Complex Systems"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "序员先生 (Programmer Xiansheng)"
+  - "知乎讨论-OpenClaw实用应用与局限性"
+  - "Agent"
+  - "Skill"
 ---
 
 # Business SOP Automation
@@ -69,7 +76,7 @@ Based on practical examples from the [[Zhihu Discussion: OpenClaw/Moltbot Practi
 - **Quality Assurance**: Standardizing inspection and testing procedures
 
 ## Technical Considerations
-- **Token Efficiency**: Designing skills to work within [[token-efficiency-in-ai-reasoning]] constraints
+- **Token Efficiency**: Designing skills to work within token-efficiency-in-ai-reasoning constraints
 - **System Stability**: Implementing [[RPA-AI Hybrid Architecture]] for critical processes
 - **Skill Reliability**: Applying [[Skill Engineering for AI Agents]] methodologies
 
@@ -85,6 +92,13 @@ Based on practical examples from the [[Zhihu Discussion: OpenClaw/Moltbot Practi
 business-automation, sop, workflow, ai-agent, process-optimization
 
 ## Related
+- [[AI Agent Complexity Management]]
+- [[Token Management in Complex Systems]]
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[序员先生 (Programmer Xiansheng)]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
+- [[Agent]]
+- [[Skill]]
 [[AI Agent]], [[Skill Engineering for AI Agents]], [[RPA-AI Hybrid Architecture]], [[AI Tool Chaining/Combination]]
 
 ## Related

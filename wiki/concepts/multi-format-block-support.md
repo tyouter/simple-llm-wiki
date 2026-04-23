@@ -10,10 +10,11 @@ tags:
   - "content-types"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.468467"
-updated_at: "2026-04-21T16:31:03.468467"
+updated_at: "2026-04-22T23:50:23.954106"
 related:
   - "Text Block as a Unit of Manipulation"
   - "Obsidian Dragger"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Multi-Format Block Support** describes a content manipulation system's ability to handle diverse formatted content types—paragraphs, lists, tasks, tables, code blocks, callouts—as uniformly manipulable units. This goes beyond simple paragraph dragging to encompass the full richness of modern markdown or rich text editing.
@@ -24,4 +25,5 @@ This capability is a specific implementation of the broader [[Text Block as a Un
 
 ## Related
 - [[Text Block as a Unit of Manipulation]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[Obsidian Dragger]]

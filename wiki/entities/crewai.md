@@ -10,7 +10,7 @@ tags:
   - "python"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.161868"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.243348"
 ---
 
 # CrewAI
@@ -37,9 +37,12 @@ updated_at: "2026-04-20T00:00:00"
 
 ## 相关概念
 - [[Multi-Agent Orchestration]]
-- [[Agent框架]]
+- [[Agent]]
 - [[LangGraph]]
 - [[AutoGen]]
 
 ## 相关
-- [[ai-agent-framework-comparison]]
+- [[Agent]]
+## Related
+- [[Finalchemist]]
+

@@ -11,7 +11,7 @@ tags:
   - "BM25搜索"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.855282"
 ---
 
 # Skills数量过多的管理策略
@@ -52,5 +52,5 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[BM25搜索]]
-- [[Skills设计原则]]
+- [[Bm25]]
+- [[Skill]]

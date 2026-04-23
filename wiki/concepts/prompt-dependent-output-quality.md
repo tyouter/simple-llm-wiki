@@ -10,13 +10,18 @@ tags:
   - "design-quality"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.227171"
-updated_at: "2026-04-17T22:12:00.227171"
+updated_at: "2026-04-22T23:50:27.991213"
 related:
   - "Design Prompt Engineering for UI"
   - "AI-Free Interface Aesthetics"
   - "Google Stitch"
   - "Claude Code"
   - "designprompts.dev"
+  - "AI-Induced Industry Disruption"
+  - "AI-Native Design Workflow"
+  - "Vibe Design"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "谷歌Stitch氛围设计更新"
 ---
 
 # Prompt-Dependent Output Quality
@@ -55,4 +60,9 @@ Poor prompting often results in generic, stereotypical 'AI-looking' interfaces t
 - [[AI-Free Interface Aesthetics]]
 - [[Google Stitch]]
 - [[Claude Code]]
+- [[AI-Induced Industry Disruption]]
+- [[AI-Native Design Workflow]]
+- [[Vibe Design]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[谷歌Stitch氛围设计更新]]
 - [[designprompts.dev]]

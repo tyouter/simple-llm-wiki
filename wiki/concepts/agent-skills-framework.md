@@ -12,7 +12,7 @@ tags:
   - "anthropic"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.828011"
-updated_at: "2026-04-18T01:17:46.828011"
+updated_at: "2026-04-23T00:42:26.541663"
 related:
   - "Anthropic"
   - "Progressive Disclosure"
@@ -28,6 +28,34 @@ related:
   - "Skill Triggering"
   - "Skill Activation"
   - "Skill Security Considerations"
+  - "AI Agent"
+  - "AI Tool Chaining/Combination"
+  - "AI Tool Specialization"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+  - "CLAUDE.md配置哲学"
+  - "Git仪式自动化 (Git Ceremony Automation)"
+  - "GStack: Role-Based AI Development Workflow"
+  - "Model Context Protocol (MCP)"
+  - "Modular & Focused Skill Design"
+  - "从单词到语篇的渐进练习"
+  - "任务驱动的技能生成"
+  - "决策系统迭代"
+  - "固执己见的命令 (Opinionated Commands)"
+  - "基于角色的AI开发 (Role-Based AI Development)"
+  - "复杂逻辑链路处理"
+  - "工具链与插件生态"
+  - "战略管理知识体系构建"
+  - "技能包 (Skill Pack)"
+  - "技能进化模式"
+  - "Playwright CLI"
+  - "Superpowers插件"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
+  - "Anthropic Skills Framework: Engineering Approach to Agent Capability Development"
+  - "gstack：Claude工程团队 - 汇智网分析"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
+  - "Token Efficiency in AI Reasoning"
+  - "Ai学习的老章"
 ---
 
 # Agent Skills Framework
@@ -98,6 +126,34 @@ related:
 agent-framework, knowledge-encapsulation, progressive-disclosure, token-optimization, anthropic
 
 ## Related
+- [[AI Agent]]
+- [[AI Tool Chaining/Combination]]
+- [[AI Tool Specialization]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- [[CLAUDE.md配置哲学]]
+- [[Git仪式自动化 (Git Ceremony Automation)]]
+- [[GStack: Role-Based AI Development Workflow]]
+- [[Model Context Protocol (MCP)]]
+- [[Modular & Focused Skill Design]]
+- [[从单词到语篇的渐进练习]]
+- [[任务驱动的技能生成]]
+- [[决策系统迭代]]
+- [[固执己见的命令 (Opinionated Commands)]]
+- [[基于角色的AI开发 (Role-Based AI Development)]]
+- [[复杂逻辑链路处理]]
+- [[工具链与插件生态]]
+- [[战略管理知识体系构建]]
+- [[技能包 (Skill Pack)]]
+- [[技能进化模式]]
+- [[Playwright CLI]]
+- [[Superpowers插件]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
+- [[Anthropic Skills Framework: Engineering Approach to Agent Capability Development]]
+- [[gstack：Claude工程团队 - 汇智网分析]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
+- [[Token Efficiency in AI Reasoning]]
+- [[Ai学习的老章]]
 [[Anthropic]], [[Progressive Disclosure]], [[Token Efficiency Optimization]], [[Enterprise Skill Engineering]], [[skill-creator]]
 
 ## Related
@@ -135,7 +191,7 @@ The **Agent Skills Framework** is an open-format standard developed by [[Anthrop
 ## Enhanced Insights from Analysis
 The framework is positioned not just as a technical specification but as the foundation for a broader engineering discipline. It enables the shift from [[Prompt Engineering]] to building [[Skill as Asset|durable assets]], facilitated by tools like the [[Skill-Creator Tool]]. Key to its operation is the dynamic interplay between [[Skill Triggering]] (the decision to use a skill) and [[Skill Activation]] (the loading of its instructions), all governed by the need for efficient [[Context Window Management]]. As the ecosystem matures, formal [[Skill Security Considerations]] have become an integral part of the framework's best practices.
 
-Source: [[raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md]]
+Source: [[Skill]]
 
 ## Related
 - [[Anthropic]]

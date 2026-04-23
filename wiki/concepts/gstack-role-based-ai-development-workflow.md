@@ -10,7 +10,7 @@ tags:
   - "multi-agent"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.442155"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.183870"
 ---
 
 # GStack: Role-Based AI Development Workflow (GStack角色化AI开发工作流)
@@ -50,3 +50,6 @@ GStack是由Garry Tan创建的Claude Code技能包，引入八个专业化斜杠
 
 ## 来源
 - [src: GStack: Role-Based AI Development Workflow for Claude Code]
+## Related
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+

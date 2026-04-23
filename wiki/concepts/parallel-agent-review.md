@@ -11,7 +11,7 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391958"
-updated_at: "2026-04-17T21:50:12.391958"
+updated_at: "2026-04-23T00:42:20.422279"
 related:
   - "Claude Code"
   - "Boris"
@@ -19,6 +19,9 @@ related:
   - "Workflow Branching"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
   - "AI Tool Chaining/Combination"
+  - "Model-Switching Optimization"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Parallel Agent Review
@@ -60,7 +63,7 @@ According to the "Claude Code Hidden Features Guide," [[Boris]], a core team mem
 - [[Context Pollution]]: Parallel review helps avoid context pollution by using separate agents
 - [[Workflow Branching]]: Can be combined with branching to review alternative implementations
 - [[AI Tool Chaining/Combination]]: Represents internal tool chaining within a single platform
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]: Parallel review agents can be seen as specialized roles in a development workflow
+- [[Claude]]: Parallel review agents can be seen as specialized roles in a development workflow
 
 ## Best Practices
 1. Use after major code changes or generation sessions
@@ -76,5 +79,8 @@ Technique described in the "Claude Code Hidden Features Guide" based on the `/si
 - [[Boris]]
 - [[Context Pollution]]
 - [[Workflow Branching]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
+- [[Model-Switching Optimization]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
 - [[AI Tool Chaining/Combination]]

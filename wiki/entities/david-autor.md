@@ -10,11 +10,15 @@ tags:
   - "labor-economics"
 confidence: "high"
 created_at: "2026-04-18T22:47:45.121103"
-updated_at: "2026-04-18T22:47:45.121103"
+updated_at: "2026-04-23T00:42:20.834685"
 related:
   - "Agent Shock"
   - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
   - "Token侦探"
+  - "Ai Agent"
+  - "Agent"
+  - "当下是一个称为超级个体的时代吗？"
+  - "知乎讨论：当下是超级个体的时代吗"
 ---
 
 # David Autor
@@ -41,4 +45,8 @@ economist, academia, china-shock, labor-economics
 ## Related
 - [[Agent Shock]]
 - [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]
+- [[AI Agent]]
+- [[Agent]]
+- [[当下是一个称为超级个体的时代吗？]]
+- [[知乎讨论：当下是超级个体的时代吗]]
 - [[Token侦探]]

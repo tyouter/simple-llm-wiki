@@ -12,12 +12,13 @@ tags:
   - "workflow"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.289664"
 related:
   - "CLAUDE.md配置"
   - "Claude Code Hooks"
   - "Claude Code子代理"
   - "Plan Mode"
+  - "Claude Code Skills官方文档"
 ---
 
 # Claude Code深度使用指南
@@ -179,7 +180,8 @@ Explore → Plan → Implement → Verify
 4. **别指望一次完美**：迭代才是正确方式
 
 ## Related
-- [[CLAUDE.md配置]]
+- [[Claude]]
 - [[Claude Code Hooks]]
 - [[Claude Code子代理]]
+- [[Claude Code Skills官方文档]]
 - [[Plan Mode工作流]]

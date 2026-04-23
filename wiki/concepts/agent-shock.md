@@ -11,13 +11,21 @@ tags:
   - "service-economy"
 confidence: "high"
 created_at: "2026-04-18T22:47:45.119675"
-updated_at: "2026-04-18T22:47:45.119675"
+updated_at: "2026-04-23T00:42:20.055118"
 related:
   - "Super Individual (超级个体)"
   - "Service Trade Globalization"
   - "David Autor"
   - "MrBeast"
   - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
+  - "Ai Agent"
+  - "Agent"
+  - "Youtube"
+  - "Airbnb"
+  - "Mit"
+  - "当下是一个称为超级个体的时代吗？"
+  - "Token侦探"
+  - "知乎"
 ---
 
 # Agent Shock
@@ -58,4 +66,12 @@ economic-disruption, globalization, future-of-work, ai-agents, service-economy
 - [[Service Trade Globalization]]
 - [[David Autor]]
 - [[MrBeast]]
+- [[AI Agent]]
+- [[Agent]]
+- [[Youtube]]
+- [[Airbnb]]
+- [[Mit]]
+- [[当下是一个称为超级个体的时代吗？]]
+- [[Token侦探]]
+- [[知乎]]
 - [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]

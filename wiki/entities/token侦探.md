@@ -10,13 +10,14 @@ tags:
   - "forecaster"
 confidence: "high"
 created_at: "2026-04-18T22:47:45.121103"
-updated_at: "2026-04-18T22:47:45.121103"
+updated_at: "2026-04-22T23:50:27.469687"
 related:
   - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
   - "Agent Shock"
   - "David Autor"
   - "Super Individual (超级个体)"
   - "丹爷OS"
+  - "知乎讨论：当下是超级个体的时代吗"
 ---
 
 # Token侦探
@@ -47,4 +48,5 @@ zhihu-user, ai-researcher, economic-analysis, forecaster
 - [[Agent Shock]]
 - [[David Autor]]
 - [[Super Individual (超级个体)]]
+- [[知乎讨论：当下是超级个体的时代吗]]
 - [[丹爷OS]]

@@ -1,5 +1,5 @@
 ---
-title: "Engineer Identity Transformation|engineering skills"
+title: "Engineer Identity Transformation"
 type: "concept"
 sources:
   - "wiki/sources/zhihu-discussion-ai-agent-engineering-career-paths-and-technical-approaches.md"
@@ -9,7 +9,7 @@ tags:
   - "skill-development"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.706026"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.375272"
 ---
 
 # Engineer Identity Transformation
@@ -28,7 +28,7 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[zhihu-discussion-ai-agent-engineering-career-paths-and-technical-approaches]]
-- [[domain-specific-language-dsl-for-ai-agents]]
-- [[tool-integrated-reasoning-tir]]
-- [[subagent-architecture]]
+- [[Agent]]
+- [[Agent]]
+- tool-integrated-reasoning-tir
+- [[Agent]]

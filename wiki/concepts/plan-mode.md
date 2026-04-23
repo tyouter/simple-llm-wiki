@@ -3,6 +3,16 @@ title: "Plan Mode"
 type: "concept"
 sources:
   - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/55258346_claude code使用感受如何claude code使用感受如何.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/videos/dadd5906_How I use Claude Code Meta Staff Engineer Tips.md"
 tags:
   - "claude-code"
   - "workflow"
@@ -11,13 +21,72 @@ tags:
   - "productivity"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.978533"
-updated_at: "2026-04-18T00:50:50.978533"
+updated_at: "2026-04-23T00:42:26.458526"
 related:
   - "Claude Code"
   - "Context Window Management"
   - "TDD with Claude Code"
   - "Single-Loop Architecture"
   - "雁南飞"
+  - "Model Context Protocol"
+  - "Progressive Disclosure"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Code Review"
+  - "Github Copilot"
+  - "Anthropic"
+  - "Deepseek"
+  - "为什么Claude的代码能力会这么强？"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Frontmatter"
+  - "Auto Memory"
+  - "Cloudflare"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Superpowers"
+  - "Claude.Md"
+  - "Ai Agent"
+  - "Subagent"
+  - "Openclaw"
+  - "Gemini"
+  - "Agent"
+  - "Langgraph"
+  - "最好用的Agent框架是什么？"
+  - "Claude"
+  - "claude code使用感受如何？"
+  - "Skill-Creator"
+  - "Playwright"
+  - "Markdown"
+  - "Notebooklm"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "你们有哪些好的claude code skills推荐？"
+  - "Context Engineering"
+  - "Refactoring"
+  - "Worktree"
+  - "Meta"
+  - "Mit"
+  - "How I use Claude Code (Meta Staff Engineer Tips)"
+  - "Api"
+  - "Autonomous Task Planning & Execution"
+  - "CLAUDE.md"
+  - "Cli"
+  - "Copilot"
+  - "Devops"
+  - "Docker"
+  - "Hooks"
+  - "Humanize"
+  - "Lora"
+  - "Mcp"
+  - "Rag"
+  - "Skills"
+  - "Tailwind"
+  - "Google"
+  - "LangGraph"
+  - "Claude Code工作流技术与架构分析"
+  - "Git"
+  - "Skill"
 ---
 
 # Plan Mode
@@ -59,4 +128,63 @@ Based on workflow techniques documented in [[Advanced Claude Code Workflow Techn
 - [[Context Window Management]]
 - [[TDD with Claude Code]]
 - [[Single-Loop Architecture]]
+- [[Model Context Protocol]]
+- [[Progressive Disclosure]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Code Review]]
+- [[Github Copilot]]
+- [[Anthropic]]
+- [[Deepseek]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Frontmatter]]
+- [[Auto Memory]]
+- [[Cloudflare]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Superpowers]]
+- [[CLAUDE.md]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[Agent]]
+- [[LangGraph]]
+- [[最好用的Agent框架是什么？]]
+- [[Claude]]
+- [[claude code使用感受如何？]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[Markdown]]
+- [[Notebooklm]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[Context Engineering]]
+- [[Refactoring]]
+- [[Worktree]]
+- [[Meta]]
+- [[Mit]]
+- [[How I use Claude Code (Meta Staff Engineer Tips)]]
+- [[Api]]
+- [[Autonomous Task Planning & Execution]]
+- [[CLAUDE.md]]
+- [[Cli]]
+- [[Copilot]]
+- [[Devops]]
+- [[Docker]]
+- [[Hooks]]
+- [[Humanize]]
+- [[Lora]]
+- [[Mcp]]
+- [[Rag]]
+- [[Skills]]
+- [[Tailwind]]
+- [[Google]]
+- [[LangGraph]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Git]]
+- [[Skill]]
 - [[雁南飞]]

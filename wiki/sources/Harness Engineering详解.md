@@ -12,7 +12,7 @@ tags:
   - "production-systems"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.081079"
-updated_at: "2026-04-19T15:33:03.081079"
+updated_at: "2026-04-22T23:50:27.657780"
 related:
   - "mCell"
   - "riba2534"
@@ -22,6 +22,9 @@ related:
   - "Context Engineering"
   - "Entropy Management"
   - "Agent Operating System"
+  - "智能体Agent的本质剖析"
+  - "红杉资本AI商业模式转型分析"
+  - "约束工程与VibeCoding的核心要点"
 ---
 
 # Harness Engineering详解：从Agent Loop到生产系统
@@ -73,4 +76,7 @@ harness-engineering, ai-agents, software-engineering, cybernetics, context-engin
 - [[Harness Engineering]]
 - [[Context Engineering]]
 - [[Entropy Management]]
+- [[智能体Agent的本质剖析]]
+- [[红杉资本AI商业模式转型分析]]
+- [[约束工程与VibeCoding的核心要点]]
 - [[Agent Operating System]]

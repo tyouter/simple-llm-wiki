@@ -11,7 +11,7 @@ tags:
   - "ai-art"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.799188"
-updated_at: "2026-04-17T11:04:20.799188"
+updated_at: "2026-04-22T23:50:26.349315"
 related:
   - "Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code"
   - "AI-Free Interface Aesthetics"
@@ -22,6 +22,11 @@ related:
   - "AI-Native Design Workflow"
   - "AI Tool Chaining/Combination"
   - "Community-Driven AI Tool Discovery"
+  - "AI-assisted design"
+  - "AI-Free Interface Aesthetics|AI aesthetics"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
+  - "使用DesignPrompts生成无AI感界面"
 ---
 
 # Rrupmid Nyche
@@ -45,6 +50,11 @@ An AI + Art PhD student and creative practitioner who enjoys building custom too
 - [[Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code]]
 - [[AI-Free Interface Aesthetics]]
 - [[designprompts.dev]]
+- [[AI-assisted design]]
+- [[AI-Free Interface Aesthetics|AI aesthetics]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
+- [[使用DesignPrompts生成无AI感界面]]
 
 ---
 

@@ -12,13 +12,20 @@ tags:
   - "knowledge-synthesis"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.318581"
-updated_at: "2026-04-18T22:44:23.318581"
+updated_at: "2026-04-23T00:42:26.621723"
 related:
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
   - "Claude Code Automation/Configuration Management"
   - "Context & Resource Awareness in AI Coding"
   - "Cross-Model Code Review"
   - "Error Memory for AI Improvement"
+  - "多模态词汇学习"
+  - "长文本解析与理解"
+  - "Claude 4.5"
+  - "Southern University of Science and Technology (SUSTech)"
+  - "Mizore的Claude Code一键配置开源"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
+  - "Mizore"
 ---
 
 # AI-Assisted Paper Reading
@@ -92,4 +99,11 @@ ai-research-tool, paper-reading, academic-workflow, automation, claude-code, kno
 - [[Claude Code Automation/Configuration Management]]
 - [[Context & Resource Awareness in AI Coding]]
 - [[Cross-Model Code Review]]
+- [[多模态词汇学习]]
+- [[长文本解析与理解]]
+- [[Claude 4.5]]
+- [[Southern University of Science and Technology (SUSTech)]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
+- [[Mizore]]
 - [[Error Memory for AI Improvement]]

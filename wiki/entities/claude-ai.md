@@ -10,7 +10,7 @@ tags:
   - "ai-chat"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.515460"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.239258"
 ---
 
 # Claude.ai
@@ -37,9 +37,14 @@ Anthropic的AI聊天界面产品，用于策略制定、问题解决和信息检
 ## 相关概念
 - [[Claude]]
 - [[Anthropic]]
-- [[AI工具链]]
+- AI工具链
 
 ## 相关
 - [[Claude Code]]
 - [[Cowork]]
 - [[Anthropic]]
+## Related
+- [[AI-Exponential Product Management]]
+- [[Prototype-First Development]]
+- [[Cat Wu]]
+

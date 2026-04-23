@@ -11,7 +11,7 @@ tags:
   - "scalability"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-18T01:05:59.587391"
+updated_at: "2026-04-23T00:42:20.383838"
 related:
   - "Flood Sung"
   - "MetaBot"
@@ -19,6 +19,14 @@ related:
   - "Distributed Context Management"
   - "Single-Mode Problem"
   - "Agent Operating System"
+  - "Agent Harness"
+  - "AI Agent"
+  - "AI Tool Chaining/Combination"
+  - "零一猴子"
+  - "AutoGen"
+  - "CrewAI"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
 ---
 
 # Multi-Agent Orchestration
@@ -88,7 +96,7 @@ An architectural pattern where a lead agent coordinates multiple specialized sub
 
 ### When to Prefer Single-Agent
 - **Simple Projects**: Straightforward implementation tasks
-- **Debugging Priority**: When traceability is more important than scalability (as argued in [[advanced-claude-code-workflow-techniques-and-architecture-analysis]])
+- **Debugging Priority**: When traceability is more important than scalability (as argued in [[Claude]])
 - **Resource Constraints**: Limited computational resources
 
 ## Related Concepts
@@ -106,4 +114,12 @@ multi-agent, agent-architecture, orchestration, parallel-execution, scalability
 - [[Agentic Loop]]
 - [[Distributed Context Management]]
 - [[Single-Mode Problem]]
+- [[Agent Harness]]
+- [[AI Agent]]
+- [[AI Tool Chaining/Combination]]
+- [[零一猴子]]
+- [[AutoGen]]
+- [[CrewAI]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
 - [[Agent Operating System]]

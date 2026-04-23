@@ -9,13 +9,19 @@ tags:
   - "workflow"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.799188"
-updated_at: "2026-04-17T11:04:20.799188"
+updated_at: "2026-04-22T23:50:23.466733"
 related:
   - "designprompts.dev"
   - "Claude Code"
   - "AI-Free Interface Aesthetics"
   - "Design Prompt Engineering for UI"
   - "Design Prompt Curation/Repositories"
+  - "AI-assisted design"
+  - "AI-Free Interface Aesthetics|AI aesthetics"
+  - "Design Style System Prompt"
+  - "Vibe Coding Enhancement Workflow"
+  - "Rrupmid Nyche"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
 ---
 
 # Prompt Combination & Adaptation
@@ -43,4 +49,10 @@ This technique is a practical method within [[Design Prompt Engineering for UI]]
 - [[Claude Code]]
 - [[AI-Free Interface Aesthetics]]
 - [[Design Prompt Engineering for UI]]
+- [[AI-assisted design]]
+- [[AI-Free Interface Aesthetics|AI aesthetics]]
+- [[Design Style System Prompt]]
+- [[Vibe Coding Enhancement Workflow]]
+- [[Rrupmid Nyche]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
 - [[Design Prompt Curation/Repositories]]

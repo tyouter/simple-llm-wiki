@@ -11,12 +11,17 @@ tags:
   - "mcp"
 confidence: "high"
 created_at: "2026-04-18T01:05:59.587391"
-updated_at: "2026-04-18T01:05:59.587391"
+updated_at: "2026-04-22T23:50:21.714043"
 related:
   - "Model Context Protocol"
   - "Agentic Loop"
   - "Claude Code"
   - "AI Tool Chaining/Combination"
+  - "AI Tool Specialization"
+  - "Flood Sung"
+  - "MetaBot"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
 ---
 
 # Tool as World Model
@@ -98,4 +103,9 @@ tool-design, agent-architecture, world-model, interface-design, mcp
 - [[Model Context Protocol]]
 - [[Agentic Loop]]
 - [[Claude Code]]
+- [[AI Tool Specialization]]
+- [[Flood Sung]]
+- [[MetaBot]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
 - [[AI Tool Chaining/Combination]]

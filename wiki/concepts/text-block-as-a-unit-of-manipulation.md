@@ -10,13 +10,15 @@ tags:
   - "editor-design"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.457348"
-updated_at: "2026-04-21T16:31:03.457348"
+updated_at: "2026-04-22T23:50:23.953106"
 related:
   - "Multi-Format Block Support"
   - "Content Structure Agility"
   - "Notion"
   - "AI-Native Design Workflow"
   - "Obsidian Dragger"
+  - "Paradigm Borrowing in UX"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 The concept of **Text Block as a Unit of Manipulation** reframes discrete content elements—paragraphs, lists, callouts, tables—as atomic, movable objects within a digital editor. This paradigm shift moves beyond treating documents as linear text streams toward viewing them as modular collections of blocks that can be independently rearranged, nested, or transformed. Popularized by applications like [[Notion]] and Craft, this approach fundamentally changes content creation from sequential writing to spatial composition.
@@ -30,4 +32,6 @@ This conceptual framework complements [[AI-Native Design Workflow]] and [[AI-ass
 - [[Content Structure Agility]]
 - [[Notion]]
 - [[AI-Native Design Workflow]]
+- [[Paradigm Borrowing in UX]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[Obsidian Dragger]]

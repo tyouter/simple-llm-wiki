@@ -11,7 +11,7 @@ tags:
   - "production-systems"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.083078"
-updated_at: "2026-04-19T15:33:03.083078"
+updated_at: "2026-04-22T23:50:14.583865"
 related:
   - "Harness Engineering"
   - "Context Engineering"
@@ -20,6 +20,7 @@ related:
   - "Single-Mode Problem"
   - "AI Tool Chaining/Combination"
   - "Agent Operating System"
+  - "mCell"
 ---
 
 # Agent = Loop(Model + Harness)
@@ -73,4 +74,5 @@ agent-formula, harness-engineering, agent-architecture, feedback-loops, producti
 - [[DeepSeek]]
 - [[Single-Mode Problem]]
 - [[AI Tool Chaining/Combination]]
+- [[mCell]]
 - [[Agent Operating System]]

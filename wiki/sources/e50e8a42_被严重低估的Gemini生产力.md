@@ -12,7 +12,7 @@ tags:
   - "gems"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:42.648066"
 ---
 
 # 被严重低估的Gemini生产力
@@ -40,10 +40,12 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关工具
 - [[Gemini]] — Google的大语言模型产品
-- [[NotebookLM]] — Google的知识管理工具
-- [[Gemini Gems]] — Gemini的定制化助手功能
+- [[Notebooklm]] — Google的知识管理工具
+- [[Gemini]] — Gemini的定制化助手功能
 
 ## Related
-- [[AI生产力工具]]
-- [[Google AI生态]]
-- [[知识管理系统]]
+- [[AI办公提效工具集]]
+- [[有山先生：从高考0分到B站顶流的人生故事]]
+- AI生产力工具
+- [[Google]]
+- 知识管理系统

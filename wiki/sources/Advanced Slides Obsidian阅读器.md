@@ -12,7 +12,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.116586"
 ---
 
 # Advanced Slides Obsidian阅读器
@@ -45,4 +45,4 @@ https://vika.cn/share/shr2WDg4wcUXxF2ldGhjm
 ## Related
 
 - [[Obsidian]]
-- [[Obsidian插件]]
+- [[Obsidian]]

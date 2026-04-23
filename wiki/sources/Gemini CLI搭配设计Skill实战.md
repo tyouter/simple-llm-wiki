@@ -11,7 +11,7 @@ tags:
   - 前端设计
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.506156"
 ---
 
 # Gemini CLI搭配设计Skill实战
@@ -64,6 +64,7 @@ updated_at: "2026-04-20T12:00:00"
 - Call Code 工具
 
 ## Related
+- [[Vibe Design设计师变革]]
 
 - [[Claude Code Skills系统]]
-- [[前端设计]]
+- 前端设计

@@ -11,13 +11,15 @@ tags:
   - "design"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.013114"
-updated_at: "2026-04-18T23:00:54.013114"
+updated_at: "2026-04-22T23:50:27.270098"
 related:
   - "CodePilot"
   - "Streaming Rendering"
   - "Code Fence + Sandbox Iframe Architecture"
   - "AI Tool Specialization for Design"
   - "AI Tool Chaining/Combination"
+  - "Three.js3D"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Generative UI
@@ -59,4 +61,6 @@ Implemented in the [[CodePilot]] project by developer [[歸藏]], this method in
 - [[Streaming Rendering]]
 - [[Code Fence + Sandbox Iframe Architecture]]
 - [[AI Tool Specialization for Design]]
+- [[Three.js3D]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[AI Tool Chaining/Combination]]

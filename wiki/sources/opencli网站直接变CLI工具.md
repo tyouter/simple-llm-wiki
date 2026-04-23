@@ -11,7 +11,7 @@ tags:
   - 开源工具
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:21.778148"
 ---
 
 # opencli网站直接变CLI工具
@@ -46,7 +46,7 @@ updated_at: "2026-04-20T21:00:00"
 - 构建AI数据输入管道
 
 ## Related
-- [[Playwright反爬虫突破]]
-- [[Playwright爬虫检测解决]]
-- [[浏览器自动化工具弊病]]
+- [[Playwright]]
+- [[Playwright]]
+- [[浏览器自动化工具弊病分析]]
 - [[N8N爬虫工作流教程]]

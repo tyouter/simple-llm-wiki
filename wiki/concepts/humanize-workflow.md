@@ -10,7 +10,7 @@ tags:
   - "ai-assisted-development"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.896560"
-updated_at: "2026-04-17T21:42:57.896560"
+updated_at: "2026-04-23T00:42:20.299415"
 related:
   - "Spec Coding vs. Vibe Coding"
   - "AI Tool Chaining/Combination"
@@ -37,7 +37,7 @@ An iterative, multi-agent AI-assisted development methodology mentioned in the [
 ## Relation to Other Concepts
 - **[[Spec Coding vs. Vibe Coding]]**: The Humanize Workflow is a concrete system designed to enforce Spec Coding. The spec is the central artifact linking the execution and review agents.
 - **[[AI Tool Chaining/Combination]]**: This workflow is a prime example of chaining different AI models (Claude + Codex) with specialized roles to achieve a more robust outcome than a single model could.
-- **Contrast with [[gstack-role-based-ai-development-workflow-for-claude-code]]**: While GStack uses role-based prompts within a single Claude instance, Humanize uses distinct AI models/instances for execution and review, potentially offering greater independence in the review phase.
+- **Contrast with [[Claude]]**: While GStack uses role-based prompts within a single Claude instance, Humanize uses distinct AI models/instances for execution and review, potentially offering greater independence in the review phase.
 
 ## Practical Considerations
 - Requires setup of multiple AI tools or APIs.

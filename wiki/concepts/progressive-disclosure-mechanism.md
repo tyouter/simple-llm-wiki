@@ -10,7 +10,7 @@ tags:
   - "anthropic-claude"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.779630"
-updated_at: "2026-04-17T22:06:46.779630"
+updated_at: "2026-04-23T00:42:20.457504"
 related:
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
   - "Skill Engineering Lifecycle"
@@ -19,6 +19,10 @@ related:
   - "Context Window Management"
   - "Skill Activation"
   - "Skill Triggering"
+  - "Description Trigger Optimization"
+  - "Skills (Anthropic Framework)"
+  - "Claude"
+  - "Anthropic Skills Framework: Engineering Approach to Agent Capability Development"
 ---
 
 # Progressive Disclosure Mechanism
@@ -42,12 +46,16 @@ This mechanism is a foundational part of the standardized Skill format, which ce
 
 ## Relation to Other Concepts
 - **[[Skill Engineering Lifecycle]]:** Progressive disclosure is a key architectural decision made during the Skill design phase.
-- **[[skills-vs-tools-distinction]]:** This mechanism is a practical implementation detail that supports the "Skill" side of the distinction, enabling efficient knowledge management.
+- **[[Skill]]:** This mechanism is a practical implementation detail that supports the "Skill" side of the distinction, enabling efficient knowledge management.
 
 ## Tags
 design-pattern, context-management, skill-architecture, anthropic-claude
 
 ## Related
+- [[Description Trigger Optimization]]
+- [[Skills (Anthropic Framework)]]
+- [[Claude]]
+- [[Anthropic Skills Framework: Engineering Approach to Agent Capability Development]]
 [[Anthropic Skills: Engineering Approach to Agent Capability Development]], [[Skill Engineering Lifecycle]], [[skill-creator]]
 
 ## Related
@@ -79,7 +87,7 @@ The **Progressive Disclosure Mechanism** is a layered context management strateg
 ## Enhanced Insights from Analysis
 This mechanism is the architectural linchpin that makes the [[Agent Skills Framework]] scalable. It directly solves the problem of [[Context Window Management]] by ensuring the agent's limited token budget is not wasted on loading irrelevant skill details. The transition from the catalog stage to the [[Skill Activation|activation stage]] is where the mechanism's efficiency is realized, allowing the agent to maintain a broad awareness of capabilities while focusing cognitive resources only on what is immediately necessary.
 
-Source: [[raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md]]
+Source: [[Skill]]
 
 ## Related
 - [[Anthropic Skills: Engineering Approach to Agent Capability Development]]

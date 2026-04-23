@@ -10,7 +10,7 @@ tags:
   - "engineering-culture"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.335014"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.322714"
 ---
 
 # Industrial Logic
@@ -26,9 +26,10 @@ updated_at: "2026-04-20T12:00:00"
 - **典型代表**：比亚迪（BYD）坚持工业逻辑取得新能源汽车领先地位
 
 ## Related
-- [[Financial vs Industrial Logic]]
-- [[BYD]]
-- [[Wang Chuanfu]]
-- [[Industrial Moats]]
-- [[Vertical Integration]]
-- [[zhihu-discussion-financial-vs-industrial-logic-in-byd-s-development-strategy]]
+- [[Financial vs. Industrial Logic]]
+- [[Byd]]
+- [[Wang Chuanfu (王传福)]]
+- [[Industrial Moats/护城河]]
+- [[Vertical Integration/闭环]]
+- [[Elevator Effect/电梯效应]]
+- [[Zhihu]]

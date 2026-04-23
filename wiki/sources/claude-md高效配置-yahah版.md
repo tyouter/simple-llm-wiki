@@ -9,7 +9,7 @@ tags:
   - "best-practices"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:38.822768"
 ---
 
 # claude.md高效配置方法 - yahah版
@@ -68,7 +68,9 @@ CLAUDE.md的核心是"**上下文激活机制**":
    - 详细规则按需
 
 ## Related
+- [[bmad-method开源项目分析]]
+- [[国外原版教材获取途径]]
 
-- [[claude-md高效配置-杞鋂]]
-- [[claude-md高效配置-zephyr-ai]]
-- [[Claude-Code配置最佳实践]]
+- [[Claude]]
+- [[Claude]]
+- [[Claude]]

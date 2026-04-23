@@ -11,13 +11,21 @@ tags:
   - "debuggability"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.979040"
-updated_at: "2026-04-18T00:50:50.979040"
+updated_at: "2026-04-22T23:50:21.740861"
 related:
   - "Claude Code"
   - "LLM Search over RAG"
   - "Context Window Management"
   - "Plan Mode"
   - "Vivek Aithal"
+  - "Agentic Loop"
+  - "Subagents for Context Efficiency"
+  - "小雅"
+  - "Flood Sung"
+  - "MetaBot"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code工作流技术与架构分析"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
 ---
 
 # Single-Loop Architecture
@@ -86,4 +94,12 @@ Based on architectural analysis by [[Vivek Aithal]] referenced in [[Advanced Cla
 - [[LLM Search over RAG]]
 - [[Context Window Management]]
 - [[Plan Mode]]
+- [[Agentic Loop]]
+- [[Subagents for Context Efficiency]]
+- [[小雅]]
+- [[Flood Sung]]
+- [[MetaBot]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
 - [[Vivek Aithal]]

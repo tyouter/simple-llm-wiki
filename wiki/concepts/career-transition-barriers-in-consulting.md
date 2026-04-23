@@ -16,7 +16,7 @@ tags:
   - "management-consulting"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.650447"
-updated_at: "2026-04-17T21:42:03.650447"
+updated_at: "2026-04-22T23:50:25.409448"
 related:
   - "Strategic Management Learning Framework"
   - "Theory-Practice Integration"
@@ -25,6 +25,10 @@ related:
   - "木游子"
   - "Sunny"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Authenticity as Capital"
+  - "Career Transition Barriers"
+  - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
 ---
 
 # Career Transition Barriers in Consulting
@@ -74,6 +78,10 @@ This concept is primarily articulated by Zhihu user [[考拉的糖果]], who exp
 - [[考拉的糖果]]
 - [[木游子]]
 - [[Sunny]]
+- [[Authenticity as Capital]]
+- [[Career Transition Barriers]]
+- [[Zhihu Discussion on Enlightenment and Personal Transformation]]
+- [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]]
 
 ---
 

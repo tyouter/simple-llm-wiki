@@ -10,11 +10,32 @@ tags:
   - "software-engineering"
 confidence: "high"
 created_at: "2026-04-17T11:18:13.380577"
-updated_at: "2026-04-17T11:18:13.380577"
+updated_at: "2026-04-22T23:50:27.549800"
 related:
   - "Role-Based AI Development"
   - "GStack"
   - "Claude Code"
+  - "Agent = Loop(Model + Harness)"
+  - "AI Agent"
+  - "Convergent Evolution (in AI Tools)"
+  - "Dynamic Multi-LLM Support with Failover"
+  - "GStack: Role-Based AI Development Workflow"
+  - "Harness Engineering"
+  - "Multi-Agent Collaboration"
+  - "Multi-Agent Orchestration"
+  - "Token消耗管理 (Token Consumption Management)"
+  - "Garry Tan"
+  - "TurboDocx"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
+  - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering详解"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)"
+  - "OpenAkita: Open-Source Self-Evolving AI Assistant Framework"
+  - "Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines"
+  - "知乎讨论：普通人第一次用OpenClaw应该注意什么"
 ---
 
 # Single-Mode Problem
@@ -44,4 +65,25 @@ Frameworks like **[[GStack]]** for [[Claude Code]] are built explicitly to solve
 ## Related
 - [[Role-Based AI Development]]
 - [[GStack]]
+- [[Agent = Loop(Model + Harness)]]
+- [[AI Agent]]
+- [[Convergent Evolution (in AI Tools)]]
+- [[Dynamic Multi-LLM Support with Failover]]
+- [[GStack: Role-Based AI Development Workflow]]
+- [[Harness Engineering]]
+- [[Multi-Agent Collaboration]]
+- [[Multi-Agent Orchestration]]
+- [[Token消耗管理 (Token Consumption Management)]]
+- [[Garry Tan]]
+- [[TurboDocx]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering详解]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[Harness Engineering Explained: From Agent Loop to Production System (Zhihu Discussion)]]
+- [[OpenAkita: Open-Source Self-Evolving AI Assistant Framework]]
+- [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
+- [[知乎讨论：普通人第一次用OpenClaw应该注意什么]]
 - [[Claude Code]]

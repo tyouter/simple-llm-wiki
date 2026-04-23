@@ -11,12 +11,17 @@ tags:
   - "query-optimization"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.393562"
-updated_at: "2026-04-17T21:56:25.393562"
+updated_at: "2026-04-22T23:50:24.594590"
 related:
   - "AI Agent Cognitive Architecture"
   - "Structured Data + Unstructured Document Fusion"
   - "Multi-Tool Orchestration with State Machines"
   - "Advanced AI Agent Architecture for Financial Analysis"
+  - "Agent-Based Active Retrieval"
+  - "Agent Memory Systems"
+  - "Tavily"
+  - "杞鋂"
+  - "Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs"
 ---
 
 # Enhanced RAG with Human-like Reasoning
@@ -57,6 +62,11 @@ This approach is a core component of [[AI Agent Cognitive Architecture]] and ena
 rag, reasoning-engines, information-retrieval, metadata, query-optimization
 
 ## Related
+- [[Agent-Based Active Retrieval]]
+- [[Agent Memory Systems]]
+- [[Tavily]]
+- [[杞鋂]]
+- [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]]
 [[AI Agent Cognitive Architecture]], [[Structured Data + Unstructured Document Fusion]], [[Multi-Tool Orchestration with State Machines]], [[Advanced AI Agent Architecture for Financial Analysis]]
 
 ## Related

@@ -11,13 +11,17 @@ tags:
   - "innovation"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.933879"
 related:
   - "AI-Exponential Product Management"
   - "Prototype-First Development"
   - "Claude Code"
   - "Cat Wu"
   - "Model-Capability-Driven Product Evolution"
+  - "Simplest Working Solution Principle"
+  - "Kai Xin Tai"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Edge Exploration Projects (Side Quests)
@@ -76,4 +80,8 @@ rapid-prototyping, experimentation, capability-testing, autonomous-projects, inn
 - [[Prototype-First Development]]
 - [[Claude Code]]
 - [[Cat Wu]]
+- [[Simplest Working Solution Principle]]
+- [[Kai Xin Tai]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Model-Capability-Driven Product Evolution]]

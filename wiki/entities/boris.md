@@ -10,11 +10,18 @@ tags:
   - "core-contributor"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.393971"
-updated_at: "2026-04-17T21:50:12.393971"
+updated_at: "2026-04-23T00:42:20.806018"
 related:
   - "Claude Code"
   - "Thariq"
   - "Parallel Agent Review"
+  - "Obsidian"
+  - "Openclaw"
+  - "Markdown"
+  - "Skills"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Boris
@@ -77,4 +84,11 @@ Mentioned in the "Claude Code Hidden Features Guide" as a core team member and d
 ## Related
 - [[Claude Code]]
 - [[Thariq]]
+- [[Obsidian]]
+- [[OpenClaw]]
+- [[Markdown]]
+- [[Skills]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
 - [[Parallel Agent Review]]

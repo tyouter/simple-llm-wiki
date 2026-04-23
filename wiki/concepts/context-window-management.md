@@ -12,7 +12,7 @@ tags:
   - "optimization"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.979040"
-updated_at: "2026-04-18T00:50:50.979040"
+updated_at: "2026-04-23T00:42:26.577680"
 related:
   - "Claude Code"
   - "Persistent Memory System (Claude Code)"
@@ -21,6 +21,16 @@ related:
   - "Progressive Disclosure Mechanism"
   - "Agent Skills Framework"
   - "Skill Activation"
+  - "Claude Code Automation/Configuration Management"
+  - "Context & Resource Awareness in AI Coding"
+  - "Distributed Context Management"
+  - "Plan Mode"
+  - "雁南飞"
+  - "Anthropic Skills Framework: Engineering Approach to Agent Capability Development"
+  - "Claude Code工作流技术与架构分析"
+  - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
+  - "Mizore的Claude Code一键配置开源"
+  - "Claude"
 ---
 
 # Context Window Management
@@ -80,6 +90,16 @@ Based on techniques from [[Advanced Claude Code Workflow Techniques and Architec
 - [[Persistent Memory System (Claude Code)]]
 - [[Subagents for Context Efficiency]]
 - [[Single-Loop Architecture]]
+- [[Claude Code Automation/Configuration Management]]
+- [[Context & Resource Awareness in AI Coding]]
+- [[Distributed Context Management]]
+- [[Plan Mode]]
+- [[雁南飞]]
+- [[Anthropic Skills Framework: Engineering Approach to Agent Capability Development]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Mizore's Claude Code Automation Toolkit and Paper Reading Skill]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[Claude]]
 
 ---
 

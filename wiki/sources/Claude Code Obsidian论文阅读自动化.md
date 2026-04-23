@@ -13,7 +13,7 @@ tags:
   - "video"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.269033"
 ---
 
 # Claude Code Obsidian论文阅读自动化
@@ -78,4 +78,4 @@ updated_at: "2026-04-20T12:00:00"
 - [[Claude Code]]
 - [[Obsidian]]
 - [[Claude Code Skills系统]]
-- [[论文阅读自动化]]
+- 论文阅读自动化

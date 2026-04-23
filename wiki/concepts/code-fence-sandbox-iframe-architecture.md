@@ -11,13 +11,14 @@ tags:
   - "implementation"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.014122"
-updated_at: "2026-04-18T23:00:54.014122"
+updated_at: "2026-04-22T23:50:27.298768"
 related:
   - "CodePilot"
   - "Generative UI"
   - "Streaming Rendering"
   - "歸藏"
   - "Local Data Sovereignty in Automation"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Code Fence + Sandbox Iframe Architecture
@@ -57,4 +58,5 @@ The architecture enables [[CodePilot]] to support multiple AI models including [
 - [[Generative UI]]
 - [[Streaming Rendering]]
 - [[歸藏]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[Local Data Sovereignty in Automation]]

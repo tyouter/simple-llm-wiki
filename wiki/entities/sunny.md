@@ -17,7 +17,7 @@ tags:
   - "experience"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.651636"
-updated_at: "2026-04-17T21:42:03.651636"
+updated_at: "2026-04-23T00:42:41.889931"
 related:
   - "Strategic Management Learning Framework"
   - "Theory-Practice Integration"
@@ -34,6 +34,12 @@ related:
   - "战略管理知识体系构建"
   - "迈克尔·波特"
   - "卡普兰和诺顿"
+  - "Cross-Disciplinary Knowledge for Management"
+  - "Systematic Learning Framework"
+  - "30岁转行战略咨询：如何从零开始系统学习战略管理？"
+  - "30岁转行战略咨询：知乎问答深度解析"
+  - "知乎讨论：30岁转行战略咨询如何从零开始系统学习战略管理"
+  - "Career Transition Barriers"
 ---
 
 # Sunny
@@ -79,6 +85,13 @@ Sunny's approach aligns with [[木游子]]'s emphasis on systematic knowledge ac
 - [[Michael Porter]]
 - [[Robert S. Kaplan & David P. Norton]]
 - [[Philip Kotler]]
+- [[Cross-Disciplinary Knowledge for Management]]
+- [[Systematic Learning Framework]]
+- [[30岁转行战略咨询：如何从零开始系统学习战略管理？]]
+- [[30岁转行战略咨询：知乎问答深度解析]]
+- [[知乎讨论：30岁转行战略咨询如何从零开始系统学习战略管理]]
+- [[Career Transition Barriers]]
+- [[30岁转行战略咨询学习框架]]
 
 ---
 

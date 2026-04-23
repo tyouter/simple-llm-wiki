@@ -11,12 +11,13 @@ tags:
   - "practical-case-study"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-22T23:50:17.574690"
 related:
   - "Domain-Specific Language (DSL) for AI Agents"
   - "Token Efficiency in AI Reasoning"
   - "Tool-Integrated Reasoning (TIR)"
   - "AI Agent"
+  - "字节跳动 (ByteDance)"
 ---
 
 # 面壁 (FaceWall)
@@ -73,6 +74,7 @@ Studying implementations like FaceWall's OpenMAIC provides concrete examples for
 chinese-ai-company, dsl-implementation, educational-technology, ai-agent-example, practical-case-study
 
 ## Related
+- [[字节跳动 (ByteDance)]]
 [[Domain-Specific Language (DSL) for AI Agents]], [[Token Efficiency in AI Reasoning]], [[Tool-Integrated Reasoning (TIR)]], [[AI Agent]]
 
 ## Related

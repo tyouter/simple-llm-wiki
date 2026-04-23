@@ -11,7 +11,7 @@ tags:
   - "ai-methodology"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.677971"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.181344"
 ---
 
 # Chain-of-Thought (CoT) Reasoning (思维链推理)
@@ -43,3 +43,6 @@ updated_at: "2026-04-20T16:00:00"
 ## 来源
 - [src: Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]
 - [src: Zhihu Discussion: Why AI Agents Underperform in Practice and Intelligent RAG Solutions]
+## Related
+- [[AI Economics]]
+

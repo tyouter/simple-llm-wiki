@@ -11,12 +11,53 @@ tags:
   - "q-a-site"
 confidence: "high"
 created_at: "2026-04-17T22:54:50.206029"
-updated_at: "2026-04-17T22:54:50.206029"
+updated_at: "2026-04-23T00:46:12.168728"
 related:
   - "Zhihu Login Page Error Message (Source)"
   - "Zhihu Discussion: Learning Method Transition Crisis"
   - "Internal Conflict (内耗) in Learning"
   - "Model-Capability-Driven Product Evolution"
+  - "Knowledge Wasteland (知识荒原)"
+  - "jobs@zhihu.com"
+  - "AI Content Saturation"
+  - "Algorithmic Mindset Shift"
+  - "Bit-Level Hacking"
+  - "Boris Cherny"
+  - "Brain Prediction Model|Path 2 (model updating)"
+  - "Contradiction Analysis|contradiction"
+  - "Dan Abramov"
+  - "David Heinemeier Hansson (DHH)"
+  - "Engineering Compromise"
+  - "Gergely Orosz"
+  - "Industrial Logic"
+  - "Information Fidelity & Verification"
+  - "Information Source Curation"
+  - "Niche Knowledge & Creative Hubs|Creative Hub"
+  - "Persona (用户画像)"
+  - "Programmer-to-Blogger Transition"
+  - "Self-Directed Learning Infrastructure"
+  - "Technical Blog Quality Hierarchy"
+  - "代偿 (Compensation)"
+  - "正道内功 (Foundational Internal Skills)"
+  - "肌少症 (Sarcopenia)"
+  - "超负荷原则 (Overload Principle)"
+  - "间歇变速法 (Interval Training)"
+  - "Andrej Karpathy"
+  - "BugBuster喵"
+  - "James Gleick"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "Paul Graham"
+  - "TurtleLiu"
+  - "吴恩达"
+  - "好地方bug"
+  - "如萤随星"
+  - "王沪宁"
+  - "蕾妈在成长"
+  - "谷磨"
+  - "陈皓 (Cool Shell)"
+  - "Zhihu Discussion: OpenClaw/Moltbot Practical Applications and Limitations"
+  - "知乎讨论-OpenClaw实用应用与局限性"
+  - "Contradiction Analysis|contradiction"
 ---
 
 # Zhihu
@@ -46,4 +87,45 @@ company, knowledge-platform, social-media, china, q-a-site
 - [[Zhihu Login Page Error Message (Source)]]
 - [[Zhihu Discussion: Learning Method Transition Crisis]]
 - [[Internal Conflict (内耗) in Learning]]
+- [[Knowledge Wasteland (知识荒原)]]
+- [[jobs@zhihu.com]]
+- [[AI Content Saturation]]
+- [[Algorithmic Mindset Shift]]
+- [[Bit-Level Hacking]]
+- [[Boris Cherny]]
+- [[Brain Prediction Model|Path 2 (model updating)]]
+- [[Contradiction|contradiction|contradiction|contradiction|contradiction|contradiction]]
+- [[Dan Abramov]]
+- [[David Heinemeier Hansson (DHH)]]
+- [[Engineering Compromise]]
+- [[Gergely Orosz]]
+- [[Industrial Logic]]
+- [[Information Fidelity & Verification]]
+- [[Information Source Curation]]
+- [[Niche Knowledge & Creative Hubs|Creative Hub]]
+- [[Persona (用户画像)]]
+- [[Programmer-to-Blogger Transition]]
+- [[Self-Directed Learning Infrastructure]]
+- [[Technical Blog Quality Hierarchy]]
+- [[代偿 (Compensation)]]
+- [[正道内功 (Foundational Internal Skills)]]
+- [[肌少症 (Sarcopenia)]]
+- [[超负荷原则 (Overload Principle)]]
+- [[间歇变速法 (Interval Training)]]
+- [[Andrej Karpathy]]
+- [[BugBuster喵]]
+- [[James Gleick]]
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[Paul Graham]]
+- [[TurtleLiu]]
+- [[吴恩达]]
+- [[好地方bug]]
+- [[如萤随星]]
+- [[王沪宁]]
+- [[蕾妈在成长]]
+- [[谷磨]]
+- [[陈皓 (Cool Shell)]]
+- [[Zhihu Discussion: OpenClaw/Moltbot Practical Applications and Limitations]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
+- [[Contradiction|contradiction]]
 - [[Model-Capability-Driven Product Evolution]]

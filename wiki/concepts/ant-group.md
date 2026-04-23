@@ -9,7 +9,7 @@ tags:
   - "alibaba"
 confidence: "medium"
 created_at: "2026-04-19T01:52:16.569131"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.252395"
 ---
 
 # Ant Group
@@ -30,8 +30,11 @@ updated_at: "2026-04-20T16:00:00"
 - [[ByteDance Volcano Engine]]
 
 ## 相关实体
-- [[阿里巴巴集团]]
-- [[支付宝]]
+- 阿里巴巴集团
+- 支付宝
 
 ## 来源
 暂无直接wiki source引用，信息基于通用知识。
+## Related
+- [[汉松]]
+

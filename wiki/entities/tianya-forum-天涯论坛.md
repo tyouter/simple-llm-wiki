@@ -10,11 +10,12 @@ tags:
   - "social-media"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.068615"
-updated_at: "2026-04-17T21:59:22.068615"
+updated_at: "2026-04-22T23:50:17.179226"
 related:
   - "Post-Forum Internet Landscape"
   - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
   - "Zhihu (知乎)"
+  - "ZCOOL (站酷)"
 ---
 
 # Tianya Forum (天涯论坛)
@@ -32,6 +33,7 @@ Its closure marked the end of an era for the Chinese internet, symbolizing the s
 - [[Post-Forum Internet Landscape]]
 - [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
 - [[Zhihu (知乎)]]
+- [[ZCOOL (站酷)]]
 
 ## Related
 - [[Post-Forum Internet Landscape]]

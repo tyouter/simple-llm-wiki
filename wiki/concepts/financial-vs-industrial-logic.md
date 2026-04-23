@@ -12,7 +12,7 @@ tags:
   - "corporate-governance"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.212657"
-updated_at: "2026-04-18T22:51:14.212657"
+updated_at: "2026-04-23T00:42:26.382988"
 related:
   - "Industrial Moats/护城河"
   - "Vertical Integration/闭环"
@@ -20,6 +20,11 @@ related:
   - "Elevator Effect/电梯效应"
   - "BYD (比亚迪)"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
+  - "Warren Buffett"
+  - "Geely (吉利汽车)"
+  - "Li Shufu (李书福)"
+  - "Industrial Logic"
 ---
 
 # Financial vs. Industrial Logic
@@ -56,4 +61,9 @@ concept, finance, corporate-strategy, industrial-policy, valuation, corporate-go
 - [[Financialization of Industry]]
 - [[Elevator Effect/电梯效应]]
 - [[BYD (比亚迪)]]
+- [[China Manufacturing]]
+- [[Warren Buffett]]
+- [[Geely (吉利汽车)]]
+- [[Li Shufu (李书福)]]
+- [[Industrial Logic]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

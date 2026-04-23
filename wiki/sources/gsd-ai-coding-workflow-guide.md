@@ -12,7 +12,7 @@ tags:
   - "best-practices"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:44:54.138178"
 ---
 
 # GSD AI编程工作流指南
@@ -62,11 +62,11 @@ AI随风随风发布的AI编程工作流教程，介绍GET SHIT DONE (GSD)工作
 
 ## 相关概念
 
-- [[AI编程工作流]]
+- AI编程工作流
 - [[Harness Engineering]]
-- [[Claude Code工作流]]
+- [[Claude]]
 - [[Plan Mode工作流]]
 
 ## 相关实体
 
-- [[AI随风随风]]
+- AI随风随风

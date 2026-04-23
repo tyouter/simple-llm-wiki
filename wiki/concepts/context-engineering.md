@@ -4,13 +4,16 @@ type: "concept"
 sources:
   - "wiki/sources/harness-engineering-explained-from-agent-loop-to-production-system-zhihu-discussion.md"
   - "wiki/sources/anthropic-skills-engineering-approach-to-agent-capability-development.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
 tags:
   - "prompt-engineering"
   - "context-management"
   - "agent-architecture"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.569131"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.219721"
 ---
 
 # Context Engineering (上下文工程)
@@ -43,3 +46,25 @@ updated_at: "2026-04-20T16:00:00"
 ## 来源
 - [src: Harness Engineering Explained: From Agent Loop to Production System]
 - [src: Anthropic Skills: Engineering Approach to Agent Capability Development]
+## Related
+- [[Agent-First Development]]
+- [[Agent Harness]]
+- [[Agent = Loop(Model + Harness)]]
+- [[Agent]]
+- [[Api]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Code Review]]
+- [[Compound Engineering]]
+- [[Cursor]]
+- [[Cybernetics]]
+- [[Deepseek]]
+- [[Docker]]
+- [[Entropy Management]]
+- [[Gemini]]
+- [[Git]]
+- [[Humanize]]
+- [[Markdown]]
+- [[Mitchell Hashimoto]]
+- [[Plan Mode]]
+

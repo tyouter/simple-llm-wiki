@@ -11,7 +11,7 @@ tags:
   - "ai-skills"
 confidence: medium
 created_at: "2026-04-20T22:00:00"
-updated_at: "2026-04-20T22:00:00"
+updated_at: "2026-04-23T00:42:33.555605"
 timestamps:
   author: "GoldenSpiderAI"
   published: "2026-03-08"
@@ -52,9 +52,11 @@ timestamps:
 这不是理论，而是作者实际使用的系统，可以直接采用并应用于任何研究需求。
 
 ## Related
+- [[AI时代消费型学习VS生产型学习]]
+- [[Litmaps论文阅读工具：一张图挖出领域祖师爷]]
 
-- [[Claude Code工作流]]
-- [[NotebookLM应用]]
-- [[Obsidian知识管理]]
-- [[AI研究自动化]]
-- [[Skills开发]]
+- [[Claude]]
+- [[Notebooklm]]
+- [[Obsidian]]
+- AI研究自动化
+- [[Skill]]

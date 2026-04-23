@@ -10,7 +10,7 @@ tags:
   - "traditional-culture"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.956607"
 related:
   - "内功"
   - "呼吸法"
@@ -84,6 +84,6 @@ related:
 > 所谓内功，其实就是通过呼吸把身体练成内壮。
 
 ## Related
-- [[内功-internal-martial-arts-neigong]]
-- [[呼吸法-breathing-method]]
-- [[身体姿态与核心控制]]
+- 内功-internal-martial-arts-neigong
+- 呼吸法-breathing-method
+- [[身体姿态与核心控制 (Body Posture and Core Control)]]

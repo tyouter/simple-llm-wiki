@@ -10,7 +10,7 @@ tags:
   - "agent-skills-standard"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.319714"
 related:
   - "Claude Code Skills系统"
   - "Agent Skills开放标准"
@@ -84,5 +84,5 @@ Claude Code Skills遵循Agent Skills开放标准，跨多AI工具通用。Claude
 
 ## Related
 - [[Claude Code Skills系统]]
-- [[Agent Skills开放标准]]
+- [[Agent]]
 - [[Claude Code深度使用指南]]

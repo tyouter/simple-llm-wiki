@@ -11,13 +11,16 @@ tags:
   - "linguistics"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-22T23:50:22.303876"
 related:
   - "DeepSeek"
   - "DeepSeek-R1"
   - "Prompt Engineering for Chinese AI"
   - "GPT"
   - "豆包 (Doubao)"
+  - "Quantitative Analysis via AI"
+  - "幻方量化 (Huanfang Quantitative)"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
 ---
 
 # Chinese Language AI Specialization
@@ -104,4 +107,7 @@ AI models specifically optimized for Chinese linguistic characteristics, cultura
 - [[DeepSeek-R1]]
 - [[Prompt Engineering for Chinese AI]]
 - [[GPT]]
+- [[Quantitative Analysis via AI]]
+- [[幻方量化 (Huanfang Quantitative)]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
 - [[豆包 (Doubao)]]

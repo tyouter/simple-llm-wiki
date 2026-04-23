@@ -11,12 +11,13 @@ tags:
   - "educational-technology"
 confidence: "high"
 created_at: "2026-04-17T21:49:07.820654"
-updated_at: "2026-04-17T21:49:07.820654"
+updated_at: "2026-04-22T23:50:24.692903"
 related:
   - "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
   - "Typing-Based Language Learning"
   - "Open-Source Educational Tools"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "TypeWords打字式背单词"
 ---
 
 # Spaced Repetition via Error Tracking
@@ -57,4 +58,5 @@ In [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]], this system
 - [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]]
 - [[Typing-Based Language Learning]]
 - [[Open-Source Educational Tools]]
+- [[TypeWords打字式背单词]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]

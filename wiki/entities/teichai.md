@@ -9,7 +9,7 @@ tags:
   - "model-distillation"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.676970"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.247794"
 ---
 
 # TeichAI
@@ -27,10 +27,16 @@ updated_at: "2026-04-20T00:00:00"
 - 在Anthropic对中国限制背景下提供替代方案
 
 ## 相关概念
-- [[模型蒸馏]]
+- 模型蒸馏
 - [[Anthropic对中国控股公司的限制]]
 - [[Claude]]
 
 ## 相关
 - [[Jackrong]]
 - [[Unsloth]]
+## Related
+- [[AI Economics]]
+- [[Local Model Deployment]]
+- [[Claude Opus 4.6]]
+- [[Qwen3.5-27B]]
+

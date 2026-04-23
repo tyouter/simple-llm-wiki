@@ -1,5 +1,5 @@
 ---
-title: "AI Tool Chaining/Combination|combination"
+title: "AI Tool Chaining/Combination"
 type: "concept"
 sources:
   - "wiki/sources/agent-skills-vs-mcp-technical-comparison-and-enterprise-applications.md"
@@ -10,7 +10,7 @@ tags:
   - "tool-orchestration"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.803885"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.373748"
 ---
 
 # AI Tool Chaining/Combination
@@ -29,8 +29,8 @@ AI工具链/组合是一种将多个专业化AI工具或Skills按流程串联使
 
 ## Related
 
-- [[skills-anthropic-framework]]
-- [[model-context-protocol-mcp]]
-- [[ai-tool-specialization-for-design]]
-- [[progressive-disclosure-mechanism]]
-- [[agent-skills-vs-mcp-technical-comparison-and-enterprise-applications]]
+- [[Skill]]
+- [[Mcp]]
+- ai-tool-specialization-for-design
+- progressive-disclosure-mechanism
+- [[Agent]]

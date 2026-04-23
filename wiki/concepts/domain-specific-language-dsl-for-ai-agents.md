@@ -11,13 +11,24 @@ tags:
   - "system-design"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.439111"
-updated_at: "2026-04-17T16:57:33.439111"
+updated_at: "2026-04-23T00:42:26.947179"
 related:
   - "Tool-Integrated Reasoning (TIR)"
   - "面壁 (FaceWall)"
   - "Agent Operating System"
   - "ReAct Pattern (Reasoning + Acting)"
   - "Token Efficiency in AI Reasoning"
+  - "Agent RL Training"
+  - "Derivation-First Learning"
+  - "Enumeration Path Dependency"
+  - "Skills vs Tools Distinction"
+  - "SubAgent Architecture"
+  - "字节跳动 (ByteDance)"
+  - "宙巡"
+  - "清华大学 (Tsinghua University)"
+  - "腾讯 (Tencent)"
+  - "Zhihu Discussion: Learning Method Transition Crisis"
+  - "知乎讨论：学习方法的转型危机"
 ---
 
 # Domain-Specific Language (DSL) for AI Agents
@@ -71,6 +82,17 @@ Mastering DSL design is identified as a key differentiator for [[AI Agent]] engi
 domain-specific-language, ai-agent, token-efficiency, implementation-pattern, system-design
 
 ## Related
+- [[Agent RL Training]]
+- [[Derivation-First Learning]]
+- [[Enumeration Path Dependency]]
+- [[Skills vs Tools Distinction]]
+- [[SubAgent Architecture]]
+- [[字节跳动 (ByteDance)]]
+- [[宙巡]]
+- [[清华大学 (Tsinghua University)]]
+- [[腾讯 (Tencent)]]
+- [[Zhihu Discussion: Learning Method Transition Crisis]]
+- [[知乎讨论：学习方法的转型危机]]
 [[Tool-Integrated Reasoning (TIR)]], [[面壁 (FaceWall)]], [[Agent Operating System]], [[ReAct Pattern (Reasoning + Acting)]], [[Token Efficiency in AI Reasoning]]
 
 ## Related

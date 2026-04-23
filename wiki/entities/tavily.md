@@ -11,12 +11,19 @@ tags:
   - "api"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.395565"
-updated_at: "2026-04-17T21:56:25.395565"
+updated_at: "2026-04-23T00:42:20.953968"
 related:
   - "Advanced AI Agent Architecture for Financial Analysis"
   - "AI Agent Cognitive Architecture"
   - "Multi-Tool Orchestration with State Machines"
   - "杞鋂"
+  - "Embedding"
+  - "Ai Agent"
+  - "Agent"
+  - "Rag"
+  - "Git"
+  - "为什么感觉现在AI Agent都是雷声大雨点小？"
+  - "金融分析高级AI Agent架构"
 ---
 
 # Tavily
@@ -74,6 +81,13 @@ As part of an [[AI Agent Cognitive Architecture]], Tavily addresses the limitati
 search-tool, real-time-data, web-search, financial-data, api
 
 ## Related
+- [[Embedding]]
+- [[AI Agent]]
+- [[Agent]]
+- [[Rag]]
+- [[Git]]
+- [[为什么感觉现在AI Agent都是雷声大雨点小？]]
+- [[金融分析高级AI Agent架构]]
 [[Advanced AI Agent Architecture for Financial Analysis]], [[AI Agent Cognitive Architecture]], [[Multi-Tool Orchestration with State Machines]], [[杞鋂]]
 
 ## Related

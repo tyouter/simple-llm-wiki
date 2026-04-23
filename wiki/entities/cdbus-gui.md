@@ -12,11 +12,12 @@ tags:
   - "embedded"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.015123"
-updated_at: "2026-04-18T23:00:54.015123"
+updated_at: "2026-04-22T23:50:27.300137"
 related:
   - "Duke Fong"
   - "Local Data Sovereignty in Automation"
   - "Three.js3D"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # cdbus_gui
@@ -64,4 +65,5 @@ Maintained actively for over 5 years with continuous feature additions including
 ## Related
 - [[Duke Fong]]
 - [[Local Data Sovereignty in Automation]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[Three.js3D]]

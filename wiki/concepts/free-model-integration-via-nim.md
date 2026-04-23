@@ -11,13 +11,17 @@ tags:
   - "model-access"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.808769"
-updated_at: "2026-04-17T22:13:44.808769"
+updated_at: "2026-04-22T23:50:19.579317"
 related:
   - "NVIDIA NIM (NVIDIA Inference Microservices)"
   - "Coding Plan"
   - "GLM-5"
   - "Kimi K2.5"
   - "Cost Management in AI Development"
+  - "Token Burning Prevention"
+  - "Alibaba Cloud Bailian"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
 ---
 
 # Free Model Integration via NIM
@@ -102,4 +106,8 @@ cost-optimization, api-integration, free-tools, nvidia, model-access
 - [[Coding Plan]]
 - [[GLM-5]]
 - [[Kimi K2.5]]
+- [[Token Burning Prevention]]
+- [[Alibaba Cloud Bailian]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
 - [[Cost Management in AI Development]]

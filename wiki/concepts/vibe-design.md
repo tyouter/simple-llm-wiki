@@ -3,6 +3,8 @@ title: "Vibe Design"
 type: "concept"
 sources:
   - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
+  - "raw/videos/b2471e81_设计师正在被重写Vibe Design 到底有多狠.md"
 tags:
   - "design-methodology"
   - "ai-workflow"
@@ -10,13 +12,37 @@ tags:
   - "ui-ux"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.227171"
-updated_at: "2026-04-17T22:12:00.227171"
+updated_at: "2026-04-23T00:42:26.570231"
 related:
   - "Vibe Coding"
   - "Google Stitch"
   - "AI-Native Design Workflow"
   - "Design Prompt Engineering for UI"
   - "Prompt-Dependent Output Quality"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Gemini"
+  - "Agent"
+  - "Figma"
+  - "Ethan Mollick"
+  - "Chatgpt"
+  - "Openai"
+  - "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）"
+  - "Claude Code"
+  - "Tailwind"
+  - "Cursor"
+  - "Google"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "设计师正在被重写：Vibe Design 到底有多狠"
+  - "AI-Induced Industry Disruption"
+  - "Git"
+  - "Mcp"
+  - "Ui/Ux"
+  - "GPT"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "Pencil AI设计神器：从UI设计到代码一键生成"
+  - "谷歌Stitch氛围设计更新"
+  - "Claude"
 ---
 
 # Vibe Design
@@ -50,4 +76,28 @@ While [[Vibe Coding]] focuses on generating functional code from natural languag
 - [[Google Stitch]]
 - [[AI-Native Design Workflow]]
 - [[Design Prompt Engineering for UI]]
+- [[AI Agent]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[Agent]]
+- [[Figma]]
+- [[Ethan Mollick]]
+- [[Chatgpt]]
+- [[OpenAI]]
+- [[谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）]]
+- [[Claude Code]]
+- [[Tailwind]]
+- [[Cursor]]
+- [[Google]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[设计师正在被重写：Vibe Design 到底有多狠]]
+- [[AI-Induced Industry Disruption]]
+- [[Git]]
+- [[Mcp]]
+- [[Ui/Ux]]
+- [[GPT]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[Pencil AI设计神器：从UI设计到代码一键生成]]
+- [[谷歌Stitch氛围设计更新]]
+- [[Claude]]
 - [[Prompt-Dependent Output Quality]]

@@ -11,7 +11,7 @@ tags:
   - "multi-step-tasks"
 confidence: "high"
 created_at: "2026-04-19T22:45:41.926081"
-updated_at: "2026-04-19T22:45:41.926081"
+updated_at: "2026-04-23T00:42:30.079884"
 related:
   - "OpenAkita: Open-Source Self-Evolving AI Assistant Framework"
   - "Self-Evolving AI Assistant"
@@ -19,6 +19,14 @@ related:
   - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
   - "Plan Mode"
   - "Agent Operating System"
+  - "Coding Plan"
+  - "Conductor"
+  - "代理操作系统 (Agent Operating System)"
+  - "任务驱动的技能生成"
+  - "复杂逻辑链路处理"
+  - "AI 工具测评中心"
+  - "ChatGPT 5.2"
+  - "主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)"
 ---
 
 # Autonomous Task Planning & Execution
@@ -91,4 +99,13 @@ Increasing autonomy in task planning could lead to AI systems that can undertake
 - [[AI Tool Chaining/Combination]]
 - [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
 - [[Plan Mode]]
+- [[Coding Plan]]
+- [[Conductor]]
+- [[代理操作系统 (Agent Operating System)]]
+- [[任务驱动的技能生成]]
+- [[复杂逻辑链路处理]]
+- [[AI 工具测评中心]]
+- [[ChatGPT 5.2]]
+- [[主流 AI 大模型演进漫谈与使用体验分享 (2023-2024 H1)]]
+- [[Access Denied]]
 - [[Agent Operating System]]

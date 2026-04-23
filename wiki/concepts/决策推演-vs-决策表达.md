@@ -10,12 +10,14 @@ tags:
   - "工具哲学"
 confidence: "high"
 created_at: "2026-04-21T16:13:59.020943"
-updated_at: "2026-04-21T16:13:59.020943"
+updated_at: "2026-04-23T00:42:26.712183"
 related:
   - "AI Reasoning Models"
   - "AI Tool Specialization"
   - "工具链专业化组合"
   - "ChatGPT / GPT"
+  - "推理层（决策第三步）"
+  - "AI决策五步法"
 ---
 
 ## 定义
@@ -36,4 +38,6 @@ related:
 - [[AI Reasoning Models]]
 - [[AI Tool Specialization]]
 - [[工具链专业化组合]]
+- [[推理层（决策第三步）]]
+- [[AI决策五步法]]
 - [[ChatGPT / GPT]]

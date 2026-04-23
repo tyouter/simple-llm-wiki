@@ -11,7 +11,7 @@ tags:
   - "concepts"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:48.181743"
 ---
 
 # Claude Code完整概念指南：27个核心概念详解
@@ -76,8 +76,16 @@ updated_at: "2026-04-20T12:00:00"
 - 想要交付项目但不想猜测的开发者
 
 ## Related
+- [[手相与全息理论]]
+- [[个人十佳电影推荐]]
+- [[仰望U9X道路试驾体验]]
+- [[微软开源本地运行小模型]]
+- [[有山先生：从高考0分到B站顶流的人生故事]]
+- [[权法错位的社会解读]]
+- [[颠覆式AI使用方法：让AI主动追问效率MAX]]
+- [[高阶ENTP的四大特质解析]]
 
 - [[Claude Code Skills系统]]
 - [[Claude Code子代理]]
 - [[Claude Code Hooks]]
-- [[MCP服务器]]
+- [[Mcp]]

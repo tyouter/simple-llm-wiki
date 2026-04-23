@@ -13,7 +13,7 @@ tags:
   - 自动写笔记
 confidence: medium
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:21.693822"
 ---
 
 # Obsidian接入Claude Skill教程
@@ -54,4 +54,4 @@ updated_at: "2026-04-20T21:30:00"
 - [[Obsidian CLI官方命令行工具教程]]
 - [[Claude Skills作为设计师使用指南]]
 - [[Obsidian从0到1完整攻略]]
-- [[Obsidian Deepseek插件轻Skill功能介绍]]
+- [[Deepseek]]

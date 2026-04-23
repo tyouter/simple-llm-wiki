@@ -10,7 +10,7 @@ tags:
   - "视频生成"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.608396"
 ---
 
 # LTX Desktop：全球首款原生AI剪辑软件
@@ -52,5 +52,5 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[AI视频生成]]
-- [[开源AI工具生态]]
+- AI视频生成
+- 开源AI工具生态

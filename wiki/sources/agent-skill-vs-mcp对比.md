@@ -10,7 +10,7 @@ tags:
   - "ecosystem"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:36.790191"
 ---
 
 # Agent Skill vs MCP 对比分析
@@ -72,8 +72,9 @@ updated_at: "2026-04-20T10:00:00"
 - 两者可能融合而非竞争
 
 ## Related
+- [[五遍以上书籍推荐]]
 
-- [[MCP协议]]
-- [[Skills系统]]
-- [[Agent能力封装]]
-- [[协议标准化]]
+- [[Mcp]]
+- [[Claude Code Skills系统]]
+- [[Agent]]
+- 协议标准化

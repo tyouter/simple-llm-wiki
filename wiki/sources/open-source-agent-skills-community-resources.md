@@ -11,7 +11,7 @@ tags:
   - "GitHub开源"
 confidence: "medium"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.712993"
 ---
 
 # 开源Agent Skills社区资源整理
@@ -53,8 +53,8 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关概念
 - [[Claude Code Skills系统]]
-- [[Agent Skills]]
-- [[开源社区]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- 开源社区
 
 ## 相关实体
-- [[神秘的鱼仔]]
+- 神秘的鱼仔

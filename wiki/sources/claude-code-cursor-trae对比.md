@@ -11,7 +11,7 @@ tags:
   - "comparison"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:36.790191"
 ---
 
 # Claude Code vs Cursor vs TRAE 对比分析
@@ -75,8 +75,9 @@ updated_at: "2026-04-20T10:00:00"
 - 中文企业场景 → TRAE
 
 ## Related
+- [[五遍以上书籍推荐]]
 
-- [[Claude-Code]]
-- [[Cursor-IDE]]
-- [[TRAE]]
-- [[AI编程工具对比]]
+- [[Claude]]
+- [[Cursor]]
+- [[Trae]]
+- AI编程工具对比

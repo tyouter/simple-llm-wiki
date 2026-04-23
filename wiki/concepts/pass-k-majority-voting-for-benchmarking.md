@@ -11,11 +11,12 @@ tags:
   - "stochastic-methods"
 confidence: "high"
 created_at: "2026-04-17T22:21:17.652329"
-updated_at: "2026-04-17T22:21:17.652329"
+updated_at: "2026-04-22T23:50:11.802487"
 related:
   - "Benchmark vs. Engineering Reality Gap"
   - "Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs"
   - "Multi-Agent Specialization & Orchestration"
+  - "ASMR (Agentic Search and Memory Retrieval)"
 ---
 
 # Pass@k & Majority Voting for Benchmarking
@@ -67,4 +68,5 @@ benchmarking, evaluation-metrics, llm-inference, ai-optimization, stochastic-met
 ## Related
 - [[Benchmark vs. Engineering Reality Gap]]
 - [[Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]]
+- [[ASMR (Agentic Search and Memory Retrieval)]]
 - [[Multi-Agent Specialization & Orchestration]]

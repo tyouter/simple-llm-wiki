@@ -12,7 +12,7 @@ tags:
   - "professional-forum"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.765234"
-updated_at: "2026-04-17T21:47:20.765234"
+updated_at: "2026-04-22T23:50:09.104152"
 related:
   - "David 周子轩"
   - "刘飞"
@@ -22,6 +22,9 @@ related:
   - "Scenario Analysis (场景分析)"
   - "User-Centered Design (UCD)"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Function-Oriented vs. Problem-Solving Design"
+  - "Mental Model (心智模型)"
+  - "User Story vs. Environment"
 ---
 
 # Zhihu Discussion: The Role of 'Scenarios' in Product Management
@@ -59,4 +62,7 @@ zhihu-discussion, product-management, user-experience, scenario-analysis, requir
 - [[Jeff Bezos]]
 - [[Scenario Analysis (场景分析)]]
 - [[User-Centered Design (UCD)]]
+- [[Function-Oriented vs. Problem-Solving Design]]
+- [[Mental Model (心智模型)]]
+- [[User Story vs. Environment]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]

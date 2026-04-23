@@ -11,7 +11,7 @@ tags:
   - 演示文稿
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:21.865543"
 ---
 
 # Slidev用Markdown做精美PPT
@@ -58,7 +58,7 @@ updated_at: "2026-04-20T21:00:00"
 - 配置片段可从阿里云盘获取
 
 ## Related
-- [[markdown-slides-comparison]]
-- [[claude-for-powerpoint]]
-- [[obsidian-advantage-in-ai-era]]
-- [[开发者演示文稿最佳实践]]
+- [[Markdown]]
+- [[Claude]]
+- [[Obsidian]]
+- 开发者演示文稿最佳实践

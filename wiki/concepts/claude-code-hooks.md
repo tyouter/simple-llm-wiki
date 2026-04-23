@@ -10,10 +10,16 @@ tags:
   - "rule-enforcement"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.165764"
 related:
   - "Claude Code深度使用指南"
   - "CLAUDE.md配置"
+  - "Claude Code Skills系统"
+  - "Hooks for Deterministic Automation"
+  - "CLAUDE.md Architecture"
+  - "Claude Code完整概念指南：27个核心概念详解"
+  - "Meta工程师Claude Code使用技巧"
+  - "Stop Writing Bad CLAUDE.md Files - Claude Code配置最佳实践"
 ---
 
 # Claude Code Hooks
@@ -89,4 +95,10 @@ Claude Code的强制执行机制，在生命周期事件前后执行规则，把
 
 ## Related
 - [[Claude Code深度使用指南]]
-- [[CLAUDE.md配置]]
+- [[Claude Code Skills系统]]
+- [[Hooks for Deterministic Automation]]
+- [[CLAUDE.md Architecture]]
+- [[Claude Code完整概念指南：27个核心概念详解]]
+- [[Meta工程师Claude Code使用技巧]]
+- [[Stop Writing Bad CLAUDE.md Files - Claude Code配置最佳实践]]
+- [[Claude]]

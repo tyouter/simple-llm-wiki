@@ -12,7 +12,7 @@ tags:
   - "mcp"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:42:21.781992"
 ---
 
 # OpenCode详细攻略
@@ -54,10 +54,10 @@ updated_at: "2026-04-20T00:00:00"
 ## 相关概念
 
 - [[Claude Code Skills系统]]
-- [[MCP]]
-- [[Agent时代]]
-- [[AI编程工作流]]
+- [[Mcp]]
+- [[Agent]]
+- [[GSD AI编程工作流指南]]
 
 ## 相关实体
 
-- [[技术爬爬虾]]
+- 技术爬爬虾

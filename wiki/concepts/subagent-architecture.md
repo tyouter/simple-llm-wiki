@@ -11,13 +11,14 @@ tags:
   - "coordination-patterns"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-23T00:42:20.545773"
 related:
   - "Agent Operating System"
   - "Skills vs Tools Distinction"
   - "Domain-Specific Language (DSL) for AI Agents"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
   - "AI Agent"
+  - "ReAct Pattern (Reasoning + Acting)"
 ---
 
 # SubAgent Architecture
@@ -28,7 +29,7 @@ A design pattern for [[AI Agent]] systems where complex tasks are decomposed int
 ## Core Principles
 
 ### Specialization
-Each sub-agent has a specific role, capability set, and expertise domain, similar to the role-based approach in [[gstack-role-based-ai-development-workflow-for-claude-code]] but at a system architecture level.
+Each sub-agent has a specific role, capability set, and expertise domain, similar to the role-based approach in [[Claude]] but at a system architecture level.
 
 ### Context Isolation
 Sub-agents operate with isolated context to prevent interference and maintain focus on their specific tasks.
@@ -92,11 +93,12 @@ Experience with sub-agent architecture design is valuable for [[AI Agent]] engin
 multi-agent, system-architecture, parallel-execution, modular-design, coordination-patterns
 
 ## Related
-[[Agent Operating System]], [[Skills vs Tools Distinction]], [[Domain-Specific Language (DSL) for AI Agents]], [[gstack-role-based-ai-development-workflow-for-claude-code]], [[AI Agent]]
+- [[ReAct Pattern (Reasoning + Acting)]]
+[[Agent Operating System]], [[Skills vs Tools Distinction]], [[Domain-Specific Language (DSL) for AI Agents]], [[Claude]], [[AI Agent]]
 
 ## Related
 - [[Agent Operating System]]
 - [[Skills vs Tools Distinction]]
 - [[Domain-Specific Language (DSL) for AI Agents]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[AI Agent]]

@@ -12,7 +12,7 @@ tags:
   - "github"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.439323"
 ---
 
 # DeerFlow 2.0：字节跳动开源超级Agent引擎
@@ -78,8 +78,8 @@ DeerFlow 2.0是字节跳动开源的超级智能体引擎，开源当天登上Gi
 
 ## Related
 
-- [[多智能体系统]]
-- [[字节跳动AI]]
-- [[Agent框架]]
+- 多智能体系统
+- 字节跳动AI
+- [[Agent]]
 - [[OpenClaw]]
 - [[DeepAgents框架]]

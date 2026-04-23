@@ -11,7 +11,7 @@ tags:
   - "theory-practice-bridge"
 confidence: "high"
 created_at: "2026-04-17T11:22:25.979924"
-updated_at: "2026-04-17T11:22:25.979924"
+updated_at: "2026-04-22T23:50:16.108650"
 related:
   - "Strategic Management Learning Framework"
   - "Cross-Disciplinary Knowledge for Management"
@@ -19,6 +19,9 @@ related:
   - "木游子"
   - "Sunny"
   - "考拉的糖果"
+  - "Michael Porter"
+  - "Philip Kotler"
+  - "Robert S. Kaplan & David P. Norton"
 ---
 
 # Theory-Practice Integration
@@ -65,4 +68,7 @@ The emphasis on theory-practice integration creates a challenge for career trans
 - [[Career Transition Barriers in Consulting]]
 - [[木游子]]
 - [[Sunny]]
+- [[Michael Porter]]
+- [[Philip Kotler]]
+- [[Robert S. Kaplan & David P. Norton]]
 - [[考拉的糖果]]

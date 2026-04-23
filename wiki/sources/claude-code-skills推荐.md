@@ -9,7 +9,7 @@ tags:
   - "recommendations"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:36.789198"
 ---
 
 # Claude Code Skills推荐合集
@@ -64,7 +64,8 @@ Skills是一种"可复用的能力封装"，让Claude Code能够：
 - 减少重复指令输入
 
 ## Related
+- [[五遍以上书籍推荐]]
 
-- [[Skills系统]]
-- [[SKILL-md格式]]
-- [[Claude-Code配置]]
+- [[Claude Code Skills系统]]
+- [[Skill]]
+- [[Claude]]

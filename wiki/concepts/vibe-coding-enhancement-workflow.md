@@ -11,13 +11,18 @@ tags:
   - "frontend-development"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.479718"
-updated_at: "2026-04-17T21:53:35.479718"
+updated_at: "2026-04-22T23:50:18.220717"
 related:
   - "Vibe Coding"
   - "Design Style System Prompt"
   - "Curated Design Prompt Repositories"
   - "Prompt Combination & Adaptation"
   - "AI-Generated Design Quality Spectrum"
+  - "Self-Design through Environmental Engineering"
+  - "claudekit.github.io/frontend-design-pro-demo"
+  - "uiprompt.dev"
+  - "uiprompt.site"
+  - "杨杰出海笔记 (Yang Jie Overseas Notes)"
 ---
 
 # Vibe Coding Enhancement Workflow
@@ -53,6 +58,11 @@ By separating foundational design rules from stylistic flavor, this workflow giv
 - [[Curated Design Prompt Repositories]]
 - [[Prompt Combination & Adaptation]]
 - [[AI-Generated Design Quality Spectrum]]
+- [[Self-Design through Environmental Engineering]]
+- [[claudekit.github.io/frontend-design-pro-demo]]
+- [[uiprompt.dev]]
+- [[uiprompt.site]]
+- [[杨杰出海笔记 (Yang Jie Overseas Notes)]]
 
 ## Related
 - [[Vibe Coding]]

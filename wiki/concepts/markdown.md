@@ -1,0 +1,292 @@
+---
+title: "Markdown"
+type: "concept"
+sources:
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/87f23147_Mizore 的想法 用了半年Claude Code 我把我的一键配置开源了 刚开始用 Claude Code 的时候每次新项目都要重新配CL -.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/videos/3b2aadbb_Claude Code Obsidian 构建一个247个人操作系统用于个人思考知识积累和创业构建.md"
+  - "raw/videos/4c31509e_Stop Copying Files Into Obsidian Folder Bridge Plugin.md"
+  - "raw/videos/8d7b65af_opencli网站直接变 CLI 工具.md"
+  - "raw/videos/96de1665_Markdown也能做精美PPT Slidev不容错过.md"
+  - "raw/videos/9c48ef85_Agent Skills 做知识库检索能比传统 RAG 效果更好吗.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+  - "raw/videos/eb586db5_Obsidian从0到1完整攻略 搞定同步打通AI.md"
+  - "raw/webpages/0ac94217_让我们专注于内容Markdown 制作幻灯片的三种方案对比 - 少数派.md"
+  - "raw/webpages/81df9b89_X 上的 Andrej KarpathyLLM Knowledge BasesSomething Im finding very useful rec.md"
+  - "raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md"
+tags:
+  - "markdown"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.984180"
+updated_at: "2026-04-23T07:14:42.006942"
+related:
+  - "Harness Engineering"
+  - "Multi-Agent"
+  - "Claude Code"
+  - "Claude.Md"
+  - "Conductor"
+  - "Openclaw"
+  - "Brian Chesky"
+  - "Claude Code"
+  - "Conductor"
+  - "Openclaw"
+  - "gstack：Claude工程团队"
+  - "Model Context Protocol"
+  - "Progressive Disclosure"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Code Review"
+  - "Github Copilot"
+  - "Anthropic"
+  - "Deepseek"
+  - "为什么Claude的代码能力会这么强？"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Playwright"
+  - "Skills的本质是什么？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Obsidian"
+  - "Slidev"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Skills"
+  - "Agent"
+  - "Skill"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Superpowers"
+  - "Plan Mode"
+  - "Cloudflare"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Opencode"
+  - "Copilot"
+  - "Claude Code真的那么厉害吗？"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "Subagent"
+  - "Mitchell Hashimoto"
+  - "Ethan Mollick"
+  - "Openai"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Git"
+  - "Claude"
+  - "Mizore"
+  - "Mizore 的想法: 用了半年Claude Code， 我把我的一键配置开源了 | 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎"
+  - "你们有哪些好的claude code skills推荐？"
+  - "Dataview"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Cursor"
+  - "Harness Engineering的本质是什么？"
+  - "Cli"
+  - "Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建"
+  - "Bridge"
+  - "Rag"
+  - "Microsoft"
+  - "Google"
+  - "Stop Copying Files Into Obsidian | Folder Bridge Plugin"
+  - "Github"
+  - "小红书"
+  - "知乎"
+  - "b站"
+  - "opencli：网站直接变 CLI 工具"
+  - "Markdown也能做精美PPT? Slidev不容错过!"
+  - "Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？"
+  - "Open Source"
+  - "Youtube"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "Ai Agent"
+  - "Notion"
+  - "Obsidian从0到1完整攻略 | 搞定同步+打通AI"
+  - "Yaml"
+  - "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派"
+  - "Context Window"
+  - "Lora"
+  - "X 上的 Andrej Karpathy：“LLM Knowledge Bases"
+  - "Design Pattern"
+  - "Mit"
+  - "Extend Claude with skills - Claude Code Docs"
+  - "Api"
+  - "Bm25"
+  - "Ci/Cd"
+  - "CLAUDE.md"
+  - "Devops"
+  - "Docker"
+  - "Gemini"
+  - "Hooks"
+  - "Mcp"
+  - "Boris"
+  - "DeepSeek"
+  - "GitHub"
+  - "Meta"
+  - "OpenCode"
+  - "skill-creator"
+  - "Thariq"
+  - "个人操作系统"
+  - "AI生成PPT完整流程工具"
+  - "Claude Code + Obsidian 构建24/7个人操作系统"
+  - "Obsidian从0到1完整攻略"
+  - "Slidev用Markdown做精美PPT"
+  - "知乎讨论：大家的obsidian笔记都是怎么做的"
+---
+
+# Markdown
+
+## 定义
+
+Markdown - 轻量级标记语言
+
+## 相关概念
+
+- [[Harness Engineering]]
+- [[Multi-Agent]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+
+## 相关实体
+
+- [[Brian Chesky]]
+- [[Claude Code]]
+- [[Conductor]]
+- [[OpenClaw]]
+
+## Related
+- [[Harness Engineering]]
+- [[Multi-Agent]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+- [[Brian Chesky]]
+- [[Claude Code]]
+- [[Conductor]]
+- [[gstack：Claude工程团队]]
+- [[Model Context Protocol]]
+- [[Progressive Disclosure]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Code Review]]
+- [[Github Copilot]]
+- [[Anthropic]]
+- [[Deepseek]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[Skills的本质是什么？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[Obsidian]]
+- [[Slidev]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Skills]]
+- [[Agent]]
+- [[Skill]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Superpowers]]
+- [[Plan Mode]]
+- [[Cloudflare]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Opencode]]
+- [[Copilot]]
+- [[Claude Code真的那么厉害吗？]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[Subagent]]
+- [[Mitchell Hashimoto]]
+- [[Ethan Mollick]]
+- [[OpenAI]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Git]]
+- [[Claude]]
+- [[Mizore]]
+- 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎
+- [[你们有哪些好的claude code skills推荐？]]
+- [[Dataview]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Cursor]]
+- [[Harness Engineering的本质是什么？]]
+- [[Cli]]
+- [[Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建]]
+- [[Bridge]]
+- [[Rag]]
+- [[Microsoft]]
+- [[Google]]
+- [[Stop Copying Files Into Obsidian | Folder Bridge Plugin]]
+- [[GitHub]]
+- [[小红书]]
+- [[知乎]]
+- [[b站]]
+- [[opencli：网站直接变 CLI 工具]]
+- [[Markdown也能做精美PPT? Slidev不容错过!]]
+- [[Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？]]
+- [[Open Source]]
+- [[Youtube]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[AI Agent]]
+- [[Notion]]
+- [[Obsidian从0到1完整攻略 | 搞定同步+打通AI]]
+- [[Yaml]]
+- [[让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派]]
+- [[Context Window]]
+- [[Lora]]
+- [[X 上的 Andrej Karpathy：“LLM Knowledge Bases]]
+- [[Design Pattern]]
+- [[Mit]]
+- [[Extend Claude with skills - Claude Code Docs]]
+- [[Api]]
+- [[Bm25]]
+- [[Ci/Cd]]
+- [[CLAUDE.md]]
+- [[Devops]]
+- [[Docker]]
+- [[Gemini]]
+- [[Hooks]]
+- [[Mcp]]
+- [[Boris]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[Meta]]
+- [[OpenCode]]
+- [[skill-creator]]
+- [[Thariq]]
+- [[个人操作系统]]
+- [[AI生成PPT完整流程工具]]
+- [[Claude Code + Obsidian 构建24/7个人操作系统]]
+- [[Obsidian从0到1完整攻略]]
+- [[Slidev用Markdown做精美PPT]]
+- [[知乎讨论：大家的obsidian笔记都是怎么做的]]
+- [[OpenClaw]]

@@ -10,11 +10,12 @@ tags:
   - "framework-contributor"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.362542"
-updated_at: "2026-04-18T01:29:07.362542"
+updated_at: "2026-04-22T23:50:27.443753"
 related:
   - "7-Step Strategic Planning Framework"
   - "Strategic Gap Analysis"
   - "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
+  - "知乎讨论：如何做企业战略规划"
 ---
 
 # HAHAPPYPPY
@@ -62,4 +63,5 @@ zhihu-user, mba-background, strategic-planning, framework-contributor
 ## Related
 - [[7-Step Strategic Planning Framework]]
 - [[Strategic Gap Analysis]]
+- [[知乎讨论：如何做企业战略规划]]
 - [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]]

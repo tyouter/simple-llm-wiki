@@ -10,10 +10,13 @@ tags:
   - "self-directed-learning"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:36.029147"
 related:
   - "信息源筛选"
   - "自我学习基础设施"
+  - "Self-Directed Learning Infrastructure"
+  - "Information Fidelity & Verification"
+  - "知乎讨论-大神们是从哪获取优质信息"
 ---
 
 # 优质信息获取渠道汇总
@@ -81,7 +84,10 @@ related:
 > 信息越便宜，专注越昂贵。 When information is cheap, attention becomes expensive. —— James Gleick
 
 ## Related
-- [[信息源筛选]]
-- [[自我学习基础设施]]
-- [[信息忠实度验证]]
-- [[推导优先学习]]
+- [[Self-Directed Learning Infrastructure]]
+- [[Information Fidelity & Verification]]
+- [[知乎讨论-大神们是从哪获取优质信息]]
+- 信息源筛选
+- 自我学习基础设施
+- 信息忠实度验证
+- 推导优先学习

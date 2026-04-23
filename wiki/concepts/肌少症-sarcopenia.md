@@ -11,12 +11,15 @@ tags:
   - "health"
 confidence: "high"
 created_at: "2026-04-18T22:54:42.762024"
-updated_at: "2026-04-18T22:54:42.762024"
+updated_at: "2026-04-23T00:42:26.861841"
 related:
   - "超负荷原则 (Overload Principle)"
   - "代偿 (Compensation)"
   - "正道内功 (Foundational Internal Skills)"
   - "Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults"
+  - "间歇变速法 (Interval Training)"
+  - "如萤随星"
+  - "中年人锻炼指南"
 ---
 
 # 肌少症 (Sarcopenia)
@@ -26,7 +29,7 @@ Age-related loss of muscle mass, strength, and function, identified as a primary
 
 ## Impact on Middle-Aged Adults
 
-As discussed in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]], sarcopenia is a central concern for the 40-50+ demographic. It contributes to:
+As discussed in [[Zhihu]], sarcopenia is a central concern for the 40-50+ demographic. It contributes to:
 - Reduced metabolic rate
 - Increased fall risk
 - Decreased mobility and independence
@@ -51,10 +54,13 @@ While complete reversal may be challenging, significant prevention and mitigatio
 - [[正道内功 (Foundational Internal Skills)]] - Basic movement patterns that support safe strength training
 
 ## Source Context
-Discussed extensively in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] as a key rationale for strength training recommendations.
+Discussed extensively in [[Zhihu]] as a key rationale for strength training recommendations.
 
 ## Related
 - [[超负荷原则 (Overload Principle)]]
 - [[代偿 (Compensation)]]
 - [[正道内功 (Foundational Internal Skills)]]
-- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]
+- [[间歇变速法 (Interval Training)]]
+- [[如萤随星]]
+- [[中年人锻炼指南]]
+- [[Zhihu]]

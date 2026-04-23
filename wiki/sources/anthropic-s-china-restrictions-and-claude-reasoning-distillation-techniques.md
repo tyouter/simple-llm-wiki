@@ -15,7 +15,7 @@ tags:
   - "community-response"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.524340"
-updated_at: "2026-04-19T01:51:50.524340"
+updated_at: "2026-04-23T00:42:21.199307"
 related:
   - "Geopolitical AI Restrictions"
   - "Knowledge Distillation (Model Distillation)"
@@ -42,12 +42,12 @@ In response to these restrictions, the AI developer community documented and imp
 - **Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled**: Created by [[Jackrong]] on HuggingFace
 - **Qwen3.5-27B-Claude-Opus-4.6-Distill**: Developed by [[TeichAI]] with detailed deployment guides
 
-These models use [[Chain-of-Thought (CoT) Reasoning]] outputs from Claude Opus as training data to teach the smaller, open-source Qwen model complex reasoning patterns.
+These models use [[Chain-of-Thought (CoT) Reasoning)]] outputs from Claude Opus as training data to teach the smaller, open-source Qwen model complex reasoning patterns.
 
 ## Technical Implementation
 
 The distillation process typically involves:
-1. **Data Collection**: Gathering high-quality [[Chain-of-Thought (CoT) Reasoning]] outputs from [[Claude Opus 4.6]]
+1. **Data Collection**: Gathering high-quality [[Chain-of-Thought (CoT) Reasoning)]] outputs from [[Claude Opus 4.6]]
 2. **Fine-Tuning**: Using [[Unsloth]] framework for efficient training
 3. **Parameter Optimization**: Applying [[LoRA (Low-Rank Adaptation)]] to minimize computational requirements
 4. **Local Deployment**: Running the distilled model on consumer hardware (RTX 3090/4090 GPUs)

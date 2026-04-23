@@ -13,7 +13,7 @@ tags:
   - 自动化
 confidence: medium
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:21.668069"
 ---
 
 # Obsidian CLI官方命令行工具教程
@@ -59,5 +59,5 @@ updated_at: "2026-04-20T21:30:00"
 ## Related
 - [[Obsidian接入Claude Skill教程]]
 - [[Obsidian CLI让AI洞察知识网络]]
-- [[Obsidian与Gemini CLI工作流]]
+- [[Cli]]
 - [[Obsidian从0到1完整攻略]]

@@ -12,13 +12,14 @@ tags:
   - "memory-optimization"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.347716"
-updated_at: "2026-04-17T22:23:15.347716"
+updated_at: "2026-04-22T23:50:09.113692"
 related:
   - "Engineering Compromise"
   - "Algorithmic Mindset Shift"
   - "BugBuster喵"
   - "Antirez"
   - "Jasper Wang"
+  - "Vector Embedding"
 ---
 
 # Probabilistic Data Structures
@@ -57,6 +58,7 @@ These structures embody a key [[Algorithmic Mindset Shift]]: the realization tha
 probabilistic-algorithms, data-structures, big-data, streaming-algorithms, approximation, memory-optimization
 
 ## Related
+- [[Vector Embedding]]
 [[Engineering Compromise]], [[Algorithmic Mindset Shift]], [[BugBuster喵]], [[Antirez]], [[Jasper Wang]]
 
 ## Related

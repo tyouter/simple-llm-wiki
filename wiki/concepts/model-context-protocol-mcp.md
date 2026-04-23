@@ -13,7 +13,7 @@ tags:
   - "local-computing"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.371657"
 related:
   - "Coding Plan"
   - "AI Tool Chaining/Combination"
@@ -21,6 +21,21 @@ related:
   - "Alibaba Cloud Bailian"
   - "Skill Security Considerations"
   - "Agent Skills Framework"
+  - "Agent Skills Framework|Skills"
+  - "Agentic Loop"
+  - "AI Agent"
+  - "Free Model Integration via NIM"
+  - "ReAct Pattern (Reasoning + Acting)"
+  - "Tool as World Model"
+  - "零一猴子"
+  - "Cherry Studio"
+  - "Claude"
+  - "MetaBot"
+  - "NVIDIA NIM (NVIDIA Inference Microservices)"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
 ---
 
 # Model Context Protocol (MCP)
@@ -38,12 +53,27 @@ MCP是一种协议标准，让AI编码助手能够安全地访问和交互本地
 - **2026 Coding Plan支持**：主要国产AI服务商已在其Coding Plan产品中原生支持MCP
 
 ## Related
+- [[Agent Skills Framework|Skills]]
+- [[Agentic Loop]]
+- [[AI Agent]]
+- [[Free Model Integration via NIM]]
+- [[ReAct Pattern (Reasoning + Acting)]]
+- [[Tool as World Model]]
+- [[零一猴子]]
+- [[Cherry Studio]]
+- [[Claude]]
+- [[MetaBot]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
 
-- [[coding-plan]]
-- [[ai-tool-chaining-combination-combination]]
-- [[claude-md]]
-- [[skills-anthropic-framework]]
-- [[agent-skills-vs-mcp-technical-comparison-and-enterprise-applications]]
+- [[Plan]]
+- ai-tool-chaining-combination-combination
+- [[Claude]]
+- [[Skill]]
+- [[Agent]]
 
 ---
 

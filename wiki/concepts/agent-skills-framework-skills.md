@@ -1,5 +1,5 @@
 ---
-title: "Agent Skills Framework|Skills"
+title: "Agent Skills Framework"
 type: "concept"
 sources:
   - "wiki/sources/anthropic-skills-engineering-approach-to-agent-capability-development.md"
@@ -11,7 +11,7 @@ tags:
   - "anthropic"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.939053"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T07:23:32.372710"
 ---
 
 # Agent Skills Framework / Skills
@@ -28,7 +28,7 @@ Anthropic推出的Skills框架是一种工程化的Agent能力开发方法，通
 - **描述触发优化**：类似ML超参数调优的关键过程，确保Agent正确调用Skill
 
 ## 相关概念
-- [[skills-vs-tools-distinction]]
+- [[Skill]]
 - [[Token Efficiency in AI Reasoning]]
 - [[AI Tool Chaining/Combination]]
 - [[GStack: Role-Based AI Development Workflow]]

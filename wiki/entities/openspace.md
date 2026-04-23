@@ -10,7 +10,7 @@ tags:
   - "港大"
 confidence: "high"
 created_at: "2026-04-21T16:17:49.605677"
-updated_at: "2026-04-21T16:17:49.605677"
+updated_at: "2026-04-22T23:50:24.339560"
 related:
   - "智能体自我进化"
   - "技能进化模式"
@@ -24,6 +24,8 @@ related:
   - "Cursor"
   - "Claude Code"
   - "Agent-First Development"
+  - "Whisper AI"
+  - "OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了"
 ---
 
 **OpenSpace**是由**[[香港大学实验室]]**开源的一个AI智能体自我进化框架。其核心目标是使本地部署的AI智能体（如[[Cursor]]、[[Claude Code]]等）实现**[[智能体自我进化]]**。该框架通过在任务执行过程中，引导智能体遵循**[[技能进化模式]]**，自动生成、评估、优化和替换技能，从而实现能力的持续、动态增长。
@@ -42,4 +44,6 @@ related:
 - [[香港大学实验室]]
 - [[Cursor]]
 - [[Claude Code]]
+- [[Whisper AI]]
+- [[OpenSpace: 一个能自我进化的智能体！港大实验室又带着开源项目来了]]
 - [[Agent-First Development]]

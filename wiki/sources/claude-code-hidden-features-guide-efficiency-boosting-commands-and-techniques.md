@@ -14,7 +14,7 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391445"
-updated_at: "2026-04-17T21:50:12.391445"
+updated_at: "2026-04-23T00:42:21.306732"
 related:
   - "Claude Code"
   - "Thariq"
@@ -63,7 +63,7 @@ A practical guide detailing lesser-known but highly effective commands and short
 
 ## Relation to Existing Concepts
 
-### Connection to [[gstack-role-based-ai-development-workflow-for-claude-code]]
+### Connection to [[Claude]]
 This guide provides concrete, low-level commands that can be used within or to enhance the higher-level, role-based workflow described in GStack. The `/btw`, `/rewind`, and `/simplify` commands are particularly useful for maintaining clean context in complex role-based workflows.
 
 ### Connection to [[AI Tool Chaining/Combination]]
@@ -97,6 +97,6 @@ This guide synthesizes information from developer social media posts, particular
 - [[Parallel Agent Review]]
 - [[Model-Switching Optimization]]
 - [[Workflow Branching]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[AI Tool Chaining/Combination]]
 - [[Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches]]

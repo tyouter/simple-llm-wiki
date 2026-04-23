@@ -11,12 +11,16 @@ tags:
   - "implementation"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.651636"
-updated_at: "2026-04-17T21:42:03.651636"
+updated_at: "2026-04-22T23:50:16.124311"
 related:
   - "Strategic Management Learning Framework"
   - "Cross-Disciplinary Knowledge for Management"
   - "木游子"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Balanced Scorecard"
+  - "Career Transition Barriers"
+  - "Systematic Learning Framework"
+  - "Robert S. Kaplan & David P. Norton"
 ---
 
 # Theory-to-Practice Bridge in Strategy
@@ -88,4 +92,8 @@ strategic-management, practical-application, experiential-learning, judgment, im
 - [[Strategic Management Learning Framework]]
 - [[Cross-Disciplinary Knowledge for Management]]
 - [[木游子]]
+- [[Balanced Scorecard]]
+- [[Career Transition Barriers]]
+- [[Systematic Learning Framework]]
+- [[Robert S. Kaplan & David P. Norton]]
 - [[Zhihu Discussion: Career Transition to Strategic Management and Consulting]]

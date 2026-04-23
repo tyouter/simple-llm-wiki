@@ -10,7 +10,7 @@ tags:
   - "management-framework"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.701754"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.246793"
 ---
 
 # Balanced Scorecard (平衡计分卡)
@@ -41,3 +41,8 @@ updated_at: "2026-04-20T16:00:00"
 ## 来源
 - [src: Zhihu Discussion: Career Transition to Strategic Management and Consulting]
 - [src: Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]
+## Related
+- [[Systematic Learning Framework]]
+- [[评估层（决策第四步）]]
+- [[Notion]]
+

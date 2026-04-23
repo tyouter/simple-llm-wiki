@@ -14,7 +14,7 @@ tags:
   - "tool-review"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.797679"
-updated_at: "2026-04-17T11:04:20.797679"
+updated_at: "2026-04-22T23:50:22.817760"
 related:
   - "Rrupmid Nyche"
   - "designprompts.dev"
@@ -24,6 +24,7 @@ related:
   - "Design Prompt Curation/Repositories"
   - "Prompt Combination & Adaptation"
   - "AI Tool Chaining/Specialization for Design"
+  - "GStack: Role-Based AI Development Workflow for Claude Code"
 ---
 
 # Using DesignPrompts.dev to Generate High-Quality AI-Free Interfaces with Claude Code
@@ -61,4 +62,5 @@ This workflow is a practical application of:
 - [[Vibe Coding]]
 - [[Design Prompt Curation/Repositories]]
 - [[Prompt Combination & Adaptation]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
 - [[AI Tool Chaining/Specialization for Design]]

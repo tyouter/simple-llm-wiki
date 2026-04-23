@@ -11,13 +11,18 @@ tags:
   - "iterative-development"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.951904"
 related:
   - "Claude Code"
   - "AI-Exponential Product Management"
   - "Cat Wu"
   - "Edge Exploration Projects (Side Quests)"
   - "Model-Capability-Driven Product Evolution"
+  - "Simplest Working Solution Principle"
+  - "Kai Xin Tai"
+  - "METR"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Prototype-First Development
@@ -92,4 +97,9 @@ development-workflow, rapid-prototyping, validation, user-feedback, iterative-de
 - [[AI-Exponential Product Management]]
 - [[Cat Wu]]
 - [[Edge Exploration Projects (Side Quests)]]
+- [[Simplest Working Solution Principle]]
+- [[Kai Xin Tai]]
+- [[METR]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Model-Capability-Driven Product Evolution]]

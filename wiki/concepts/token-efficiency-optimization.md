@@ -10,12 +10,15 @@ tags:
   - "technical-advantage"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.829054"
-updated_at: "2026-04-18T01:17:46.829054"
+updated_at: "2026-04-22T23:50:20.193689"
 related:
   - "Progressive Disclosure"
   - "Agent Skills Framework"
   - "Enterprise Skill Engineering"
   - "skill-creator"
+  - "Cursor"
+  - "Playwright CLI"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
 ---
 
 # Token Efficiency Optimization
@@ -111,6 +114,9 @@ Technical advantage of the [[Agent Skills Framework]] architecture over [[Model 
 performance-optimization, cost-reduction, context-management, technical-advantage
 
 ## Related
+- [[Cursor]]
+- [[Playwright CLI]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
 [[Progressive Disclosure]], [[Agent Skills Framework]], [[Enterprise Skill Engineering]], [[skill-creator]]
 
 ## Related

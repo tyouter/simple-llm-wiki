@@ -3,6 +3,7 @@ title: "Auto Memory"
 type: "concept"
 sources:
   - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/55258346_claude code使用感受如何claude code使用感受如何.md"
 tags:
   - "claude-code"
   - "machine-learning"
@@ -10,7 +11,7 @@ tags:
   - "persistent-memory"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.896032"
-updated_at: "2026-04-17T21:42:57.896032"
+updated_at: "2026-04-23T00:42:36.638716"
 related:
   - "Persistent Memory System (Claude Code)"
   - "CLAUDE.md"
@@ -18,6 +19,31 @@ related:
   - "/memory 命令"
   - "会话失忆"
   - "yahah"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Frontmatter"
+  - "Superpowers"
+  - "Cloudflare"
+  - "Anthropic"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Model Context Protocol"
+  - "Extended Thinking"
+  - "Claude.Md"
+  - "Openclaw"
+  - "Claude"
+  - "claude code使用感受如何？"
+  - "Agent"
+  - "Hooks"
+  - "Humanize"
+  - "Plan Mode"
+  - "Skill"
+  - "Skills"
+  - "Subagent"
+  - "Tailwind"
+  - "Worktree"
+  - "白玉京"
 ---
 
 # Auto Memory
@@ -62,6 +88,33 @@ In the debate highlighted in [[Zhihu Discussion: Optimizing Claude Code with CLA
 - [[Persistent Memory System (Claude Code)]]
 - [[CLAUDE.md]]
 - [[Permission Modes (Claude Code)]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Frontmatter]]
+- [[Superpowers]]
+- [[Cloudflare]]
+- [[Anthropic]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Model Context Protocol]]
+- [[Extended Thinking]]
+- [[CLAUDE.md]]
+- [[OpenClaw]]
+- [[Claude]]
+- [[claude code使用感受如何？]]
+- [[Agent]]
+- [[Hooks]]
+- [[Humanize]]
+- [[Plan Mode]]
+- [[Skill]]
+- [[Skills]]
+- [[Subagent]]
+- [[Tailwind]]
+- [[Worktree]]
+- [[白玉京]]
+- [[Access Denied]]
+- [[中国让我开始质疑我是谁]]
 
 ---
 
@@ -69,9 +122,9 @@ In the debate highlighted in [[Zhihu Discussion: Optimizing Claude Code with CLA
 
 
 ## 局限性与管理
-虽然 [[自动记忆]] 能有效学习习惯，但它也可能记录错误或过时的信息。用户应定期使用 [[/memory命令]] 进行检查和清理。此外，[[yahah]] 所倡导的 [[Spec Coding vs Vibe Coding]] 工作流，在一定程度上减少了对 AI “自行学习”模糊习惯的依赖，转而依靠人类明确编写的 [[Plan]] 和规格，这可能使得自动记忆的角色在高度规范化的项目中有所减弱。理解自动记忆的适用场景（学习个人微偏好、项目特定坑点）和局限（不适合学习复杂架构决策），是有效利用 [[持久记忆体系]] 的关键。
+虽然 自动记忆 能有效学习习惯，但它也可能记录错误或过时的信息。用户应定期使用 /memory命令 进行检查和清理。此外，[[yahah]] 所倡导的 [[Spec Coding vs. Vibe Coding]] 工作流，在一定程度上减少了对 AI “自行学习”模糊习惯的依赖，转而依靠人类明确编写的 [[Plan]] 和规格，这可能使得自动记忆的角色在高度规范化的项目中有所减弱。理解自动记忆的适用场景（学习个人微偏好、项目特定坑点）和局限（不适合学习复杂架构决策），是有效利用 [[持久记忆体系]] 的关键。
 
-Source: [[raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md]]
+Source: [[Claude]]
 
 ## Related
 - [[Persistent Memory System (Claude Code)]]

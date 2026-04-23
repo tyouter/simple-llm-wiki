@@ -9,11 +9,19 @@ tags:
   - "compilation-pattern"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.337863"
 related:
   - "LLM Wiki架构"
   - "RAG检索增强生成"
   - "Andrej Karpathy"
+  - "LLM Search over RAG"
+  - "RAG (Retrieval-Augmented Generation)"
+  - "Contradiction"
+  - "Karpathy的LLM知识库架构分析"
+  - "Obsidian完美同步方案"
+  - "SubBatch B站字幕批量处理插件"
+  - "Vibe Coding AI资讯站点"
+  - "视频-Obsidian+OpenClaw重构AI知识管理体系"
 ---
 
 # 知识编译器模式
@@ -61,5 +69,13 @@ related:
 
 ## Related
 - [[LLM Wiki架构]]
-- [[RAG检索增强生成]]
+- [[Rag]]
+- [[LLM Search over RAG]]
+- [[RAG (Retrieval-Augmented Generation)]]
+- [[Contradiction]]
+- [[Karpathy的LLM知识库架构分析]]
+- [[Obsidian完美同步方案]]
+- [[SubBatch B站字幕批量处理插件]]
+- [[Vibe Coding AI资讯站点]]
+- [[视频-Obsidian+OpenClaw重构AI知识管理体系]]
 - [[Andrej Karpathy]]

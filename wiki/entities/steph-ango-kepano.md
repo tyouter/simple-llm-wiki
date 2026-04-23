@@ -12,12 +12,14 @@ tags:
   - "kepano"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.780616"
-updated_at: "2026-04-20T00:11:14.780616"
+updated_at: "2026-04-22T23:50:27.426449"
 related:
   - "Obsidian"
   - "obsidian-skills"
   - "AI-Enhanced Note-Taking"
   - "Markdown as Human-AI Interface"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
+  - "知乎讨论：大家的obsidian笔记都是怎么做的"
 ---
 
 # Steph Ango (kepano)
@@ -65,6 +67,8 @@ obsidian, developer, ceo, ai-integration, open-source, kepano
 - [[obsidian-skills]]
 - [[AI-Enhanced Note-Taking]]
 - [[Markdown as Human-AI Interface]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
+- [[知乎讨论：大家的obsidian笔记都是怎么做的]]
 
 ## Related
 - [[Obsidian]]

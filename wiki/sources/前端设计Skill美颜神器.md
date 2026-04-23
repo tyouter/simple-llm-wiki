@@ -12,13 +12,16 @@ tags:
   - "中文技术博客"
 confidence: "high"
 created_at: "2026-04-17T21:51:25.981965"
-updated_at: "2026-04-17T21:51:25.981965"
+updated_at: "2026-04-22T23:50:26.447470"
 related:
   - "非著名程序员"
   - "龙腾"
   - "Front-End Design Skill/Tool"
   - "Aesthetic Judgment in Tech"
   - "Skills vs Tools Distinction"
+  - "Claude Skills作为设计师使用指南"
+  - "Creative Tim UI前端开发神器"
+  - "前端设计Skills深度增强版"
 ---
 
 # 前端设计Skill美颜神器
@@ -55,4 +58,7 @@ related:
 - [[龙腾]]
 - [[Front-End Design Skill/Tool]]
 - [[Aesthetic Judgment in Tech]]
+- [[Claude Skills作为设计师使用指南]]
+- [[Creative Tim UI前端开发神器]]
+- [[前端设计Skills深度增强版]]
 - [[Skills vs Tools Distinction]]

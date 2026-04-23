@@ -11,7 +11,7 @@ tags:
   - "text-block"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:41.266206"
 ---
 
 # Obsidian Dragger插件：像Notion一样丝滑拖拽文本块
@@ -46,6 +46,7 @@ Obsidian在移动端一直存在文本块管理不便的问题，交换两行内
 - **状态**：开发阶段，持续更新
 
 ## Related
+- [[微软开源本地运行小模型]]
 
-- [[Obsidian插件生态]]
-- [[Notion对比Obsidian]]
+- [[Obsidian]]
+- [[Obsidian]]

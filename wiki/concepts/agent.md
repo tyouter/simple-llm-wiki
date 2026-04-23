@@ -1,0 +1,662 @@
+---
+title: "Agent"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/55258346_claude code使用感受如何claude code使用感受如何.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/58c1d7ba_如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI的记忆问题吗如何看待Supermemory团队提出的超级记忆系统ASMR能解决AI.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/78bdbe39_无大算力时作为学生LLM 还有哪些值得做的研究无大算力时作为学生LLM 还有哪些值得做的研究.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/8304d7cc_deepseek能为gis 行业带来什么deepseek能为gis 行业带来什么.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/945c7576_当下是一个称为超级个体的时代吗当下是一个称为超级个体的时代吗.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/b5d1922b_谷歌提出CLI的7条设计原则AI和人类都友好的CLI长这样.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/cadedf15_钱嘟嘟左卫门 的想法 开源自我进化AI助手框架OpenAkita OpenAkita是一个开源的具备自我进化能力的开源AI助手框架在关闭 - 知乎.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/dff29dae_最难调试修复的 bug 是怎样的最难调试修复的 bug 是怎样的.md"
+  - "raw/articles/e0070893_Playwright CLI 的隐藏技能帮 Claude Code 突破反爬虫读到读不了的网页.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f46fff1a_playwright自动化脚本工具打开浏览器网页被检测为爬虫导致无法执行脚本代码请问怎么解决playwright自动化脚本工具打开浏览器网页被检测为爬虫.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/fa5b8d2c_浏览器自动化工具 SeleniumPlaywrightPuppeteer 做爬虫有哪些弊病浏览器自动化工具 SeleniumPlaywrightPu.md"
+  - "raw/videos/00e84772_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/107b5267_微软投资了一个要取代GitHub的项目而且是GitHub自己的前CEO做的.md"
+  - "raw/videos/1a8159fd_Stop Writing Bad CLAUDE.md Files.md"
+  - "raw/videos/1dcea22e_Everything-Claude-Code 深度剖析54K Star 的 AI 开发生态系统是如何构建的.md"
+  - "raw/videos/1fd1942d_两个月暴涨10万个开源Agent Skills这个社区直接给你整理好了.md"
+  - "raw/videos/2277f3d3_openclaw 多 agents 配置思路15 亿 token 实战配置.md"
+  - "raw/videos/2bb1300e_AI编程变天了Trae Skills傻瓜式教程.md"
+  - "raw/videos/2e614be5_Learn 90 of Building AI Agents in 30 Minutes.md"
+  - "raw/videos/338213a9_一个利用Claude Code学习任何知识快10倍的方法.md"
+  - "raw/videos/42a13a06_Obsidian CLI80命令让笔记库听命于终端.md"
+  - "raw/videos/47389e2e_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
+  - "raw/videos/502d4b3e_闪客你管这破玩意叫智能体.md"
+  - "raw/videos/63b223d8_闪客一口气拆穿SkillMCPRAGAgentOpenClaw底层逻辑.md"
+  - "raw/videos/65058f8c_Obsidian CLI 详细教程官方命令行工具激进拥抱智能体高效 自动化 降低Token消耗.md"
+  - "raw/videos/656708d7_Obsidian 接入 Claude Skill 教程CEO亲自下场写的Skill如何使用.md"
+  - "raw/videos/686dc056_每天半小时AI知识GoSkill.md"
+  - "raw/videos/6cc50193_本地跑 Agent 抓网页太搞心态了动不动弹个浏览器抢你鼠标遇到登录框直接卡死试试这个 web-access 插件.md"
+  - "raw/videos/6e711d5b_Agent 的正确答案来了Google AI Agent 白皮书拆解①.md"
+  - "raw/videos/76198251_别再手撸PRD了我做了一个逆向工程Skill.md"
+  - "raw/videos/7fbdf185_How to Use Claude Skills as a Designer.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/videos/9c48ef85_Agent Skills 做知识库检索能比传统 RAG 效果更好吗.md"
+  - "raw/videos/9dd222e3_Oh My ClaudeCode把 Claude 变成 coding 武器19个专业AI特工 多模式自动驾驶从想法到上线全自动.md"
+  - "raw/videos/b12b45ef_一个能自我进化的智能体港大实验室又带着开源项目来了.md"
+  - "raw/videos/bafdf2e5_Obsidian Claudian插件如何终结了我所有案头工作.md"
+  - "raw/videos/bf8dc504_当场投资3000万20岁大四学生10天Vibe Coding开源项目.md"
+  - "raw/videos/c1b57a29_Every Claude Code Concept Explained for Normal People.md"
+  - "raw/videos/c55dcc7a_看完100个海外AI博主后我只推荐这6个.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/ced2ad0c_DeerFlow 2.0字节跳动开源下一代超级 Agent 员工.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+  - "raw/videos/d41992d6_本地跑 Agent 抓网页太搞心态了动不动弹个浏览器抢你鼠标遇到登录框直接卡死试试这个 web-access 插件.md"
+  - "raw/videos/d88e13cd_用Claude Code自动编排n8n工作流告别手搓.md"
+  - "raw/videos/dadd5906_How I use Claude Code Meta Staff Engineer Tips.md"
+  - "raw/videos/df67d69c_OpenClaw高级使用经验分享2026年最强生产力五分钟打造多Agent协作编程开发团队模型容灾机制深度配置云端Gateway操控本地macOS.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/eb586db5_Obsidian从0到1完整攻略 搞定同步打通AI.md"
+  - "raw/videos/ecbd3463_未来新的高收入技能组合.md"
+  - "raw/videos/f15f24d0_一觉睡醒Vibe Coding进化成Visual Coding了....md"
+  - "raw/webpages/0ac94217_让我们专注于内容Markdown 制作幻灯片的三种方案对比 - 少数派.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/3ad26c70_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/80556898_Top product management books and resources for 2026.md"
+  - "raw/webpages/81df9b89_X 上的 Andrej KarpathyLLM Knowledge BasesSomething Im finding very useful rec.md"
+  - "raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md"
+tags:
+  - "agent"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.565805"
+updated_at: "2026-04-23T07:14:41.997361"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Claude Code"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Multi-Agent"
+  - "Claude.Md"
+  - "Conductor"
+  - "Openclaw"
+  - "Brian Chesky"
+  - "gstack：Claude工程团队"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Playwright"
+  - "Skills的本质是什么？"
+  - "Knowledge Base"
+  - "Embedding"
+  - "Obsidian"
+  - "Markdown"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Refactoring"
+  - "Gemini"
+  - "Slidev"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Skills"
+  - "Skill"
+  - "Anthropic"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Rag"
+  - "Git"
+  - "Openai"
+  - "Github"
+  - "Tavily"
+  - "为什么感觉现在AI Agent都是雷声大雨点小？"
+  - "Opencode"
+  - "Claude Code真的那么厉害吗？"
+  - "Vibe Coding"
+  - "Vibe Design"
+  - "Figma"
+  - "Ethan Mollick"
+  - "Chatgpt"
+  - "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）"
+  - "Context Window"
+  - "Microservice"
+  - "Coding Plan"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Cursor"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "Extended Thinking"
+  - "Agentic Loop"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "Plan Mode"
+  - "Cloudflare"
+  - "最好用的Agent框架是什么？"
+  - "Auto Memory"
+  - "Claude"
+  - "claude code使用感受如何？"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Supermemory"
+  - "Gpt"
+  - "如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Spec Coding"
+  - "Superpowers"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Distillation"
+  - "Lora"
+  - "Cli"
+  - "Api"
+  - "Google"
+  - "无大算力时，作为学生，LLM 还有哪些值得做的研究？"
+  - "Copilot"
+  - "Claude Opus 4"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Mcp"
+  - "小红书"
+  - "deepseek能为gis 行业带来什么？"
+  - "你们有哪些好的claude code skills推荐？"
+  - "Agent Shock"
+  - "David Autor"
+  - "Youtube"
+  - "Airbnb"
+  - "Mit"
+  - "当下是一个称为超级个体的时代吗？"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Notion"
+  - "你写过什么不错的开源项目？"
+  - "Yaml"
+  - "谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "知乎"
+  - "钱嘟嘟左卫门 的想法: 开源自我进化AI助手框架：OpenAkita | OpenAkita是一个开源的具备自我进化能力的开源AI助手框架，在关闭… - 知乎"
+  - "Reinforcement Learning"
+  - "Openviking"
+  - "Microsoft"
+  - "怎么成为一个 ai agent 工程师？"
+  - "Meta"
+  - "最难调试修复的 bug 是怎样的？"
+  - "Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "Bright Data"
+  - "playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？"
+  - "Selenium"
+  - "Docker"
+  - "Bridge"
+  - "浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？"
+  - "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件"
+  - "微软投资了一个要取代GitHub的项目——而且是GitHub自己的前CEO做的"
+  - "Hooks"
+  - "Stop Writing Bad CLAUDE.md Files"
+  - "Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的"
+  - "两个月暴涨10万个开源Agent Skills！这个社区直接给你整理好了"
+  - "openclaw 多 agents 配置思路｜15 亿 token 实战配置"
+  - "AI编程变天了，Trae Skills傻瓜式教程！"
+  - "Open Source"
+  - "Mem0"
+  - "Learn 90% of Building AI Agents in 30 Minutes"
+  - "一个利用Claude Code学习任何知识快10倍的方法"
+  - "Obsidian CLI：80+命令让笔记库听命于终端"
+  - "Google Stitch"
+  - "Tailwind"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "【闪客】你管这破玩意叫智能体？"
+  - "【闪客】一口气拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑"
+  - "N8N"
+  - "Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。"
+  - "Obsidian 接入 Claude Skill 教程：CEO亲自下场写的Skill如何使用？"
+  - "每天半小时AI知识｜GoSkill"
+  - "本地跑 Agent 抓网页太搞心态了！动不动弹个浏览器抢你鼠标，遇到登录框直接卡死。试试这个 web-access 插件"
+  - "Agent 的“正确答案”来了，Google AI Agent 白皮书拆解①"
+  - "Prd"
+  - "别再手撸PRD了？我做了一个逆向工程Skill"
+  - "Design System"
+  - "How to Use Claude Skills as a Designer"
+  - "Decision Making"
+  - "Baseline"
+  - "Princeton"
+  - "Bilibili"
+  - "对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42"
+  - "Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？"
+  - "Kimi"
+  - "Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动"
+  - "港大"
+  - "一个能自我进化的智能体！港大实验室又带着开源项目来了"
+  - "Obsidian Claudian插件如何终结了我所有案头工作"
+  - "陈天桥"
+  - "当场投资3000万！20岁大四学生10天Vibe Coding开源项目！"
+  - "Mental Model"
+  - "Worktree"
+  - "Every Claude Code Concept Explained for Normal People"
+  - "Sop"
+  - "看完100个海外AI博主后…我只推荐这6个"
+  - "Superpowers Plugin"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Deerflow"
+  - "DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "用Claude Code自动编排n8n工作流，告别手搓。"
+  - "Git Worktrees"
+  - "How I use Claude Code (Meta Staff Engineer Tips)"
+  - "🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！"
+  - "Agent-Reach"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "Obsidian从0到1完整攻略 | 搞定同步+打通AI"
+  - "Complexity"
+  - "未来新的高收入技能组合"
+  - "Visual Coding"
+  - "一觉睡醒Vibe Coding进化成Visual Coding了..."
+  - "让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "Top product management books and resources for 2026"
+  - "X 上的 Andrej Karpathy：“LLM Knowledge Bases"
+  - "Design Pattern"
+  - "Extend Claude with skills - Claude Code Docs"
+  - "CLAUDE.md"
+  - "Ui/Ux"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "LangGraph"
+  - "MiniMax M2.5"
+  - "微博"
+  - "歸藏"
+  - "Agent-First Development"
+  - "AI Agent Engineering Career Path"
+  - "AI Tool Chaining/Combination|combination"
+  - "Business SOP Automation|business procedures"
+  - "Claude Code Skills系统"
+  - "CLI设计原则（AI与人类友好）"
+  - "DeepAgents框架"
+  - "Engineer Identity Transformation|engineering skills"
+  - "Git Worktrees for Parallel Development"
+  - "Mario Zechner"
+  - "MCP Server Integration"
+  - "Model Context Protocol (MCP)"
+  - "模型容灾机制"
+  - "Progressive Disclosure (Agent Skills)"
+  - "RAG (Retrieval-Augmented Generation)"
+  - "ReAct (Reasoning + Acting)"
+  - "Skills (Anthropic Framework)|Anthropic Skills Framework"
+  - "SWE Driven开发"
+  - "上下文管理"
+  - "零一猴子"
+  - "AutoGen"
+  - "CrewAI"
+  - "Finalchemist"
+  - "Humanize插件"
+  - "Ludamn"
+  - "OpenCode"
+  - "Superpowers插件"
+  - "SWE-agent"
+  - "yahah"
+  - "Agent Skills与MCP技术对比与企业应用"
+  - "Agent Skill vs MCP 对比分析"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "陈天桥心中的AGI是什么"
+  - "Claude Code Skills官方文档"
+  - "CLAUDE.md高效编写指南与AI编程实践"
+  - "DeerFlow 2.0：字节跳动开源超级Agent引擎"
+  - "DeerFlow 2.0：字节开源深度研究多智能体框架"
+  - "Agent-Reach：AI Agent全网感知能力"
+  - "Everything-Claude-Code - 54K Star AI开发生态系统剖析"
+  - "MiroFish群体智能引擎"
+  - "Google AI Agent 白皮书拆解 - Agent的正确答案"
+  - "GoSkill开源项目介绍"
+  - "Meta Staff Engineer 的 Claude Code 使用技巧"
+  - "微软投资取代GitHub的新项目"
+  - "Obsidian从0到1完整攻略"
+  - "OpenClaw高级使用经验分享 - 多Agent协作与云端Gateway"
+  - "全网最细 OpenClaw 教学完整部署飞书连接白嫖LLM无限进化框架"
+  - "OpenClaw多Agents配置实战 - 15亿Token经验分享"
+  - "OpenClaw全球共识窗口分析"
+  - "OpenClaw高级使用经验多Agent协作"
+  - "OpenCode详细攻略"
+  - "web-access插件解决Agent网页抓取痛点"
+  - "Harness Engineering深度解析"
+  - "AI Agent雷声大雨点小分析"
+  - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
+  - "从零入门深度学习AI路线图"
+  - "停止在终端中使用Claude Code：管理目标而非会话"
+  - "如何成为 AI Agent 工程师？—— 知乎问答分析"
+  - "智能体Agent的本质剖析"
+  - "知乎讨论：claude.md怎么写才能让Claude Code更高效"
+  - "知乎讨论：Harness Engineering开发哲学"
+  - "知乎讨论：为什么AI Agent雷声大雨点小"
+  - "知乎讨论：怎么成为一个AI Agent工程师"
+  - "知乎问答：如何成为AI Agent工程师及Agent落地核心技术分析"
+  - "金融分析高级AI Agent架构"
+---
+
+# Agent
+
+## 定义
+
+AI Agent - 能够自主执行任务的AI系统，通过感知环境、做出决策和采取行动来完成任务
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[AI Agent]]
+- [[Subagent]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[LangGraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Multi-Agent]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+- [[Brian Chesky]]
+- [[gstack：Claude工程团队]]
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[Skills的本质是什么？]]
+- [[Knowledge Base]]
+- [[Embedding]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Refactoring]]
+- [[Gemini]]
+- [[Slidev]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Skills]]
+- [[Skill]]
+- [[Anthropic]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Rag]]
+- [[Git]]
+- [[OpenAI]]
+- [[GitHub]]
+- [[Tavily]]
+- [[为什么感觉现在AI Agent都是雷声大雨点小？]]
+- [[Opencode]]
+- [[Claude Code真的那么厉害吗？]]
+- [[Vibe Coding]]
+- [[Vibe Design]]
+- [[Figma]]
+- [[Ethan Mollick]]
+- [[Chatgpt]]
+- [[谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Coding Plan]]
+- [[Cherry Studio]]
+- [[MiniMax M2.5]]
+- [[Kimi K2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Cursor]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[Extended Thinking]]
+- [[Agentic Loop]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[Plan Mode]]
+- [[Cloudflare]]
+- [[最好用的Agent框架是什么？]]
+- [[Auto Memory]]
+- [[Claude]]
+- [[claude code使用感受如何？]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Supermemory]]
+- [[GPT]]
+- [[如何看待Supermemory团队提出的超级记忆系统ASMR，能解决AI的记忆问题吗？]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Spec Coding]]
+- [[Superpowers]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Distillation]]
+- [[Lora]]
+- [[Cli]]
+- [[Api]]
+- [[Google]]
+- [[无大算力时，作为学生，LLM 还有哪些值得做的研究？]]
+- [[Copilot]]
+- [[Claude Opus 4]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Mcp]]
+- [[小红书]]
+- [[deepseek能为gis 行业带来什么？]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[Agent Shock]]
+- [[David Autor]]
+- [[Youtube]]
+- [[Airbnb]]
+- [[Mit]]
+- [[当下是一个称为超级个体的时代吗？]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Notion]]
+- [[你写过什么不错的开源项目？]]
+- [[Yaml]]
+- [[谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[知乎]]
+- OpenAkita是一个开源的具备自我进化能力的开源AI助手框架，在关闭… - 知乎
+- [[Reinforcement Learning]]
+- [[Openviking]]
+- [[Microsoft]]
+- [[怎么成为一个 ai agent 工程师？]]
+- [[Meta]]
+- [[最难调试修复的 bug 是怎样的？]]
+- [[Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[Bright Data]]
+- [[playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？]]
+- [[Selenium]]
+- [[Docker]]
+- [[Bridge]]
+- [[浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？]]
+- [[OpenCode详细攻略，开源版Claude Code，免费模型与神级插件]]
+- [[微软投资了一个要取代GitHub的项目——而且是GitHub自己的前CEO做的]]
+- [[Hooks]]
+- [[Stop Writing Bad CLAUDE.md Files]]
+- [[Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的]]
+- [[两个月暴涨10万个开源Agent Skills！这个社区直接给你整理好了]]
+- [[openclaw 多 agents 配置思路｜15 亿 token 实战配置]]
+- [[AI编程变天了，Trae Skills傻瓜式教程！]]
+- [[Open Source]]
+- [[Mem0]]
+- [[Learn 90% of Building AI Agents in 30 Minutes]]
+- [[一个利用Claude Code学习任何知识快10倍的方法]]
+- [[Obsidian CLI：80+命令让笔记库听命于终端]]
+- [[Google Stitch]]
+- [[Tailwind]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[【闪客】你管这破玩意叫智能体？]]
+- [[【闪客】一口气拆穿Skill/MCP/RAG/Agent/OpenClaw底层逻辑]]
+- [[N8N]]
+- [[Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。]]
+- [[Obsidian 接入 Claude Skill 教程：CEO亲自下场写的Skill如何使用？]]
+- [[每天半小时AI知识｜GoSkill]]
+- [[本地跑 Agent 抓网页太搞心态了！动不动弹个浏览器抢你鼠标，遇到登录框直接卡死。试试这个 web-access 插件]]
+- [[Agent 的“正确答案”来了，Google AI Agent 白皮书拆解①]]
+- [[Prd]]
+- [[别再手撸PRD了？我做了一个逆向工程Skill]]
+- [[Design System]]
+- [[How to Use Claude Skills as a Designer]]
+- [[Decision Making]]
+- [[Baseline]]
+- [[Princeton]]
+- [[Bilibili]]
+- [[对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42]]
+- [[Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？]]
+- [[Kimi]]
+- [[Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动]]
+- [[港大]]
+- [[一个能自我进化的智能体！港大实验室又带着开源项目来了]]
+- [[Obsidian Claudian插件如何终结了我所有案头工作]]
+- [[陈天桥]]
+- [[当场投资3000万！20岁大四学生10天Vibe Coding开源项目！]]
+- [[Mental Model]]
+- [[Worktree]]
+- [[Every Claude Code Concept Explained for Normal People]]
+- [[Sop]]
+- [[看完100个海外AI博主后…我只推荐这6个]]
+- [[Superpowers Plugin]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Deerflow]]
+- [[DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[用Claude Code自动编排n8n工作流，告别手搓。]]
+- [[Git Worktrees]]
+- [[How I use Claude Code (Meta Staff Engineer Tips)]]
+- [[🚀OpenClaw高级使用经验分享！2026年最强生产力！五分钟打造多Agent协作编程开发团队！模型容灾机制深度配置+云端Gateway操控本地macOS！]]
+- [[Agent-Reach]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[Obsidian从0到1完整攻略 | 搞定同步+打通AI]]
+- [[Complexity]]
+- [[未来新的高收入技能组合]]
+- [[Visual Coding]]
+- [[一觉睡醒Vibe Coding进化成Visual Coding了...]]
+- [[让我们专注于内容：Markdown 制作幻灯片的三种方案对比 - 少数派]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[Top product management books and resources for 2026]]
+- [[X 上的 Andrej Karpathy：“LLM Knowledge Bases]]
+- [[Design Pattern]]
+- [[Extend Claude with skills - Claude Code Docs]]
+- [[CLAUDE.md]]
+- [[Ui/Ux]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[LangGraph]]
+- [[MiniMax M2.5]]
+- [[微博]]
+- [[歸藏]]
+- [[Agent-First Development]]
+- [[AI Agent Engineering Career Path]]
+- [[AI Tool Chaining/Combination|combination]]
+- [[Business SOP Automation|business procedures]]
+- [[Claude Code Skills系统]]
+- [[CLI设计原则（AI与人类友好）]]
+- [[DeepAgents框架]]
+- [[Engineer Identity Transformation|engineering skills]]
+- [[Git Worktrees for Parallel Development]]
+- [[Mario Zechner]]
+- [[MCP Server Integration]]
+- [[Model Context Protocol (MCP)]]
+- [[模型容灾机制]]
+- [[Progressive Disclosure (Agent Skills)]]
+- [[RAG (Retrieval-Augmented Generation)]]
+- [[ReAct (Reasoning + Acting)]]
+- [[Skills (Anthropic Framework)|Anthropic Skills Framework]]
+- [[SWE Driven开发]]
+- [[上下文管理]]
+- [[零一猴子]]
+- [[AutoGen]]
+- [[CrewAI]]
+- [[Finalchemist]]
+- [[Humanize插件]]
+- [[Ludamn]]
+- [[OpenCode]]
+- [[Superpowers插件]]
+- [[SWE-agent]]
+- [[yahah]]
+- [[Agent Skills与MCP技术对比与企业应用]]
+- [[Agent Skill vs MCP 对比分析]]
+- [[Agent Skills知识库检索vs传统RAG]]
+- [[陈天桥心中的AGI是什么]]
+- [[Claude Code Skills官方文档]]
+- [[CLAUDE.md高效编写指南与AI编程实践]]
+- [[DeerFlow 2.0：字节跳动开源超级Agent引擎]]
+- [[DeerFlow 2.0：字节开源深度研究多智能体框架]]
+- [[Agent-Reach：AI Agent全网感知能力]]
+- [[Everything-Claude-Code - 54K Star AI开发生态系统剖析]]
+- [[MiroFish群体智能引擎]]
+- [[Google AI Agent 白皮书拆解 - Agent的正确答案]]
+- [[GoSkill开源项目介绍]]
+- [[Meta Staff Engineer 的 Claude Code 使用技巧]]
+- [[微软投资取代GitHub的新项目]]
+- [[Obsidian从0到1完整攻略]]
+- [[OpenClaw高级使用经验分享 - 多Agent协作与云端Gateway]]
+- [[全网最细 OpenClaw 教学完整部署飞书连接白嫖LLM无限进化框架]]
+- [[OpenClaw多Agents配置实战 - 15亿Token经验分享]]
+- [[OpenClaw全球共识窗口分析]]
+- [[OpenClaw高级使用经验多Agent协作]]
+- [[OpenCode详细攻略]]
+- [[web-access插件解决Agent网页抓取痛点]]
+- [[Harness Engineering深度解析]]
+- [[AI Agent雷声大雨点小分析]]
+- [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]
+- [[从零入门深度学习AI路线图]]
+- [[停止在终端中使用Claude Code：管理目标而非会话]]
+- [[如何成为 AI Agent 工程师？—— 知乎问答分析]]
+- [[智能体Agent的本质剖析]]
+- [[知乎讨论：claude.md怎么写才能让Claude Code更高效]]
+- [[知乎讨论：Harness Engineering开发哲学]]
+- [[知乎讨论：为什么AI Agent雷声大雨点小]]
+- [[知乎讨论：怎么成为一个AI Agent工程师]]
+- [[知乎问答：如何成为AI Agent工程师及Agent落地核心技术分析]]
+- [[金融分析高级AI Agent架构]]
+- [[Deepseek]]

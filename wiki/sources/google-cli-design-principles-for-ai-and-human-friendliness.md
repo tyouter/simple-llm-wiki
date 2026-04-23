@@ -10,7 +10,7 @@ tags:
   - "developer-tools"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.527715"
 related:
   - "CLI设计原则"
   - "数据与呈现分离"
@@ -83,6 +83,6 @@ a2acli watch --task abc123 --no-tui
 > 数据与呈现分离是CLI设计的终极形态。前后端分离、API与UI分离，我们见过无数次。但应用到CLI这个"古老"工具上，却是一种顿悟。
 
 ## Related
-- [[CLI设计原则]]
-- [[数据与呈现分离]]
-- [[AI优先互操作性]]
+- [[CLI设计原则 - AI和人类友好]]
+- 数据与呈现分离
+- AI优先互操作性

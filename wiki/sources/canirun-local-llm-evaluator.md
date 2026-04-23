@@ -12,7 +12,7 @@ tags:
   - "hardware"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T07:26:33.514989"
 ---
 
 # CanIRun本地大模型评估工具
@@ -61,11 +61,11 @@ https://www.canirun.ai/
 
 ## 相关概念
 
-- [[大模型]]
-- [[本地部署]]
-- [[Ollama]]
-- [[硬件评估]]
+- 大模型
+- 本地部署
+- Ollama
+- 硬件评估
 
 ## 相关实体
 
-- [[鲲鹏Talk]]
+- 鲲鹏Talk

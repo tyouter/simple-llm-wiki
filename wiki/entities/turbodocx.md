@@ -10,7 +10,7 @@ tags:
   - "ai-tool-developer"
 confidence: "high"
 created_at: "2026-04-17T11:18:13.381577"
-updated_at: "2026-04-17T11:18:13.381577"
+updated_at: "2026-04-23T00:42:20.964038"
 related:
   - "Convergent Evolution (in AI Tools)"
   - "Role-Based AI Development"
@@ -20,6 +20,13 @@ related:
   - "基于角色的AI开发"
   - "单一模糊模式问题"
   - "gstack"
+  - "GStack: Role-Based AI Development Workflow"
+  - "单一模糊模式问题 (Single Fuzzy Mode Problem)"
+  - "趋同进化 (Convergent Evolution)"
+  - "Garry Tan"
+  - "gstack：Claude工程团队 - 汇智网分析"
+  - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "GStack角色化AI开发工作流"
 ---
 
 # TurboDocx
@@ -39,13 +46,20 @@ Their model, while potentially differing in specific roles or implementation, sh
 - [[Role-Based AI Development]]
 - [[GStack]]
 - [[Single-Mode Problem]]
+- [[GStack: Role-Based AI Development Workflow]]
+- [[单一模糊模式问题 (Single Fuzzy Mode Problem)]]
+- [[趋同进化 (Convergent Evolution)]]
+- [[Garry Tan]]
+- [[gstack：Claude工程团队 - 汇智网分析]]
+- [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[GStack角色化AI开发工作流]]
 
 ## Related
 - [[Convergent Evolution (in AI Tools)]]
 - [[Role-Based AI Development]]
 - [[GStack]]
 - [[Single-Mode Problem]]
-- [[趋同进化]]
-- [[基于角色的AI开发]]
-- [[单一模糊模式问题]]
-- [[gstack]]
+- [[趋同进化 (Convergent Evolution)]]
+- [[基于角色的AI开发 (Role-Based AI Development)]]
+- [[单一模糊模式问题 (Single Fuzzy Mode Problem)]]
+- [[GStack]]

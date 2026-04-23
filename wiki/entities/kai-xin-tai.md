@@ -10,12 +10,15 @@ tags:
   - "ai-adaptation"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.900437"
 related:
   - "AI-Exponential Product Management"
   - "Cat Wu"
   - "Prototype-First Development"
   - "Edge Exploration Projects (Side Quests)"
+  - "Model-Capability-Driven Product Evolution"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Kai Xin Tai
@@ -72,4 +75,7 @@ product-management, organizational-change, discovery-driven, ai-adaptation
 - [[AI-Exponential Product Management]]
 - [[Cat Wu]]
 - [[Prototype-First Development]]
+- [[Model-Capability-Driven Product Evolution]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Edge Exploration Projects (Side Quests)]]

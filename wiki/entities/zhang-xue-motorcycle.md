@@ -11,7 +11,7 @@ tags:
   - "entrepreneurship"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.064299"
-updated_at: "2026-04-18T22:52:17.064299"
+updated_at: "2026-04-22T23:50:25.526571"
 related:
   - "Dream-First, Business-Second Entrepreneurship"
   - "Industrial Cluster Advantage"
@@ -20,6 +20,7 @@ related:
   - "Zhang Jixing"
   - "Zhechuangtou"
   - "Kaiyue"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Zhang Xue Motorcycle (张雪机车)
@@ -91,4 +92,5 @@ motorcycle-manufacturer, china-industry, championship-winning, engineering, entr
 - [[Zhang Xue]]
 - [[Zhang Jixing]]
 - [[Zhechuangtou]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Kaiyue]]

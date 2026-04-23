@@ -11,7 +11,7 @@ tags:
   - "technical-blogger"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.795503"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:49:40.264241"
 ---
 
 # Mitchell Hashimoto
@@ -32,4 +32,7 @@ Mitchell Hashimoto是HashiCorp联合创始人，正式定义了"Harness Engineer
 - [[Compound Engineering]]
 - [[Ethan Mollick]]
 - [[知乎讨论-一般技术大牛都在哪里写博客]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Harness Engineering的本质是什么？]]
 - [[Harness Engineering与复合工程]]

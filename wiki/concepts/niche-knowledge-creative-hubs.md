@@ -10,13 +10,16 @@ tags:
   - "creative-communities"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.067615"
-updated_at: "2026-04-17T21:59:22.067615"
+updated_at: "2026-04-23T00:42:55.362259"
 related:
   - "Post-Forum Internet Landscape"
   - "Curated Digital Exploration"
   - "Shuge.org (书格)"
   - "ZCOOL (站酷)"
   - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
+  - "Lora"
+  - "Zhihu"
+  - "优质信息获取渠道推荐"
 ---
 
 # Niche Knowledge & Creative Hubs
@@ -45,6 +48,9 @@ These hubs are the building blocks of the [[Post-Forum Internet Landscape]]. The
 - [[Shuge.org (书格)]]
 - [[ZCOOL (站酷)]]
 - [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
+- [[Lora]]
+- [[Zhihu]]
+- [[优质信息获取渠道推荐]]
 
 ## Related
 - [[Post-Forum Internet Landscape]]

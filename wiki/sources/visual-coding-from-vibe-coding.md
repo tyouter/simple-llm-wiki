@@ -10,7 +10,7 @@ tags:
   - "AI编程"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.469823"
 ---
 
 # Visual Coding：从Vibe Coding进化
@@ -63,5 +63,5 @@ updated_at: "2026-04-20T08:00:00"
 ## 相关
 - [[Vibe Coding]]
 - [[Claude Code Skills系统]]
-- [[AI编程范式]]
-- [[Kimi模型]]
+- AI编程范式
+- [[Kimi]]

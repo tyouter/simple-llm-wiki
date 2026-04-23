@@ -11,12 +11,13 @@ tags:
   - "behavioral-economics"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.215163"
-updated_at: "2026-04-18T22:51:14.215163"
+updated_at: "2026-04-22T23:50:01.653959"
 related:
   - "Financial vs. Industrial Logic"
   - "Geely (吉利汽车)"
   - "Li Shufu (李书福)"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
 ---
 
 # Elevator Effect/电梯效应
@@ -46,4 +47,5 @@ concept, finance, stock-market, investing, behavioral-economics
 - [[Financial vs. Industrial Logic]]
 - [[Geely (吉利汽车)]]
 - [[Li Shufu (李书福)]]
+- [[China Manufacturing]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

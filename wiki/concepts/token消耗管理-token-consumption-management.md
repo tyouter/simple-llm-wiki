@@ -10,13 +10,14 @@ tags:
   - "token-economics"
 confidence: "high"
 created_at: "2026-04-19T21:41:38.068653"
-updated_at: "2026-04-19T21:41:38.068653"
+updated_at: "2026-04-23T00:42:26.951199"
 related:
   - "OpenClaw"
   - "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
   - "AGENT 元年 (AGENT First Year)"
   - "Single-Mode Problem"
   - "知乎用户 (anonymous answerer)"
+  - "知乎讨论：普通人第一次用OpenClaw应该注意什么"
 ---
 
 # Token消耗管理 (Token Consumption Management)
@@ -72,6 +73,7 @@ Concept identified in cost management discussions within [[Zhihu Discussion: Ope
 - [[AGENT 元年 (AGENT First Year)]]
 - [[Single-Mode Problem]]
 - [[知乎用户 (anonymous answerer)]]
+- [[知乎讨论：普通人第一次用OpenClaw应该注意什么]]
 
 ## Related
 - [[OpenClaw]]

@@ -12,7 +12,7 @@ tags:
   - "community-knowledge"
 confidence: "high"
 created_at: "2026-04-19T21:41:38.065555"
-updated_at: "2026-04-19T21:41:38.065555"
+updated_at: "2026-04-22T23:50:10.470003"
 related:
   - "OpenClaw"
   - "糖炒栗子"
@@ -22,6 +22,7 @@ related:
   - "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
   - "Token消耗管理 (Token Consumption Management)"
   - "技能安装风险 (Skill Installation Risks)"
+  - "快照功能依赖 (Snapshot Function Dependency)"
 ---
 
 # Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines
@@ -77,6 +78,7 @@ Analysis based on the Zhihu discussion thread "OpenClaw Beginner Safety and Depl
 - [[技能安装风险 (Skill Installation Risks)]]
 - [[AI Tool Chaining/Combination]]
 - [[Agent Operating System]]
+- [[快照功能依赖 (Snapshot Function Dependency)]]
 
 ## Related
 - [[OpenClaw]]

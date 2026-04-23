@@ -13,7 +13,7 @@ tags:
   - "manufacturing"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.215163"
-updated_at: "2026-04-18T22:51:14.215163"
+updated_at: "2026-04-22T23:50:14.542537"
 related:
   - "Wang Chuanfu (王传福)"
   - "Vertical Integration/闭环"
@@ -22,6 +22,9 @@ related:
   - "Tesla"
   - "Geely (吉利汽车)"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
+  - "Financialization of Industry"
+  - "Li Shufu (李书福)"
 ---
 
 # BYD (比亚迪)
@@ -66,4 +69,7 @@ entity, company, automotive, ev, battery, china, manufacturing
 - [[Financial vs. Industrial Logic]]
 - [[Tesla]]
 - [[Geely (吉利汽车)]]
+- [[China Manufacturing]]
+- [[Financialization of Industry]]
+- [[Li Shufu (李书福)]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

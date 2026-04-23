@@ -1,5 +1,5 @@
 ---
-title: "Skills (Anthropic Framework)|Skills"
+title: "Skills (Anthropic Framework)"
 type: "concept"
 sources:
   - "wiki/sources/skills本质分析.md"
@@ -11,7 +11,7 @@ tags:
   - "capability-encapsulation"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.802580"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.376275"
 ---
 
 # Skills
@@ -30,7 +30,7 @@ Skills是Claude Code的能力扩展机制，本质是可复用的能力封装，
 
 ## Related
 
-- [[skills-anthropic-framework-anthropic-skills-framework]]
-- [[skills-vs-tools-distinction]]
-- [[claude-code-skills-docs]]
-- [[skills本质分析]]
+- [[Skill]]
+- [[Skill]]
+- [[Claude]]
+- [[Skill]]

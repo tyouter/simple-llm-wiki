@@ -10,7 +10,7 @@ tags:
   - "blogger"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:29.468177"
 ---
 
 # Antirez (Salvatore Sanfilippo)
@@ -38,5 +38,8 @@ updated_at: "2026-04-20T12:00:00"
 - 2025年AI发展总结
 
 ## Related
-- [[Redis]]
-- [[HyperLogLog算法]]
+- [[Simon Willison]]
+- [[Salvatore Sanfilippo (antirez)]]
+- [[Antirez]]
+- Redis
+- HyperLogLog算法

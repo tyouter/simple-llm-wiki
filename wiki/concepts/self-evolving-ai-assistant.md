@@ -11,13 +11,16 @@ tags:
   - "ai-memory"
 confidence: "high"
 created_at: "2026-04-19T22:45:41.926081"
-updated_at: "2026-04-19T22:45:41.926081"
+updated_at: "2026-04-22T23:50:18.979828"
 related:
   - "OpenAkita: Open-Source Self-Evolving AI Assistant Framework"
   - "Autonomous Task Planning & Execution"
   - "Persistent Memory System (Claude Code)"
   - "Agent Operating System"
   - "Contradiction"
+  - "Preset AI Personalities"
+  - "AI 工具测评中心"
+  - "钱嘟嘟左卫门"
 ---
 
 # Self-Evolving AI Assistant
@@ -72,4 +75,7 @@ If successfully implemented, self-evolving AI assistants could dramatically redu
 - [[Autonomous Task Planning & Execution]]
 - [[Persistent Memory System (Claude Code)]]
 - [[Agent Operating System]]
+- [[Preset AI Personalities]]
+- [[AI 工具测评中心]]
+- [[钱嘟嘟左卫门]]
 - [[Contradiction]]

@@ -10,12 +10,15 @@ tags:
   - "educational-technology"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.015402"
-updated_at: "2026-04-19T21:39:03.015402"
+updated_at: "2026-04-22T23:50:27.231818"
 related:
   - "Khan Academy (可汗学院)"
   - "Self-Study Friendly Textbook Design"
   - "Pedagogical Approach Comparison"
   - "吴恩达"
+  - "HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson"
+  - "知乎用户"
+  - "知乎讨论：为什么现在很多人推崇国外原版教材"
 ---
 
 # Open Educational Resources (OER)
@@ -49,4 +52,7 @@ OER represents a global movement toward democratizing education. It supports lif
 - [[Khan Academy (可汗学院)]]
 - [[Self-Study Friendly Textbook Design]]
 - [[Pedagogical Approach Comparison]]
+- [[HMH (Houghton Mifflin Harcourt), Mcgraw Hill, Pearson]]
+- [[知乎用户]]
+- [[知乎讨论：为什么现在很多人推崇国外原版教材]]
 - [[吴恩达]]

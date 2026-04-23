@@ -11,12 +11,14 @@ tags:
   - "mobile-design"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.481228"
-updated_at: "2026-04-17T21:53:35.481228"
+updated_at: "2026-04-22T23:50:24.924003"
 related:
   - "Curated Design Prompt Repositories"
   - "uiprompt.site"
   - "designprompts.dev"
   - "Vibe Coding Enhancement Workflow"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
+  - "Vibe Coding做的网站太难看怎么办"
 ---
 
 # uiprompt.dev
@@ -42,6 +44,8 @@ Within the [[Vibe Coding Enhancement Workflow]], a prompt from uiprompt.dev woul
 - [[uiprompt.site]]
 - [[designprompts.dev]]
 - [[Vibe Coding Enhancement Workflow]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
+- [[Vibe Coding做的网站太难看怎么办]]
 
 ## Related
 - [[Curated Design Prompt Repositories]]

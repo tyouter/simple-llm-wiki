@@ -13,12 +13,14 @@ tags:
   - "security"
 confidence: "high"
 created_at: "2026-04-17T22:26:16.847986"
-updated_at: "2026-04-17T22:26:16.847986"
+updated_at: "2026-04-22T23:50:27.400683"
 related:
   - "Web Scraping Anti-Detection"
   - "Managed Scraping Browser"
   - "Selenium"
   - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
+  - "朱卫军"
+  - "知乎讨论-使用Selenium采集数据被检测"
 ---
 
 # Browser Fingerprinting
@@ -66,6 +68,8 @@ Browser fingerprinting raises significant privacy concerns as it enables persist
 - [[Managed Scraping Browser]]
 - [[Selenium]]
 - [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
+- [[朱卫军]]
+- [[知乎讨论-使用Selenium采集数据被检测]]
 
 ## Related
 - [[Web Scraping Anti-Detection]]

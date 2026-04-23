@@ -9,7 +9,7 @@ tags:
   - "computer-science"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:35.828867"
 ---
 
 # 概率算法思维
@@ -52,6 +52,8 @@ updated_at: "2026-04-20T12:00:00"
 > 算法的本质是对问题维度的重构。高阶的算法是跳出当前逻辑维度，用概率、几何、物理的思维去降维打击。
 
 ## Related
-- [[HyperLogLog算法]]
-- [[Bloom Filter]]
-- [[一致性哈希]]
+- [[惊艳算法合集]]
+- HyperLogLog算法
+- Bloom Filter
+- 一致性哈希
+- [[肌肉记忆辅助语义记忆]]

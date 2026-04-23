@@ -10,12 +10,18 @@ tags:
   - "user-centered-design"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.765234"
-updated_at: "2026-04-17T21:47:20.765234"
+updated_at: "2026-04-23T00:42:55.300613"
 related:
   - "Scenario Analysis (场景分析)"
   - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
   - "David 周子轩"
   - "Function-Oriented vs. Problem-Solving Design"
+  - "Mental Model (心智模型)"
+  - "User Story vs. Environment|Environment"
+  - "User Story vs. Environment|User Story"
+  - "Marty Cagan"
+  - "刘飞"
+  - "知乎"
 ---
 
 # User Story vs. Environment
@@ -49,4 +55,10 @@ product-management, scenario-analysis, requirements-elicitation, user-centered-d
 - [[Scenario Analysis (场景分析)]]
 - [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
 - [[David 周子轩]]
+- [[Mental Model (心智模型)]]
+- [[User Story vs. Environment|Environment]]
+- [[User Story vs. Environment|User Story]]
+- [[Marty Cagan]]
+- [[刘飞]]
+- [[知乎]]
 - [[Function-Oriented vs. Problem-Solving Design]]

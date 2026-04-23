@@ -12,7 +12,7 @@ tags:
   - "production-systems"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.081079"
-updated_at: "2026-04-19T15:33:03.081079"
+updated_at: "2026-04-23T00:42:21.572775"
 related:
   - "mCell"
   - "riba2534"
@@ -22,6 +22,7 @@ related:
   - "Context Engineering"
   - "Entropy Management"
   - "Agent Operating System"
+  - "Agent = Loop(Model + Harness)"
 ---
 
 # Harness Engineering Explained: From Agent Loop to Production System
@@ -50,7 +51,7 @@ Introduces the formula: **Agent = Loop(Model + Harness)**, emphasizing that agen
 Posits that harness engineering represents the third appearance of cybernetics principles, following Watt's centrifugal governor and Kubernetes.
 
 ## Relationship to Existing Wiki
-This source provides a detailed practical explanation that complements the existing [[harness-engineering]] wiki page's definition. It addresses several contradictions:
+This source provides a detailed practical explanation that complements the existing harness-engineering wiki page's definition. It addresses several contradictions:
 1. Challenges the emphasis on "AI-only code generation with human oversight" by presenting a more nuanced view where humans design the environment and constraints
 2. Resolves tension between "Build Heavy Harness" (OpenAI approach) and "Trust The Model" (Anthropic approach)
 3. Expands the concept beyond just code generation to general agent operation in production
@@ -73,4 +74,5 @@ harness-engineering, ai-agents, software-engineering, cybernetics, context-engin
 - [[Harness Engineering]]
 - [[Context Engineering]]
 - [[Entropy Management]]
+- [[Agent = Loop(Model + Harness)]]
 - [[Agent Operating System]]

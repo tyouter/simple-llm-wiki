@@ -10,7 +10,7 @@ tags:
   - "AI工具调用"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.618255"
 ---
 
 # mcp2cli：CLI取代MCP的Token优化方案
@@ -55,5 +55,5 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[MCP协议分析]]
-- [[AI工具调用效率]]
+- [[Mcp]]
+- AI工具调用效率

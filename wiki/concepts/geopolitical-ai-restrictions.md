@@ -12,7 +12,7 @@ tags:
   - "international-relations"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.525345"
-updated_at: "2026-04-19T01:51:50.525345"
+updated_at: "2026-04-22T23:50:21.035689"
 related:
   - "Knowledge Distillation (Model Distillation)"
   - "Local Model Deployment"
@@ -20,6 +20,10 @@ related:
   - "Claude Code"
   - "AI Economics"
   - "Model-Switching Optimization"
+  - "Claude Opus 4.6"
+  - "Qwen3.5-27B"
+  - "Anthropic's China Restrictions and Claude Reasoning Distillation Techniques"
+  - "Anthropic对中国控股公司的限制"
 ---
 
 # Geopolitical AI Restrictions
@@ -121,4 +125,8 @@ Analysis based on Anthropic's September 2024 policy changes and community docume
 - [[Anthropic]]
 - [[Claude Code]]
 - [[AI Economics]]
+- [[Claude Opus 4.6]]
+- [[Qwen3.5-27B]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
+- [[Anthropic对中国控股公司的限制]]
 - [[Model-Switching Optimization]]

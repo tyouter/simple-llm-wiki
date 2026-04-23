@@ -13,7 +13,7 @@ tags:
   - 公众号
 confidence: medium
 created_at: "2026-04-20T01:00:00"
-updated_at: "2026-04-20T01:00:00"
+updated_at: "2026-04-23T00:42:21.664022"
 ---
 
 # n8n自动化工作流：多平台内容同步
@@ -68,5 +68,5 @@ updated_at: "2026-04-20T01:00:00"
 ## Related
 
 - [[一人AI公司]]
-- [[一人AI公司四层架构]]
+- [[一人AI公司]]
 - [[Claude Code Skills系统]]

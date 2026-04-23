@@ -11,7 +11,7 @@ tags:
   - Tool Calling
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:21.596231"
 ---
 
 # Kimi Claw与飞书集成7x24小时自动化
@@ -57,6 +57,6 @@ updated_at: "2026-04-20T21:00:00"
 
 ## Related
 - [[OpenClaw高级使用经验多Agent协作]]
-- [[知乎讨论-普通人第一次用OpenClaw应该注意什么]]
+- [[OpenClaw]]
 - [[OpenAkita开源自我进化AI助手框架]]
-- [[自动化工具更新Coze Skill与长期规划功能]]
+- [[Skill]]

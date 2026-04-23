@@ -17,7 +17,7 @@ tags:
   - Docker
 confidence: high
 created_at: "2026-04-20T01:00:00"
-updated_at: "2026-04-20T01:00:00"
+updated_at: "2026-04-23T00:42:26.956242"
 ---
 
 # AI Agent构建指南：30分钟掌握90%核心知识
@@ -85,6 +85,9 @@ updated_at: "2026-04-20T01:00:00"
 - 多数平台都是开源的
 
 ## Related
+- [[mem0开源框架架构解析与实战]]
+- [[智能体Agent的本质剖析]]
+- [[红杉资本AI商业模式转型分析]]
 
 - [[Claude Code Skills系统]]
 - [[DeepAgents框架]]

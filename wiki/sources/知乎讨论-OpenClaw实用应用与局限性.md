@@ -14,7 +14,7 @@ tags:
   - "sop-automation"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.961838"
-updated_at: "2026-04-17T22:15:47.961838"
+updated_at: "2026-04-23T00:42:26.418990"
 related:
   - "OpenClaw (Moltbot/ClawdBot)"
   - "序员先生 (Programmer Xiansheng)"
@@ -24,6 +24,8 @@ related:
   - "RPA-AI Hybrid Architecture"
   - "Skill Engineering for AI Agents"
   - "Token Management in Complex Systems"
+  - "Mario Zechner"
+  - "OpenClaw"
 ---
 
 # 知乎讨论-OpenClaw实用应用与局限性
@@ -56,7 +58,7 @@ related:
 - 强调精确SOP和边界定义，挑战了AI能够处理非专业人士模糊自然语言请求的假设。
 
 ## 相关讨论
-本格式与[[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]]类似，都是专家主导的知乎讨论帖。讨论的技术约束直接关联到[[Token Management in Complex Systems]]和[[AI Agent Complexity Management]]。
+本格式与[[Zhihu]]类似，都是专家主导的知乎讨论帖。讨论的技术约束直接关联到[[Token Management in Complex Systems]]和[[AI Agent Complexity Management]]。
 
 **来源**：原知乎讨论帖分析OpenClaw/Moltbot实践实现。
 
@@ -68,4 +70,6 @@ related:
 - [[Business SOP Automation]]
 - [[RPA-AI Hybrid Architecture]]
 - [[Skill Engineering for AI Agents]]
+- [[Mario Zechner]]
+- [[OpenClaw]]
 - [[Token Management in Complex Systems]]

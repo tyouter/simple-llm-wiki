@@ -10,7 +10,7 @@ tags:
   - "cli"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:21.773770"
 ---
 
 # OpenCLI Skill - 龙虾版分析
@@ -57,6 +57,6 @@ OpenCLI Skill的主要功能：
 
 ## Related
 
-- [[Skills系统]]
-- [[OpenCLI]]
-- [[Claude-Code-Skills推荐]]
+- [[Claude Code Skills系统]]
+- OpenCLI
+- [[Claude]]

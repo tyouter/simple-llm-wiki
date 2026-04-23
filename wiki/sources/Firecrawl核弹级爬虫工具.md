@@ -13,7 +13,7 @@ tags:
   - rag系统
 confidence: medium
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:21.498993"
 ---
 
 # Firecrawl核弹级爬虫工具
@@ -53,7 +53,7 @@ updated_at: "2026-04-20T21:30:00"
 - 受到AI开发者广泛关注
 
 ## Related
-- [[Scrapling自适应网页爬虫]]
+- [[Scrapling]]
 - [[N8N爬虫工作流教程]]
-- [[Playwright反爬虫突破]]
-- [[MCP2CLI Token优化]]
+- [[Playwright]]
+- [[Cli]]

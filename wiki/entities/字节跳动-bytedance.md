@@ -11,13 +11,17 @@ tags:
   - "ai-agent-employment"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-23T00:42:26.950198"
 related:
   - "AI Agent"
   - "Domain-Specific Language (DSL) for AI Agents"
   - "Agent RL Training"
   - "面壁 (FaceWall)"
   - "腾讯 (Tencent)"
+  - "ByteDance Volcano Engine"
+  - "Career Transition Barriers"
+  - "OpenViking记忆插件"
+  - "知乎讨论：怎么成为一个AI Agent工程师"
 ---
 
 # 字节跳动 (ByteDance)
@@ -70,6 +74,10 @@ While [[面壁 (FaceWall)]] is cited for technical implementation examples and [
 chinese-tech-company, career-benchmark, job-requirements, industry-standard, ai-agent-employment
 
 ## Related
+- [[ByteDance Volcano Engine]]
+- [[Career Transition Barriers]]
+- [[OpenViking记忆插件]]
+- [[知乎讨论：怎么成为一个AI Agent工程师]]
 [[AI Agent]], [[Domain-Specific Language (DSL) for AI Agents]], [[Agent RL Training]], [[面壁 (FaceWall)]], [[腾讯 (Tencent)]]
 
 ## Related

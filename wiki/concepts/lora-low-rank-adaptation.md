@@ -10,7 +10,7 @@ tags:
   - "model-optimization"
 confidence: "high"
 created_at: "2026-04-19T01:51:50.675970"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.349115"
 ---
 
 # LoRA (Low-Rank Adaptation)
@@ -26,7 +26,11 @@ updated_at: "2026-04-20T12:00:00"
 - **快速迭代**：支持快速实验和模型能力迁移
 
 ## Related
-- [[Knowledge Distillation Model Distillation]]
+- [[Knowledge Distillation (Model Distillation)]]
 - [[Local Model Deployment]]
-- [[Unsloth框架]]
+- [[Unsloth]]
+- [[AI Tool Specialization]]
+- [[Chain-of-Thought (CoT) Reasoning)]]
+- [[Qwen3.5-27B]]
+- [[Anthropic's China Restrictions and Claude Reasoning Distillation Techniques]]
 - [[Anthropic对中国控股公司的限制]]

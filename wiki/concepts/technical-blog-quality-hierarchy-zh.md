@@ -9,7 +9,7 @@ tags:
   - "knowledge-sharing"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.557810"
 ---
 
 # 技术博客质量层级
@@ -55,4 +55,9 @@ updated_at: "2026-04-20T12:00:00"
 ## Related
 - [[Paul Graham]]
 - [[Simon Willison]]
-- [[技术博客平台汇总]]
+- 技术博客平台汇总
+- [[Jay Alammar]]
+- [[Mario Zechner]]
+- [[Niche Knowledge Hub]]
+- [[技术大牛博客平台汇总]]
+- [[知乎讨论：一般技术大牛都在哪里写博客]]

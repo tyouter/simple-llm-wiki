@@ -13,7 +13,7 @@ tags:
   - "role-based-ai"
 confidence: "high"
 created_at: "2026-04-17T11:18:13.379563"
-updated_at: "2026-04-17T11:18:13.379563"
+updated_at: "2026-04-22T23:50:28.038138"
 related:
   - "Garry Tan"
   - "Claude Code"
@@ -21,6 +21,34 @@ related:
   - "Single-Mode Problem"
   - "Convergent Evolution (in AI Tools)"
   - "Agent Operating System"
+  - "AI Agent Complexity Management"
+  - "AI-Enhanced Note-Taking"
+  - "AI-Native Design Workflow"
+  - "AI Programming Ecosystem"
+  - "Decomposition as Core Skill"
+  - "Engineer Identity Transformation"
+  - "Multi-Agent Orchestration"
+  - "Self-Design through Environmental Engineering"
+  - "Self-Directed Learning Infrastructure"
+  - "Spaced Repetition via Error Tracking"
+  - "awesome-claude-code"
+  - "Clave"
+  - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code工作流技术与架构分析"
+  - "Claude Code Agent Technical Analysis and Multi-Agent Architecture"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
+  - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
+  - "Mizore的Claude Code一键配置开源"
+  - "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
+  - "TypeWords打字式背单词"
+  - "Zhihu Discussion: Claude Code's Ecosystem, Impact on Engineering, and Practical Experiences"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
+  - "谷歌Stitch氛围设计更新"
 ---
 
 # GStack: Role-Based AI Development Workflow for Claude Code
@@ -60,6 +88,34 @@ This approach **contradicts and expands upon** the simpler, linear workflow docu
 - [[Agent Operating System]]
 - [[Conductor]]
 - [[TurboDocx]]
+- [[AI Agent Complexity Management]]
+- [[AI-Enhanced Note-Taking]]
+- [[AI-Native Design Workflow]]
+- [[AI Programming Ecosystem]]
+- [[Decomposition as Core Skill]]
+- [[Engineer Identity Transformation]]
+- [[Multi-Agent Orchestration]]
+- [[Self-Design through Environmental Engineering]]
+- [[Self-Directed Learning Infrastructure]]
+- [[Spaced Repetition via Error Tracking]]
+- [[awesome-claude-code]]
+- [[Clave]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Claude Code Agent Technical Analysis and Multi-Agent Architecture]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
+- [[Mizore's Claude Code Automation Toolkit and Paper Reading Skill]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]]
+- [[TypeWords打字式背单词]]
+- [[Zhihu Discussion: Claude Code's Ecosystem, Impact on Engineering, and Practical Experiences]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
+- [[谷歌Stitch氛围设计更新]]
 
 ## Related
 - [[Garry Tan]]

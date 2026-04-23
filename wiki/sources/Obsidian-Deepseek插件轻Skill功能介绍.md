@@ -11,7 +11,7 @@ tags:
   - "ai-integration"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.689739"
 ---
 
 # Obsidian-Deepseek插件轻Skill功能介绍
@@ -56,5 +56,5 @@ Skill系统允许用户创建自定义命令模板，实现：
 ## Related
 
 - [[Claude Code Skills系统]]
-- [[Obsidian插件生态]]
+- [[Obsidian]]
 - [[Deepseek]]

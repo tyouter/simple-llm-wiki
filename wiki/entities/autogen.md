@@ -4,13 +4,15 @@ type: "entity"
 sources:
   - "wiki/sources/zhihu-从后端开发转型ai-agent工程师的路线图.md"
   - "wiki/sources/ai-agent-framework-comparison.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
 tags:
   - "agent-framework"
   - "multi-agent"
   - "microsoft"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.160867"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.245793"
 ---
 
 # AutoGen
@@ -30,10 +32,13 @@ Microsoft开发的多智能体协作框架，用于构建复杂AI Agent系统，
 
 ## 相关概念
 - [[Multi-Agent Orchestration]]
-- [[Agent框架]]
+- [[Agent]]
 - [[LangGraph]]
 - [[CrewAI]]
 
 ## 相关
-- [[zhihu-从后端开发转型ai-agent工程师的路线图]]
-- [[ai-agent-framework-comparison]]
+- [[Agent]]
+- [[Agent]]
+## Related
+- [[Microsoft]]
+

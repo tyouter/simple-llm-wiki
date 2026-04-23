@@ -15,7 +15,7 @@ tags:
   - "vibe-coding"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.317578"
-updated_at: "2026-04-18T22:44:23.317578"
+updated_at: "2026-04-22T23:50:02.868601"
 related:
   - "Mizore"
   - "Southern University of Science and Technology (SUSTech)"
@@ -24,6 +24,8 @@ related:
   - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
   - "Vibe Coding"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "Context & Resource Awareness in AI Coding"
+  - "Cross-Model Code Review"
 ---
 
 # Mizore's Claude Code Automation Toolkit and Paper Reading Skill
@@ -76,4 +78,6 @@ claude-code, automation, open-source, paper-reading, workflow-optimization, zhih
 - [[AI-Assisted Paper Reading]]
 - [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
 - [[Vibe Coding]]
+- [[Context & Resource Awareness in AI Coding]]
+- [[Cross-Model Code Review]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]

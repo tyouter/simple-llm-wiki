@@ -11,11 +11,13 @@ tags:
   - "technical-blogger"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.234620"
 related:
   - "AI技术博客主题聚合"
   - "从创作者到投资/布道者的博客演进"
   - "独立个人博客价值"
+  - "Programmer-to-Blogger Transition"
+  - "中外技术博客文化差异"
 ---
 
 # David Heinemeier Hansson (DHH)
@@ -33,12 +35,14 @@ DHH是Ruby on Rails框架作者，37signals(现Basecamp)创始人，在world.hey
 - **影响力层级**：个人独立博客层级，顶级技术博主和创业者
 
 ## Related
+- [[Programmer-to-Blogger Transition]]
+- [[中外技术博客文化差异]]
 
-- [[armin-ronacher]]
-- [[dan-abramov]]
-- [[gergely-orosz]]
-- [[technical-blog-quality-hierarchy]]
-- [[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]]
+- armin-ronacher
+- dan-abramov
+- gergely-orosz
+- technical-blog-quality-hierarchy
+- [[Zhihu]]
 
 ---
 

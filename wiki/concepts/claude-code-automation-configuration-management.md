@@ -12,7 +12,7 @@ tags:
   - "devops"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.318581"
-updated_at: "2026-04-18T22:44:23.318581"
+updated_at: "2026-04-23T00:42:26.621723"
 related:
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
   - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
@@ -20,6 +20,9 @@ related:
   - "Error Memory for AI Improvement"
   - "Context & Resource Awareness in AI Coding"
   - "Claude Code"
+  - "Southern University of Science and Technology (SUSTech)"
+  - "Mizore的Claude Code一键配置开源"
+  - "Mizore"
 ---
 
 # Claude Code Automation/Configuration Management
@@ -83,4 +86,7 @@ claude-code, automation, configuration-management, workflow-optimization, toolin
 - [[AI-Assisted Paper Reading]]
 - [[Error Memory for AI Improvement]]
 - [[Context & Resource Awareness in AI Coding]]
+- [[Southern University of Science and Technology (SUSTech)]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[Mizore]]
 - [[Claude Code]]

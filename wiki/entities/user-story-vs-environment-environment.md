@@ -1,5 +1,5 @@
 ---
-title: "User Story vs. Environment|Environment"
+title: "User Story vs. Environment"
 type: "entity"
 sources:
   - "wiki/sources/知乎讨论-为什么做产品的人都很喜欢思考场景.md"
@@ -9,7 +9,7 @@ tags:
   - "context"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.808911"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T07:23:32.376777"
 ---
 
 # Environment（环境）
@@ -51,6 +51,6 @@ David周子轩强调环境与用户故事的关键区别：
 ## 相关
 - [[User Story vs. Environment|User Story]]
 - [[Function-Oriented vs. Problem-Solving Design|Function-Oriented Design]]
-- [[知乎讨论-为什么做产品的人都很喜欢思考场景]]
+- [[知乎]]
 - [[David 周子轩]]
-- [[场景分析]]
+- 场景分析

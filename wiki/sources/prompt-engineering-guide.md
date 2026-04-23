@@ -12,7 +12,7 @@ tags:
   - "open-source"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:42:21.841365"
 ---
 
 # Prompt Engineering Guide提示词库
@@ -59,10 +59,10 @@ updated_at: "2026-04-20T00:00:00"
 
 ## 相关概念
 
-- [[提示工程]]
-- [[Chain-of-Thought]]
-- [[AI编程]]
+- 提示工程
+- [[Chain-of-Thought (CoT) Reasoning)]]
+- AI编程
 
 ## 相关实体
 
-- [[极客川]]
+- 极客川

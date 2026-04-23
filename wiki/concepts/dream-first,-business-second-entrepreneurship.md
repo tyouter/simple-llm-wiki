@@ -12,7 +12,7 @@ tags:
   - "business-philosophy"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.062295"
-updated_at: "2026-04-18T22:52:17.062295"
+updated_at: "2026-04-22T23:50:25.536261"
 related:
   - "Authenticity as Capital"
   - "Perseverance Performance"
@@ -20,6 +20,8 @@ related:
   - "Zhang Xue"
   - "Zhang Xue Motorcycle"
   - "Zhechuangtou"
+  - "Industrial Cluster Advantage"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Dream-First, Business-Second Entrepreneurship
@@ -110,4 +112,6 @@ entrepreneurship, passion-driven, mission-driven, craftsmanship, innovation, bus
 - [[Strategic Pivot from Racing to Manufacturing]]
 - [[Zhang Xue]]
 - [[Zhang Xue Motorcycle]]
+- [[Industrial Cluster Advantage]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Zhechuangtou]]

@@ -10,7 +10,7 @@ tags:
   - "vertical-integration"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.334015"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.189206"
 ---
 
 # China Manufacturing (中国制造业)
@@ -43,3 +43,7 @@ updated_at: "2026-04-20T16:00:00"
 
 ## 来源
 - [src: Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]
+## Related
+- [[Ant Group]]
+- [[ByteDance Volcano Engine]]
+

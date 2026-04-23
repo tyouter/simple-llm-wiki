@@ -8,7 +8,7 @@ tags:
   - "visual-learning"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.496958"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.241838"
 ---
 
 # 3Blue1Brown
@@ -27,8 +27,11 @@ updated_at: "2026-04-20T00:00:00"
 - 强调数学概念的直观理解而非公式推导
 
 ## 相关概念
-- [[可视化学习]]
-- [[数学教育]]
+- 可视化学习
+- 数学教育
 
 ## 相关
 - 无直接关联wiki页面
+## Related
+- [[Claude]]
+

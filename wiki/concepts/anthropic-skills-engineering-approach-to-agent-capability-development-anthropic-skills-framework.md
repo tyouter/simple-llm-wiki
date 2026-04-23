@@ -1,5 +1,5 @@
 ---
-title: "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+title: "Anthropic Skills: Engineering Approach to Agent Capability Development"
 type: "concept"
 sources:
   - "wiki/sources/anthropic-skills-engineering-approach-to-agent-capability-development.md"
@@ -11,7 +11,7 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.803885"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T07:23:32.374255"
 ---
 
 # Anthropic Skills Framework
@@ -29,7 +29,7 @@ Anthropic Skills框架是Anthropic官方推出的工程化Agent能力开发方�
 
 ## 相关概念
 - [[Agent Skills Framework|Skills]]
-- [[skills-vs-tools-distinction]]
+- [[Skill]]
 - [[Token Efficiency in AI Reasoning]]
 - [[GStack: Role-Based AI Development Workflow]]
 - [[AI Tool Chaining/Combination]]

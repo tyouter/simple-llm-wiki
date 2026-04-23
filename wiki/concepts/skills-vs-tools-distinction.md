@@ -11,12 +11,19 @@ tags:
   - "implementation-pattern"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-22T23:50:26.464249"
 related:
   - "Domain-Specific Language (DSL) for AI Agents"
   - "Tool-Integrated Reasoning (TIR)"
   - "SubAgent Architecture"
   - "AI Agent"
+  - "Aesthetic Judgment in Tech"
+  - "Algorithmic Mindset Shift"
+  - "Front-End Design Skill/Tool"
+  - "非著名程序员"
+  - "龙腾"
+  - "Social Media Review of Front-End Design Tool"
+  - "前端设计Skill美颜神器"
 ---
 
 # Skills vs Tools Distinction
@@ -92,6 +99,13 @@ Understanding the skills vs tools distinction helps [[AI Agent]] engineers desig
 agent-design, capability-modeling, expertise-encoding, domain-knowledge, implementation-pattern
 
 ## Related
+- [[Aesthetic Judgment in Tech]]
+- [[Algorithmic Mindset Shift]]
+- [[Front-End Design Skill/Tool]]
+- [[非著名程序员]]
+- [[龙腾]]
+- [[Social Media Review of Front-End Design Tool]]
+- [[前端设计Skill美颜神器]]
 [[Domain-Specific Language (DSL) for AI Agents]], [[Tool-Integrated Reasoning (TIR)]], [[SubAgent Architecture]], [[AI Agent]]
 
 ## Related

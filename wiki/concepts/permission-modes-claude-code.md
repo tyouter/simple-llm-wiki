@@ -10,11 +10,12 @@ tags:
   - "workflow"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.896560"
-updated_at: "2026-04-17T21:42:57.896560"
+updated_at: "2026-04-22T23:50:18.499485"
 related:
   - "Persistent Memory System (Claude Code)"
   - "CLAUDE.md"
   - "Spec Coding vs. Vibe Coding"
+  - "白玉京"
 ---
 
 # Permission Modes (Claude Code)
@@ -54,4 +55,5 @@ The optimal setting is subjective and ties into the broader workflow debate:
 ## Related
 - [[Persistent Memory System (Claude Code)]]
 - [[CLAUDE.md]]
+- [[白玉京]]
 - [[Spec Coding vs. Vibe Coding]]

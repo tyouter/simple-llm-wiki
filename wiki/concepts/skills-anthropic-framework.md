@@ -11,13 +11,23 @@ tags:
   - "agent-capability"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.780634"
-updated_at: "2026-04-17T22:06:46.780634"
+updated_at: "2026-04-23T00:42:55.271791"
 related:
   - "skills-vs-tools-distinction"
   - "Skill Engineering Lifecycle"
   - "skill-creator"
   - "Anthropic"
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
+  - "Baseline A/B Testing"
+  - "Model Context Protocol (MCP)"
+  - "Skill Activation"
+  - "Skill-Creator Tool"
+  - "Skill Evaluation & Assertions"
+  - "Skill Triggering"
+  - "Ai学习的老章"
+  - "Anthropic Skills Framework: Engineering Approach to Agent Capability Development"
+  - "Agent"
+  - "Claude"
 ---
 
 # Skills (Anthropic Framework)
@@ -41,7 +51,7 @@ A standardized format and methodology, developed by [[Anthropic]], for packaging
 Skills are created using the official [[skill-creator]] tool and follow the [[Skill Engineering Lifecycle]], which includes critical steps like [[Description Trigger Optimization]].
 
 ## Relation to Broader Concepts
-This framework is the primary, concrete implementation of the theoretical [[skills-vs-tools-distinction]]. It provides the "how" for encoding the "Skills" side (expertise, best practices) as executable agent capabilities.
+This framework is the primary, concrete implementation of the theoretical [[Skill]]. It provides the "how" for encoding the "Skills" side (expertise, best practices) as executable agent capabilities.
 
 ## Use Cases and Examples
 - Encoding a code review checklist and process into a "Code Review Skill."
@@ -55,10 +65,20 @@ This specific framework is detailed in the analysis [[Anthropic Skills: Engineer
 skill-development, anthropic-claude, standardization, reusable-assets, agent-capability
 
 ## Related
-[[skills-vs-tools-distinction]], [[Skill Engineering Lifecycle]], [[skill-creator]], [[Anthropic]], [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
+- [[Baseline A/B Testing]]
+- [[Model Context Protocol (MCP)]]
+- [[Skill Activation]]
+- [[Skill-Creator Tool]]
+- [[Skill Evaluation & Assertions]]
+- [[Skill Triggering]]
+- [[Ai学习的老章]]
+- [[Anthropic Skills Framework: Engineering Approach to Agent Capability Development]]
+- [[Agent]]
+- [[Claude]]
+[[Skill]], [[Skill Engineering Lifecycle]], [[skill-creator]], [[Anthropic]], [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
 
 ## Related
-- [[skills-vs-tools-distinction]]
+- [[Skill]]
 - [[Skill Engineering Lifecycle]]
 - [[skill-creator]]
 - [[Anthropic]]

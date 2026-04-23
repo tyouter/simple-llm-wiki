@@ -1,0 +1,466 @@
+---
+title: "Claude Code"
+type: "concept"
+sources:
+  - "raw/articles/0007311f_怎么成为一个ai agent 工程师怎么成为一个ai agent 工程师.md"
+  - "raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md"
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/0b6c4501_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/12be559f_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/16fe1605_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/2b36f099_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/2fd8f209_Vibe coding 做的网站太难看怎么办分享我自己的解决技巧.md"
+  - "raw/articles/3f3fc556_Claude code 产品经理Cat Wu亲述我是如何用AI彻底重构PM工作流的.md"
+  - "raw/articles/441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/48f717b0_Claude Code真的那么厉害吗Claude Code真的那么厉害吗.md"
+  - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
+  - "raw/articles/51e11aeb_你们都用 OpenClawMoltbotClawdBot实现了什么有价值的功能你们都用 OpenClawMoltbotClawdBot实现了什么.md"
+  - "raw/articles/53771cca_Anthropic的Claude Code Agent效果很好有没有人深入分析其技术原理Anthropic的Claude Code Agent效果很好有.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/55258346_claude code使用感受如何claude code使用感受如何.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/6b0f26af_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
+  - "raw/articles/8129dd14_如何做企业战略规划如何做企业战略规划.md"
+  - "raw/articles/87f23147_Mizore 的想法 用了半年Claude Code 我把我的一键配置开源了 刚开始用 Claude Code 的时候每次新项目都要重新配CL -.md"
+  - "raw/articles/8a16c4ee_你们有哪些好的claude code skills推荐你们有哪些好的claude code skills推荐.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/a90d745d_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/articles/ad7300af_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/afe1adc5_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/b1c64b5d_30 岁转行战略咨询如何从零开始系统学习战略管理30 岁转行战略咨询如何从零开始系统学习战略管理.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/d07ec090_你人生中太晚明白的道理是什么你人生中太晚明白的道理是什么.md"
+  - "raw/articles/d65f8843_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
+  - "raw/articles/ddceee79_为什么现在很多人推崇国外原版教材为什么现在很多人推崇国外原版教材.md"
+  - "raw/articles/e0070893_Playwright CLI 的隐藏技能帮 Claude Code 突破反爬虫读到读不了的网页.md"
+  - "raw/articles/edab6de9_龙虾装了这个Skill显得其它的都像个废物.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/f17f5513_你更喜欢使用codex还是claude来进行编程呢你更喜欢使用codex还是claude来进行编程呢.md"
+  - "raw/articles/f6b40288_claude.md怎么写才能让Claude Code更高效claude.md怎么写才能让Claude Code更高效.md"
+  - "raw/videos/00e84772_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/088cff0d_不写代码的我用Claude Code当我的职场替身它又狗腿又努力简直天选牛马喜欢好爱.md"
+  - "raw/videos/1dcea22e_Everything-Claude-Code 深度剖析54K Star 的 AI 开发生态系统是如何构建的.md"
+  - "raw/videos/22c01429_AI编程最佳配置来自 Anthropic 黑客马拉松获胜者的 Claude Code 配置.md"
+  - "raw/videos/261a2b6c_5折订阅官方 chatgpt plusclaude code 会员服务更简单更省钱无需国际信用卡每月不到 80 元.md"
+  - "raw/videos/338213a9_一个利用Claude Code学习任何知识快10倍的方法.md"
+  - "raw/videos/35e3cb36_把Claude Code变成12位软件专家团队.md"
+  - "raw/videos/3b2aadbb_Claude Code Obsidian 构建一个247个人操作系统用于个人思考知识积累和创业构建.md"
+  - "raw/videos/42a13a06_Obsidian CLI80命令让笔记库听命于终端.md"
+  - "raw/videos/46303236_Claude代码NotebookLMObsidian上帝模式.md"
+  - "raw/videos/47389e2e_OpenCode详细攻略开源版Claude Code免费模型与神级插件.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
+  - "raw/videos/5630b8bc_ObsidianCLIClaudeCode我的AI笔记工作流.md"
+  - "raw/videos/65058f8c_Obsidian CLI 详细教程官方命令行工具激进拥抱智能体高效 自动化 降低Token消耗.md"
+  - "raw/videos/712bf9fc_AutoResearch 让Claude像Karpathy一样自己迭代自己代码内容性能全自动无限优化Claude Code Skill实战分.md"
+  - "raw/videos/764d9689_claude code开发者亲自发布踩坑经验.md"
+  - "raw/videos/77f1153e_比刷剧爽2026公认最好的Claude Code教程附课件代码Claude Code探索-测试-重构-调试代码库.md"
+  - "raw/videos/7c660d57_Obsidian 在 AI 时代遥遥领先 Linking Your Thinking with Nick Milo.md"
+  - "raw/videos/8690a67a_FULL Claude Code Tutorial for Beginners in 2026 Step-By-Step.md"
+  - "raw/videos/9dd222e3_Oh My ClaudeCode把 Claude 变成 coding 武器19个专业AI特工 多模式自动驾驶从想法到上线全自动.md"
+  - "raw/videos/bafdf2e5_Obsidian Claudian插件如何终结了我所有案头工作.md"
+  - "raw/videos/c1b57a29_Every Claude Code Concept Explained for Normal People.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/cfe7bc3c_停止在终端中使用 Claude Code它正在拖累你.md"
+  - "raw/videos/d345608b_15 条高频实用的 Claude Code 技巧助你快速掌握 Claude Code.md"
+  - "raw/videos/d88e13cd_用Claude Code自动编排n8n工作流告别手搓.md"
+  - "raw/videos/d907b96c_Claude CodeObsidian每天自动读论文早上到工位来上这么一篇真是惬意呀.md"
+  - "raw/videos/dac5e6ca_超级推荐这个Skill小白秒变营销专家.md"
+  - "raw/videos/dadd5906_How I use Claude Code Meta Staff Engineer Tips.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/e8df5c8d_比刷剧爽2026公认最好的Claude Code教程附课件代码Claude Code探索-测试-重构-调试代码库.md"
+  - "raw/videos/f5481db8_Claude Code 神技自然语言直接生成可动画可导出 PDF 的酷炫幻灯片.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/3ad26c70_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/f599cc5e_Extend Claude with skills - Claude Code DocsExtend Claude with skills.md"
+tags:
+  - "claude-code"
+confidence: "medium"
+created_at: "2026-04-22T23:49:29.564300"
+updated_at: "2026-04-22T23:49:57.308952"
+related:
+  - "Model Context Protocol"
+  - "Harness Engineering"
+  - "Code Review"
+  - "Ai Agent"
+  - "Subagent"
+  - "Deepseek"
+  - "Github Copilot"
+  - "Claude Code"
+  - "Langgraph"
+  - "Deepseek"
+  - "怎么成为一个ai agent 工程师？"
+  - "Tailwind"
+  - "Gemini"
+  - "Skill"
+  - "Designprompts"
+  - "Claude"
+  - "Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎"
+  - "Multi-Agent"
+  - "Claude.Md"
+  - "Conductor"
+  - "Openclaw"
+  - "Markdown"
+  - "Brian Chesky"
+  - "gstack：Claude工程团队"
+  - "木游子"
+  - "知乎"
+  - "30 岁转行战略咨询，如何从零开始系统学习战略管理？"
+  - "Progressive Disclosure"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Anthropic"
+  - "为什么Claude的代码能力会这么强？"
+  - "Context Window"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Frontmatter"
+  - "Auto Memory"
+  - "Superpowers"
+  - "Cloudflare"
+  - "Swe-Agent"
+  - "claude.md怎么写才能让Claude Code更高效？"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Playwright"
+  - "Skills的本质是什么？"
+  - "Refactoring"
+  - "Slidev"
+  - "Agent"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Obsidian"
+  - "Skills"
+  - "Notebooklm"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Plan Mode"
+  - "Claudekit"
+  - "Git"
+  - "Vibe coding 做的网站太难看怎么办？分享我自己的解决技巧"
+  - "Api"
+  - "Cat Wu"
+  - "Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的"
+  - "Cli"
+  - "Sop"
+  - "Prd"
+  - "James Gleick"
+  - "Stanford"
+  - "Google"
+  - "大神们是从哪获取优质信息，比如哪些微信公众号，知乎?"
+  - "Knowledge Base"
+  - "Opencode"
+  - "Copilot"
+  - "Claude Code真的那么厉害吗？"
+  - "Microservice"
+  - "Coding Plan"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Cursor"
+  - "你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？"
+  - "Agentic Loop"
+  - "Luhui Dev"
+  - "Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？"
+  - "最好用的Agent框架是什么？"
+  - "claude code使用感受如何？"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Lora"
+  - "Claude Opus 4"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Swot"
+  - "华为"
+  - "如何做企业战略规划？"
+  - "Mizore"
+  - "Mizore 的想法: 用了半年Claude Code， 我把我的一键配置开源了 | 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎"
+  - "你们有哪些好的claude code skills推荐？"
+  - "Dataview"
+  - "Steph Ango"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Context Engineering"
+  - "小红书"
+  - "天涯论坛关闭后，除了知乎，大家都在逛什么？"
+  - "Harness Engineering的本质是什么？"
+  - "Reinforcement Learning"
+  - "Openviking"
+  - "Embedding"
+  - "Microsoft"
+  - "怎么成为一个 ai agent 工程师？"
+  - "你人生中太晚明白的道理是什么？"
+  - "Andrej Karpathy"
+  - "Y Combinator"
+  - "Paul Graham"
+  - "海伦娜·坦格利安"
+  - "Harvard"
+  - "为什么现在很多人推崇国外原版教材？"
+  - "Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页"
+  - "Docker"
+  - "Bridge"
+  - "Mcp"
+  - "Bilibili"
+  - "龙虾装了这个Skill，显得其它的都像个废物"
+  - "Chatgpt Plus"
+  - "你更喜欢使用codex还是claude来进行编程呢？"
+  - "OpenCode详细攻略，开源版Claude Code，免费模型与神级插件"
+  - "不写代码的我用Claude Code当我的职场替身！它又狗腿又努力！简直天选牛马！喜欢！好爱！"
+  - "Github"
+  - "Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的"
+  - "AI编程最佳配置，来自 Anthropic 黑客马拉松获胜者的 Claude Code 配置"
+  - "Chatgpt"
+  - "5折订阅官方 chatgpt plus/claude code 会员服务｜更简单｜更省钱｜无需国际信用卡，每月不到 80 元"
+  - "一个利用Claude Code学习任何知识快10倍的方法"
+  - "把Claude Code变成12位软件专家团队"
+  - "Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建"
+  - "Youtube"
+  - "Obsidian CLI：80+命令让笔记库听命于终端"
+  - "Claude代码+NotebookLM+Obsidian=上帝模式"
+  - "Google Stitch"
+  - "Vibe Design"
+  - "Figma"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "ObsidianCLI+ClaudeCode:我的AI笔记工作流"
+  - "N8N"
+  - "Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。"
+  - "Autoresearch"
+  - "Rag"
+  - "AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分"
+  - "claude code开发者亲自发布踩坑经验"
+  - "（比刷剧爽！）2026公认最好的《Claude Code》教程，附课件代码—Claude Code探索-测试-重构-调试代码库"
+  - "Obsidian 在 AI 时代遥遥领先! | Linking Your Thinking with Nick Milo"
+  - "FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)"
+  - "Kimi"
+  - "Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动"
+  - "Obsidian Claudian插件如何终结了我所有案头工作"
+  - "Mental Model"
+  - "Worktree"
+  - "Mit"
+  - "Every Claude Code Concept Explained for Normal People"
+  - "Superpowers Plugin"
+  - "Notion"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Open Source"
+  - "停止在终端中使用 Claude Code（它正在拖累你）"
+  - "15 条高频实用的 Claude Code 技巧，助你快速掌握 Claude Code"
+  - "用Claude Code自动编排n8n工作流，告别手搓。"
+  - "Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~"
+  - "Marketing Skill"
+  - "超级推荐这个Skill，小白秒变营销专家！"
+  - "Meta"
+  - "How I use Claude Code (Meta Staff Engineer Tips)"
+  - "Agent-Reach"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "Claude Code 神技：自然语言直接生成可动画、可导出 PDF 的酷炫幻灯片"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "Design Pattern"
+  - "Extend Claude with skills - Claude Code Docs"
+---
+
+# Claude Code
+
+## 定义
+
+Claude Code - Anthropic推出的AI编程助手，深度集成开发环境
+
+## 相关概念
+
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Code Review]]
+- [[Ai Agent]]
+- [[Subagent]]
+- [[Deepseek]]
+
+## 相关实体
+
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[Langgraph]]
+- [[Deepseek]]
+
+## Related
+- [[Model Context Protocol]]
+- [[Harness Engineering]]
+- [[Code Review]]
+- [[Ai Agent]]
+- [[Subagent]]
+- [[Deepseek]]
+- [[Github Copilot]]
+- [[Claude Code]]
+- [[Langgraph]]
+- [[怎么成为一个ai agent 工程师？]]
+- [[Tailwind]]
+- [[Gemini]]
+- [[Skill]]
+- [[Designprompts]]
+- [[Claude]]
+- [[Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎]]
+- [[Multi-Agent]]
+- [[Claude.Md]]
+- [[Conductor]]
+- [[Openclaw]]
+- [[Markdown]]
+- [[Brian Chesky]]
+- [[gstack：Claude工程团队]]
+- [[木游子]]
+- [[知乎]]
+- [[30 岁转行战略咨询，如何从零开始系统学习战略管理？]]
+- [[Progressive Disclosure]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Anthropic]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Context Window]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Frontmatter]]
+- [[Auto Memory]]
+- [[Superpowers]]
+- [[Cloudflare]]
+- [[Swe-Agent]]
+- [[claude.md怎么写才能让Claude Code更高效？]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Playwright]]
+- [[Skills的本质是什么？]]
+- [[Refactoring]]
+- [[Slidev]]
+- [[Agent]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Obsidian]]
+- [[Skills]]
+- [[Notebooklm]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Plan Mode]]
+- [[Claudekit]]
+- [[Git]]
+- [[Vibe coding 做的网站太难看怎么办？分享我自己的解决技巧]]
+- [[Api]]
+- [[Cat Wu]]
+- [[Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的]]
+- [[Cli]]
+- [[Sop]]
+- [[Prd]]
+- [[James Gleick]]
+- [[Stanford]]
+- [[Google]]
+- [[大神们是从哪获取优质信息，比如哪些微信公众号，知乎?]]
+- [[Knowledge Base]]
+- [[Opencode]]
+- [[Copilot]]
+- [[Claude Code真的那么厉害吗？]]
+- [[Microservice]]
+- [[Coding Plan]]
+- [[Cherry Studio]]
+- [[Minimax M2.5]]
+- [[Kimi K2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Cursor]]
+- [[你们都用 OpenClaw（Moltbot、ClawdBot）实现了什么有价值的功能？]]
+- [[Agentic Loop]]
+- [[Luhui Dev]]
+- [[Anthropic的Claude Code Agent效果很好，有没有人深入分析其技术原理？]]
+- [[最好用的Agent框架是什么？]]
+- [[claude code使用感受如何？]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Lora]]
+- [[Claude Opus 4]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Swot]]
+- [[华为]]
+- [[如何做企业战略规划？]]
+- [[Mizore]]
+- [[Mizore 的想法: 用了半年Claude Code， 我把我的一键配置开源了 | 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎]]
+- [[你们有哪些好的claude code skills推荐？]]
+- [[Dataview]]
+- [[Steph Ango]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Context Engineering]]
+- [[小红书]]
+- [[天涯论坛关闭后，除了知乎，大家都在逛什么？]]
+- [[Harness Engineering的本质是什么？]]
+- [[Reinforcement Learning]]
+- [[Openviking]]
+- [[Embedding]]
+- [[Microsoft]]
+- [[怎么成为一个 ai agent 工程师？]]
+- [[你人生中太晚明白的道理是什么？]]
+- [[Andrej Karpathy]]
+- [[Y Combinator]]
+- [[Paul Graham]]
+- [[海伦娜·坦格利安]]
+- [[Harvard]]
+- [[为什么现在很多人推崇国外原版教材？]]
+- [[Playwright CLI 的隐藏技能：帮 Claude Code 突破反爬虫，读到「读不了」的网页]]
+- [[Docker]]
+- [[Bridge]]
+- [[Mcp]]
+- [[Bilibili]]
+- [[龙虾装了这个Skill，显得其它的都像个废物]]
+- [[Chatgpt Plus]]
+- [[你更喜欢使用codex还是claude来进行编程呢？]]
+- [[OpenCode详细攻略，开源版Claude Code，免费模型与神级插件]]
+- [[不写代码的我用Claude Code当我的职场替身！它又狗腿又努力！简直天选牛马！喜欢！好爱！]]
+- [[Github]]
+- [[Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的]]
+- [[AI编程最佳配置，来自 Anthropic 黑客马拉松获胜者的 Claude Code 配置]]
+- [[Chatgpt]]
+- [[5折订阅官方 chatgpt plus/claude code 会员服务｜更简单｜更省钱｜无需国际信用卡，每月不到 80 元]]
+- [[一个利用Claude Code学习任何知识快10倍的方法]]
+- [[把Claude Code变成12位软件专家团队]]
+- [[Claude Code + Obsidian 构建一个“24/7个人操作系统”，用于个人思考、知识积累和创业构建]]
+- [[Youtube]]
+- [[Obsidian CLI：80+命令让笔记库听命于终端]]
+- [[Claude代码+NotebookLM+Obsidian=上帝模式]]
+- [[Google Stitch]]
+- [[Vibe Design]]
+- [[Figma]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[ObsidianCLI+ClaudeCode:我的AI笔记工作流]]
+- [[N8N]]
+- [[Obsidian CLI 详细教程：官方命令行工具，激进拥抱智能体，高效 + 自动化 + 降低Token消耗。]]
+- [[Autoresearch]]
+- [[Rag]]
+- [[AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分]]
+- [[claude code开发者亲自发布踩坑经验]]
+- [[（比刷剧爽！）2026公认最好的《Claude Code》教程，附课件代码—Claude Code探索-测试-重构-调试代码库]]
+- [[Obsidian 在 AI 时代遥遥领先! | Linking Your Thinking with Nick Milo]]
+- [[FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)]]
+- [[Kimi]]
+- [[Oh My ClaudeCode：把 Claude 变成 coding 武器！19个专业AI特工 + 多模式自动驾驶，从想法到上线全自动]]
+- [[Obsidian Claudian插件如何终结了我所有案头工作]]
+- [[Mental Model]]
+- [[Worktree]]
+- [[Mit]]
+- [[Every Claude Code Concept Explained for Normal People]]
+- [[Superpowers Plugin]]
+- [[Notion]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Open Source]]
+- [[停止在终端中使用 Claude Code（它正在拖累你）]]
+- [[15 条高频实用的 Claude Code 技巧，助你快速掌握 Claude Code]]
+- [[用Claude Code自动编排n8n工作流，告别手搓。]]
+- [[Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~]]
+- [[Marketing Skill]]
+- [[超级推荐这个Skill，小白秒变营销专家！]]
+- [[Meta]]
+- [[How I use Claude Code (Meta Staff Engineer Tips)]]
+- [[Agent-Reach]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[Claude Code 神技：自然语言直接生成可动画、可导出 PDF 的酷炫幻灯片]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[Design Pattern]]
+- [[Extend Claude with skills - Claude Code Docs]]
+- [[Deepseek]]

@@ -12,12 +12,15 @@ tags:
   - "methodology"
 confidence: "high"
 created_at: "2026-04-18T01:29:07.361537"
-updated_at: "2026-04-18T01:29:07.361537"
+updated_at: "2026-04-22T23:50:17.482580"
 related:
   - "IBM"
   - "华为 (Huawei)"
   - "吴海洋"
   - "7-Step Strategic Planning Framework"
+  - "Balanced Scorecard"
+  - "HAHAPPYPPY"
+  - "和夫咨询"
 ---
 
 # BLM (Business Leadership Model)
@@ -109,4 +112,7 @@ blm-model, strategic-planning, business-leadership, ibm, huawei, methodology
 - [[IBM]]
 - [[华为 (Huawei)]]
 - [[吴海洋]]
+- [[Balanced Scorecard]]
+- [[HAHAPPYPPY]]
+- [[和夫咨询]]
 - [[7-Step Strategic Planning Framework]]

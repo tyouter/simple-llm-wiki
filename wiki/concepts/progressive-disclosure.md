@@ -3,6 +3,13 @@ title: "Progressive Disclosure"
 type: "concept"
 sources:
   - "raw/articles/697c42e9_Agent Skill 为何没有像 MCP 那样火爆Agent Skill 为何没有像 MCP 那样火爆.md"
+  - "raw/articles/0bbdb067_为什么Claude的代码能力会这么强为什么Claude的代码能力会这么强.md"
+  - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/55fe935f_Claude CodeCursorTRAE究竟谁最强Claude CodeCursorTRAE究竟谁最强.md"
+  - "raw/articles/b99fad36_Harness Engineering的本质是什么Harness Engineering的本质是什么.md"
+  - "raw/articles/ef5489cd_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/videos/1a8159fd_Stop Writing Bad CLAUDE.md Files.md"
+  - "raw/videos/42a13a06_Obsidian CLI80命令让笔记库听命于终端.md"
 tags:
   - "architecture-principle"
   - "token-optimization"
@@ -10,12 +17,84 @@ tags:
   - "agent-design"
 confidence: "high"
 created_at: "2026-04-18T01:17:46.828011"
-updated_at: "2026-04-18T01:17:46.828011"
+updated_at: "2026-04-23T00:42:26.468882"
 related:
   - "Agent Skills Framework"
   - "Token Efficiency Optimization"
   - "Playwright CLI"
   - "skill-creator"
+  - "Model Context Protocol"
+  - "Extended Thinking"
+  - "Git Worktrees"
+  - "Claude Code"
+  - "Code Review"
+  - "Claude.Md"
+  - "Github Copilot"
+  - "Anthropic"
+  - "Deepseek"
+  - "为什么Claude的代码能力会这么强？"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Frontmatter"
+  - "Playwright"
+  - "Ai Agent"
+  - "Skills的本质是什么？"
+  - "Plan Mode"
+  - "Markdown"
+  - "Notebooklm"
+  - "Claude Code、Cursor、TRAE，究竟谁最强？"
+  - "Agent Skill 为何没有像 MCP 那样火爆？"
+  - "Harness Engineering"
+  - "Context Engineering"
+  - "Vibe Coding"
+  - "Spec Coding"
+  - "Mitchell Hashimoto"
+  - "Swe-Agent"
+  - "Harness Engineering的本质是什么？"
+  - "Agent"
+  - "Hooks"
+  - "Git"
+  - "Claude"
+  - "Github"
+  - "Mit"
+  - "Stop Writing Bad CLAUDE.md Files"
+  - "Obsidian"
+  - "Mcp"
+  - "Cli"
+  - "Youtube"
+  - "Obsidian CLI：80+命令让笔记库听命于终端"
+  - "A/B Test"
+  - "AI Tool Chaining/Combination"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+  - "Api"
+  - "CLAUDE.md"
+  - "Copilot"
+  - "Cybernetics"
+  - "Docker"
+  - "Enterprise Skill Engineering"
+  - "Figma"
+  - "Gemini"
+  - "Humanize"
+  - "Opencode"
+  - "Rag"
+  - "Subagent"
+  - "Worktree"
+  - "Yaml"
+  - "Ai学习的老章"
+  - "Chatgpt"
+  - "Cloudflare"
+  - "DeepSeek"
+  - "GitHub"
+  - "mCell"
+  - "Meta"
+  - "Notion"
+  - "OpenCode"
+  - "Stripe"
+  - "SWE-agent"
+  - "Vercel"
+  - "Agent Skills vs MCP: Technical Comparison and Enterprise Applications"
+  - "Skill"
+  - "Skills"
 ---
 
 # Progressive Disclosure
@@ -99,6 +178,78 @@ Core architectural principle of the [[Agent Skills Framework]] where only necess
 architecture-principle, token-optimization, context-management, agent-design
 
 ## Related
+- [[Model Context Protocol]]
+- [[Extended Thinking]]
+- [[Git Worktrees]]
+- [[Claude Code]]
+- [[Code Review]]
+- [[CLAUDE.md]]
+- [[Github Copilot]]
+- [[Anthropic]]
+- [[Deepseek]]
+- [[为什么Claude的代码能力会这么强？]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Frontmatter]]
+- [[Playwright]]
+- [[AI Agent]]
+- [[Skills的本质是什么？]]
+- [[Plan Mode]]
+- [[Markdown]]
+- [[Notebooklm]]
+- [[Claude Code、Cursor、TRAE，究竟谁最强？]]
+- [[Agent Skill 为何没有像 MCP 那样火爆？]]
+- [[Harness Engineering]]
+- [[Context Engineering]]
+- [[Vibe Coding]]
+- [[Spec Coding]]
+- [[Mitchell Hashimoto]]
+- [[Swe-Agent]]
+- [[Harness Engineering的本质是什么？]]
+- [[Agent]]
+- [[Hooks]]
+- [[Git]]
+- [[Claude]]
+- [[GitHub]]
+- [[Mit]]
+- [[Stop Writing Bad CLAUDE.md Files]]
+- [[Obsidian]]
+- [[Mcp]]
+- [[Cli]]
+- [[Youtube]]
+- [[Obsidian CLI：80+命令让笔记库听命于终端]]
+- [[A/B Test]]
+- [[AI Tool Chaining/Combination]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- [[Api]]
+- [[CLAUDE.md]]
+- [[Copilot]]
+- [[Cybernetics]]
+- [[Docker]]
+- [[Enterprise Skill Engineering]]
+- [[Figma]]
+- [[Gemini]]
+- [[Humanize]]
+- [[Opencode]]
+- [[Rag]]
+- [[Subagent]]
+- [[Worktree]]
+- [[Yaml]]
+- [[Ai学习的老章]]
+- [[Chatgpt]]
+- [[Cloudflare]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[mCell]]
+- [[Meta]]
+- [[Notion]]
+- [[OpenCode]]
+- [[Stripe]]
+- [[SWE-agent]]
+- [[Vercel]]
+- [[Agent Skills vs MCP: Technical Comparison and Enterprise Applications]]
+- [[Skill]]
+- [[Skills]]
 [[Agent Skills Framework]], [[Token Efficiency Optimization]], [[Playwright CLI]], [[skill-creator]]
 
 ## Related

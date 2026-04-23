@@ -14,7 +14,7 @@ tags:
   - "mention"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.671541"
-updated_at: "2026-04-18T00:19:39.671541"
+updated_at: "2026-04-22T23:50:27.018773"
 related:
   - "Claude Code"
   - "Gemini"
@@ -26,6 +26,11 @@ related:
   - "AI Tool Chaining/Combination"
   - "AI-Generated Design Quality Spectrum"
   - "Rrupmid Nyche"
+  - "designprompts.dev"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
+  - "使用DesignPrompts生成无AI感界面"
+  - "知乎讨论：Claude Code生态系统与工程影响"
 ---
 
 # Antigravity
@@ -52,6 +57,11 @@ Its mention reinforces a key theme: different AI tools have different strengths.
 - [[Gemini]]
 - [[AI Tool Chaining/Specialization for Design]]
 - [[AI-Free Interface Aesthetics]]
+- [[designprompts.dev]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
+- [[使用DesignPrompts生成无AI感界面]]
+- [[知乎讨论：Claude Code生态系统与工程影响]]
 
 ---
 

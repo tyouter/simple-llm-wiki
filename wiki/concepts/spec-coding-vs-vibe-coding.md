@@ -10,7 +10,7 @@ tags:
   - "ai-assisted-development"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.896032"
-updated_at: "2026-04-17T21:42:57.896032"
+updated_at: "2026-04-23T00:42:26.747569"
 related:
   - "Humanize Workflow"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
@@ -19,6 +19,20 @@ related:
   - "Plan"
   - "Humanize工作流"
   - "持久记忆体系"
+  - "Permission Modes (Claude Code)"
+  - "Persistent Memory System (Claude Code)"
+  - "Plan Mode"
+  - "TDD with Claude Code"
+  - "白玉京"
+  - "雁南飞"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
+  - "Advanced Claude Code Workflow Techniques and Architecture Analysis"
+  - "Claude Code工作流技术与架构分析"
+  - "Auto Memory"
+  - "Claude Code"
+  - "Humanize 工作流"
+  - "Claude Code 高效配置指南：持久记忆体系与权限模式详解"
 ---
 
 # Spec Coding vs. Vibe Coding
@@ -64,26 +78,40 @@ The [[Humanize Workflow]] mentioned in the discussion is an example of a structu
 
 ## Related Concepts
 - [[Humanize Workflow]]: An example of a structured, spec-driven development process.
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]: Another workflow emphasizing planning and structure.
+- [[Claude]]: Another workflow emphasizing planning and structure.
 - [[CLAUDE.md]]: A file often used to enforce a spec-coding mentality on the AI.
 
 ## Related
 - [[Humanize Workflow]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[CLAUDE.md]]
 - [[yahah]]
+- [[Permission Modes (Claude Code)]]
+- [[Persistent Memory System (Claude Code)]]
+- [[Plan Mode]]
+- [[TDD with Claude Code]]
+- [[白玉京]]
+- [[雁南飞]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
+- [[Claude Code工作流技术与架构分析]]
+- [[Auto Memory]]
+- [[Claude Code]]
+- [[Humanize 工作流]]
+- [[Claude Code 高效配置指南：持久记忆体系与权限模式详解]]
 
 ---
 
 ## Extended Definition
 
-两种对立的 AI 辅助编程风格，由知乎用户 [[yahah]] 在其回答中引入。**Spec Coding** 强调基于明确、详细的规格说明（Spec）进行开发，要求先有清晰的设计，然后 AI 根据 Spec 生成实现方案（[[Plan]]），最后再写代码。它强调可预测性、可验证性和架构的清晰度，是 [[Humanize工作流]] 的核心思想。**Vibe Coding** 被描述为“自然语言到编程语言的投影工具”，更依赖模糊的、感觉式的自然语言指令，更即兴，但可能导致结果不稳定、难以维护。[[yahah]] 强烈主张坚持 Spec Coding，避免 Vibe Coding，并认为这与有效使用 [[CLAUDE.md]] 和 [[持久记忆体系]] 的理念一脉相承。
+两种对立的 AI 辅助编程风格，由知乎用户 [[yahah]] 在其回答中引入。**Spec Coding** 强调基于明确、详细的规格说明（Spec）进行开发，要求先有清晰的设计，然后 AI 根据 Spec 生成实现方案（[[Plan]]），最后再写代码。它强调可预测性、可验证性和架构的清晰度，是 [[Humanize]] 的核心思想。**Vibe Coding** 被描述为“自然语言到编程语言的投影工具”，更依赖模糊的、感觉式的自然语言指令，更即兴，但可能导致结果不稳定、难以维护。[[yahah]] 强烈主张坚持 Spec Coding，避免 Vibe Coding，并认为这与有效使用 [[CLAUDE.md]] 和 [[持久记忆体系]] 的理念一脉相承。
 
 ## Related
 - [[Humanize Workflow]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[CLAUDE.md]]
 - [[yahah]]
 - [[Plan]]
-- [[Humanize工作流]]
+- [[Humanize]]
 - [[持久记忆体系]]

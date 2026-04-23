@@ -12,11 +12,14 @@ tags:
   - "ai-agent"
 confidence: "high"
 created_at: "2026-04-20T00:24:32.889030"
-updated_at: "2026-04-20T00:24:32.889030"
+updated_at: "2026-04-22T23:50:27.856370"
 related:
   - "AI Agent Engineering Career Path"
   - "Agent Memory Systems"
   - "Zhihu: 从后端开发转型AI Agent工程师的路线图"
+  - "AI玩家日志"
+  - "视频-Google AI Agent白皮书拆解"
+  - "视频-闪客拆穿SkillMCPRAGAgentOpenClaw底层逻辑"
 ---
 
 # AI Agent的生产化部署
@@ -75,4 +78,7 @@ related:
 ## Related
 - [[AI Agent Engineering Career Path]]
 - [[Agent Memory Systems]]
+- [[AI玩家日志]]
+- [[视频-Google AI Agent白皮书拆解]]
+- [[视频-闪客拆穿SkillMCPRAGAgentOpenClaw底层逻辑]]
 - [[Zhihu: 从后端开发转型AI Agent工程师的路线图]]

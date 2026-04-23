@@ -11,12 +11,14 @@ tags:
   - "learning-theory"
 confidence: "high"
 created_at: "2026-04-17T21:45:18.252067"
-updated_at: "2026-04-17T21:45:18.252067"
+updated_at: "2026-04-23T00:42:55.294604"
 related:
   - "Enlightenment (开悟)"
   - "Three Stages of Understanding"
   - "杜千"
   - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "大脑预测模型更新"
+  - "Zhihu"
 ---
 
 # Brain Prediction Model
@@ -51,4 +53,6 @@ neuroscience, cognition, prediction-error, mental-models, learning-theory
 - [[Enlightenment (开悟)]]
 - [[Three Stages of Understanding]]
 - [[杜千]]
+- [[大脑预测模型更新]]
+- [[Zhihu]]
 - [[Zhihu Discussion on Enlightenment and Personal Transformation]]

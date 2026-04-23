@@ -10,7 +10,7 @@ tags:
   - "developer-tools"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.072130"
 related:
   - "Coding Plan对比"
   - "国产大模型"
@@ -76,8 +76,8 @@ related:
 > Coding Plan让你从"精打细算的会计"，变回了"随心所欲的架构师"。
 
 ## Related
-- [[Coding Plan对比]]
+- [[2026国产大模型Coding Plan对比]]
 - [[国产大模型]]
-- [[阿里云百炼]]
+- 阿里云百炼
 - [[MiniMax]]
 - [[GLM-5]]

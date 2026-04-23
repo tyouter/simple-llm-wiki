@@ -13,7 +13,7 @@ tags:
   - "china-business"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.062295"
-updated_at: "2026-04-18T22:52:17.062295"
+updated_at: "2026-04-22T23:50:25.560730"
 related:
   - "Authenticity as Capital"
   - "Perseverance Performance"
@@ -24,6 +24,8 @@ related:
   - "Zhechuangtou"
   - "Zhang Xue Motorcycle"
   - "Kaiyue"
+  - "Industrial Cluster Advantage"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Zhang Xue (张雪)
@@ -106,4 +108,6 @@ entrepreneur, motorcycle-racer, engineer, underdog-story, perseverance, authenti
 - [[Yi Jun]]
 - [[Zhechuangtou]]
 - [[Zhang Xue Motorcycle]]
+- [[Industrial Cluster Advantage]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Kaiyue]]

@@ -10,7 +10,7 @@ tags:
   - "web-scraping"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:42.502339"
 ---
 
 # Playwright爬虫检测问题解决
@@ -106,8 +106,9 @@ context.add_cookies(json.loads(Path("zhihu_cookies.json").read_text()))
 | Patchright | 更强反爬 | 更重依赖 |
 
 ## Related
+- [[最难调试的Bug案例]]
 
-- [[Playwright反爬虫突破]]
-- [[浏览器自动化工具弊病]]
-- [[playwright-stealth]]
-- [[反爬虫技术]]
+- [[Playwright]]
+- [[浏览器自动化工具弊病分析]]
+- [[Playwright]]
+- 反爬虫技术

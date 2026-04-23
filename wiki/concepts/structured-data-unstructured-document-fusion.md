@@ -11,12 +11,13 @@ tags:
   - "databases"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.394565"
-updated_at: "2026-04-17T21:56:25.394565"
+updated_at: "2026-04-22T23:50:18.150917"
 related:
   - "Multi-Tool Orchestration with State Machines"
   - "AI Agent Cognitive Architecture"
   - "Enhanced RAG with Human-like Reasoning"
   - "Advanced AI Agent Architecture for Financial Analysis"
+  - "杞鋂"
 ---
 
 # Structured Data + Unstructured Document Fusion
@@ -70,6 +71,7 @@ This data fusion approach is enabled by [[Multi-Tool Orchestration with State Ma
 data-fusion, structured-data, unstructured-data, financial-analysis, databases
 
 ## Related
+- [[杞鋂]]
 [[Multi-Tool Orchestration with State Machines]], [[AI Agent Cognitive Architecture]], [[Enhanced RAG with Human-like Reasoning]], [[Advanced AI Agent Architecture for Financial Analysis]]
 
 ## Related

@@ -12,7 +12,7 @@ tags:
   - "external-systems"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.014028"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.356630"
 ---
 
 # MCP Server Integration
@@ -30,6 +30,8 @@ MCP服务器集成是Claude Code连接外部系统（如GitHub、Sentry、数据
 ## Related
 - [[Model Context Protocol]]
 - [[Claude Code]]
-- [[Agent Skills框架]]
+- [[Agent]]
 - [[Agent Skills与MCP技术对比与企业应用]]
+- [[雁南飞]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
 - [[Claude Code工作流技术与架构分析]]

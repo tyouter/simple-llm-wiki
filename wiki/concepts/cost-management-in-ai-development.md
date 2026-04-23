@@ -10,7 +10,7 @@ tags:
   - "engineering-economics"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.878270"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.240261"
 ---
 
 # Cost Management in AI Development (AI开发成本管理)
@@ -41,3 +41,9 @@ AI开发成本管理是生产级Agent系统必须考虑的关键因素，包括A
 ## 来源
 - [src: Harness Engineering Explained: From Agent Loop to Production System]
 - [src: Supermemory's ASMR System: A Critical Look at AI Memory Breakthroughs]
+## Related
+- [[Coding Plan]]
+- [[Free Model Integration via NIM]]
+- [[Token Burning Prevention]]
+- [[Cherry Studio]]
+

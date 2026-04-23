@@ -11,11 +11,12 @@ tags:
   - "middle-age"
 confidence: "high"
 created_at: "2026-04-18T22:54:42.763034"
-updated_at: "2026-04-18T22:54:42.763034"
+updated_at: "2026-04-23T00:42:20.771835"
 related:
   - "超负荷原则 (Overload Principle)"
   - "肌少症 (Sarcopenia)"
   - "Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults"
+  - "如萤随星"
 ---
 
 # 间歇变速法 (Interval Training)
@@ -25,7 +26,7 @@ A walking, running, or cardio training method that alternates between normal-pac
 
 ## Application for Middle-Aged Adults
 
-As discussed in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]], interval training addresses several age-specific challenges:
+As discussed in [[Zhihu]], interval training addresses several age-specific challenges:
 
 1. **Time Efficiency**: Provides greater benefits in shorter durations
 2. **Metabolic Impact**: Helps combat age-related metabolic slowdown
@@ -60,9 +61,10 @@ A simple walking interval protocol for beginners:
 - [[肌少症 (Sarcopenia)]] - Complementary to strength training for comprehensive fitness
 
 ## Source Context
-Recommended in [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]] as an effective method to enhance walking routines for fitness gains.
+Recommended in [[Zhihu]] as an effective method to enhance walking routines for fitness gains.
 
 ## Related
 - [[超负荷原则 (Overload Principle)]]
 - [[肌少症 (Sarcopenia)]]
-- [[Zhihu Discussion: Optimal Exercise Methods for Middle-Aged Adults]]
+- [[如萤随星]]
+- [[Zhihu]]

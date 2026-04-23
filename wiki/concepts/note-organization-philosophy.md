@@ -12,13 +12,14 @@ tags:
   - "obsidian"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.779617"
-updated_at: "2026-04-20T00:11:14.779617"
+updated_at: "2026-04-22T23:50:25.208725"
 related:
   - "Obsidian"
   - "Dataview"
   - "AI-Enhanced Note-Taking"
   - "Git-Based Knowledge Management"
   - "Markdown as Human-AI Interface"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
 ---
 
 # Note Organization Philosophy
@@ -75,6 +76,7 @@ note-taking, organization, knowledge-management, workflow, philosophy, obsidian
 - [[AI-Enhanced Note-Taking]]
 - [[Git-Based Knowledge Management]]
 - [[Markdown as Human-AI Interface]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
 
 ## Related
 - [[Obsidian]]

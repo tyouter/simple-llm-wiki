@@ -15,7 +15,7 @@ tags:
   - "configuration-debate"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.894466"
-updated_at: "2026-04-17T21:42:57.894466"
+updated_at: "2026-04-23T00:42:21.968149"
 related:
   - "CLAUDE.md"
   - "Persistent Memory System (Claude Code)"
@@ -27,6 +27,7 @@ related:
   - "白玉京"
   - "yahah"
   - "笙囧同学"
+  - "Auto Memory"
 ---
 
 # Zhihu Discussion: Optimizing Claude Code with CLAUDE.md and Efficient Development Workflows
@@ -59,7 +60,7 @@ A user shares insights from two months of trial and error, concluding that an ov
 
 ## Relation to Existing Concepts
 This discussion connects directly to several existing workflow and methodology pages:
-- **[[gstack-role-based-ai-development-workflow-for-claude-code]]**: While both discuss efficient Claude Code workflows, this Zhihu thread presents alternative, often simpler, configurations and emphasizes spec-driven planning over complex role orchestration.
+- **[[Claude]]**: While both discuss efficient Claude Code workflows, this Zhihu thread presents alternative, often simpler, configurations and emphasizes spec-driven planning over complex role orchestration.
 - **[[Vibe Coding]]**: The source explicitly warns against this approach, advocating for its conceptual opposite, [[Spec Coding vs. Vibe Coding|Spec Coding]].
 - **[[AI Tool Chaining/Combination]]**: The mention of using Claude with Codex for review in a [[Humanize Workflow]] is a practical example of tool chaining for development tasks.
 - **[[Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches]]**: This source shares a similar format (detailed Zhihu technical discussion) and platform, focusing on practical implementation of AI-assisted development rather than career theory.
@@ -73,8 +74,9 @@ zhihu, claude-code, claude-md, ai-assisted-development, workflow-optimization, p
 - [[Permission Modes (Claude Code)]]
 - [[Spec Coding vs. Vibe Coding]]
 - [[Humanize Workflow]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Claude]]
 - [[AI Tool Chaining/Combination]]
 - [[白玉京]]
 - [[yahah]]
+- [[Auto Memory]]
 - [[笙囧同学]]

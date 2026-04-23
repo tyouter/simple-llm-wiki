@@ -9,7 +9,7 @@ tags:
   - "wiki-maintenance"
 confidence: "medium"
 created_at: "2026-04-19T22:45:42.059717"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.251379"
 ---
 
 # Contradiction
@@ -40,6 +40,10 @@ wiki lint操作检测的矛盾类型：
 - 通过相关链接展示对立观点
 
 ## 相关
-- [[知乎讨论-claude.md怎么写才能让Claude Code更高效]]
+- [[Claude]]
 - [[LLM Wiki架构]]
 - [[知识编译器模式]]
+## Related
+- [[Self-Evolving AI Assistant]]
+- [[Zhihu]]
+

@@ -11,7 +11,7 @@ tags:
   - "ai"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:22.632685"
 ---
 
 # 自动化工具更新：Coze Skill与长期规划功能
@@ -90,7 +90,7 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[Coze平台]]
-- [[自动化工具]]
-- [[Skill生态系统]]
-- [[AI辅助开发]]
+- Coze平台
+- [[浏览器自动化工具弊病分析]]
+- [[Skill]]
+- AI辅助开发

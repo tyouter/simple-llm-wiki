@@ -11,7 +11,7 @@ tags:
   - "software-engineering"
 confidence: "high"
 created_at: "2026-04-19T01:52:16.382589"
-updated_at: "2026-04-19T01:52:16.382589"
+updated_at: "2026-04-22T23:50:23.229489"
 related:
   - "Compound Engineering"
   - "Harness Engineering"
@@ -19,6 +19,9 @@ related:
   - "Agent-First Development"
   - "OpenAI"
   - "Anthropic"
+  - "汉松"
+  - "Harness Engineering与复合工程"
+  - "Harness Engineering and Compound Engineering for AI-Driven Development"
 ---
 
 # Every
@@ -88,6 +91,9 @@ As AI becomes more integrated into software development, methodologies like Ever
 organization, methodology-development, compound-engineering, knowledge-management, software-engineering
 
 ## Related
+- [[汉松]]
+- [[Harness Engineering与复合工程]]
+- [[Harness Engineering and Compound Engineering for AI-Driven Development]]
 [[Compound Engineering]], [[Harness Engineering]], [[Vibe Coding]], [[Agent-First Development]], [[OpenAI]], [[Anthropic]]
 
 ## Related

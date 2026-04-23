@@ -10,11 +10,13 @@ tags:
   - "critical-thinking"
 confidence: "high"
 created_at: "2026-04-17T21:56:51.704989"
-updated_at: "2026-04-17T21:56:51.704989"
+updated_at: "2026-04-23T00:42:20.330855"
 related:
   - "Self-Directed Learning Infrastructure"
   - "Information Fidelity & Verification"
   - "Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development"
+  - "James Gleick"
+  - "吴恩达"
 ---
 
 # Information Source Curation
@@ -29,7 +31,7 @@ Information Source Curation is the systematic practice of identifying, evaluatin
 4.  **Continuous Maintenance:** Regularly reviewing and updating one's curated list of sources as new information emerges and old sources become outdated.
 
 ## Practical Application
-As detailed in [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]], effective curation involves:
+As detailed in [[Zhihu]], effective curation involves:
 - Building lists of authoritative websites for specific domains (e.g., .gov for statistics, .edu for academic content, official project docs for technical fields).
 - Using tools like RSS readers to maintain direct pipelines to these sources, bypassing algorithmic feeds.
 - Developing evaluation criteria to quickly assess the credibility of a new source.
@@ -40,9 +42,11 @@ This practice is a foundational component of building a [[Self-Directed Learning
 ## Related
 - [[Self-Directed Learning Infrastructure]]
 - [[Information Fidelity & Verification]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
+- [[James Gleick]]
+- [[吴恩达]]
 
 ## Related
 - [[Self-Directed Learning Infrastructure]]
 - [[Information Fidelity & Verification]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]

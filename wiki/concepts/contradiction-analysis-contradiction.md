@@ -1,5 +1,5 @@
 ---
-title: "Contradiction Analysis|contradiction"
+title: "Contradiction Analysis"
 type: "concept"
 sources:
   - "wiki/sources/zhihu-discussion-on-enlightenment-and-personal-transformation.md"
@@ -9,7 +9,7 @@ tags:
   - "wiki-maintenance"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.167119"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.374763"
 ---
 
 # Contradiction Analysis
@@ -28,6 +28,6 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[zhihu-discussion-on-enlightenment-and-personal-transformation]]
-- [[brain-prediction-model]]
-- [[three-stages-of-understanding]]
+- [[Zhihu]]
+- brain-prediction-model
+- three-stages-of-understanding

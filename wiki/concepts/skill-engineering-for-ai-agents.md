@@ -11,12 +11,14 @@ tags:
   - "modular-design"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.962842"
-updated_at: "2026-04-17T22:15:47.962842"
+updated_at: "2026-04-22T23:50:27.115315"
 related:
   - "AI Agent"
   - "Business SOP Automation"
   - "AI Agent Complexity Management"
   - "Token Management in Complex Systems"
+  - "OpenClaw (Moltbot/ClawdBot)"
+  - "知乎讨论-OpenClaw实用应用与局限性"
 ---
 
 # Skill Engineering for AI Agents
@@ -101,6 +103,8 @@ This methodology directly supports [[Business SOP Automation]] by providing a st
 ai-agent, skill-development, quality-assurance, testing, modular-design
 
 ## Related
+- [[OpenClaw (Moltbot/ClawdBot)]]
+- [[知乎讨论-OpenClaw实用应用与局限性]]
 [[AI Agent]], [[Business SOP Automation]], [[AI Agent Complexity Management]], [[Token Management in Complex Systems]]
 
 ## Related

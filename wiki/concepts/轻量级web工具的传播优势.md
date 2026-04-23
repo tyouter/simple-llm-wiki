@@ -10,13 +10,14 @@ tags:
   - "用户体验"
 confidence: "high"
 created_at: "2026-04-21T14:40:05.165210"
-updated_at: "2026-04-21T14:40:05.165210"
+updated_at: "2026-04-22T23:50:24.682546"
 related:
   - "碎片化学习节奏化"
   - "AI-Free Interface Aesthetics"
   - "Agent Operating System"
   - "GitHub"
   - "TypeWords"
+  - "TypeWords: 打字式背单词工具 - GitHub开源英语学习项目分析"
 ---
 
 **轻量级Web工具的传播优势** 指的是以纯网页应用（Web App）形式存在的工具，凭借其无需安装、跨平台、即开即用的特性，在传播、尝试和普及方面相对于原生应用所具有的显著优势。
@@ -34,4 +35,5 @@ related:
 - [[AI-Free Interface Aesthetics]]
 - [[Agent Operating System]]
 - [[GitHub]]
+- [[TypeWords: 打字式背单词工具 - GitHub开源英语学习项目分析]]
 - [[TypeWords]]

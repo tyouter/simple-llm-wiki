@@ -10,7 +10,7 @@ tags:
   - "skill-discovery"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.779630"
-updated_at: "2026-04-17T22:06:46.779630"
+updated_at: "2026-04-23T00:42:20.240142"
 related:
   - "Skill Engineering Lifecycle"
   - "skill-creator"
@@ -18,6 +18,7 @@ related:
   - "Skill Triggering"
   - "Skill-Creator Tool"
   - "Iterative Skill Development"
+  - "Anthropic Skills Framework: Engineering Approach to Agent Capability Development"
 ---
 
 # Description Trigger Optimization
@@ -53,6 +54,7 @@ This process is a key part of using the [[skill-creator]] tool from [[Anthropic]
 tuning, optimization, agent-interaction, skill-discovery
 
 ## Related
+- [[Anthropic Skills Framework: Engineering Approach to Agent Capability Development]]
 [[Skill Engineering Lifecycle]], [[skill-creator]], [[Anthropic Skills: Engineering Approach to Agent Capability Development]]
 
 ## Related
@@ -83,7 +85,7 @@ tuning, optimization, agent-interaction, skill-discovery
 ## Enhanced Insights from Analysis
 This process exemplifies the engineering mindset of the broader framework. It is often automated or facilitated by the [[Skill-Creator Tool]], which provides a structured loop for testing and revision. It is a core component of [[Iterative Skill Development]], treating the skill description not as static text but as a tunable parameter critical to the skill's overall performance and reliability. Success is measured by the skill's ability to trigger accurately on unseen, real-world user queries.
 
-Source: [[raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md]]
+Source: [[Skill]]
 
 ## Related
 - [[Skill Engineering Lifecycle]]

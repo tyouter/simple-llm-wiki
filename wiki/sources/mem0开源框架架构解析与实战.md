@@ -11,7 +11,7 @@ tags:
   - 向量存储
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:21.620760"
 ---
 
 # mem0开源框架架构解析与实战
@@ -51,5 +51,5 @@ updated_at: "2026-04-20T21:00:00"
 ## Related
 - [[Supermemory AI记忆系统]]
 - [[Supermemory的ASMR系统分析]]
-- [[AI Agent构建指南]]
-- [[LLM长期记忆解决方案]]
+- [[AI Agent构建指南：30分钟掌握90%核心知识]]
+- LLM长期记忆解决方案

@@ -11,11 +11,14 @@ tags:
   - "digital-education"
 confidence: "high"
 created_at: "2026-04-17T21:49:07.820654"
-updated_at: "2026-04-17T21:49:07.820654"
+updated_at: "2026-04-22T23:50:24.735683"
 related:
   - "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
   - "Typing-Based Language Learning"
   - "AI Tool Specialization for Design"
+  - "Spaced Repetition via Error Tracking"
+  - "Sylearn"
+  - "TypeWords打字式背单词"
 ---
 
 # Open-Source Educational Tools
@@ -66,4 +69,7 @@ Like [[AI Tool Specialization for Design]], many open-source educational tools f
 ## Related
 - [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]]
 - [[Typing-Based Language Learning]]
+- [[Spaced Repetition via Error Tracking]]
+- [[Sylearn]]
+- [[TypeWords打字式背单词]]
 - [[AI Tool Specialization for Design]]

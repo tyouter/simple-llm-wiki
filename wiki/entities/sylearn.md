@@ -11,7 +11,7 @@ tags:
   - "chinese-platforms"
 confidence: "high"
 created_at: "2026-04-17T21:49:07.820654"
-updated_at: "2026-04-17T21:49:07.820654"
+updated_at: "2026-04-22T23:50:24.710304"
 related:
   - "TypeWords: Open-Source Typing-Based Vocabulary Learning Tool"
   - "Open-Source Educational Tools"
@@ -20,6 +20,8 @@ related:
   - "TypeWords"
   - "社区反馈驱动的产品验证"
   - "开源学习工具的可试先行"
+  - "TypeWords: 打字式背单词工具 - GitHub开源英语学习项目分析"
+  - "TypeWords打字式背单词"
 ---
 
 # Sylearn
@@ -53,6 +55,8 @@ Zhihu (often called "Chinese Quora") serves as an important discovery platform f
 - Open-source software recommendations
 
 ## Related
+- [[TypeWords: 打字式背单词工具 - GitHub开源英语学习项目分析]]
+- [[TypeWords打字式背单词]]
 - [[TypeWords: Open-Source Typing-Based Vocabulary Learning Tool]]: The tool Sylearn recommended
 - [[Open-Source Educational Tools]]: The category TypeWords belongs to
 - [[Typing-Based Language Learning]]: The methodology TypeWords implements

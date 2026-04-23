@@ -11,11 +11,12 @@ tags:
   - "historical-context"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.086502"
-updated_at: "2026-04-19T15:33:03.086502"
+updated_at: "2026-04-22T23:50:14.585400"
 related:
   - "Harness Engineering"
   - "Agent = Loop(Model + Harness)"
   - "Entropy Management"
+  - "mCell"
 ---
 
 # Cybernetics Connection
@@ -101,4 +102,5 @@ cybernetics, harness-engineering, feedback-loops, systems-theory, historical-con
 ## Related
 - [[Harness Engineering]]
 - [[Agent = Loop(Model + Harness)]]
+- [[mCell]]
 - [[Entropy Management]]

@@ -11,13 +11,15 @@ tags:
   - "entrepreneurship"
 confidence: "high"
 created_at: "2026-04-18T22:47:45.119675"
-updated_at: "2026-04-18T22:47:45.119675"
+updated_at: "2026-04-22T23:50:16.709709"
 related:
   - "Agent Shock"
   - "Productization of Expertise"
   - "Service Trade Globalization"
   - "丹爷OS"
   - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
+  - "MrBeast"
+  - "Token侦探"
 ---
 
 # Super Individual (超级个体)
@@ -59,4 +61,6 @@ future-of-work, ai-agents, scalability, professional-services, entrepreneurship
 - [[Productization of Expertise]]
 - [[Service Trade Globalization]]
 - [[丹爷OS]]
+- [[MrBeast]]
+- [[Token侦探]]
 - [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]

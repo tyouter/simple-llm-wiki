@@ -11,13 +11,14 @@ tags:
   - "acquisition"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.216259"
-updated_at: "2026-04-18T22:51:14.216259"
+updated_at: "2026-04-22T23:50:01.655471"
 related:
   - "Li Shufu (李书福)"
   - "BYD (比亚迪)"
   - "Elevator Effect/电梯效应"
   - "Financial vs. Industrial Logic"
   - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "China Manufacturing"
 ---
 
 # Geely (吉利汽车)
@@ -52,4 +53,5 @@ entity, company, automotive, china, acquisition
 - [[BYD (比亚迪)]]
 - [[Elevator Effect/电梯效应]]
 - [[Financial vs. Industrial Logic]]
+- [[China Manufacturing]]
 - [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]

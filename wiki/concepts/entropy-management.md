@@ -11,12 +11,14 @@ tags:
   - "cybernetics"
 confidence: "high"
 created_at: "2026-04-19T15:33:03.084079"
-updated_at: "2026-04-19T15:33:03.084079"
+updated_at: "2026-04-22T23:50:23.088837"
 related:
   - "Harness Engineering"
   - "Context Engineering"
   - "Agent = Loop(Model + Harness)"
   - "Cybernetics Connection"
+  - "mCell"
+  - "Harness Engineering详解"
 ---
 
 # Entropy Management
@@ -90,4 +92,6 @@ entropy-management, harness-engineering, system-maintenance, context-engineering
 - [[Harness Engineering]]
 - [[Context Engineering]]
 - [[Agent = Loop(Model + Harness)]]
+- [[mCell]]
+- [[Harness Engineering详解]]
 - [[Cybernetics Connection]]

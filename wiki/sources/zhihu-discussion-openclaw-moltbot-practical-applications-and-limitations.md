@@ -14,7 +14,7 @@ tags:
   - "sop-automation"
 confidence: "high"
 created_at: "2026-04-17T22:15:47.961838"
-updated_at: "2026-04-17T22:15:47.961838"
+updated_at: "2026-04-23T00:42:21.961117"
 related:
   - "OpenClaw (Moltbot/ClawdBot)"
   - "序员先生 (Programmer Xiansheng)"
@@ -55,7 +55,7 @@ The discussion reveals significant contradictions between practical implementati
 - Emphasis on precise SOPs and boundary definitions challenges assumptions about AI's ability to handle ambiguous natural language requests from non-experts.
 
 ## Related Discussions
-This format connects to [[zhihu-discussion-technical-blogging-platforms-and-influential-programmers]] as another expert-driven Zhihu discussion thread. The technical constraints discussed directly relate to [[Token Management in Complex Systems]] and [[AI Agent Complexity Management]].
+This format connects to [[Zhihu]] as another expert-driven Zhihu discussion thread. The technical constraints discussed directly relate to [[Token Management in Complex Systems]] and [[AI Agent Complexity Management]].
 
 **Source**: Original Zhihu discussion thread analyzing OpenClaw/Moltbot practical implementations.
 

@@ -3,6 +3,7 @@ title: "Paul Graham"
 type: "entity"
 sources:
   - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/d65f8843_天涯论坛关闭后除了知乎大家都在逛什么天涯论坛关闭后除了知乎大家都在逛什么.md"
 tags:
   - "entrepreneur"
   - "essayist"
@@ -11,7 +12,7 @@ tags:
   - "technical-writing"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.748072"
-updated_at: "2026-04-17T21:46:36.748072"
+updated_at: "2026-04-23T00:42:20.944528"
 related:
   - "Programmer-to-Blogger Transition"
   - "Technical Blog Quality Hierarchy"
@@ -21,6 +22,19 @@ related:
   - "从创作者到投资/布道者的博客演进"
   - "高质量内容作为学习路径起点"
   - "中外技术博客文化差异"
+  - "Claude Code"
+  - "Refactoring"
+  - "Ai Agent"
+  - "Openclaw"
+  - "Gemini"
+  - "一般技术大牛都在哪里写博客？"
+  - "Vibe Coding"
+  - "Api"
+  - "天涯论坛关闭后，除了知乎，大家都在逛什么？"
+  - "技术博客质量层级"
+  - "技术大牛博客平台汇总"
+  - "知乎讨论：一般技术大牛都在哪里写博客"
+  - "计算机技术大牛的博客分布与推荐榜单分析"
 ---
 
 # Paul Graham
@@ -62,23 +76,36 @@ Graham's essays have shaped thinking about:
 - Bridged technical and business perspectives
 
 ## Relation to Blogging Trends
-As discussed in [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]], Graham represents an early example of the [[Programmer-to-Blogger Transition]], though his focus expanded beyond pure technical topics to broader technology business and culture.
+As discussed in [[Zhihu]], Graham represents an early example of the [[Programmer-to-Blogger Transition]], though his focus expanded beyond pure technical topics to broader technology business and culture.
 
 ## Content Quality
 His blog exemplifies the high-quality independent content valued in the [[Technical Blog Quality Hierarchy]], demonstrating how practitioner perspectives can achieve widespread influence.
 
-**Source**: Mentioned in [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]] as influential technical blogger.
+**Source**: Mentioned in [[Zhihu]] as influential technical blogger.
 
 ## Tags
 entrepreneur, essayist, startup-culture, y-combinator, technical-writing
 
 ## Related
-[[Programmer-to-Blogger Transition]], [[Technical Blog Quality Hierarchy]], [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Claude Code]]
+- [[Refactoring]]
+- [[AI Agent]]
+- [[OpenClaw]]
+- [[Gemini]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Vibe Coding]]
+- [[Api]]
+- [[天涯论坛关闭后，除了知乎，大家都在逛什么？]]
+- [[技术博客质量层级]]
+- [[技术大牛博客平台汇总]]
+- [[知乎讨论：一般技术大牛都在哪里写博客]]
+- [[计算机技术大牛的博客分布与推荐榜单分析]]
+[[Programmer-to-Blogger Transition]], [[Technical Blog Quality Hierarchy]], [[Zhihu]]
 
 ## Related
 - [[Programmer-to-Blogger Transition]]
 - [[Technical Blog Quality Hierarchy]]
-- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Zhihu]]
 
 ---
 
@@ -89,7 +116,7 @@ entrepreneur, essayist, startup-culture, y-combinator, technical-writing
 ## Related
 - [[Programmer-to-Blogger Transition]]
 - [[Technical Blog Quality Hierarchy]]
-- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Zhihu]]
 - [[独立个人博客价值]]
 - [[工程师思维写作范式]]
 - [[从创作者到投资/布道者的博客演进]]

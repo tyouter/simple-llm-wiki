@@ -10,7 +10,7 @@ tags:
   - "浏览器自动化"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.909869"
 ---
 
 # web-access插件：解决Agent抓网页痛点
@@ -44,5 +44,5 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Playwright CLI]]
-- [[Selenium自动化]]
-- [[网页自动化工具对比]]
+- [[Selenium]]
+- 网页自动化工具对比

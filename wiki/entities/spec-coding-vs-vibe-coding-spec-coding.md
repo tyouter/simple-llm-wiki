@@ -1,5 +1,5 @@
 ---
-title: "Spec Coding vs. Vibe Coding|Spec Coding"
+title: "Spec Coding vs. Vibe Coding"
 type: "entity"
 sources:
   - "wiki/sources/知乎讨论-claude.md怎么写才能让Claude Code更高效.md"
@@ -10,7 +10,7 @@ tags:
   - "specification"
 confidence: "high"
 created_at: "2026-04-17T21:42:57.941685"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T07:26:07.839509"
 ---
 
 # Spec Coding（规范编码）
@@ -40,7 +40,7 @@ updated_at: "2026-04-20T00:00:00"
 知乎讨论中yahah的观点体现规范编码思想：
 - CLAUDE.md极简，约50行聚焦核心上下文
 - 强调外部开发方法论而非内部配置
-- 禁止[[意念编码]]，强调需求驱动
+- 禁止意念编码，强调需求驱动
 
 ## 实践原则
 - 先规划后编码（Plan Mode）
@@ -48,7 +48,23 @@ updated_at: "2026-04-20T00:00:00"
 - "不要"比"要"更重要
 
 ## 相关
-- [[知乎讨论-claude.md怎么写才能让Claude Code更高效]]
+- [[Claude]]
 - [[Plan-and-Execute]]
 - [[CLAUDE.md Architecture]]
 - [[Claude Code]]
+## Related
+- [[Auto Memory]]
+- [[CLAUDE.md]]
+- [[Humanize Workflow]]
+- [[Humanize 工作流]]
+- [[Humanize]]
+- [[Permission Modes (Claude Code)]]
+- [[Persistent Memory System (Claude Code)]]
+- [[Plan Mode]]
+- [[Plan]]
+- [[TDD with Claude Code]]
+- [[持久记忆体系]]
+- [[yahah]]
+- [[白玉京]]
+- [[雁南飞]]
+

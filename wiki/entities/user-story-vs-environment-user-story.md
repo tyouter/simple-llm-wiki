@@ -1,5 +1,5 @@
 ---
-title: "User Story vs. Environment|User Story"
+title: "User Story vs. Environment"
 type: "entity"
 sources:
   - "wiki/sources/知乎讨论-为什么做产品的人都很喜欢思考场景.md"
@@ -9,7 +9,7 @@ tags:
   - "requirement"
 confidence: "high"
 created_at: "2026-04-17T21:47:20.808397"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T07:26:07.825467"
 ---
 
 # User Story（用户故事）
@@ -54,8 +54,12 @@ Marty Cagan《启示录》强调理解用户故事而非功能列表；Jeff Bezo
 ## 相关
 - [[User Story vs. Environment|Environment]]
 - [[Function-Oriented vs. Problem-Solving Design|Function-Oriented Design]]
-- [[知乎讨论-为什么做产品的人都很喜欢思考场景]]
+- [[知乎]]
 - [[David 周子轩]]
 - [[刘飞]]
 - [[Marty Cagan]]
-- [[以用户为中心的设计 (UCD)]]
+- 以用户为中心的设计 (UCD)
+## Related
+- [[Mental Model (心智模型)]]
+- [[Scenario Analysis (场景分析)]]
+

@@ -10,11 +10,17 @@ tags:
   - "subagent"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:26.707157"
 related:
   - "LangChain"
   - "LangGraph"
   - "AI Agent框架对比"
+  - "Claude Code子代理"
+  - "AI Agent构建指南：30分钟掌握90%核心知识"
+  - "DeerFlow 2.0：字节跳动开源超级Agent引擎"
+  - "开源大模型全景梳理：3000+模型的分类与收敛"
+  - "视频-Google AI Agent白皮书拆解"
+  - "AI Agent框架对比分析"
 ---
 
 # DeepAgents框架
@@ -80,6 +86,12 @@ result = agent.invoke({
 ```
 
 ## Related
-- [[LangChain]]
+- [[AI Agent框架对比分析]]
+- LangChain
 - [[LangGraph]]
-- [[AI Agent框架对比]]
+- [[Claude Code子代理]]
+- [[AI Agent构建指南：30分钟掌握90%核心知识]]
+- [[DeerFlow 2.0：字节跳动开源超级Agent引擎]]
+- [[开源大模型全景梳理：3000+模型的分类与收敛]]
+- [[视频-Google AI Agent白皮书拆解]]
+- [[Agent]]

@@ -10,11 +10,20 @@ tags:
   - "three-layer-architecture"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.345559"
 related:
   - "知识编译器模式"
   - "Andrej Karpathy"
   - "RAG检索增强生成"
+  - "Contradiction"
+  - "AI学习效率流程：三工具组合拳"
+  - "Karpathy的LLM知识库架构分析"
+  - "SubBatch B站字幕批量处理插件"
+  - "Vibe Coding AI资讯站点"
+  - "一人AI公司架构：四层基建体系"
+  - "开源大模型全景梳理：3000+模型的分类与收敛"
+  - "纳瓦尔Podcast：AI与未来工作——心智的摩托车"
+  - "视频-Claude Code+Obsidian构建247个人操作系统"
 ---
 
 # LLM Wiki架构
@@ -70,4 +79,13 @@ Karpathy提出的基于LLM的个人知识库系统架构，将知识管理分为
 ## Related
 - [[知识编译器模式]]
 - [[Andrej Karpathy]]
-- [[RAG检索增强生成]]
+- [[Contradiction]]
+- [[AI学习效率流程：三工具组合拳]]
+- [[Karpathy的LLM知识库架构分析]]
+- [[SubBatch B站字幕批量处理插件]]
+- [[Vibe Coding AI资讯站点]]
+- [[一人AI公司架构：四层基建体系]]
+- [[开源大模型全景梳理：3000+模型的分类与收敛]]
+- [[纳瓦尔Podcast：AI与未来工作——心智的摩托车]]
+- [[视频-Claude Code+Obsidian构建247个人操作系统]]
+- [[Rag]]

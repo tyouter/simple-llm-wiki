@@ -10,12 +10,13 @@ tags:
   - "implementation-era"
 confidence: "high"
 created_at: "2026-04-19T21:41:38.067646"
-updated_at: "2026-04-19T21:41:38.067646"
+updated_at: "2026-04-22T23:50:27.484176"
 related:
   - "OpenClaw"
   - "虚拟机隔离部署 (Virtual Machine Isolation Deployment)"
   - "Token消耗管理 (Token Consumption Management)"
   - "Agent Operating System"
+  - "知乎讨论：普通人第一次用OpenClaw应该注意什么"
 ---
 
 # AGENT 元年 (AGENT First Year)
@@ -57,6 +58,7 @@ Concept identified in analysis of [[Zhihu Discussion: OpenClaw Beginner Safety a
 - [[Token消耗管理 (Token Consumption Management)]]
 - [[Agent Operating System]]
 - [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
+- [[知乎讨论：普通人第一次用OpenClaw应该注意什么]]
 
 ## Related
 - [[OpenClaw]]

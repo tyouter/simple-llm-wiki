@@ -11,12 +11,15 @@ tags:
   - "algorithmic-trading"
 confidence: "high"
 created_at: "2026-04-17T22:24:54.643488"
-updated_at: "2026-04-17T22:24:54.643488"
+updated_at: "2026-04-23T00:42:26.758736"
 related:
   - "DeepSeek"
   - "DeepSeek-R1"
   - "Quantitative Analysis via AI"
   - "AI Reasoning Models"
+  - "豆包 (Doubao)"
+  - "DeepSeek AI Practical Applications and Prompt Engineering Guide"
+  - "DeepSeek实用应用与提示词指南"
 ---
 
 # 幻方量化 (Huanfang Quantitative)
@@ -121,4 +124,7 @@ Quantitative investment firm that developed [[DeepSeek]], known as one of China'
 - [[DeepSeek]]
 - [[DeepSeek-R1]]
 - [[Quantitative Analysis via AI]]
+- [[豆包 (Doubao)]]
+- [[DeepSeek AI Practical Applications and Prompt Engineering Guide]]
+- [[DeepSeek实用应用与提示词指南]]
 - [[AI Reasoning Models]]

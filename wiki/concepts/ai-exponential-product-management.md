@@ -11,7 +11,7 @@ tags:
   - "organizational-strategy"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-23T00:42:20.078806"
 related:
   - "Cat Wu"
   - "Anthropic"
@@ -19,6 +19,9 @@ related:
   - "Prototype-First Development"
   - "Model-Capability-Driven Product Evolution"
   - "Claude Code"
+  - "METR"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # AI-Exponential Product Management
@@ -69,7 +72,7 @@ This represents a form of [[AI Tool Chaining/Combination]] optimized for product
 - Contradicts traditional product management's assumption of stable technical constraints
 - Challenges documentation-first approaches
 - Questions the value of extensive engineering workarounds for model limitations
-- Complements [[gstack-role-based-ai-development-workflow-for-claude-code]] though emphasizes more organic experimentation
+- Complements [[Claude]] though emphasizes more organic experimentation
 
 ## Source
 Based on analysis of Cat Wu's description of product management transformation at Anthropic.
@@ -83,4 +86,7 @@ product-management, ai-paradigm, exponential-change, rapid-experimentation, orga
 - [[Edge Exploration Projects (Side Quests)]]
 - [[Prototype-First Development]]
 - [[Model-Capability-Driven Product Evolution]]
+- [[METR]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Claude Code]]

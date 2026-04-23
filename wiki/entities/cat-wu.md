@@ -11,13 +11,19 @@ tags:
   - "organizational-change"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.865715"
 related:
   - "Anthropic"
   - "AI-Exponential Product Management"
   - "Claude Code"
   - "Prototype-First Development"
   - "Model-Capability-Driven Product Evolution"
+  - "Api"
+  - "Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的"
+  - "Edge Exploration Projects (Side Quests)"
+  - "METR"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Cat Wu
@@ -72,4 +78,10 @@ product-management, anthropic, ai-transformation, workflow-design, organizationa
 - [[AI-Exponential Product Management]]
 - [[Claude Code]]
 - [[Prototype-First Development]]
+- [[Api]]
+- [[Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的]]
+- [[Edge Exploration Projects (Side Quests)]]
+- [[METR]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Model-Capability-Driven Product Evolution]]

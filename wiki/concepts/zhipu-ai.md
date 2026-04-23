@@ -10,7 +10,7 @@ tags:
   - "tsinghua"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.878270"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:20.587436"
 ---
 
 # Zhipu AI (智谱AI)
@@ -26,10 +26,16 @@ updated_at: "2026-04-20T12:00:00"
 - **开源贡献**: 开源版本对国产大模型生态有积极贡献
 
 ## Related
+- [[Coding Plan]]
+- [[Token Burning Prevention]]
+- [[Alibaba Cloud Bailian]]
+- [[GLM-5]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
 
 - [[国产大模型]]
-- [[GLM]]
+- GLM
 - [[MiniMax]]
 - [[Qwen]]
-- [[清华大学KEG]]
-- [[国产大模型Coding Plan横评]]
+- [[清华]]
+- [[Plan]]

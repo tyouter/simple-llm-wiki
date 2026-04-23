@@ -11,7 +11,7 @@ tags:
   - "hooks"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.015027"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:20.029624"
 ---
 
 # Hooks for Deterministic Automation
@@ -31,4 +31,8 @@ Claude Code的自动化机制，通过PreToolUse和PostToolUse钩子在工具执
 - [[Claude Code Hooks]]
 - [[Plan Mode工作流]]
 - [[CLAUDE.md Architecture]]
+- [[Claude Code Automation/Configuration Management]]
+- [[Single-Loop Architecture]]
+- [[Slash Commands Customization]]
+- [[Advanced Claude Code Workflow Techniques and Architecture Analysis]]
 - [[Claude Code工作流技术与架构分析]]

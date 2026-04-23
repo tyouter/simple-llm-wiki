@@ -11,7 +11,7 @@ tags:
   - 硅谷ai
 confidence: high
 created_at: "2026-04-20T21:30:00"
-updated_at: "2026-04-20T21:30:00"
+updated_at: "2026-04-23T00:42:22.620148"
 ---
 
 # 杉资本AI商业模式转型分析
@@ -51,6 +51,6 @@ updated_at: "2026-04-20T21:30:00"
 
 ## Related
 - [[Anthropic产品管理AI化转型]]
-- [[AI Agent构建指南]]
+- [[AI Agent构建指南：30分钟掌握90%核心知识]]
 - [[Harness Engineering详解]]
 - [[未来新的高收入技能组合]]

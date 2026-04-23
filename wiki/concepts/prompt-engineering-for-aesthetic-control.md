@@ -11,7 +11,7 @@ tags:
   - "Modular Design"
 confidence: "high"
 created_at: "2026-04-21T13:58:22.841026"
-updated_at: "2026-04-21T13:58:22.841026"
+updated_at: "2026-04-22T23:50:24.761307"
 related:
   - "AI-Free Interface Aesthetics"
   - "AI-Generated Design Quality Spectrum"
@@ -19,6 +19,10 @@ related:
   - "designprompts.dev"
   - "Claude Code"
   - "Design System Synthesis by AI"
+  - "AI Tool Chaining/Combination"
+  - "Vibe Coding"
+  - "AI 工具测评中心 (AI Tool Review Center)"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
 ---
 
 The practice of crafting, curating, and combining input prompts specifically to exert fine-grained control over the aesthetic and stylistic output of generative AI models. This moves beyond basic functional prompt engineering into the realm of artistic direction, treating prompts as modular design components that can be assembled and processed by the AI to achieve a specific, high-fidelity visual goal.
@@ -31,4 +35,8 @@ In the context of frontend development, this involves using pre-built XML style 
 - [[AI-Native Design Workflow]]
 - [[designprompts.dev]]
 - [[Claude Code]]
+- [[AI Tool Chaining/Combination]]
+- [[Vibe Coding]]
+- [[AI 工具测评中心 (AI Tool Review Center)]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
 - [[Design System Synthesis by AI]]

@@ -11,7 +11,7 @@ tags:
   - "ai-design"
 confidence: "high"
 created_at: "2026-04-17T11:04:20.799188"
-updated_at: "2026-04-17T11:04:20.799188"
+updated_at: "2026-04-22T23:50:26.359595"
 related:
   - "Claude Code"
   - "AI-Free Interface Aesthetics"
@@ -26,6 +26,24 @@ related:
   - "Prompt Combination & Meta-Prompting"
   - "Community-Driven AI Tool Discovery"
   - "Rrupmid Nyche"
+  - "AI-assisted design"
+  - "AI-Free Interface Aesthetics|AI aesthetics"
+  - "AI Tool Chaining/Combination"
+  - "AI Tool Chaining/Specialization for Design"
+  - "Curated Design Prompt Repositories"
+  - "Design System Synthesis by AI"
+  - "Prompt-Dependent Output Quality"
+  - "Tailwind CSS"
+  - "Vibe Coding Enhancement Workflow"
+  - "claudekit.github.io/frontend-design-pro-demo"
+  - "uiprompt.dev"
+  - "uiprompt.site"
+  - "杨杰出海笔记 (Yang Jie Overseas Notes)"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
+  - "Vibe Coding做的网站太难看怎么办"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
+  - "使用DesignPrompts生成无AI感界面"
 ---
 
 # designprompts.dev
@@ -56,6 +74,24 @@ A user browsing the site selects a prompt matching their desired aesthetic (e.g.
 - [[Vibe Coding]]
 - [[Prompt Combination & Adaptation]]
 - [[Design Prompt Curation/Repositories]]
+- [[AI-assisted design]]
+- [[AI-Free Interface Aesthetics|AI aesthetics]]
+- [[AI Tool Chaining/Combination]]
+- [[AI Tool Chaining/Specialization for Design]]
+- [[Curated Design Prompt Repositories]]
+- [[Design System Synthesis by AI]]
+- [[Prompt-Dependent Output Quality]]
+- [[Tailwind CSS]]
+- [[Vibe Coding Enhancement Workflow]]
+- [[claudekit.github.io/frontend-design-pro-demo]]
+- [[uiprompt.dev]]
+- [[uiprompt.site]]
+- [[杨杰出海笔记 (Yang Jie Overseas Notes)]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
+- [[Vibe Coding做的网站太难看怎么办]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
+- [[使用DesignPrompts生成无AI感界面]]
 
 ---
 

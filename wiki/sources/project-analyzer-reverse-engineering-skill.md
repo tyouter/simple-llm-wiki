@@ -11,7 +11,7 @@ tags:
   - "开源项目分析"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.836861"
 ---
 
 # project-analyzer逆向工程Skill介绍
@@ -71,5 +71,5 @@ updated_at: "2026-04-20T12:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[逆向工程]]
-- [[PRD文档]]
+- 逆向工程
+- [[Prd]]

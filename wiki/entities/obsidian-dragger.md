@@ -11,13 +11,16 @@ tags:
   - "editor-enhancement"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.470272"
-updated_at: "2026-04-21T16:31:03.470272"
+updated_at: "2026-04-22T23:50:24.001635"
 related:
   - "Obsidian"
   - "Ariestar"
   - "Text Block as a Unit of Manipulation"
   - "BRAT (Beta Reviewer's Auto-update Tool)"
   - "Notion"
+  - "Beta Distribution via Plugin Manager (BRAT)"
+  - "Mobile-First Note-Taking UX"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Obsidian Dragger** is a community-developed plugin for [[Obsidian]] that enables Notion-like drag-and-drop rearrangement of text blocks on both desktop and mobile interfaces. Created by [[Ariestar]], the plugin addresses a significant gap in Obsidian's native editing experience, particularly the difficulty of reorganizing content on touchscreen devices.
@@ -31,4 +34,7 @@ Currently in beta development, Obsidian Dragger is distributed via [[BRAT (Beta 
 - [[Ariestar]]
 - [[Text Block as a Unit of Manipulation]]
 - [[BRAT (Beta Reviewer's Auto-update Tool)]]
+- [[Beta Distribution via Plugin Manager (BRAT)]]
+- [[Mobile-First Note-Taking UX]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[Notion]]

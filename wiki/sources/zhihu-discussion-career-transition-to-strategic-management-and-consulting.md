@@ -13,7 +13,7 @@ tags:
   - "industry-barriers"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.646295"
-updated_at: "2026-04-17T21:42:03.646295"
+updated_at: "2026-04-23T00:42:41.890931"
 related:
   - "Strategic Management Learning Framework"
   - "Cross-Disciplinary Knowledge for Management"
@@ -25,6 +25,27 @@ related:
   - "Michael E. Porter"
   - "Robert S. Kaplan & David P. Norton"
   - "Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches"
+  - "Open Educational Resources (OER)"
+  - "Zhihu (知乎)"
+  - "朱卫军"
+  - "Zhihu Discussion: Alternative Websites After Tianya Forum Closure"
+  - "Zhihu Discussion: Comparative Analysis of Foreign vs. Domestic Textbooks"
+  - "Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy"
+  - "Zhihu Discussion: Internal Martial Arts and Breathing Techniques"
+  - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
+  - "Zhihu Discussion on Enlightenment and Personal Transformation"
+  - "Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development"
+  - "Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines"
+  - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
+  - "Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges"
+  - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
+  - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
+  - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
+  - "Zhihu Login Page Error Message (Source)"
+  - "知乎讨论：为什么现在很多人推崇国外原版教材"
+  - "知乎讨论：你写过什么不错的开源项目"
+  - "知乎讨论：普通人第一次用OpenClaw应该注意什么"
+  - "Zhihu"
 ---
 
 # Zhihu Discussion: Career Transition to Strategic Management and Consulting
@@ -80,4 +101,26 @@ zhihu, career-transition, strategic-management, management-consulting, learning-
 - [[考拉的糖果]]
 - [[Michael E. Porter]]
 - [[Robert S. Kaplan & David P. Norton]]
+- [[Open Educational Resources (OER)]]
+- [[Zhihu (知乎)]]
+- [[朱卫军]]
+- [[Zhihu Discussion: Alternative Websites After Tianya Forum Closure]]
+- [[Zhihu Discussion: Comparative Analysis of Foreign vs. Domestic Textbooks]]
+- [[Zhihu Discussion: Financial vs. Industrial Logic in BYD's Development Strategy]]
+- [[Zhihu Discussion: Internal Martial Arts and Breathing Techniques]]
+- [[Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity]]
+- [[Zhihu Discussion on Enlightenment and Personal Transformation]]
+- [[Zhihu Discussion: Open Source Projects for AI Visualization and Hardware Development]]
+- [[Zhihu Discussion: OpenClaw Beginner Safety and Deployment Guidelines]]
+- [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[Zhihu Discussion: Strategic Planning Methodologies and Implementation Challenges]]
+- [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]
+- [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
+- [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
+- [[Zhihu Login Page Error Message (Source)]]
+- [[知乎讨论：为什么现在很多人推崇国外原版教材]]
+- [[知乎讨论：你写过什么不错的开源项目]]
+- [[知乎讨论：普通人第一次用OpenClaw应该注意什么]]
+- [[Zhihu]]
+- [[30岁转行战略咨询学习框架]]
 - [[Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches]]

@@ -11,12 +11,14 @@ tags:
   - "metacognition"
 confidence: "high"
 created_at: "2026-04-17T21:56:51.705989"
-updated_at: "2026-04-17T21:56:51.705989"
+updated_at: "2026-04-23T00:42:44.301887"
 related:
   - "Information Source Curation"
   - "Information Fidelity & Verification"
   - "Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development"
   - "GStack: Role-Based AI Development Workflow for Claude Code"
+  - "James Gleick"
+  - "吴恩达"
 ---
 
 # Self-Directed Learning Infrastructure
@@ -25,7 +27,7 @@ related:
 The Self-Directed Learning Infrastructure is the combination of curated resources, practical skills, and a specific mindset required for autonomous skill and knowledge acquisition. It is the personal "stack" that enables effective learning outside of formal educational structures, particularly for career development.
 
 ## Components
-As outlined in [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]], this infrastructure consists of three interconnected layers:
+As outlined in [[Zhihu]], this infrastructure consists of three interconnected layers:
 
 1.  **Curated Resources Layer:**
     - **Foundational Knowledge:** Textbooks, official documentation, and academic syllabi.
@@ -54,11 +56,15 @@ This concept presents a **contradiction** to workflows that over-rely on AI for 
 ## Related
 - [[Information Source Curation]]
 - [[Information Fidelity & Verification]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[James Gleick]]
+- [[吴恩达]]
+- [[优质信息获取渠道汇总]]
+- [[知乎讨论-大神们是从哪获取优质信息]]
 
 ## Related
 - [[Information Source Curation]]
 - [[Information Fidelity & Verification]]
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]

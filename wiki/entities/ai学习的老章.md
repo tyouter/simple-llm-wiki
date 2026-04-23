@@ -3,6 +3,7 @@ title: "Ai学习的老章"
 type: "entity"
 sources:
   - "raw/articles/149db3c1_Skills的本质是什么Skills的本质是什么.md"
+  - "raw/articles/8076e346_如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用如何看待 Anthropic 9 月 4 日发布 Claude.md"
 tags:
   - "zhihu-author"
   - "content-creator"
@@ -11,11 +12,25 @@ tags:
   - "analyst"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.780634"
-updated_at: "2026-04-17T22:06:46.780634"
+updated_at: "2026-04-22T23:50:20.575583"
 related:
   - "Anthropic Skills: Engineering Approach to Agent Capability Development"
   - "Anthropic"
   - "skill-creator"
+  - "Progressive Disclosure"
+  - "Prompt Engineering"
+  - "Skill-Creator"
+  - "Claude Code"
+  - "Frontmatter"
+  - "Skills的本质是什么？"
+  - "Deepseek"
+  - "Opencode"
+  - "Copilot"
+  - "Gemini"
+  - "如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？"
+  - "Agent Skills Framework|Skills"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+  - "Anthropic Skills工程方法"
 ---
 
 # Ai学习的老章
@@ -44,6 +59,20 @@ Primarily publishes on **Zhihu** (a Chinese Q&A platform) and their **WeChat Pub
 zhihu-author, content-creator, wechat-public-account, influencer, analyst
 
 ## Related
+- [[Progressive Disclosure]]
+- [[Prompt Engineering]]
+- [[Skill-Creator]]
+- [[Claude Code]]
+- [[Frontmatter]]
+- [[Skills的本质是什么？]]
+- [[Deepseek]]
+- [[Opencode]]
+- [[Copilot]]
+- [[Gemini]]
+- [[如何看待 Anthropic 9 月 4 日发布 Claude Code 禁止中国控股公司使用？]]
+- [[Agent Skills Framework|Skills]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- [[Anthropic Skills工程方法]]
 [[Anthropic Skills: Engineering Approach to Agent Capability Development]], [[Anthropic]], [[skill-creator]]
 
 ## Related

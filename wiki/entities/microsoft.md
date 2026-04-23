@@ -5,13 +5,18 @@ sources:
   - "wiki/sources/microsoft-investment-github-alternative.md"
   - "wiki/sources/zhihu-从后端开发转型ai-agent工程师的路线图.md"
   - "wiki/sources/金融分析高级AI Agent架构.md"
+  - "raw/articles/cde8da65_怎么成为一个 ai agent 工程师怎么成为一个 ai agent 工程师.md"
+  - "raw/articles/f46fff1a_playwright自动化脚本工具打开浏览器网页被检测为爬虫导致无法执行脚本代码请问怎么解决playwright自动化脚本工具打开浏览器网页被检测为爬虫.md"
+  - "raw/videos/4c31509e_Stop Copying Files Into Obsidian Folder Bridge Plugin.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/webpages/80556898_Top product management books and resources for 2026.md"
 tags:
   - "company"
   - "technology"
   - "ai"
 confidence: "high"
 created_at: "2026-04-17T21:56:25.442155"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.242346"
 ---
 
 # Microsoft
@@ -43,3 +48,29 @@ updated_at: "2026-04-20T00:00:00"
 - [[AutoGen]]
 - [[GitHub]]
 - [[OpenAI]]
+## Related
+- [[Agent]]
+- [[Api]]
+- [[Baseline]]
+- [[Bm25]]
+- [[Bridge]]
+- [[Cli]]
+- [[Complexity]]
+- [[Decision Making]]
+- [[Deepseek]]
+- [[Embedding]]
+- [[Git]]
+- [[Lora]]
+- [[Markdown]]
+- [[Mcp]]
+- [[Multi-Agent]]
+- [[Opencode]]
+- [[Prompt Engineering]]
+- [[Rag]]
+- [[Reinforcement Learning]]
+- [[Skill]]
+- [[Skills]]
+- [[Sop]]
+- [[Structured Data + Unstructured Document Fusion]]
+- [[Finalchemist]]
+

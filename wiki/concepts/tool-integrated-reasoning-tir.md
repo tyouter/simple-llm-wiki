@@ -11,13 +11,17 @@ tags:
   - "theorem-3.7"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.439111"
-updated_at: "2026-04-17T16:57:33.439111"
+updated_at: "2026-04-22T23:50:19.104068"
 related:
   - "Domain-Specific Language (DSL) for AI Agents"
   - "腾讯 (Tencent)"
   - "清华大学 (Tsinghua University)"
   - "ReAct Pattern (Reasoning + Acting)"
   - "AI Agent"
+  - "Chain-of-Thought (CoT) Reasoning)"
+  - "Skills vs Tools Distinction"
+  - "Token Efficiency in AI Reasoning"
+  - "面壁 (FaceWall)"
 ---
 
 # Tool-Integrated Reasoning (TIR)
@@ -69,6 +73,10 @@ Understanding TIR and its mathematical foundations is identified as valuable kno
 tool-integration, reasoning-systems, mathematical-foundations, ai-agent, theorem-3.7
 
 ## Related
+- [[Chain-of-Thought (CoT) Reasoning)]]
+- [[Skills vs Tools Distinction]]
+- [[Token Efficiency in AI Reasoning]]
+- [[面壁 (FaceWall)]]
 [[Domain-Specific Language (DSL) for AI Agents]], [[腾讯 (Tencent)]], [[清华大学 (Tsinghua University)]], [[ReAct Pattern (Reasoning + Acting)]], [[AI Agent]]
 
 ## Related

@@ -10,7 +10,7 @@ tags:
   - "开源组件"
 confidence: medium
 created_at: "2026-04-20T08:00:00"
-updated_at: "2026-04-20T08:00:00"
+updated_at: "2026-04-23T00:42:21.394968"
 ---
 
 # Creative Tim UI：前端开发神器
@@ -57,5 +57,5 @@ updated_at: "2026-04-20T08:00:00"
 
 ## 相关
 - [[Claude Code Skills系统]]
-- [[前端设计Skill]]
-- [[shadcn/ui生态]]
+- [[前端设计Skills深度增强版]]
+- shadcn/ui生态

@@ -12,11 +12,12 @@ tags:
   - "china-media"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.063296"
-updated_at: "2026-04-18T22:52:17.063296"
+updated_at: "2026-04-22T23:50:25.517244"
 related:
   - "Perseverance Performance"
   - "Authenticity as Capital"
   - "Zhang Xue"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Yi Jun (易军)
@@ -63,4 +64,5 @@ reporter, media, gatekeeper, documentary, skepticism-conversion, china-media
 ## Related
 - [[Perseverance Performance]]
 - [[Authenticity as Capital]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Zhang Xue]]

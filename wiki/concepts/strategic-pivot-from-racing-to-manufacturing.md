@@ -12,13 +12,15 @@ tags:
   - "strategic-thinking"
 confidence: "high"
 created_at: "2026-04-18T22:52:17.061295"
-updated_at: "2026-04-18T22:52:17.061295"
+updated_at: "2026-04-22T23:50:25.525565"
 related:
   - "Dream-First, Business-Second Entrepreneurship"
   - "Industrial Cluster Advantage"
   - "Zhang Xue"
   - "Zhang Jixing"
   - "Zhang Xue Motorcycle"
+  - "Authenticity as Capital"
+  - "Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur"
 ---
 
 # Strategic Pivot from Racing to Manufacturing
@@ -93,4 +95,6 @@ career-pivot, entrepreneurship, manufacturing, mentorship, comparative-advantage
 - [[Industrial Cluster Advantage]]
 - [[Zhang Xue]]
 - [[Zhang Jixing]]
+- [[Authenticity as Capital]]
+- [[Zhihu Discussion: Zhang Xue's Journey from Mechanic to Motorcycle Champion Entrepreneur]]
 - [[Zhang Xue Motorcycle]]

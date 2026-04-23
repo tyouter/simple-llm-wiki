@@ -12,7 +12,7 @@ tags:
   - "evaluation"
 confidence: "high"
 created_at: "2026-04-17T21:53:35.481228"
-updated_at: "2026-04-17T21:53:35.481228"
+updated_at: "2026-04-23T00:42:20.083813"
 related:
   - "Vibe Coding Enhancement Workflow"
   - "Design Style System Prompt"
@@ -22,6 +22,16 @@ related:
   - "Aesthetic Judgment in Tech"
   - "Design Prompt Curation & Repository"
   - "Tailwind CSS"
+  - "Claude Code"
+  - "Personal Work/Product (作品)"
+  - "呈现层（决策第五步）"
+  - "AI 工具测评中心 (AI Tool Review Center)"
+  - "Antigravity"
+  - "杨杰出海笔记 (Yang Jie Overseas Notes)"
+  - "AI决策五步法：提升判断与决策能力的结构化框架"
+  - "Improving Vibe Coding Aesthetics with Design Prompts"
+  - "Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development"
+  - "使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面"
 ---
 
 # AI-Generated Design Quality Spectrum
@@ -52,6 +62,16 @@ The existence of this spectrum suggests that design expertise remains valuable. 
 - [[Design Style System Prompt]]
 - [[Curated Design Prompt Repositories]]
 - [[AI-Free Interface Aesthetics]]
+- [[Claude Code]]
+- [[Personal Work/Product (作品)]]
+- [[呈现层（决策第五步）]]
+- [[AI 工具测评中心 (AI Tool Review Center)]]
+- [[Antigravity]]
+- [[杨杰出海笔记 (Yang Jie Overseas Notes)]]
+- [[AI决策五步法：提升判断与决策能力的结构化框架]]
+- [[Improving Vibe Coding Aesthetics with Design Prompts]]
+- [[Using Design Prompts to Eliminate AI-Generated Aesthetics in Frontend Development]]
+- [[使用 DesignPrompts.dev 消除 Claude Code 的 AI 感，生成高品质前端界面]]
 
 ## Related
 - [[Vibe Coding Enhancement Workflow]]
@@ -68,7 +88,7 @@ The existence of this spectrum suggests that design expertise remains valuable. 
 ## Navigating the Spectrum from Source
 The source document provides a method to actively navigate this spectrum. It identifies the low-end as outputs with "Claude味" and default Tailwind aesthetics from unguided generation. It positions curated prompts from [[designprompts.dev]] as a lever to access the high-end—producing "无 AI 感高品质界面." This process relies on human [[Aesthetic Judgment in Tech]] to select the right prompts ([[Prompt Engineering for Aesthetic Control]]), with the explicit goal of reaching the [[AI-Free Interface Aesthetics]] pole of the spectrum.
 
-Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+Source: [[Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎]]
 
 ## Related
 - [[Vibe Coding Enhancement Workflow]]
@@ -87,7 +107,7 @@ Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成�
 ## 具体案例中的光谱两端
 本文明确指出了该光谱在实践中的体现：低端是带有“Claude味”和 [[Tailwind CSS]] 默认蓝紫色渐变的、可被轻易识别的AI设计；高端则是通过 [[Design Prompt Curation & Repository]] 和高级提示工程生成的“无AI感高品质界面”。追求 [[AI-Free Interface Aesthetics]] 就是致力于将输出结果从光谱低端推向高端。这要求用户不仅要有 [[Aesthetic Judgment in Tech]]，还要掌握提升质量的具体工具和方法。
 
-Source: [[raw/articles/02dbcccb_Rrupmid Nyche 的想法 让 Claude Code 生成无 AI 感高品质界面比前端和 UI Pro Max 技能更强 想要 Claude.md]]
+Source: [[Rrupmid Nyche 的想法: 让 Claude Code 生成无 AI 感高品质界面：比前端和 UI Pro Max 技能更强！ | 想要 Claude Code 搓出好看 … - 知乎]]
 
 ## Related
 - [[Vibe Coding Enhancement Workflow]]

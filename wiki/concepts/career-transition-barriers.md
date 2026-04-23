@@ -10,7 +10,7 @@ tags:
   - "professional-development"
 confidence: "high"
 created_at: "2026-04-20T00:24:41.161868"
-updated_at: "2026-04-20T16:00:00"
+updated_at: "2026-04-23T00:53:47.186985"
 ---
 
 # Career Transition Barriers (职业转型壁垒)
@@ -41,3 +41,6 @@ updated_at: "2026-04-20T16:00:00"
 ## 来源
 - [src: Zhihu Discussion: Career Transition to Strategic Management and Consulting]
 - [src: Zhihu Discussion: AI Agent Engineering Career Paths and Technical Approaches]
+## Related
+- [[Balanced Scorecard]]
+

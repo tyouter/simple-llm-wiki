@@ -10,12 +10,14 @@ tags:
   - "exponential-growth"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.893044"
 related:
   - "AI-Exponential Product Management"
   - "Cat Wu"
   - "Model-Capability-Driven Product Evolution"
   - "Anthropic"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # METR
@@ -67,4 +69,6 @@ ai-research, capability-measurement, benchmarking, exponential-growth
 - [[AI-Exponential Product Management]]
 - [[Cat Wu]]
 - [[Model-Capability-Driven Product Evolution]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Anthropic]]

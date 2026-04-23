@@ -12,12 +12,14 @@ tags:
   - "browser"
 confidence: "high"
 created_at: "2026-04-17T22:26:16.846985"
-updated_at: "2026-04-17T22:26:16.846985"
+updated_at: "2026-04-22T23:50:27.391837"
 related:
   - "Web Scraping Anti-Detection"
   - "Browser Fingerprinting"
   - "Bright Data (亮数据)"
   - "Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection"
+  - "朱卫军"
+  - "知乎讨论-使用Selenium采集数据被检测"
 ---
 
 # Managed Scraping Browser
@@ -62,6 +64,8 @@ Managed scraping browsers exist in a legal gray area. While the technology itsel
 - [[Browser Fingerprinting]]
 - [[Bright Data (亮数据)]]
 - [[Zhihu Discussion: Using Bright Data's Scraping Browser to Bypass Anti-Bot Detection]]
+- [[朱卫军]]
+- [[知乎讨论-使用Selenium采集数据被检测]]
 
 ## Related
 - [[Web Scraping Anti-Detection]]

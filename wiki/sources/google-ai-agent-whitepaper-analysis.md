@@ -11,7 +11,7 @@ tags:
   - "system-engineering"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:33.256725"
 ---
 
 # Google AI Agent 白皮书拆解 - Agent的正确答案
@@ -68,9 +68,10 @@ Agent 是下一代软件抽象层，具备以下特征：
 - **点赞数**: 2.5K
 
 ## Related
+- [[GUI Agent - 嵌入网页的AI操作员]]
 
-- [[AI-Agent]]
-- [[Agent-Architecture]]
-- [[MCP-Protocol]]
-- [[Multi-Agent-Orchestration]]
-- [[Google-AI]]
+- [[Agent]]
+- [[Agent]]
+- [[Mcp]]
+- [[Agent]]
+- [[Google]]

@@ -11,7 +11,7 @@ tags:
   - MCP
 confidence: medium
 created_at: "2026-04-20T21:00:00"
-updated_at: "2026-04-20T21:00:00"
+updated_at: "2026-04-23T00:42:21.984420"
 ---
 
 # 为AI构建代码知识图谱的两个Skill
@@ -56,4 +56,4 @@ updated_at: "2026-04-20T21:00:00"
 - [[Agent Skills与MCP技术对比与企业应用]]
 - [[Anthropic Skills工程方法]]
 - [[Claude Code隐藏功能指南]]
-- [[代码知识图谱构建]]
+- 代码知识图谱构建

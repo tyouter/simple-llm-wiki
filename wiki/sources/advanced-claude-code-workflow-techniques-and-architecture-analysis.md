@@ -11,7 +11,7 @@ tags:
   - "source-document"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.977969"
-updated_at: "2026-04-18T00:50:50.977969"
+updated_at: "2026-04-22T23:50:24.200343"
 related:
   - "Claude Code"
   - "Plan Mode"
@@ -19,6 +19,11 @@ related:
   - "Single-Loop Architecture"
   - "雁南飞"
   - "Vivek Aithal"
+  - "Autonomous Task Planning & Execution"
+  - "Claude Code Automation/Configuration Management"
+  - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
+  - "Mizore的Claude Code一键配置开源"
+  - "OpenAkita: Open-Source Self-Evolving AI Assistant Framework"
 ---
 
 # Advanced Claude Code Workflow Techniques and Architecture Analysis
@@ -101,4 +106,9 @@ Philosophy of letting the model determine how to search rather than rigid RAG sy
 - [[Context Window Management]]
 - [[Single-Loop Architecture]]
 - [[雁南飞]]
+- [[Autonomous Task Planning & Execution]]
+- [[Claude Code Automation/Configuration Management]]
+- [[Mizore's Claude Code Automation Toolkit and Paper Reading Skill]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[OpenAkita: Open-Source Self-Evolving AI Assistant Framework]]
 - [[Vivek Aithal]]

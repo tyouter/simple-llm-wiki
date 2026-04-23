@@ -10,12 +10,13 @@ tags:
   - "obsidian"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.507419"
-updated_at: "2026-04-21T16:31:03.507419"
+updated_at: "2026-04-22T23:50:23.942204"
 related:
   - "Obsidian Dragger"
   - "Community-Driven Feature Development"
   - "Obsidian Plugin Ecosystem"
   - "BRAT (Beta Reviewer's Auto-update Tool)"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Ariestar** is the GitHub username of the developer who created and maintains the [[Obsidian Dragger]] plugin for [[Obsidian]]. Their work exemplifies [[Community-Driven Feature Development]] in action: encountering a personal workflow pain point (difficult content rearrangement in Obsidian, especially on mobile), searching for existing solutions, finding none adequate, and building a new solution from scratch.
@@ -28,4 +29,5 @@ Ariestar's contribution addresses a specific [[Mobile-First Note-Taking UX]] cha
 - [[Obsidian Dragger]]
 - [[Community-Driven Feature Development]]
 - [[Obsidian Plugin Ecosystem]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[BRAT (Beta Reviewer's Auto-update Tool)]]

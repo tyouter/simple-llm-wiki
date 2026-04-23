@@ -10,12 +10,15 @@ tags:
   - "development-acceleration"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.942812"
 related:
   - "AI-Exponential Product Management"
   - "Prototype-First Development"
   - "Cat Wu"
   - "Anthropic"
+  - "Edge Exploration Projects (Side Quests)"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Bihan Jiang
@@ -62,4 +65,7 @@ product-leadership, team-productivity, ai-impact, development-acceleration
 - [[AI-Exponential Product Management]]
 - [[Prototype-First Development]]
 - [[Cat Wu]]
+- [[Edge Exploration Projects (Side Quests)]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Anthropic]]

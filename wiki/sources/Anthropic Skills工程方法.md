@@ -13,12 +13,92 @@ tags:
   - "source"
 confidence: "high"
 created_at: "2026-04-17T22:06:46.779630"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:44:54.168173"
 related:
   - "Skills与工具区别"
   - "Anthropic"
   - "Ai学习的老章"
   - "skill-creator"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
+  - "Agent Skills知识库检索vs传统RAG"
+  - "Claude Code 2026完整新手教程"
+  - "为AI构建代码知识图谱的两个Skill"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
 ---
 
 # Anthropic Skills工程方法
@@ -29,7 +109,7 @@ related:
 ## 核心洞察
 
 ### 从概念到工程实践
-本文档代表[[Skills与工具区别]]概念的重大演进，将其从理论转化为可实施的具体框架。核心主张是将Skills视为永久可复用资产而非一次性Prompt。
+本文档代表[[Skill]]概念的重大演进，将其从理论转化为可实施的具体框架。核心主张是将Skills视为永久可复用资产而非一次性Prompt。
 
 ### Skill工程生命周期
 概述Skill开发的系统化流程：
@@ -47,9 +127,9 @@ related:
 强调使用[[Anthropic]]在GitHub提供的官方`skill-creator`模板，提供结构化目录并指导工程流程。
 
 ## 与其他概念的关联
-- **[[Skills与工具区别]]：** 为该理论区别提供工程化实践实现
-- **[[GStack：基于角色的Claude Code AI开发工作流]]：** Skills被呈现为编码和自动化结构化基于角色工作流的方法
-- **[[AI工具链/组合]]：** 倡导创建多个小型专注Skills让Agent组合解决复杂任务，呼应专业化与组合主题
+- **[[Skill]]：** 为该理论区别提供工程化实践实现
+- **[[Claude]]：** Skills被呈现为编码和自动化结构化基于角色工作流的方法
+- **AI工具链/组合：** 倡导创建多个小型专注Skills让Agent组合解决复杂任务，呼应专业化与组合主题
 
 ## 矛盾/独特立场
 本源文档呈现高度结构化、工程驱动的视角，可能与更随意或纯Prompt中心的Agent能力开发方法形成对比。核心论断："Prompt是一次性的。Skill才是资产。"
@@ -61,4 +141,4 @@ related:
 agent-engineering, skill-development, anthropic-claude, iterative-optimization, workflow-automation, zhihu
 
 ## 相关
-[[Skills与工具区别]], [[Anthropic]], [[Ai学习的老章]], [[skill-creator]], [[渐进式披露机制]], [[Skill工程生命周期]], [[描述触发器优化]]
+[[Skill]], [[Anthropic]], [[Ai学习的老章]], [[skill-creator]], 渐进式披露机制, [[Skill]], 描述触发器优化

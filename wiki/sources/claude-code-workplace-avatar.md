@@ -12,7 +12,7 @@ tags:
   - "workflow"
 confidence: "medium"
 created_at: "2026-04-20T00:00:00"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:42:21.329226"
 ---
 
 # Claude Code职场替身应用
@@ -69,8 +69,8 @@ Claude Code维护的工作文档包含：
 - [[Claude Code Skills系统]]
 - [[Claude Code子代理]]
 - [[Plan Mode工作流]]
-- [[AI编程工作流]]
+- [[GSD AI编程工作流指南]]
 
 ## 相关实体
 
-- [[珍妮丁丁AI说]]
+- 珍妮丁丁AI说

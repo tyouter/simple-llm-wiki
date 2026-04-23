@@ -3,6 +3,8 @@
 This is the content catalog for your personal knowledge base.
 The LLM updates this file on every ingest.
 
+> **Deep Scan 2026-04-23**: 1,426 pages (496 concepts, 288 entities, 642 sources) | 41,140 wikilinks | 2.05M chars
+
 ## Concepts
 
 - [[知识编译器模式]] — 知识管理范式，LLM提前编译原始文档为结构化知识表示

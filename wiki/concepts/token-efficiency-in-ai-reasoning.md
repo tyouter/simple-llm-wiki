@@ -11,12 +11,20 @@ tags:
   - "complexity-analysis"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-22T23:50:25.156736"
 related:
   - "Domain-Specific Language (DSL) for AI Agents"
   - "Tool-Integrated Reasoning (TIR)"
   - "Agent Operating System"
   - "AI Agent"
+  - "Agent Skills Framework|Skills"
+  - "Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework"
+  - "Chain-of-Thought (CoT) Reasoning)"
+  - "Context Engineering"
+  - "Cost Management in AI Development"
+  - "Enumeration Path Dependency"
+  - "面壁 (FaceWall)"
+  - "Zhihu Discussion: Learning Method Transition Crisis"
 ---
 
 # Token Efficiency in AI Reasoning
@@ -79,6 +87,14 @@ Understanding token efficiency patterns is crucial for [[AI Agent]] engineers de
 token-optimization, cost-efficiency, system-performance, ai-agent, complexity-analysis
 
 ## Related
+- [[Agent Skills Framework|Skills]]
+- [[Anthropic Skills: Engineering Approach to Agent Capability Development|Anthropic Skills Framework]]
+- [[Chain-of-Thought (CoT) Reasoning)]]
+- [[Context Engineering]]
+- [[Cost Management in AI Development]]
+- [[Enumeration Path Dependency]]
+- [[面壁 (FaceWall)]]
+- [[Zhihu Discussion: Learning Method Transition Crisis]]
 [[Domain-Specific Language (DSL) for AI Agents]], [[Tool-Integrated Reasoning (TIR)]], [[Agent Operating System]], [[AI Agent]]
 
 ## Related

@@ -3,6 +3,7 @@ title: "James Gleick"
 type: "entity"
 sources:
   - "raw/articles/441d7d2d_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
+  - "raw/articles/cb5b7cde_大神们是从哪获取优质信息比如哪些微信公众号知乎大神们是从哪获取优质信息比如哪些微信公众号知乎.md"
 tags:
   - "author"
   - "science-history"
@@ -10,11 +11,18 @@ tags:
   - "information-theory"
 confidence: "high"
 created_at: "2026-04-17T21:56:51.707991"
-updated_at: "2026-04-17T21:56:51.707991"
+updated_at: "2026-04-23T00:42:20.902958"
 related:
   - "Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development"
   - "Information Fidelity & Verification"
   - "Information Source Curation"
+  - "Claude Code"
+  - "Cli"
+  - "Api"
+  - "Sop"
+  - "Prd"
+  - "大神们是从哪获取优质信息，比如哪些微信公众号，知乎?"
+  - "Deepseek"
 ---
 
 # James Gleick
@@ -23,7 +31,7 @@ related:
 James Gleick is an American author, journalist, and biographer known for his writings on science and technology, particularly the history and cultural impact of information theory and chaos theory.
 
 ## Relevance to Knowledge Management
-He is quoted at the conclusion of the [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]] with the seminal line:
+He is quoted at the conclusion of the [[Zhihu]] with the seminal line:
 
 > **"When information is cheap, attention becomes expensive."**
 
@@ -35,11 +43,18 @@ Gleick's work explores how the nature of information itself shapes society, scie
 His inclusion signifies that the guide's author views effective information management not just as a productivity hack, but as a critical response to a fundamental shift in the human condition brought about by the information age.
 
 ## Related
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[Information Fidelity & Verification]]
 - [[Information Source Curation]]
+- [[Claude Code]]
+- [[Cli]]
+- [[Api]]
+- [[Sop]]
+- [[Prd]]
+- [[大神们是从哪获取优质信息，比如哪些微信公众号，知乎?]]
+- [[Deepseek]]
 
 ## Related
-- [[Zhihu Discussion: Comprehensive Guide to High-Quality Information Sources for Learning and Career Development]]
+- [[Zhihu]]
 - [[Information Fidelity & Verification]]
 - [[Information Source Curation]]

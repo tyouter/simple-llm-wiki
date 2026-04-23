@@ -12,7 +12,7 @@ tags:
   - "vibe-coding"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.649651"
 ---
 
 # Mirror Fish：多智能体AI预测引擎开源项目
@@ -68,7 +68,7 @@ Mirror Fish是一个基于多智能体的新一代AI预测引擎，通过"上帝
 
 ## Related
 
-- [[多智能体系统]]
+- 多智能体系统
 - [[Vibe Coding]]
-- [[AI预测引擎]]
-- [[开源AI项目]]
+- AI预测引擎
+- 开源AI项目

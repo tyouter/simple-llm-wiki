@@ -11,13 +11,15 @@ tags:
   - "cognitive-science"
 confidence: "high"
 created_at: "2026-04-17T21:57:40.251930"
-updated_at: "2026-04-17T21:57:40.251930"
+updated_at: "2026-04-23T00:42:43.387197"
 related:
   - "Enumeration Path Dependency"
   - "Knowledge Compression"
   - "宙巡"
   - "Zhihu Discussion: Learning Method Transition Crisis"
   - "Domain-Specific Language (DSL) for AI Agents"
+  - "Internal Conflict (内耗) in Learning"
+  - "希言自然"
 ---
 
 # Derivation-First Learning
@@ -52,6 +54,9 @@ This concept is analogous to designing a system with a clean, principled archite
 pedagogy, learning-theory, problem-solving, mathematics-education, cognitive-science
 
 ## Related
+- [[Internal Conflict (内耗) in Learning]]
+- [[希言自然]]
+- [[比亚迪新西兰放大招！3款新车价压燃油车，提前5年破局]]
 [[Enumeration Path Dependency]], [[Knowledge Compression]], [[宙巡]], [[Zhihu Discussion: Learning Method Transition Crisis]], [[Domain-Specific Language (DSL) for AI Agents]]
 
 ## Related

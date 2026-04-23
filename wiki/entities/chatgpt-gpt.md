@@ -11,13 +11,14 @@ tags:
   - "模拟推演"
 confidence: "high"
 created_at: "2026-04-21T16:13:59.057831"
-updated_at: "2026-04-21T16:13:59.057831"
+updated_at: "2026-04-23T00:42:26.712183"
 related:
   - "推理层（决策第三步）"
   - "工具链专业化组合"
   - "AI Reasoning Models"
   - "决策推演 vs. 决策表达"
   - "Claude"
+  - "AI决策五步法"
 ---
 
 ## 概述
@@ -34,4 +35,5 @@ related:
 - [[工具链专业化组合]]
 - [[AI Reasoning Models]]
 - [[决策推演 vs. 决策表达]]
+- [[AI决策五步法]]
 - [[Claude]]

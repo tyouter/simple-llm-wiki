@@ -1,0 +1,507 @@
+---
+title: "Git"
+type: "concept"
+sources:
+  - "raw/articles/093f7d65_gstackClaude工程团队.md"
+  - "raw/articles/1ecc9a25_如何评价Karpathy提出的个人知识库的架构如何评价Karpathy提出的个人知识库的架构.md"
+  - "raw/articles/25f38aec_一般技术大牛都在哪里写博客一般技术大牛都在哪里写博客.md"
+  - "raw/articles/27bcfccd_Claude Code 深度用法指南那些让效率翻倍的隐藏技巧.md"
+  - "raw/articles/2a9adff3_Sylearn 的想法 Github项目推荐TypeWords打字式背单词 TypeWords 是一个开源的网页端英语学习工具主打用敲键盘 -.md"
+  - "raw/articles/2fd8f209_Vibe coding 做的网站太难看怎么办分享我自己的解决技巧.md"
+  - "raw/articles/40136f0f_为什么感觉现在AI Agent都是雷声大雨点小为什么感觉现在AI Agent都是雷声大雨点小.md"
+  - "raw/articles/53771cfc_最好用的Agent框架是什么最好用的Agent框架是什么.md"
+  - "raw/articles/825c9077_为什么我觉得 AI 写代码纯属添乱为什么我觉得 AI 写代码纯属添乱.md"
+  - "raw/articles/87f23147_Mizore 的想法 用了半年Claude Code 我把我的一键配置开源了 刚开始用 Claude Code 的时候每次新项目都要重新配CL -.md"
+  - "raw/articles/a13ee1f8_大家的obsidian笔记都是怎么做的大家的obsidian笔记都是怎么做的.md"
+  - "raw/articles/a1824936_你写过什么不错的开源项目你写过什么不错的开源项目.md"
+  - "raw/articles/b5d1922b_谷歌提出CLI的7条设计原则AI和人类都友好的CLI长这样.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/articles/cadedf15_钱嘟嘟左卫门 的想法 开源自我进化AI助手框架OpenAkita OpenAkita是一个开源的具备自我进化能力的开源AI助手框架在关闭 - 知乎.md"
+  - "raw/articles/dff29dae_最难调试修复的 bug 是怎样的最难调试修复的 bug 是怎样的.md"
+  - "raw/articles/edab6de9_龙虾装了这个Skill显得其它的都像个废物.md"
+  - "raw/articles/f46fff1a_playwright自动化脚本工具打开浏览器网页被检测为爬虫导致无法执行脚本代码请问怎么解决playwright自动化脚本工具打开浏览器网页被检测为爬虫.md"
+  - "raw/articles/fa5b8d2c_浏览器自动化工具 SeleniumPlaywrightPuppeteer 做爬虫有哪些弊病浏览器自动化工具 SeleniumPlaywrightPu.md"
+  - "raw/videos/00b97521_全网最细 OpenClaw 教学完整部署飞书连接白嫖LLM无限进化框架看完彻底学会.md"
+  - "raw/videos/08c54c6d_生产环境稳定运行半年多一个解析任意复杂PDF的开源项目.md"
+  - "raw/videos/107b5267_微软投资了一个要取代GitHub的项目而且是GitHub自己的前CEO做的.md"
+  - "raw/videos/136f10d5_开源 Figma 来了AI 原生设计编辑器 OpenPencil7MB 本地运行还能多人协作.md"
+  - "raw/videos/155ba87e_自然语言控制网页界面真正的网页AI操作员.md"
+  - "raw/videos/191d8cac_沉默聊科技更新了一条视频快来围观.md"
+  - "raw/videos/1a27c5f5_bilibili-cli.md"
+  - "raw/videos/1a8159fd_Stop Writing Bad CLAUDE.md Files.md"
+  - "raw/videos/1d53e060_主流AI编程工具背后的提示词竟然被这一个项目开源了.md"
+  - "raw/videos/1dcea22e_Everything-Claude-Code 深度剖析54K Star 的 AI 开发生态系统是如何构建的.md"
+  - "raw/videos/29302ee4_我的Obsidian与Gemini命令行工作流.md"
+  - "raw/videos/2c940938_爆肝5小时实测国产大模型横评Coding Plan避坑指南.md"
+  - "raw/videos/2e614be5_Learn 90 of Building AI Agents in 30 Minutes.md"
+  - "raw/videos/346202c5_全球远程工作岗位列表 远程办公 GitHub 王仕宇 JavaPub 工作列表.md"
+  - "raw/videos/3a979d8b_github开源AI短剧生成工具docker一键部署全流程一站式搞定.md"
+  - "raw/videos/3b69a86d_全球远程工作岗位列表 远程办公 GitHub 王仕宇 JavaPub 工作列表.md"
+  - "raw/videos/469dfefa_GitHub开源情报分析器实时追踪全球热点.md"
+  - "raw/videos/4c31509e_Stop Copying Files Into Obsidian Folder Bridge Plugin.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
+  - "raw/videos/62297024_做 PPT是最消耗生命的体力活尤其是把几万字的Word压成汇报这个项目把这件事做成了一套流程.md"
+  - "raw/videos/63a4625f_设计即将完全重构这不是观点这是事实人类最难的视频真真正正的被AI攻克了Seedance 2.0即将改变一切生产模式公司构架行业形态都将被彻底颠覆.md"
+  - "raw/videos/6612c7a5_爬虫界的核弹级开源项目快速获取网页核心内容.md"
+  - "raw/videos/6cc50193_本地跑 Agent 抓网页太搞心态了动不动弹个浏览器抢你鼠标遇到登录框直接卡死试试这个 web-access 插件.md"
+  - "raw/videos/6f19aace_2万人点赞的提示词优化器开源项目傻瓜式操作写出专业提示词.md"
+  - "raw/videos/712bf9fc_AutoResearch 让Claude像Karpathy一样自己迭代自己代码内容性能全自动无限优化Claude Code Skill实战分.md"
+  - "raw/videos/7ab5e223_卡尼2026达沃斯封神演讲获全场起立鼓掌旧世界真的回不去了.md"
+  - "raw/videos/7fbdf185_How to Use Claude Skills as a Designer.md"
+  - "raw/videos/82971906_对谢赛宁的7小时马拉松访谈世界模型逃出硅谷反OpenAIAMI Labs两次拒绝Ilya杨立昆李飞飞和42.md"
+  - "raw/videos/8690a67a_FULL Claude Code Tutorial for Beginners in 2026 Step-By-Step.md"
+  - "raw/videos/8b4f5533_我做了两个 Skill为 AI 构建代码知识图谱.md"
+  - "raw/videos/8d309787_GitHub 4.9万星 mem0 开源框架架构解析与实战.md"
+  - "raw/videos/8d7b65af_opencli网站直接变 CLI 工具.md"
+  - "raw/videos/92471d0f_从会用AI到构建AI协作框架.md"
+  - "raw/videos/96de1665_Markdown也能做精美PPT Slidev不容错过.md"
+  - "raw/videos/9c48ef85_Agent Skills 做知识库检索能比传统 RAG 效果更好吗.md"
+  - "raw/videos/ab312a84_AI真正改变的不是效率而是决策质量.md"
+  - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
+  - "raw/videos/b9661a04_Obsidain 补完计划像 Notion 一样丝滑拖拽文本块Dragger.md"
+  - "raw/videos/bafdf2e5_Obsidian Claudian插件如何终结了我所有案头工作.md"
+  - "raw/videos/bf8dc504_当场投资3000万20岁大四学生10天Vibe Coding开源项目.md"
+  - "raw/videos/c1b57a29_Every Claude Code Concept Explained for Normal People.md"
+  - "raw/videos/cad65b02_亲测有效一个Skill让Claude秒变产品经理.md"
+  - "raw/videos/cbf5a163_Claude Code Now Has SUPERPOWERS plugin.md"
+  - "raw/videos/ced2ad0c_DeerFlow 2.0字节跳动开源下一代超级 Agent 员工.md"
+  - "raw/videos/d241c58b_一个CLI干掉所有MCP工具省99的token mcp2cli.md"
+  - "raw/videos/d41992d6_本地跑 Agent 抓网页太搞心态了动不动弹个浏览器抢你鼠标遇到登录框直接卡死试试这个 web-access 插件.md"
+  - "raw/videos/d88e13cd_用Claude Code自动编排n8n工作流告别手搓.md"
+  - "raw/videos/d907b96c_Claude CodeObsidian每天自动读论文早上到工位来上这么一篇真是惬意呀.md"
+  - "raw/videos/dadd5906_How I use Claude Code Meta Staff Engineer Tips.md"
+  - "raw/videos/e65e94af_给 AI Agent 装上全网感知能力CLI联网神器 Agent-Reach 开源让 OpenClaw 可以自由冲浪 B 站推特小红书.md"
+  - "raw/videos/e6c5fa80_我用一个 Skill把 AI 变成了专业前端设计师.md"
+  - "raw/videos/eb586db5_Obsidian从0到1完整攻略 搞定同步打通AI.md"
+  - "raw/videos/ecbd3463_未来新的高收入技能组合.md"
+  - "raw/videos/fe2f2616_开源预测万物MiroFish群体智能引擎.md"
+  - "raw/videos/feca4e53_GitNexus代码知识图谱让 AI 编程助手真正看懂整个项目.md"
+  - "raw/webpages/1cc1e659_Search code repositories users issues pull requests...Provide feedbackSave.md"
+  - "raw/webpages/b0ac3ea0_汽车电子行业英语缩写中英对照_汽车中控屏英文-CSDN博客汽车电子行业英语缩写中英对照.md"
+tags:
+  - "git"
+confidence: "medium"
+created_at: "2026-04-22T23:49:30.059360"
+updated_at: "2026-04-23T07:17:34.596758"
+related:
+  - "Harness Engineering"
+  - "Multi-Agent"
+  - "Claude Code"
+  - "Claude.Md"
+  - "Conductor"
+  - "Openclaw"
+  - "Brian Chesky"
+  - "Claude Code"
+  - "Conductor"
+  - "Openclaw"
+  - "gstack：Claude工程团队"
+  - "Knowledge Base"
+  - "Code Review"
+  - "Embedding"
+  - "Obsidian"
+  - "Markdown"
+  - "Andrej Karpathy"
+  - "Steph Ango"
+  - "Notebooklm"
+  - "如何评价Karpathy提出的个人知识库的架构？"
+  - "Refactoring"
+  - "Ai Agent"
+  - "Gemini"
+  - "Slidev"
+  - "Mitchell Hashimoto"
+  - "Simon Willison"
+  - "Armin Ronacher"
+  - "一般技术大牛都在哪里写博客？"
+  - "Skills"
+  - "Agent"
+  - "Anthropic"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Typewords"
+  - "Github"
+  - "知乎"
+  - "Sylearn 的想法: Github项目推荐：TypeWords｜打字式背单词 | TypeWords 是一个开源的网页端英语学习工具，主打“用敲键盘… - 知乎"
+  - "Vibe Coding"
+  - "Claudekit"
+  - "Designprompts"
+  - "Claude"
+  - "Vibe coding 做的网站太难看怎么办？分享我自己的解决技巧"
+  - "Rag"
+  - "Langgraph"
+  - "Openai"
+  - "Tavily"
+  - "为什么感觉现在AI Agent都是雷声大雨点小？"
+  - "Plan Mode"
+  - "Subagent"
+  - "Cloudflare"
+  - "最好用的Agent框架是什么？"
+  - "Compound Engineering"
+  - "Context Engineering"
+  - "Ethan Mollick"
+  - "为什么我觉得 AI 写代码纯属添乱?"
+  - "Playwright"
+  - "Skill"
+  - "Mizore"
+  - "Mizore 的想法: 用了半年Claude Code， 我把我的一键配置开源了 | 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎"
+  - "Deepseek"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "Api"
+  - "Minimax M2.5"
+  - "Kimi K2.5"
+  - "Notion"
+  - "你写过什么不错的开源项目？"
+  - "Copilot"
+  - "Cursor"
+  - "Google"
+  - "谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样"
+  - "Coding Plan"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "钱嘟嘟左卫门 的想法: 开源自我进化AI助手框架：OpenAkita | OpenAkita是一个开源的具备自我进化能力的开源AI助手框架，在关闭… - 知乎"
+  - "Meta"
+  - "小红书"
+  - "最难调试修复的 bug 是怎样的？"
+  - "Docker"
+  - "Bridge"
+  - "Bilibili"
+  - "龙虾装了这个Skill，显得其它的都像个废物"
+  - "Cli"
+  - "Bright Data"
+  - "Microsoft"
+  - "playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？"
+  - "Selenium"
+  - "Mcp"
+  - "浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？"
+  - "b站"
+  - "全网最细 OpenClaw 教学：完整部署+飞书连接+白嫖LLM+无限进化框架，看完彻底学会！！！"
+  - "Mineru"
+  - "生产环境稳定运行半年多，一个解析任意复杂PDF的开源项目"
+  - "微软投资了一个要取代GitHub的项目——而且是GitHub自己的前CEO做的"
+  - "Open Pencil"
+  - "Figma"
+  - "Mit"
+  - "开源 Figma 来了！AI 原生设计编辑器 OpenPencil，7MB 本地运行还能多人协作"
+  - "自然语言控制网页界面，真正的网页AI操作员"
+  - "Scrapling"
+  - "【沉默聊科技】更新了一条视频，快来围观！"
+  - "Bilibili-Cli"
+  - "bilibili-cli"
+  - "Progressive Disclosure"
+  - "Hooks"
+  - "Stop Writing Bad CLAUDE.md Files"
+  - "Complexity"
+  - "主流AI编程工具背后的提示词，竟然被这一个项目开源了"
+  - "Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的"
+  - "我的Obsidian与Gemini命令行工作流"
+  - "爆肝5小时，实测国产大模型横评，Coding Plan避坑指南"
+  - "Open Source"
+  - "Mem0"
+  - "Learn 90% of Building AI Agents in 30 Minutes"
+  - "全球远程工作岗位列表。  #远程办公 #GitHub #王仕宇 #JavaPub #工作列表"
+  - "github开源AI短剧生成工具、docker一键部署、全流程一站式搞定"
+  - "GitHub开源情报分析器，实时追踪全球热点"
+  - "Stop Copying Files Into Obsidian | Folder Bridge Plugin"
+  - "Google Stitch"
+  - "Vibe Design"
+  - "Tailwind"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "做 PPT是最消耗生命的体力活，尤其是把几万字的Word压成汇报。这个项目把这件事做成了一套流程"
+  - "Lora"
+  - "Qwen"
+  - "设计即将完全重构！这不是观点，这是事实！人类最难的视频真真正正的被AI攻克了！Seedance 2.0即将改变一切！生产模式，公司构架，行业形态都将被彻底颠覆！"
+  - "爬虫界的核弹级开源项目，快速获取网页核心内容"
+  - "本地跑 Agent 抓网页太搞心态了！动不动弹个浏览器抢你鼠标，遇到登录框直接卡死。试试这个 web-access 插件"
+  - "2万人点赞的提示词优化器开源项目，傻瓜式操作写出专业提示词"
+  - "Autoresearch"
+  - "AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分"
+  - "卡尼2026达沃斯“封神”演讲，获全场起立鼓掌！旧世界真的回不去了！"
+  - "Design System"
+  - "How to Use Claude Skills as a Designer"
+  - "Reinforcement Learning"
+  - "Decision Making"
+  - "Baseline"
+  - "Princeton"
+  - "Youtube"
+  - "对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42"
+  - "FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)"
+  - "我做了两个 Skill，为 AI 构建代码知识图谱"
+  - "GitHub 4.9万星 | mem0 开源框架架构解析与实战"
+  - "opencli：网站直接变 CLI 工具"
+  - "从会用AI，到构建AI协作框架"
+  - "Markdown也能做精美PPT? Slidev不容错过!"
+  - "Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？"
+  - "Gpt"
+  - "AI真正改变的，不是效率，而是决策质量"
+  - "Chatgpt"
+  - "Kimi"
+  - "买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）"
+  - "Dragger"
+  - "Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger"
+  - "Obsidian Claudian插件如何终结了我所有案头工作"
+  - "陈天桥"
+  - "当场投资3000万！20岁大四学生10天Vibe Coding开源项目！"
+  - "Extended Thinking"
+  - "Context Window"
+  - "Mental Model"
+  - "Worktree"
+  - "Every Claude Code Concept Explained for Normal People"
+  - "Product Manager Skill"
+  - "Prd"
+  - "亲测有效！一个Skill让Claude秒变产品经理"
+  - "Superpowers"
+  - "Superpowers Plugin"
+  - "Claude Code Now Has SUPERPOWERS! (plugin)"
+  - "Deerflow"
+  - "DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工"
+  - "Mcp2Cli"
+  - "Hacker News"
+  - "一个CLI干掉所有MCP工具，省99%的token mcp2cli"
+  - "用Claude Code自动编排n8n工作流，告别手搓。"
+  - "Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~"
+  - "Git Worktrees"
+  - "How I use Claude Code (Meta Staff Engineer Tips)"
+  - "Agent-Reach"
+  - "给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书"
+  - "我用一个 Skill，把 AI 变成了专业前端设计师"
+  - "Obsidian从0到1完整攻略 | 搞定同步+打通AI"
+  - "未来新的高收入技能组合"
+  - "Mirofish"
+  - "【开源】预测万物，MiroFish群体智能引擎"
+  - "Gitnexus"
+  - "GitNexus：代码→知识图谱，让 AI 编程助手真正看懂整个项目"
+  - "Opencode"
+  - "Github Copilot"
+  - "Search code, repositories, users, issues, pull requests..."
+  - "微博"
+  - "汽车电子行业英语、缩写、中英对照_汽车中控屏英文-CSDN博客"
+  - "CLAUDE.md"
+  - "DeepSeek"
+  - "GPT"
+  - "LangGraph"
+  - "MiniMax M2.5"
+  - "TypeWords"
+  - "歸藏"
+  - "Claude Code Superpowers插件详解"
+  - "Obsidian从0到1完整攻略"
+  - "知乎讨论：大家的obsidian笔记都是怎么做的"
+---
+
+# Git
+
+## 定义
+
+Git - 分布式版本控制系统
+
+## 相关概念
+
+- [[Harness Engineering]]
+- [[Multi-Agent]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+
+## 相关实体
+
+- [[Brian Chesky]]
+- [[Claude Code]]
+- [[Conductor]]
+- [[OpenClaw]]
+
+## Related
+- [[Harness Engineering]]
+- [[Multi-Agent]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[Conductor]]
+- [[OpenClaw]]
+- [[Brian Chesky]]
+- [[Claude Code]]
+- [[Conductor]]
+- [[gstack：Claude工程团队]]
+- [[Knowledge Base]]
+- [[Code Review]]
+- [[Embedding]]
+- [[Obsidian]]
+- [[Markdown]]
+- [[Andrej Karpathy]]
+- [[Steph Ango]]
+- [[Notebooklm]]
+- [[如何评价Karpathy提出的个人知识库的架构？]]
+- [[Refactoring]]
+- [[AI Agent]]
+- [[Gemini]]
+- [[Slidev]]
+- [[Mitchell Hashimoto]]
+- [[Simon Willison]]
+- [[Armin Ronacher]]
+- [[一般技术大牛都在哪里写博客？]]
+- [[Skills]]
+- [[Agent]]
+- [[Anthropic]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Typewords]]
+- [[GitHub]]
+- [[知乎]]
+- TypeWords 是一个开源的网页端英语学习工具，主打“用敲键盘… - 知乎
+- [[Vibe Coding]]
+- [[Claudekit]]
+- [[Designprompts]]
+- [[Claude]]
+- [[Vibe coding 做的网站太难看怎么办？分享我自己的解决技巧]]
+- [[Rag]]
+- [[LangGraph]]
+- [[OpenAI]]
+- [[Tavily]]
+- [[为什么感觉现在AI Agent都是雷声大雨点小？]]
+- [[Plan Mode]]
+- [[Subagent]]
+- [[Cloudflare]]
+- [[最好用的Agent框架是什么？]]
+- [[Compound Engineering]]
+- [[Context Engineering]]
+- [[Ethan Mollick]]
+- [[为什么我觉得 AI 写代码纯属添乱?]]
+- [[Playwright]]
+- [[Skill]]
+- [[Mizore]]
+- 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎
+- [[Deepseek]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[Api]]
+- [[MiniMax M2.5]]
+- [[Kimi K2.5]]
+- [[Notion]]
+- [[你写过什么不错的开源项目？]]
+- [[Copilot]]
+- [[Cursor]]
+- [[Google]]
+- [[谷歌提出CLI的7条设计原则，AI和人类都友好的CLI长这样]]
+- [[Coding Plan]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- OpenAkita是一个开源的具备自我进化能力的开源AI助手框架，在关闭… - 知乎
+- [[Meta]]
+- [[小红书]]
+- [[最难调试修复的 bug 是怎样的？]]
+- [[Docker]]
+- [[Bridge]]
+- [[Bilibili]]
+- [[龙虾装了这个Skill，显得其它的都像个废物]]
+- [[Cli]]
+- [[Bright Data]]
+- [[Microsoft]]
+- [[playwright自动化脚本工具打开浏览器网页被检测为爬虫，导致无法执行脚本代码，请问怎么解决？]]
+- [[Selenium]]
+- [[Mcp]]
+- [[浏览器自动化工具 Selenium，Playwright，Puppeteer 做爬虫有哪些弊病？]]
+- [[b站]]
+- [[全网最细 OpenClaw 教学：完整部署+飞书连接+白嫖LLM+无限进化框架，看完彻底学会！！！]]
+- [[Mineru]]
+- [[生产环境稳定运行半年多，一个解析任意复杂PDF的开源项目]]
+- [[微软投资了一个要取代GitHub的项目——而且是GitHub自己的前CEO做的]]
+- [[Open Pencil]]
+- [[Figma]]
+- [[Mit]]
+- [[开源 Figma 来了！AI 原生设计编辑器 OpenPencil，7MB 本地运行还能多人协作]]
+- [[自然语言控制网页界面，真正的网页AI操作员]]
+- [[Scrapling]]
+- [[【沉默聊科技】更新了一条视频，快来围观！]]
+- [[Bilibili-Cli]]
+- [[bilibili-cli]]
+- [[Progressive Disclosure]]
+- [[Hooks]]
+- [[Stop Writing Bad CLAUDE.md Files]]
+- [[Complexity]]
+- [[主流AI编程工具背后的提示词，竟然被这一个项目开源了]]
+- [[Everything-Claude-Code 深度剖析：54K Star 的 AI 开发生态系统是如何构建的]]
+- [[我的Obsidian与Gemini命令行工作流]]
+- [[爆肝5小时，实测国产大模型横评，Coding Plan避坑指南]]
+- [[Open Source]]
+- [[Mem0]]
+- [[Learn 90% of Building AI Agents in 30 Minutes]]
+- [[全球远程工作岗位列表。  #远程办公 #GitHub #王仕宇 #JavaPub #工作列表]]
+- [[github开源AI短剧生成工具、docker一键部署、全流程一站式搞定]]
+- [[GitHub开源情报分析器，实时追踪全球热点]]
+- [[Stop Copying Files Into Obsidian | Folder Bridge Plugin]]
+- [[Google Stitch]]
+- [[Vibe Design]]
+- [[Tailwind]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[做 PPT是最消耗生命的体力活，尤其是把几万字的Word压成汇报。这个项目把这件事做成了一套流程]]
+- [[Lora]]
+- [[Qwen]]
+- [[设计即将完全重构！这不是观点，这是事实！人类最难的视频真真正正的被AI攻克了！Seedance 2.0即将改变一切！生产模式，公司构架，行业形态都将被彻底颠覆！]]
+- [[爬虫界的核弹级开源项目，快速获取网页核心内容]]
+- [[本地跑 Agent 抓网页太搞心态了！动不动弹个浏览器抢你鼠标，遇到登录框直接卡死。试试这个 web-access 插件]]
+- [[2万人点赞的提示词优化器开源项目，傻瓜式操作写出专业提示词]]
+- [[Autoresearch]]
+- [[AutoResearch —— 让Claude像Karpathy一样“自己迭代自己”，代码/内容/性能全自动无限优化！（Claude Code Skill实战分]]
+- [[卡尼2026达沃斯“封神”演讲，获全场起立鼓掌！旧世界真的回不去了！]]
+- [[Design System]]
+- [[How to Use Claude Skills as a Designer]]
+- [[Reinforcement Learning]]
+- [[Decision Making]]
+- [[Baseline]]
+- [[Princeton]]
+- [[Youtube]]
+- [[对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、反OpenAI、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42]]
+- [[FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)]]
+- [[我做了两个 Skill，为 AI 构建代码知识图谱]]
+- mem0 开源框架架构解析与实战
+- [[opencli：网站直接变 CLI 工具]]
+- [[从会用AI，到构建AI协作框架]]
+- [[Markdown也能做精美PPT? Slidev不容错过!]]
+- [[Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？]]
+- [[GPT]]
+- [[AI真正改变的，不是效率，而是决策质量]]
+- [[Chatgpt]]
+- [[Kimi]]
+- [[买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）]]
+- [[Dragger]]
+- [[Obsidain 补完计划：像 Notion 一样丝滑拖拽文本块——Dragger]]
+- [[Obsidian Claudian插件如何终结了我所有案头工作]]
+- [[陈天桥]]
+- [[当场投资3000万！20岁大四学生10天Vibe Coding开源项目！]]
+- [[Extended Thinking]]
+- [[Context Window]]
+- [[Mental Model]]
+- [[Worktree]]
+- [[Every Claude Code Concept Explained for Normal People]]
+- [[Product Manager Skill]]
+- [[Prd]]
+- [[亲测有效！一个Skill让Claude秒变产品经理]]
+- [[Superpowers]]
+- [[Superpowers Plugin]]
+- [[Claude Code Now Has SUPERPOWERS! (plugin)]]
+- [[Deerflow]]
+- [[DeerFlow 2.0：字节跳动开源，下一代超级 Agent 员工]]
+- [[Mcp2Cli]]
+- [[Hacker News]]
+- [[一个CLI干掉所有MCP工具，省99%的token mcp2cli]]
+- [[用Claude Code自动编排n8n工作流，告别手搓。]]
+- [[Claude Code+Obsidian：每天自动读论文，早上到工位来上这么一篇真是惬意呀~]]
+- [[Git Worktrees]]
+- [[How I use Claude Code (Meta Staff Engineer Tips)]]
+- [[Agent-Reach]]
+- [[给 AI Agent 装上全网感知能力，CLI联网神器 Agent-Reach 开源，让 OpenClaw 可以自由冲浪 B 站/推特/小红书]]
+- [[我用一个 Skill，把 AI 变成了专业前端设计师]]
+- [[Obsidian从0到1完整攻略 | 搞定同步+打通AI]]
+- [[未来新的高收入技能组合]]
+- [[Mirofish]]
+- [[【开源】预测万物，MiroFish群体智能引擎]]
+- [[Gitnexus]]
+- [[GitNexus：代码→知识图谱，让 AI 编程助手真正看懂整个项目]]
+- [[Opencode]]
+- [[Github Copilot]]
+- [[Search code, repositories, users, issues, pull requests...]]
+- [[微博]]
+- [[汽车电子行业英语、缩写、中英对照_汽车中控屏英文-CSDN博客]]
+- [[CLAUDE.md]]
+- [[DeepSeek]]
+- [[GPT]]
+- [[LangGraph]]
+- [[MiniMax M2.5]]
+- [[TypeWords]]
+- [[歸藏]]
+- [[Claude Code Superpowers插件详解]]
+- [[Obsidian从0到1完整攻略]]
+- [[知乎讨论：大家的obsidian笔记都是怎么做的]]
+- [[OpenClaw]]

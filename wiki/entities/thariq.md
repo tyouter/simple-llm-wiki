@@ -10,11 +10,18 @@ tags:
   - "feature-announcement"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.393971"
-updated_at: "2026-04-17T21:50:12.393971"
+updated_at: "2026-04-23T00:42:20.959028"
 related:
   - "Claude Code"
   - "Boris"
   - "Context Pollution"
+  - "Obsidian"
+  - "Openclaw"
+  - "Markdown"
+  - "Skills"
+  - "Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Thariq
@@ -68,4 +75,11 @@ Mentioned in the "Claude Code Hidden Features Guide" as the announcer of the `/b
 ## Related
 - [[Claude Code]]
 - [[Boris]]
+- [[Obsidian]]
+- [[OpenClaw]]
+- [[Markdown]]
+- [[Skills]]
+- [[Claude Code 深度用法指南：那些让效率翻倍的隐藏技巧]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
 - [[Context Pollution]]

@@ -11,11 +11,14 @@ tags:
   - "programmer-culture"
 confidence: "high"
 created_at: "2026-04-17T21:46:36.747072"
-updated_at: "2026-04-17T21:46:36.747072"
+updated_at: "2026-04-23T00:42:20.562315"
 related:
   - "AI Content Saturation"
   - "Programmer-to-Blogger Transition"
   - "Zhihu Discussion: Technical Blogging Platforms and Influential Programmers"
+  - "Andrej Karpathy"
+  - "Paul Graham"
+  - "陈皓 (Cool Shell)"
 ---
 
 # Technical Blog Quality Hierarchy
@@ -31,7 +34,7 @@ A proposed ranking system for technical content sources, suggesting that persona
 5. **Content Farms/Aggregators**: Low-quality, SEO-optimized sites with minimal original insight.
 
 ## Context
-This concept emerged from a [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]] where users expressed frustration with [[AI Content Saturation]] on mainstream social media platforms. The hierarchy reflects a growing preference for authentic, practitioner-written content over algorithmically promoted material.
+This concept emerged from a [[Zhihu]] where users expressed frustration with [[AI Content Saturation]] on mainstream social media platforms. The hierarchy reflects a growing preference for authentic, practitioner-written content over algorithmically promoted material.
 
 ## Driving Factors
 - **Authenticity**: Independent blogs often contain unfiltered technical insights and lessons learned from real projects.
@@ -47,15 +50,18 @@ The hierarchy connects to the [[Programmer-to-Blogger Transition]], where succes
 - **Credibility Assessment**: Provides a framework for evaluating technical content sources.
 - **Career Development**: Highlights blogging as a valuable activity for establishing technical authority.
 
-**Source**: [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+**Source**: [[Zhihu]]
 
 ## Tags
 technical-blogging, content-quality, information-hierarchy, credibility-assessment, programmer-culture
 
 ## Related
-[[AI Content Saturation]], [[Programmer-to-Blogger Transition]], [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Andrej Karpathy]]
+- [[Paul Graham]]
+- [[陈皓 (Cool Shell)]]
+[[AI Content Saturation]], [[Programmer-to-Blogger Transition]], [[Zhihu]]
 
 ## Related
 - [[AI Content Saturation]]
 - [[Programmer-to-Blogger Transition]]
-- [[Zhihu Discussion: Technical Blogging Platforms and Influential Programmers]]
+- [[Zhihu]]

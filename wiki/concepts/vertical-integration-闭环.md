@@ -11,12 +11,17 @@ tags:
   - "operations"
 confidence: "high"
 created_at: "2026-04-18T22:51:14.213657"
-updated_at: "2026-04-18T22:51:14.213657"
+updated_at: "2026-04-23T00:42:26.383988"
 related:
   - "Industrial Moats/护城河"
   - "Financial vs. Industrial Logic"
   - "BYD (比亚迪)"
   - "China Manufacturing"
+  - "Financialization of Industry"
+  - "Geely (吉利汽车)"
+  - "Li Shufu (李书福)"
+  - "Wang Chuanfu (王传福)"
+  - "Industrial Logic"
 ---
 
 # Vertical Integration/闭环
@@ -56,4 +61,9 @@ concept, supply-chain, strategy, manufacturing, operations
 - [[Industrial Moats/护城河]]
 - [[Financial vs. Industrial Logic]]
 - [[BYD (比亚迪)]]
+- [[Financialization of Industry]]
+- [[Geely (吉利汽车)]]
+- [[Li Shufu (李书福)]]
+- [[Wang Chuanfu (王传福)]]
+- [[Industrial Logic]]
 - [[China Manufacturing]]

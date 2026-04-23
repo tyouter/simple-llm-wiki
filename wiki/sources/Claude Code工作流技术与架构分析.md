@@ -11,7 +11,7 @@ tags:
   - "source-document"
 confidence: "high"
 created_at: "2026-04-18T00:50:50.977969"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-22T23:50:27.650677"
 related:
   - "Claude Code"
   - "Plan Mode"
@@ -19,6 +19,11 @@ related:
   - "Single-Loop Architecture"
   - "雁南飞"
   - "Vivek Aithal"
+  - "Claude Code Agent技术分析与多代理架构"
+  - "Claude Code 2026完整新手教程"
+  - "Oh My ClaudeCode把Claude变成Coding武器"
+  - "从会用AI到构建AI协作框架"
+  - "约束工程与VibeCoding的核心要点"
 ---
 
 # Claude Code工作流技术与架构分析
@@ -93,4 +98,9 @@ Claude Code的设计维持一个主控制循环，最多一个分支（子代理
 - [[Context Window Management]]
 - [[Single-Loop Architecture]]
 - [[雁南飞]]
+- [[Claude Code Agent技术分析与多代理架构]]
+- [[Claude Code 2026完整新手教程]]
+- [[Oh My ClaudeCode把Claude变成Coding武器]]
+- [[从会用AI到构建AI协作框架]]
+- [[约束工程与VibeCoding的核心要点]]
 - [[Vivek Aithal]]

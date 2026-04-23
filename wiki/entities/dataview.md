@@ -12,12 +12,21 @@ tags:
   - "organization"
 confidence: "high"
 created_at: "2026-04-20T00:11:14.781617"
-updated_at: "2026-04-20T00:11:14.781617"
+updated_at: "2026-04-23T00:42:20.227412"
 related:
   - "Obsidian"
   - "Note Organization Philosophy"
   - "AI-Enhanced Note-Taking"
   - "Git-Based Knowledge Management"
+  - "Claude Code"
+  - "Claude.Md"
+  - "Openclaw"
+  - "Deepseek"
+  - "CLAUDE.md"
+  - "Markdown"
+  - "Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration"
+  - "大家的obsidian笔记都是怎么做的？"
+  - "知乎讨论：大家的obsidian笔记都是怎么做的"
 ---
 
 # Dataview
@@ -84,6 +93,15 @@ dataview, obsidian, plugin, query, metadata, organization
 - [[Note Organization Philosophy]]
 - [[AI-Enhanced Note-Taking]]
 - [[Git-Based Knowledge Management]]
+- [[Claude Code]]
+- [[CLAUDE.md]]
+- [[OpenClaw]]
+- [[Deepseek]]
+- [[CLAUDE.md]]
+- [[Markdown]]
+- [[Zhihu Discussion: Obsidian Note-Taking Methods and AI Integration]]
+- [[大家的obsidian笔记都是怎么做的？]]
+- [[知乎讨论：大家的obsidian笔记都是怎么做的]]
 
 ## Related
 - [[Obsidian]]

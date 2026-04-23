@@ -13,7 +13,7 @@ tags:
   - "zhihu-author"
 confidence: "high"
 created_at: "2026-04-18T22:44:23.319580"
-updated_at: "2026-04-18T22:44:23.319580"
+updated_at: "2026-04-23T07:14:42.022201"
 related:
   - "Southern University of Science and Technology (SUSTech)"
   - "Mizore's Claude Code Automation Toolkit and Paper Reading Skill"
@@ -21,6 +21,15 @@ related:
   - "AI-Assisted Paper Reading"
   - "Error Memory for AI Improvement"
   - "Vibe Coding"
+  - "Playwright"
+  - "Claude.Md"
+  - "Markdown"
+  - "Skills"
+  - "Mizore 的想法: 用了半年Claude Code， 我把我的一键配置开源了 | 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎"
+  - "CLAUDE.md"
+  - "Git"
+  - "Mizore的Claude Code一键配置开源"
+  - "Skill"
 ---
 
 # Mizore
@@ -87,4 +96,13 @@ claude-code, developer, open-source-contributor, graduate-student, sustech, auto
 - [[Claude Code Automation/Configuration Management]]
 - [[AI-Assisted Paper Reading]]
 - [[Error Memory for AI Improvement]]
+- [[Playwright]]
+- [[CLAUDE.md]]
+- [[Markdown]]
+- [[Skills]]
+- 刚开始用 Claude Code 的时候，每次新项目都要重新配CL… - 知乎
+- [[CLAUDE.md]]
+- [[Git]]
+- [[Mizore的Claude Code一键配置开源]]
+- [[Skill]]
 - [[Vibe Coding]]

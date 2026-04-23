@@ -12,7 +12,7 @@ tags:
   - "book-management"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.682978"
 ---
 
 # 用 Obsidian Bases 打造个人图书馆
@@ -83,7 +83,7 @@ updated_at: "2026-04-20T12:00:00"
 ## Related
 
 - [[Obsidian]]
-- [[Obsidian-Bases]]
-- [[知识管理]]
-- [[PKM]]
-- [[图书管理]]
+- [[Obsidian]]
+- 知识管理
+- PKM
+- 图书管理

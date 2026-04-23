@@ -16,7 +16,7 @@ tags:
   - "context-awareness"
 confidence: "high"
 created_at: "2026-04-17T21:42:03.650447"
-updated_at: "2026-04-17T21:42:03.650447"
+updated_at: "2026-04-23T00:42:26.307619"
 related:
   - "Strategic Management Learning Framework"
   - "Theory-Practice Integration"
@@ -25,6 +25,13 @@ related:
   - "Sunny"
   - "Theory-to-Practice Bridge in Strategy"
   - "Zhihu Discussion: Career Transition to Strategic Management and Consulting"
+  - "Systematic Learning Framework"
+  - "Michael Porter"
+  - "Philip Kotler"
+  - "Robert S. Kaplan & David P. Norton"
+  - "Zhihu Discussion: Internal Martial Arts and Breathing Techniques"
+  - "Zhihu Discussion: The Role of 'Scenarios' in Product Management"
+  - "Career Transition Barriers"
 ---
 
 # Cross-Disciplinary Knowledge for Management
@@ -75,6 +82,13 @@ The emphasis on cross-disciplinary knowledge creates both opportunities and chal
 - [[Career Transition Barriers in Consulting]]
 - [[木游子]]
 - [[Sunny]]
+- [[Systematic Learning Framework]]
+- [[Michael Porter]]
+- [[Philip Kotler]]
+- [[Robert S. Kaplan & David P. Norton]]
+- [[Zhihu Discussion: Internal Martial Arts and Breathing Techniques]]
+- [[Zhihu Discussion: The Role of 'Scenarios' in Product Management]]
+- [[Career Transition Barriers]]
 
 ---
 

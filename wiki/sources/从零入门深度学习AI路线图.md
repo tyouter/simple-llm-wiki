@@ -11,7 +11,7 @@ tags:
   - python
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:42.795006"
 ---
 
 # 从零入门深度学习AI路线图
@@ -96,6 +96,7 @@ updated_at: "2026-04-20T12:00:00"
 作者提供详细学习规划路线图，评论区留言可免费获取。
 
 ## Related
+- [[权法错位的社会解读]]
 
 - [[Claude Code Skills系统]]
-- [[AI Agent工程师]]
+- [[Agent]]

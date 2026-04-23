@@ -14,7 +14,7 @@ tags:
   - "discussion-thread"
 confidence: "high"
 created_at: "2026-04-19T21:39:03.014402"
-updated_at: "2026-04-19T21:39:03.014402"
+updated_at: "2026-04-23T00:44:51.633539"
 related:
   - "Self-Study Friendly Textbook Design"
   - "Pedagogical Approach Comparison"
@@ -47,7 +47,7 @@ A popular discussion thread on Zhihu where users critically compare the pedagogi
 
 ### 3. Counterpoint: Excellence in Historical Chinese Materials
 - **Notable Exception**: User [[幕阳吹雪]] passionately defends the 1980s Chinese series **《数理化自学丛书》** (Self-Study Series for Mathematics, Physics, and Chemistry), praising it for achieving the ideal of [[Self-Study Friendly Textbook Design]].
-- **Key Contradiction**: This praise creates a [[Contradiction Analysis|contradiction]] within the critique, suggesting that the issue may be period-specific or related to current publishing trends, rather than an inherent flaw in Chinese educational content.
+- **Key Contradiction**: This praise creates a [[Contradiction|contradiction|contradiction|contradiction|contradiction|contradiction|contradiction]] within the critique, suggesting that the issue may be period-specific or related to current publishing trends, rather than an inherent flaw in Chinese educational content.
 
 ### 4. Emphasis on Open Access
 - The discussion serves as a practical guide to [[Open Educational Resources (OER)]], with users sharing links to sites like Open Textbook Library, free university courses, and [[Khan Academy (可汗学院)]].

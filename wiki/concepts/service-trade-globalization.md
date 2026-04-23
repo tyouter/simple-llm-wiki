@@ -11,11 +11,13 @@ tags:
   - "digital-transformation"
 confidence: "high"
 created_at: "2026-04-18T22:47:45.119675"
-updated_at: "2026-04-18T22:47:45.119675"
+updated_at: "2026-04-22T23:50:16.699914"
 related:
   - "Agent Shock"
   - "Super Individual (超级个体)"
   - "Zhihu Discussion: The Era of Super Individuals and Agent Shock"
+  - "MrBeast"
+  - "Token侦探"
 ---
 
 # Service Trade Globalization
@@ -53,4 +55,6 @@ globalization, service-economy, ai-agents, future-of-work, digital-transformatio
 ## Related
 - [[Agent Shock]]
 - [[Super Individual (超级个体)]]
+- [[MrBeast]]
+- [[Token侦探]]
 - [[Zhihu Discussion: The Era of Super Individuals and Agent Shock]]

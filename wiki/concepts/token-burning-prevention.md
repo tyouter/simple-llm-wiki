@@ -11,12 +11,16 @@ tags:
   - "developer-tools"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.808237"
-updated_at: "2026-04-17T22:13:44.808237"
+updated_at: "2026-04-22T23:50:19.523220"
 related:
   - "Coding Plan"
   - "Cost Management in AI Development"
   - "AI Tool Chaining/Combination"
   - "Alibaba Cloud Bailian"
+  - "Cherry Studio"
+  - "NVIDIA NIM (NVIDIA Inference Microservices)"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
 ---
 
 # Token Burning Prevention
@@ -78,4 +82,8 @@ cost-management, ai-safety, budgeting, subscription-models, developer-tools
 - [[Coding Plan]]
 - [[Cost Management in AI Development]]
 - [[AI Tool Chaining/Combination]]
+- [[Cherry Studio]]
+- [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
 - [[Alibaba Cloud Bailian]]

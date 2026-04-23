@@ -10,13 +10,15 @@ tags:
   - "cross-pollination"
 confidence: "high"
 created_at: "2026-04-21T16:31:03.466613"
-updated_at: "2026-04-21T16:31:03.466613"
+updated_at: "2026-04-22T23:50:23.985460"
 related:
   - "Obsidian Dragger"
   - "Notion"
   - "Aesthetic Judgment in Tech"
   - "Text Block as a Unit of Manipulation"
   - "Mobile-First Note-Taking UX"
+  - "Ariestar"
+  - "Obsidian Dragger Plugin: Enhancing Text Block Management"
 ---
 
 **Paradigm Borrowing in UX** involves adopting successful interaction patterns, design metaphors, or workflow models from one software application and implementing them in another. This cross-pollination accelerates UX innovation by leveraging proven solutions rather than reinventing interfaces from scratch.
@@ -30,4 +32,6 @@ This practice relates to [[Aesthetic Judgment in Tech]], where designers and dev
 - [[Notion]]
 - [[Aesthetic Judgment in Tech]]
 - [[Text Block as a Unit of Manipulation]]
+- [[Ariestar]]
+- [[Obsidian Dragger Plugin: Enhancing Text Block Management]]
 - [[Mobile-First Note-Taking UX]]

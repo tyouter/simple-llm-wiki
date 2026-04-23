@@ -12,7 +12,7 @@ tags:
   - "context-management"
 confidence: "high"
 created_at: "2026-04-18T00:50:51.015027"
-updated_at: "2026-04-20T00:00:00"
+updated_at: "2026-04-23T00:53:47.249356"
 ---
 
 # CLAUDE.md Architecture
@@ -61,4 +61,10 @@ Claude Code的完整架构包含六层：
 - [[Claude Code Hooks]]
 - [[Claude Code子代理]]
 - [[Plan Mode工作流]]
-- [[知乎讨论-claude.md怎么写才能让Claude Code更高效]]
+- [[Claude]]
+## Related
+- [[Claude Code Automation/Configuration Management]]
+- [[Hooks for Deterministic Automation]]
+- [[Plan-and-Execute]]
+- [[Spec Coding vs. Vibe Coding|Spec Coding]]
+

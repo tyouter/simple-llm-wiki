@@ -10,7 +10,7 @@ tags:
   - "one-person-company"
 confidence: medium
 created_at: "2026-04-20T10:00:00"
-updated_at: "2026-04-20T10:00:00"
+updated_at: "2026-04-23T00:42:30.749723"
 ---
 
 # bmad-method开源项目分析
@@ -68,8 +68,11 @@ bmad-method的解法：
 - 个人项目管理
 
 ## Related
+- [[claude.md高效配置方法 - yahah版]]
+- [[claude.md高效配置方法 - 杞鋂/yahah/笙囧同学]]
+- [[知乎]]
 
-- [[一人公司]]
-- [[开源工具]]
-- [[效率提升]]
-- [[项目管理]]
+- 一人公司
+- 开源工具
+- 效率提升
+- 项目管理

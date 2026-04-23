@@ -4,6 +4,8 @@ type: "concept"
 sources:
   - "raw/articles/517a9161_GLM5Kimi 2.5Minimax M2.5千问豆包国产大模型选哪个GLM5Kimi 2.5Minimax M2.5千问豆包国产大模.md"
   - "raw/videos/b87d13c0_买前必看2026 顶级 Vibe Coding 工具深度对比寻找最适合你的 Coding Plan新范式深横评实机测.md"
+  - "raw/articles/c660c726_普通人第一次用 OpenClaw应该注意什么普通人第一次用 OpenClaw应该注意什么.md"
+  - "raw/videos/2c940938_爆肝5小时实测国产大模型横评Coding Plan避坑指南.md"
 tags:
   - "ai-coding"
   - "subscription-models"
@@ -12,7 +14,7 @@ tags:
   - "cost-management"
 confidence: "high"
 created_at: "2026-04-17T22:13:44.807719"
-updated_at: "2026-04-17T22:13:44.807719"
+updated_at: "2026-04-23T07:17:34.595789"
 related:
   - "Token Burning Prevention"
   - "Free Model Integration via NIM"
@@ -23,6 +25,43 @@ related:
   - "开发选型参考"
   - "Autonomous Task Planning & Execution"
   - "AI Tool Specialization for Design"
+  - "Context Window"
+  - "Microservice"
+  - "Vibe Coding"
+  - "Openclaw"
+  - "Deepseek"
+  - "Cherry Studio"
+  - "Minimax M2.5"
+  - "GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？"
+  - "Playwright"
+  - "Ai Agent"
+  - "Skills"
+  - "Gemini"
+  - "Notebooklm"
+  - "普通人第一次用 OpenClaw，应该注意什么？"
+  - "Skill"
+  - "Mcp"
+  - "Git"
+  - "爆肝5小时，实测国产大模型横评，Coding Plan避坑指南"
+  - "Api"
+  - "Chatgpt"
+  - "Claude"
+  - "Kimi"
+  - "买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）"
+  - "Agent"
+  - "Cli"
+  - "Cursor"
+  - "Yaml"
+  - "模型能力场景化评测"
+  - "DeepSeek"
+  - "GitHub"
+  - "GPT"
+  - "MiniMax M2.5"
+  - "Nvidia"
+  - "Windsurf"
+  - "2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration"
+  - "2026国产大模型Coding Plan对比"
+  - "2026顶级Vibe Coding工具深度对比"
 ---
 
 # Coding Plan
@@ -76,6 +115,43 @@ ai-coding, subscription-models, pricing, developer-tools, cost-management
 - [[Model Context Protocol (MCP)]]
 - [[Alibaba Cloud Bailian]]
 - [[NVIDIA NIM (NVIDIA Inference Microservices)]]
+- [[Context Window]]
+- [[Microservice]]
+- [[Vibe Coding]]
+- [[OpenClaw]]
+- [[Deepseek]]
+- [[Cherry Studio]]
+- [[MiniMax M2.5]]
+- [[GLM5、Kimi 2.5、Minimax M2.5、千问、豆包，国产大模型选哪个？]]
+- [[Playwright]]
+- [[AI Agent]]
+- [[Skills]]
+- [[Gemini]]
+- [[Notebooklm]]
+- [[普通人第一次用 OpenClaw，应该注意什么？]]
+- [[Skill]]
+- [[Mcp]]
+- [[Git]]
+- [[爆肝5小时，实测国产大模型横评，Coding Plan避坑指南]]
+- [[Api]]
+- [[Chatgpt]]
+- [[Claude]]
+- [[Kimi]]
+- [[买前必看！2026 顶级 Vibe Coding 工具深度对比：寻找最适合你的 Coding Plan（新范式|深横评|实机测）]]
+- [[Agent]]
+- [[Cli]]
+- [[Cursor]]
+- [[Yaml]]
+- [[模型能力场景化评测]]
+- [[DeepSeek]]
+- [[GitHub]]
+- [[GPT]]
+- [[MiniMax M2.5]]
+- [[Nvidia]]
+- [[Windsurf]]
+- [[2026 Chinese AI Coding Plan Comparison and NVIDIA NIM Integration]]
+- [[2026国产大模型Coding Plan对比]]
+- [[2026顶级Vibe Coding工具深度对比]]
 
 ---
 

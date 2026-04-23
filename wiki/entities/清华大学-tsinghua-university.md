@@ -11,12 +11,15 @@ tags:
   - "tool-integrated-reasoning"
 confidence: "high"
 created_at: "2026-04-17T16:57:33.440111"
-updated_at: "2026-04-17T16:57:33.440111"
+updated_at: "2026-04-23T00:42:26.949196"
 related:
   - "腾讯 (Tencent)"
   - "Tool-Integrated Reasoning (TIR)"
   - "Domain-Specific Language (DSL) for AI Agents"
   - "AI Agent"
+  - "Agent RL Training"
+  - "面壁 (FaceWall)"
+  - "知乎讨论：怎么成为一个AI Agent工程师"
 ---
 
 # 清华大学 (Tsinghua University)
@@ -54,6 +57,9 @@ For [[AI Agent]] engineers, familiarity with this research demonstrates understa
 chinese-university, ai-research, mathematical-foundations, academic-contribution, tool-integrated-reasoning
 
 ## Related
+- [[Agent RL Training]]
+- [[面壁 (FaceWall)]]
+- [[知乎讨论：怎么成为一个AI Agent工程师]]
 [[腾讯 (Tencent)]], [[Tool-Integrated Reasoning (TIR)]], [[Domain-Specific Language (DSL) for AI Agents]], [[AI Agent]]
 
 ## Related

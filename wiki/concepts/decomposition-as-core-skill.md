@@ -11,12 +11,14 @@ tags:
   - "core-skill"
 confidence: "high"
 created_at: "2026-04-18T00:19:39.671541"
-updated_at: "2026-04-18T00:19:39.671541"
+updated_at: "2026-04-22T23:50:07.289224"
 related:
   - "Commoditization of Execution"
   - "Engineer Identity Transformation"
   - "Agent Operating System"
   - "Claude Code"
+  - "AI Programming Ecosystem"
+  - "Scribe Fallacy"
 ---
 
 # Decomposition as Core Skill
@@ -46,6 +48,8 @@ This involves thinking in terms of APIs, contracts, and discrete units of work r
 - [[Agent Operating System]]
 - [[Claude Code]]
 - [[GStack: Role-Based AI Development Workflow for Claude Code]]
+- [[AI Programming Ecosystem]]
+- [[Scribe Fallacy]]
 
 ## Related
 - [[Commoditization of Execution]]

@@ -1,5 +1,5 @@
 ---
-title: "Niche Knowledge & Creative Hubs|Creative Hub"
+title: "Niche Knowledge & Creative Hubs"
 type: "concept"
 sources:
   - "wiki/sources/zhihu-discussion-alternative-websites-after-tianya-forum-closure.md"
@@ -9,7 +9,7 @@ tags:
   - "design-hubs"
 confidence: "high"
 created_at: "2026-04-17T21:59:22.260389"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T07:23:32.375272"
 ---
 
 # Creative Hub
@@ -28,7 +28,7 @@ updated_at: "2026-04-20T12:00:00"
 
 ## Related
 
-- [[niche-knowledge-creative-hubs]]
-- [[zhihu-discussion-alternative-websites-after-tianya-forum-closure]]
-- [[curated-digital-exploration]]
-- [[post-forum-internet-landscape]]
+- niche-knowledge-creative-hubs
+- [[Zhihu]]
+- [[Lora]]
+- post-forum-internet-landscape

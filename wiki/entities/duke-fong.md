@@ -11,11 +11,12 @@ tags:
   - "embedded"
 confidence: "high"
 created_at: "2026-04-18T23:00:54.015629"
-updated_at: "2026-04-18T23:00:54.015629"
+updated_at: "2026-04-22T23:50:27.300137"
 related:
   - "cdbus_gui"
   - "Local Data Sovereignty in Automation"
   - "Three.js3D"
+  - "知乎讨论：你写过什么不错的开源项目"
 ---
 
 # Duke Fong
@@ -62,4 +63,5 @@ Represents the ongoing need for sophisticated local debugging tools in embedded 
 ## Related
 - [[cdbus_gui]]
 - [[Local Data Sovereignty in Automation]]
+- [[知乎讨论：你写过什么不错的开源项目]]
 - [[Three.js3D]]

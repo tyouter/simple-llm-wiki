@@ -11,7 +11,7 @@ tags:
   - "capability-assessment"
 confidence: "high"
 created_at: "2026-04-17T22:10:58.491222"
-updated_at: "2026-04-17T22:10:58.491222"
+updated_at: "2026-04-22T23:50:20.970807"
 related:
   - "AI-Exponential Product Management"
   - "Simplest Working Solution Principle"
@@ -19,6 +19,9 @@ related:
   - "Anthropic"
   - "METR"
   - "Prototype-First Development"
+  - "Zhihu"
+  - "AI-Driven Product Management Transformation at Anthropic"
+  - "Anthropic产品管理AI化转型"
 ---
 
 # Model-Capability-Driven Product Evolution
@@ -85,4 +88,7 @@ product-evolution, model-capabilities, continuous-improvement, technical-debt, c
 - [[Cat Wu]]
 - [[Anthropic]]
 - [[METR]]
+- [[Zhihu]]
+- [[AI-Driven Product Management Transformation at Anthropic]]
+- [[Anthropic产品管理AI化转型]]
 - [[Prototype-First Development]]

@@ -11,7 +11,7 @@ tags:
   - "教程"
 confidence: medium
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:45.366471"
 ---
 
 # Obsidian+OpenClaw重构AI知识管理体系
@@ -50,6 +50,7 @@ updated_at: "2026-04-20T12:00:00"
 - 知识管理效率可直接翻倍
 
 ## Related
+- [[视频-清史基因铁证女真满族爱新觉罗谱系差异]]
 
 - [[OpenClaw]]
 - [[Obsidian CLI]]

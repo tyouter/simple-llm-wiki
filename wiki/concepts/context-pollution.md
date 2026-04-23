@@ -11,13 +11,16 @@ tags:
   - "claude-code"
 confidence: "high"
 created_at: "2026-04-17T21:50:12.391958"
-updated_at: "2026-04-17T21:50:12.391958"
+updated_at: "2026-04-23T00:42:20.214013"
 related:
   - "Claude Code"
   - "Thariq"
   - "Parallel Agent Review"
   - "Workflow Branching"
   - "gstack-role-based-ai-development-workflow-for-claude-code"
+  - "Context Engineering"
+  - "Claude Code隐藏功能指南"
+  - "Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques"
 ---
 
 # Context Pollution
@@ -38,7 +41,7 @@ When working with AI development tools like [[Claude Code]], users often need to
 ## Technical Implications
 Context pollution is particularly problematic for:
 - **Long-running sessions**: Where context accumulates over many interactions
-- **Complex workflows**: Like those described in [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- **Complex workflows**: Like those described in [[Claude]]
 - **Multi-step tasks**: Where maintaining clean context is essential for consistency
 
 ## Related Concepts
@@ -60,4 +63,7 @@ Concept identified and named in the "Claude Code Hidden Features Guide" based on
 - [[Thariq]]
 - [[Parallel Agent Review]]
 - [[Workflow Branching]]
-- [[gstack-role-based-ai-development-workflow-for-claude-code]]
+- [[Context Engineering]]
+- [[Claude Code隐藏功能指南]]
+- [[Claude Code Hidden Features Guide: Efficiency-Boosting Commands and Techniques]]
+- [[Claude]]

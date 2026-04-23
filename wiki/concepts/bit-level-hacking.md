@@ -11,7 +11,7 @@ tags:
   - "floating-point"
 confidence: "high"
 created_at: "2026-04-17T22:23:15.348716"
-updated_at: "2026-04-17T22:23:15.348716"
+updated_at: "2026-04-23T00:42:20.130391"
 related:
   - "Engineering Compromise"
   - "Algorithmic Mindset Shift"
@@ -30,7 +30,7 @@ The algorithm from Quake III Arena (1999) that computes 1/√x approximately 4 t
 3. Applying Newton's method for refinement
 
 ## Why It's Transformative
-As mentioned in the [[Zhihu Discussion: Algorithms That Inspire Awe in Computer Science]], this algorithm represents a different dimension of the [[Algorithmic Mindset Shift]]:
+As mentioned in the [[Zhihu]], this algorithm represents a different dimension of the [[Algorithmic Mindset Shift]]:
 - **From Abstract to Concrete**: Thinking about the actual bit patterns in memory rather than just mathematical operations
 - **Hardware-Aware Optimization**: Exploiting specific characteristics of IEEE 754 floating-point representation
 - **Cross-Layer Thinking**: Applying integer operations to floating-point data by reinterpreting memory

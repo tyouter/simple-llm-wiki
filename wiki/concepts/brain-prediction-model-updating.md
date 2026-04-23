@@ -9,7 +9,7 @@ tags:
   - "personal-growth"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:29.121499"
 ---
 
 # 大脑预测模型更新
@@ -66,5 +66,8 @@ updated_at: "2026-04-20T12:00:00"
 > 开悟就是允许解释本身被不断更新。
 
 ## Related
-- [[enlightenment-开悟]]
-- [[three-stages-of-understanding]]
+- [[Brain Prediction Model|Path 2 (model updating)]]
+- [[知乎讨论-开悟与大脑预测模型]]
+- [[开悟与大脑预测模型]]
+- enlightenment-开悟
+- three-stages-of-understanding

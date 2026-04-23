@@ -10,7 +10,7 @@ tags:
   - "one-person-company"
 confidence: "medium"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:21.704412"
 related:
   - "TRAE开发工具"
   - "独立开发者"
@@ -53,6 +53,6 @@ related:
 - 9款APP的开发支撑
 
 ## Related
-- [[TRAE开发工具]]
-- [[独立开发者]]
-- [[产品设计哲学]]
+- [[Trae]]
+- 独立开发者
+- 产品设计哲学

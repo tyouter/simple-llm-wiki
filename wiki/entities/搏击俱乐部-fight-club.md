@@ -11,12 +11,14 @@ tags:
   - "philosopher"
 confidence: "high"
 created_at: "2026-04-20T00:27:32.687563"
-updated_at: "2026-04-20T00:27:32.687563"
+updated_at: "2026-04-23T00:42:26.941865"
 related:
   - "Offensive/Proactive Personality (进攻型人格)"
   - "Self-Design through Environmental Engineering"
   - "Zhihu Discussion: Personal Development and Life Philosophy Insights"
   - "Zhihu Discussion: Life Lessons on Creativity, Acceptance, and Proactivity"
+  - "知乎讨论：人生道理与创造力、接纳与主动性"
+  - "知乎讨论：你人生中太晚明白的道理是什么"
 ---
 
 # 搏击俱乐部 (Fight Club)
@@ -42,6 +44,8 @@ Provides a systems-oriented, actionable framework for moving from passivity to a
 - [[Offensive/Proactive Personality (进攻型人格)]]
 - [[Self-Design through Environmental Engineering]]
 - [[Zhihu Discussion: Personal Development and Life Philosophy Insights]]
+- [[知乎讨论：人生道理与创造力、接纳与主动性]]
+- [[知乎讨论：你人生中太晚明白的道理是什么]]
 
 ## Related
 - [[Offensive/Proactive Personality (进攻型人格)]]

@@ -3,6 +3,7 @@ title: "Google Stitch"
 type: "entity"
 sources:
   - "raw/articles/50a19a74_谷歌Stitch氛围设计干崩Figma 8.8股价十年经验败给巨头一次更新附实测.md"
+  - "raw/videos/4e428aa8_神器来袭Pencil让UI设计彻底变天AI同时生成多个专业级UIClaude Code一键转代码Pencil高级使用技巧保姆级教程.md"
 tags:
   - "ai-tool"
   - "design-platform"
@@ -10,7 +11,7 @@ tags:
   - "vibe-design"
 confidence: "high"
 created_at: "2026-04-17T22:12:00.227171"
-updated_at: "2026-04-17T22:12:00.227171"
+updated_at: "2026-04-23T00:42:26.601491"
 related:
   - "Gemini"
   - "Vibe Design"
@@ -19,6 +20,18 @@ related:
   - "AI-Induced Industry Disruption"
   - "Prompt-Dependent Output Quality"
   - "Ethan Mollick"
+  - "Google Stitch"
+  - "Claude Code"
+  - "Tailwind"
+  - "Cursor"
+  - "Agent"
+  - "Git"
+  - "Mcp"
+  - "Google Stitch AI Design Platform Update and Market Impact"
+  - "🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！"
+  - "谷歌Stitch氛围设计更新"
+  - "Claude"
+  - "Google"
 ---
 
 # Google Stitch
@@ -66,4 +79,16 @@ Following Stitch's repositioning announcement, [[Figma]]'s stock dropped 8.8%, d
 - [[Figma]]
 - [[AI-Induced Industry Disruption]]
 - [[Prompt-Dependent Output Quality]]
+- [[Google Stitch]]
+- [[Claude Code]]
+- [[Tailwind]]
+- [[Cursor]]
+- [[Agent]]
+- [[Git]]
+- [[Mcp]]
+- [[Google Stitch AI Design Platform Update and Market Impact]]
+- [[🚀神器来袭！Pencil让UI设计彻底变天：AI同时生成多个专业级UI，Claude Code一键转代码，Pencil高级使用技巧保姆级教程！]]
+- [[谷歌Stitch氛围设计更新]]
+- [[Claude]]
+- [[Google]]
 - [[Ethan Mollick]]

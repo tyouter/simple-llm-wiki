@@ -11,7 +11,7 @@ tags:
   - "coding"
 confidence: "high"
 created_at: "2026-04-20T12:00:00"
-updated_at: "2026-04-20T12:00:00"
+updated_at: "2026-04-23T00:42:26.322649"
 ---
 
 # 国产大模型
@@ -70,10 +70,23 @@ updated_at: "2026-04-20T12:00:00"
 - Token 消耗优化成为关键
 
 ## Related
+- [[Zhipu AI]]
+- [[Claude]]
+- [[GLM-5]]
+- [[Kimi K2.5]]
+- [[MiniMax M2.5]]
+- [[国产AI Coding Plan全面对比]]
+- [[2026顶级Vibe Coding工具深度对比]]
+- [[国产大模型 Coding Plan 横评避坑指南]]
+- [[Trae Skills教程：AI编程变天了]]
+- [[国产大模型横评：Coding Plan避坑指南]]
+- [[开源大模型全景梳理：3000+模型的分类与收敛]]
+- [[视频-工信部官宣算力国网时代已来]]
+- [[Coding Plan订阅模式]]
 
-- [[Coding-Plan]]
-- [[模型选型]]
-- [[GLM]]
+- [[Plan]]
+- 模型选型
+- GLM
 - [[MiniMax]]
 - [[Qwen]]
 - [[Deepseek]]
