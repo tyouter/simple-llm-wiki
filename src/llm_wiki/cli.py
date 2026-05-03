@@ -551,7 +551,7 @@ def links(page_title: str, resolve: bool):
 
 
 @cli.command()
-@click.argument("action", type=click.Choice(["parse", "query", "lint", "stats"]))
+@click.argument("action", type=click.Choice(["parse", "query", "lint", "stats", "fix"]))
 @click.option("--source", help="Source file to deep parse")
 @click.option("--all", "parse_all", is_flag=True, help="Deep parse all pending sources")
 @click.option("--max", "max_sources", default=0, help="Max sources to parse (0=all)")
@@ -687,6 +687,33 @@ def deep(action: str, source: str | None, parse_all: bool, max_sources: int, wor
 
             for key, value in stats_data.items():
                 table.add_row(key, str(value))
+
+            console.print(table)
+
+        except Exception as e:
+            console.print(f"[red]Error:[/red] {e}")
+            sys.exit(1)
+
+    elif action == "fix":
+        from .fix import fix_wiki
+
+        console.print("[cyan]Fixing wiki quality issues...[/cyan]")
+
+        try:
+            results = fix_wiki(config)
+
+            table = Table(title="Quality Fix Results")
+            table.add_column("Metric", style="bold")
+            table.add_column("Value")
+
+            table.add_row("Total pages scanned", str(results["total_pages"]))
+            table.add_row("Dead links fixed (redirected)", str(results["dead_links_fixed"]))
+            table.add_row("Dead links removed (unresolvable)", str(results["dead_links_removed"]))
+            table.add_row("Bidirectional links fixed", str(results["bidirectional_fixed"]))
+            table.add_row("Orphans found", str(results["orphans_found"]))
+            table.add_row("Orphans fixed", str(results["orphans_fixed"]))
+            table.add_row("Shallow pages expanded", str(results["shallow_expanded"]))
+            table.add_row("Missing tags fixed", str(results["tags_fixed"]))
 
             console.print(table)
 
