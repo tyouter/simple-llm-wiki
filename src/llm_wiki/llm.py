@@ -29,6 +29,28 @@ def get_llm_callback() -> Callable[[str], str] | None:
     return _llm_callback
 
 
+def _parse_jsonl(content: str) -> list[dict]:
+    decoder = json.JSONDecoder()
+    results = []
+    pos = 0
+    while pos < len(content):
+        while pos < len(content) and content[pos] in " \t\r\n":
+            pos += 1
+        if pos >= len(content):
+            break
+        try:
+            obj, end = decoder.raw_decode(content, pos)
+            if isinstance(obj, dict):
+                results.append(obj)
+            pos += end
+        except json.JSONDecodeError:
+            next_brace = content.find("{", pos + 1)
+            if next_brace == -1:
+                break
+            pos = next_brace
+    return results
+
+
 def call_llm(config: WikiConfig, prompt: str, retries: int = 3, timeout: int = 120) -> str:
     if _llm_callback is not None:
         return _llm_callback(prompt)
@@ -151,7 +173,7 @@ def _call_agent_jsonl(config: WikiConfig, prompt: str, retries: int = 3) -> str:
     }
 
     with open(prompts_path, "a", encoding="utf-8") as f:
-        f.write(json.dumps(prompt_entry, ensure_ascii=False) + "\n")
+        f.write(json.dumps(prompt_entry, ensure_ascii=True) + "\n")
 
     print(f"[Agent LLM] Prompt #{prompt_id} appended to {prompts_path}")
 
@@ -162,16 +184,13 @@ def _call_agent_jsonl(config: WikiConfig, prompt: str, retries: int = 3) -> str:
     while waited < max_wait:
         if responses_path.exists():
             try:
-                with open(responses_path, encoding="utf-8") as f:
-                    for line in f:
-                        line = line.strip()
-                        if not line:
-                            continue
-                        data = json.loads(line)
-                        if data.get("id") == prompt_id:
-                            response = data.get("response", "")
-                            _cleanup_jsonl_entry(config, prompt_id)
-                            return response
+                content = responses_path.read_text(encoding="utf-8")
+                entries = _parse_jsonl(content)
+                for data in entries:
+                    if data.get("id") == prompt_id:
+                        response = data.get("response", "")
+                        _cleanup_jsonl_entry(config, prompt_id)
+                        return response
             except (json.JSONDecodeError, KeyError):
                 pass
 
@@ -191,17 +210,11 @@ def _cleanup_jsonl_entry(config: WikiConfig, prompt_id: str) -> None:
 
     remaining_prompts = []
     if prompts_path.exists():
-        with open(prompts_path, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    data = json.loads(line)
-                    if data.get("id") != prompt_id:
-                        remaining_prompts.append(line)
-                except json.JSONDecodeError:
-                    remaining_prompts.append(line)
+        content = prompts_path.read_text(encoding="utf-8")
+        entries = _parse_jsonl(content)
+        for data in entries:
+            if data.get("id") != prompt_id:
+                remaining_prompts.append(json.dumps(data, ensure_ascii=True))
 
     if remaining_prompts:
         with open(prompts_path, "w", encoding="utf-8") as f:

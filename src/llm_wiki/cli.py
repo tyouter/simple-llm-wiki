@@ -788,7 +788,7 @@ def agent_respond(response_text: str | None, response_file: str | None, interact
 def _agent_respond_batch(config, batch_file: str) -> None:
     import json
 
-    from .llm import BATCH_RESPONSES_FILE, BATCH_PROMPTS_FILE
+    from .llm import BATCH_RESPONSES_FILE, BATCH_PROMPTS_FILE, _parse_jsonl
 
     batch_path = Path(batch_file)
     if not batch_path.exists():
@@ -802,58 +802,40 @@ def _agent_respond_batch(config, batch_file: str) -> None:
         console.print("[yellow]No pending batch prompts found.[/yellow]")
         return
 
-    pending_ids = set()
-    with open(prompts_path, encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                data = json.loads(line)
-                if "id" in data:
-                    pending_ids.add(data["id"])
-            except json.JSONDecodeError:
-                pass
+    prompts_content = prompts_path.read_text(encoding="utf-8")
+    prompt_entries = _parse_jsonl(prompts_content)
+    pending_ids = {e["id"] for e in prompt_entries if "id" in e}
 
     if not pending_ids:
         console.print("[yellow]No pending prompt IDs found in batch.[/yellow]")
         return
 
+    batch_content = batch_path.read_text(encoding="utf-8")
+    batch_entries = _parse_jsonl(batch_content)
     batch_responses = {}
-    with open(batch_path, encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                data = json.loads(line)
-                rid = data.get("id", "")
-                if rid:
-                    batch_responses[rid] = data.get("response", "")
-            except json.JSONDecodeError:
-                pass
+    for e in batch_entries:
+        rid = e.get("id", "")
+        if rid:
+            batch_responses[rid] = e.get("response", "")
 
     matched = 0
-    existing_responses = []
+    existing_entries = []
     if responses_path.exists():
-        with open(responses_path, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line:
-                    existing_responses.append(line)
+        resp_content = responses_path.read_text(encoding="utf-8")
+        existing_entries = _parse_jsonl(resp_content)
 
     for pid in pending_ids:
         if pid in batch_responses:
-            entry = {"id": pid, "response": batch_responses[pid]}
-            existing_responses.append(json.dumps(entry, ensure_ascii=False))
+            existing_entries.append({"id": pid, "response": batch_responses[pid]})
             matched += 1
 
     if matched == 0:
         console.print("[yellow]No matching IDs between batch responses and pending prompts.[/yellow]")
         return
 
+    lines = [json.dumps(e, ensure_ascii=True) for e in existing_entries]
     with open(responses_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(existing_responses) + "\n")
+        f.write("\n".join(lines) + "\n")
 
     console.print(f"[green]Batch responses written: {matched} matched out of {len(pending_ids)} pending[/green]")
     console.print(f"[dim]Responses written to {responses_path}[/dim]")
