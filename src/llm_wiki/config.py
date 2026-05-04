@@ -22,10 +22,10 @@ RAW_SOURCE_SUBDIRS = ["articles", "videos"]
 
 @dataclass
 class LLMConfig:
-    provider: str = "openai"
-    model: str = "gpt-4o"
+    provider: str = "agent"
+    model: str = "agent-native"
     api_key: str = ""
-    base_url: str = "https://api.openai.com/v1"
+    base_url: str = ""
     temperature: float = 0.3
     max_tokens: int = 4096
 
@@ -85,10 +85,10 @@ def load_config(root: Path | None = None) -> WikiConfig:
     env_base_url = os.getenv("WIKI_LLM_BASE_URL", "")
 
     llm = LLMConfig(
-        provider=llm_data.get("provider", "openai"),
-        model=env_model or llm_data.get("model", "gpt-4o"),
+        provider=llm_data.get("provider", "agent"),
+        model=env_model or llm_data.get("model", "agent-native"),
         api_key=env_api_key or llm_data.get("apiKey", ""),
-        base_url=env_base_url or llm_data.get("baseUrl", "https://api.openai.com/v1"),
+        base_url=env_base_url or llm_data.get("baseUrl", ""),
         temperature=llm_data.get("temperature", 0.3),
         max_tokens=llm_data.get("max_tokens", 4096),
     )

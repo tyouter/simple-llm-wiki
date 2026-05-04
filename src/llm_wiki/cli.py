@@ -722,5 +722,55 @@ def deep(action: str, source: str | None, parse_all: bool, max_sources: int, wor
             sys.exit(1)
 
 
+@cli.command("agent-respond")
+@click.argument("response_text", required=False)
+@click.option("--file", "response_file", help="Read response from a file")
+@click.option("--interactive", is_flag=True, help="Interactive mode: type response in editor")
+def agent_respond(response_text: str | None, response_file: str | None, interactive: bool):
+    """Respond to an Agent LLM prompt (used by Agent to provide native LLM responses)."""
+    import json
+
+    config = _load()
+    prompt_path = config.root / ".wiki_llm_prompt.json"
+    response_path = config.root / ".wiki_llm_response.json"
+
+    if not prompt_path.exists():
+        console.print("[yellow]No pending Agent LLM prompt found.[/yellow]")
+        console.print("[dim]A prompt is created when provider=agent and a wiki command needs LLM.[/dim]")
+        return
+
+    prompt_data = json.loads(prompt_path.read_text(encoding="utf-8"))
+    console.print(Panel(
+        prompt_data.get("prompt", "")[:2000] + ("..." if len(prompt_data.get("prompt", "")) > 2000 else ""),
+        title="Pending Prompt",
+        border_style="cyan",
+    ))
+
+    if response_file:
+        text = Path(response_file).read_text(encoding="utf-8")
+    elif interactive:
+        console.print("[cyan]Enter your response (end with a line containing only '---'):[/cyan]")
+        lines = []
+        for line in sys.stdin:
+            if line.strip() == "---":
+                break
+            lines.append(line)
+        text = "".join(lines)
+    elif response_text:
+        text = response_text
+    else:
+        console.print("[cyan]Enter response text:[/cyan]")
+        text = sys.stdin.read()
+
+    if not text.strip():
+        console.print("[red]Empty response. Aborting.[/red]")
+        return
+
+    response_data = {"response": text}
+    response_path.write_text(json.dumps(response_data, ensure_ascii=False), encoding="utf-8")
+    console.print(f"[green]Response written to {response_path}[/green]")
+    console.print("[dim]The waiting wiki command will pick it up automatically.[/dim]")
+
+
 if __name__ == "__main__":
     cli()

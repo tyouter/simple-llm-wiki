@@ -4,9 +4,8 @@ import json
 import re
 from pathlib import Path
 
-import litellm
-
 from .config import WikiConfig
+from .llm import call_llm
 from .schema import PageType, WikiPage, extract_wikilinks, find_page_by_title, load_page
 from .search import bm25_search
 from .utils import (
@@ -123,25 +122,7 @@ RULES:
 
 
 def _call_llm(config: WikiConfig, prompt: str, retries: int = 3) -> str:
-    last_error = None
-    for attempt in range(retries):
-        try:
-            response = litellm.completion(
-                model=config.llm.model,
-                messages=[{"role": "user", "content": prompt}],
-                api_key=config.llm.api_key or None,
-                api_base=config.llm.base_url,
-                temperature=config.llm.temperature,
-                max_tokens=config.llm.max_tokens,
-                timeout=180,
-            )
-            return response.choices[0].message.content or ""
-        except Exception as e:
-            last_error = e
-            if attempt < retries - 1:
-                import time
-                time.sleep(2 ** attempt)
-    raise last_error
+    return call_llm(config, prompt, retries=retries, timeout=180)
 
 
 def _extract_json(text: str) -> dict:

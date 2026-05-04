@@ -33,28 +33,90 @@ A single source document typically generates 5-15 interlinked wiki pages.
 
 ## Quick Start
 
+### Option A: Agent Native LLM (Zero Config)
+
+Works with Claude Code, Trae, Cursor, or any AI coding agent — no API key needed:
+
 ```bash
 # Install
 pip install -e .
 
-# Initialize a wiki in the current directory
+# Initialize (default provider is "agent")
 wiki init
-
-# Configure your LLM API key
-cp .wikirc.yaml.example .wikirc.yaml
-# Edit .wikirc.yaml with your API key
 
 # Drop documents into raw/
 # ...
 
-# Process all sources into wiki pages
+# Process sources — the Agent provides LLM responses
+wiki ingest --all
+```
+
+When `provider: agent`, the CLI writes prompts to `.wiki_llm_prompt.json` and waits for the Agent to respond via `.wiki_llm_response.json`. The Agent handles this automatically.
+
+### Option B: External API Key
+
+For standalone CLI usage without an Agent:
+
+```bash
+# Install
+pip install -e .
+
+# Initialize
+wiki init
+
+# Configure API key
+cp .wikirc.yaml.example .wikirc.yaml
+# Edit .wikirc.yaml — set provider, apiKey, baseUrl, model
+
+# Process sources
+wiki ingest --all
+```
+
+## LLM Providers
+
+| Provider | Config | How It Works |
+|----------|--------|--------------|
+| **agent** (default) | `provider: agent` | Agent's native LLM handles prompts via file protocol |
+| openai | `provider: openai` | LiteLLM → OpenAI API |
+| deepseek | `provider: deepseek` | LiteLLM → DeepSeek API |
+| anthropic | `provider: anthropic` | LiteLLM → Anthropic API |
+| Any LiteLLM provider | `provider: <name>` | LiteLLM → corresponding API |
+
+### Agent Provider Details
+
+When `provider: agent`, there are two integration modes:
+
+**1. File Protocol (CLI mode)**
+
+The CLI writes a prompt file and waits for a response file. The Agent picks up the prompt and writes back:
+
+```bash
+# Terminal 1: Run a wiki command (waits for response)
 wiki ingest --all
 
-# Ask questions against your knowledge base
-wiki query "What is Harness Engineering?"
+# Terminal 2: Agent responds to the prompt
+wiki agent-respond --file response.txt
+# or interactively:
+wiki agent-respond --interactive
+```
 
-# Check wiki health
-wiki lint
+**2. Python Callback (Agent script mode)**
+
+When the Agent imports the package directly, it can set a callback function:
+
+```python
+from llm_wiki.llm import set_llm_callback
+from llm_wiki.config import load_config
+from llm_wiki.ingest import ingest_source
+
+def my_llm(prompt: str) -> str:
+    # Use Agent's native LLM here
+    return agent_call_llm(prompt)
+
+set_llm_callback(my_llm)
+
+config = load_config()
+pages = ingest_source(config, source_path)
 ```
 
 ## Commands
@@ -76,6 +138,7 @@ wiki lint
 | `wiki list orphans` | List orphan pages |
 | `wiki config --show` | View current configuration |
 | `wiki config --language cn` | Set output language to Chinese |
+| `wiki agent-respond` | Respond to an Agent LLM prompt |
 
 ### Deep Mode
 
@@ -148,6 +211,7 @@ project/
 └── src/llm_wiki/          ← Python package
     ├── cli.py             ← CLI entry point
     ├── config.py          ← Configuration
+    ├── llm.py             ← Unified LLM interface (agent + API)
     ├── ingest.py          ← Source ingestion
     ├── deep.py            ← Deep mode logic
     ├── fix.py             ← Quality fix logic
@@ -165,14 +229,14 @@ project/
 ```yaml
 language: as_origin  # cn (Chinese) | en (English) | as_origin (follow source)
 llm:
-  apiKey: 'your-api-key'
-  baseUrl: https://api.deepseek.com/v1
-  model: deepseek-chat
+  provider: agent  # agent (native Agent LLM) | openai | deepseek | anthropic | etc.
+  # For API providers, uncomment:
+  # model: deepseek-chat
+  # apiKey: 'your-api-key'
+  # baseUrl: https://api.deepseek.com/v1
   temperature: 0.3
-  maxTokens: 8192
+  max_tokens: 8192
 ```
-
-Supports any LiteLLM-compatible provider: OpenAI, Anthropic, DeepSeek, Gemini, Groq, etc.
 
 ## Quality Tools
 
@@ -208,7 +272,7 @@ The wiki is fully Obsidian-compatible:
 ## Requirements
 
 - Python 3.11+
-- An LLM API key (OpenAI, DeepSeek, Anthropic, etc.)
+- Either an AI coding agent (Claude Code, Trae, Cursor) or an LLM API key
 
 ## License
 

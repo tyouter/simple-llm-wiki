@@ -3,9 +3,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-import litellm
-
 from .config import WikiConfig
+from .llm import call_llm
 from .schema import PageType, WikiPage
 from .search import bm25_search
 from .utils import append_to_log, truncate_to_tokens, update_index
@@ -83,16 +82,9 @@ def query_wiki(
         question=question,
     )
 
-    response = litellm.completion(
-        model=config.llm.model,
-        messages=[{"role": "user", "content": prompt}],
-        api_key=config.llm.api_key or None,
-        api_base=config.llm.base_url,
-        temperature=config.llm.temperature,
-        max_tokens=config.llm.max_tokens,
-    )
+    response_text = call_llm(config, prompt)
 
-    answer = response.choices[0].message.content or "No answer generated."
+    answer = response_text or "No answer generated."
 
     if save:
         _save_answer(config, question, answer)
@@ -106,15 +98,7 @@ def _save_answer(config: WikiConfig, question: str, answer: str) -> None:
     novelty_prompt = NOVELTY_PROMPT.format(question=question, answer=answer[:2000])
 
     try:
-        novelty_response = litellm.completion(
-            model=config.llm.model,
-            messages=[{"role": "user", "content": novelty_prompt}],
-            api_key=config.llm.api_key or None,
-            api_base=config.llm.base_url,
-            temperature=0.1,
-            max_tokens=256,
-        )
-        novelty_text = novelty_response.choices[0].message.content or ""
+        novelty_text = call_llm(config, novelty_prompt)
         start = novelty_text.find("{")
         end = novelty_text.rfind("}") + 1
         if start != -1 and end > start:

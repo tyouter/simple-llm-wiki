@@ -1,7 +1,10 @@
 language: as_origin  # Options: cn (Chinese), en (English), as_origin (follow source)
 llm:
-  apiKey: 'your-api-key-here'
-  baseUrl: https://api.deepseek.com/v1
-  model: deepseek-chat
+  provider: agent  # Options: agent (native Agent LLM), openai, deepseek, anthropic, etc.
+  # model: agent-native  # For agent provider, model is handled by the Agent
+  # For API providers, uncomment and configure:
+  # model: deepseek-chat
+  # apiKey: 'your-api-key-here'
+  # baseUrl: https://api.deepseek.com/v1
   temperature: 0.3
   max_tokens: 8192
