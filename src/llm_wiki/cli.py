@@ -391,17 +391,18 @@ def stats():
 
 @cli.command()
 @click.option("--language", type=click.Choice(["cn", "en", "as_origin"]), help="Set output language mode")
+@click.option("--provider", help="Set LLM provider (agent, openai, deepseek, anthropic, etc.)")
 @click.option("--model", help="Set LLM model")
 @click.option("--api-key", help="Set API key")
 @click.option("--base-url", help="Set API base URL")
 @click.option("--show", is_flag=True, help="Show current configuration")
-def config(language: str | None, model: str | None, api_key: str | None, base_url: str | None, show: bool):
+def config(language: str | None, provider: str | None, model: str | None, api_key: str | None, base_url: str | None, show: bool):
     """View or modify wiki configuration."""
     from .config import save_config
 
     wiki_config = _load()
 
-    if show or not any([language, model, api_key, base_url]):
+    if show or not any([language, provider, model, api_key, base_url]):
         # Show current config
         table = Table(title="Current Configuration")
         table.add_column("Setting", style="bold")
@@ -416,7 +417,7 @@ def config(language: str | None, model: str | None, api_key: str | None, base_ur
         table.add_row("Config File", str(wiki_config.config_path))
 
         console.print(table)
-        console.print("\n[dim]Tip: Use 'wiki config --language cn' to change language mode.[/dim]")
+        console.print("\n[dim]Tip: Use 'wiki config --provider agent' to use Agent native LLM.[/dim]")
         return
 
     # Update config
@@ -424,6 +425,9 @@ def config(language: str | None, model: str | None, api_key: str | None, base_ur
     if language:
         wiki_config.language = language
         changed.append(f"language: {language}")
+    if provider:
+        wiki_config.llm.provider = provider
+        changed.append(f"provider: {provider}")
     if model:
         wiki_config.llm.model = model
         changed.append(f"model: {model}")
