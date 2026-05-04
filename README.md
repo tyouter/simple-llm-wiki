@@ -84,11 +84,41 @@ wiki ingest --all
 
 ### Agent Provider Details
 
-When `provider: agent`, there are two integration modes:
+When `provider: agent`, there are three integration modes:
 
-**1. File Protocol (CLI mode)**
+**1. stdio Callback (Recommended for Agent integration)**
 
-The CLI writes a prompt file and waits for a response file. The Agent picks up the prompt and writes back:
+Set `WIKI_LLM_CALLBACK=stdio` — prompts go to stdout as JSON, responses come from stdin as JSON. Perfect for Agent pipeline:
+
+```bash
+# Agent reads prompts from stdout, writes responses to stdin
+WIKI_LLM_CALLBACK=stdio wiki ingest --all
+```
+
+Each exchange is one JSON line:
+- **Output (prompt)**: `{"prompt": "...", "timestamp": 1234567890}`
+- **Input (response)**: `{"response": "..."}`
+
+**2. JSONL Batch Mode (For bulk processing)**
+
+Set `WIKI_LLM_CALLBACK=jsonl` — all prompts are appended to `.wiki_llm_prompts.jsonl`, Agent processes them in bulk and writes `.wiki_llm_responses.jsonl`:
+
+```bash
+# Terminal 1: Run ingest (prompts accumulate in .wiki_llm_prompts.jsonl)
+WIKI_LLM_CALLBACK=jsonl wiki ingest --all
+
+# Terminal 2: Agent processes all prompts at once, then writes responses
+# Or use the batch respond command:
+wiki agent-respond --batch responses.jsonl
+```
+
+JSONL format (one JSON object per line, matched by `id`):
+- **Prompts**: `{"id": "abc123", "prompt": "...", "model": "...", "timestamp": ...}`
+- **Responses**: `{"id": "abc123", "response": "..."}`
+
+**3. File Protocol (For manual/debug)**
+
+The CLI writes a single prompt file and waits for a response file:
 
 ```bash
 # Terminal 1: Run a wiki command (waits for response)
@@ -98,9 +128,11 @@ wiki ingest --all
 wiki agent-respond --file response.txt
 # or interactively:
 wiki agent-respond --interactive
+# or batch:
+wiki agent-respond --batch responses.jsonl
 ```
 
-**2. Python Callback (Agent script mode)**
+**4. Python Callback (Agent script mode)**
 
 When the Agent imports the package directly, it can set a callback function:
 
@@ -118,6 +150,15 @@ set_llm_callback(my_llm)
 config = load_config()
 pages = ingest_source(config, source_path)
 ```
+
+### Choosing an Agent Mode
+
+| Mode | Env Var | Best For | Speed |
+|------|---------|----------|-------|
+| **stdio** | `WIKI_LLM_CALLBACK=stdio` | Agent pipeline, automated | ⚡ Fastest |
+| **JSONL batch** | `WIKI_LLM_CALLBACK=jsonl` | Bulk processing 10+ sources | ⚡ Fast |
+| **File protocol** | *(default)* | Manual debug, single prompt | 🐢 Slow (one-by-one) |
+| **Python callback** | *(code only)* | Programmatic use | ⚡ Instant |
 
 ## Commands
 
@@ -139,6 +180,7 @@ pages = ingest_source(config, source_path)
 | `wiki config --show` | View current configuration |
 | `wiki config --language cn` | Set output language to Chinese |
 | `wiki agent-respond` | Respond to an Agent LLM prompt |
+| `wiki agent-respond --batch <file>` | Batch respond from JSONL file |
 
 ### Deep Mode
 
