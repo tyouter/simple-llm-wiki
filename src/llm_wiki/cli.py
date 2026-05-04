@@ -730,11 +730,17 @@ def deep(action: str, source: str | None, parse_all: bool, max_sources: int, wor
 @click.argument("response_text", required=False)
 @click.option("--file", "response_file", help="Read response from a file")
 @click.option("--interactive", is_flag=True, help="Interactive mode: type response in editor")
-def agent_respond(response_text: str | None, response_file: str | None, interactive: bool):
+@click.option("--batch", "batch_file", help="Batch mode: read responses from JSONL file ({id, response} per line)")
+def agent_respond(response_text: str | None, response_file: str | None, interactive: bool, batch_file: str | None):
     """Respond to an Agent LLM prompt (used by Agent to provide native LLM responses)."""
     import json
 
     config = _load()
+
+    if batch_file:
+        _agent_respond_batch(config, batch_file)
+        return
+
     prompt_path = config.root / ".wiki_llm_prompt.json"
     response_path = config.root / ".wiki_llm_response.json"
 
@@ -770,10 +776,87 @@ def agent_respond(response_text: str | None, response_file: str | None, interact
         console.print("[red]Empty response. Aborting.[/red]")
         return
 
+    prompt_id = prompt_data.get("id", "")
     response_data = {"response": text}
+    if prompt_id:
+        response_data["id"] = prompt_id
     response_path.write_text(json.dumps(response_data, ensure_ascii=False), encoding="utf-8")
     console.print(f"[green]Response written to {response_path}[/green]")
     console.print("[dim]The waiting wiki command will pick it up automatically.[/dim]")
+
+
+def _agent_respond_batch(config, batch_file: str) -> None:
+    import json
+
+    from .llm import BATCH_RESPONSES_FILE, BATCH_PROMPTS_FILE
+
+    batch_path = Path(batch_file)
+    if not batch_path.exists():
+        console.print(f"[red]Batch file not found:[/red] {batch_path}")
+        return
+
+    responses_path = config.root / BATCH_RESPONSES_FILE
+    prompts_path = config.root / BATCH_PROMPTS_FILE
+
+    if not prompts_path.exists():
+        console.print("[yellow]No pending batch prompts found.[/yellow]")
+        return
+
+    pending_ids = set()
+    with open(prompts_path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                data = json.loads(line)
+                if "id" in data:
+                    pending_ids.add(data["id"])
+            except json.JSONDecodeError:
+                pass
+
+    if not pending_ids:
+        console.print("[yellow]No pending prompt IDs found in batch.[/yellow]")
+        return
+
+    batch_responses = {}
+    with open(batch_path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                data = json.loads(line)
+                rid = data.get("id", "")
+                if rid:
+                    batch_responses[rid] = data.get("response", "")
+            except json.JSONDecodeError:
+                pass
+
+    matched = 0
+    existing_responses = []
+    if responses_path.exists():
+        with open(responses_path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    existing_responses.append(line)
+
+    for pid in pending_ids:
+        if pid in batch_responses:
+            entry = {"id": pid, "response": batch_responses[pid]}
+            existing_responses.append(json.dumps(entry, ensure_ascii=False))
+            matched += 1
+
+    if matched == 0:
+        console.print("[yellow]No matching IDs between batch responses and pending prompts.[/yellow]")
+        return
+
+    with open(responses_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(existing_responses) + "\n")
+
+    console.print(f"[green]Batch responses written: {matched} matched out of {len(pending_ids)} pending[/green]")
+    console.print(f"[dim]Responses written to {responses_path}[/dim]")
 
 
 if __name__ == "__main__":
