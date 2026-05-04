@@ -101,17 +101,17 @@ def get_source_files(config: WikiConfig) -> list[Path]:
     files = []
     source_dir = config.raw_source_dir
     if source_dir.exists():
-        # 直接在 raw/ 下查找
-        files.extend(sorted(source_dir.glob("*.md")))
-        # 查找子目录
-        for subdir in ["articles", "videos", "webpages"]:
-            d = source_dir / subdir
-            if d.exists():
-                files.extend(sorted(d.glob("*.md")))
+        # 递归查找 raw/ 下所有 md 文件
+        files.extend(sorted(source_dir.rglob("*.md")))
+    # 过滤掉 untracked/ 和 ingested/ 目录下的，避免重复
+    filtered = []
+    for f in files:
+        if not any(part in ["untracked", "ingested"] for part in f.parts):
+            filtered.append(f)
     untracked = config.raw_dir / "untracked"
     if untracked.exists():
-        files.extend(sorted(untracked.rglob("*.md")))
-    return files
+        filtered.extend(sorted(untracked.rglob("*.md")))
+    return filtered
 
 
 def load_ingest_cache(config: WikiConfig) -> dict[str, str]:
