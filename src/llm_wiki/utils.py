@@ -101,6 +101,9 @@ def get_source_files(config: WikiConfig) -> list[Path]:
     files = []
     source_dir = config.raw_source_dir
     if source_dir.exists():
+        # 直接在 raw/ 下查找
+        files.extend(sorted(source_dir.glob("*.md")))
+        # 查找子目录
         for subdir in ["articles", "videos", "webpages"]:
             d = source_dir / subdir
             if d.exists():
